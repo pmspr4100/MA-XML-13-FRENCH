@@ -3571,12 +3571,12 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gxzw_quick_open_slow_summary">"Appuyez et maintenez l'icône d'empreinte digitale pour ouvrir le menu de raccourcis. Faites glisser pour utiliser un raccourci."</string>
     <string name="gxzw_quick_open_slow_title">Appuyez et maintenez</string>
     <string name="gxzw_quick_open_title">Raccourcis</string>
-    <string name="handy_mode">Mode Une main</string>
-    <string name="handy_mode_enable">Mode Une main</string>
+    <string name="handy_mode">Mode une main</string>
+    <string name="handy_mode_enable">Mode une main</string>
     <string name="handy_mode_no_touch_assistant">"Le mode à une main ne fonctionnera que si vous utilisez des boutons pour la navigation dans le système. Vous pouvez basculer entre les gestes et les boutons dans la section \"Navigation système\" des paramètres."</string>
     <string name="handy_mode_size">"Taille de l'écran"</string>
     <string name="handy_mode_tips">"Glissez vers la gauche ou la droite depuis le bouton Accueil pour réduire la taille de l'écran."</string>
-    <string name="handy_mode_tips_full_screen">Lorsque vous utilisez des gestes en plein écran, vous pouvez activer le mode Une main en utilisant la balle rapide. Vous pouvez également utiliser les boutons plutôt que les gestes en plein écran.</string>
+    <string name="handy_mode_tips_full_screen">Lorsque vous utilisez des gestes en plein écran, vous pouvez activer le mode une main en utilisant la balle rapide. Vous pouvez également utiliser les boutons plutôt que les gestes en plein écran.</string>
     <string name="haptic_agent_completion_01_content_description">Tâche terminée</string>
     <string name="haptic_cursor_movement_07_content_description">Ajustement de la luminosité</string>
     <string name="haptic_experience">Démo</string>

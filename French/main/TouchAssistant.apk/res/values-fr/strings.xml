@@ -61,7 +61,7 @@
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="function_settings">Paramètres du raccourci</string>
-    <string name="handy_mode_default_to_close_whether_open">Le mode Une main est désactivé par défaut. Activer le mode Une main ?</string>
+    <string name="handy_mode_default_to_close_whether_open">Le mode une main est désactivé par défaut. Activer le mode une main ?</string>
     <string name="hide_touch_assistant">Masquer automatiquement</string>
     <string name="hide_touch_assistant_intro">"Masquer l'Assistant tactile dans les applications sélectionnées."</string>
     <string name="hide_when_fullscreen">Masquer en plein écran</string>
@@ -156,7 +156,7 @@
     <string name="name_alipay_payment_code">Paiement alipay</string>
     <string name="name_alipay_scan">"Scanner d'Alipay"</string>
     <string name="name_all_mipay_cards">Mi Pay</string>
-    <string name="name_handy_mode">Mode Une main</string>
+    <string name="name_handy_mode">Mode une main</string>
     <string name="name_long_press_power_key">"Appui prolongé sur le bouton d'alimentation"</string>
     <string name="name_memory_clean">Vider le cache</string>
     <string name="name_mi_wallet">Mi Wallet</string>

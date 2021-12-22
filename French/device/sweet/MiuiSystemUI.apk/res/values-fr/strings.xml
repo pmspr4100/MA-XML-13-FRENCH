@@ -955,7 +955,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="face_unlock_success_stay_screen_msg">"Restez sur l'écran de verrouillage une fois votre visage vérifié. Balayez vers le haut pour ouvrir l'écran d'accueil."</string>
     <string name="face_unlock_success_stay_screen_title">"Reste sur l'écran de verrouillage après le déverrouillage"</string>
     <string name="failed_to_open_app_settings_toast">"Échec de l'ouverture des paramètres pour %1$s"</string>
-    <string name="finger_error_single_mode">"Impossible d'utiliser le lecteur d'empreintes digitales en mode Une main. Quittez le mode Une main et réessayez."</string>
+    <string name="finger_error_single_mode">"Impossible d'utiliser le lecteur d'empreintes digitales en mode une main. Quittez le mode une main et réessayez."</string>
     <string name="fingerprint_add_text">"L'interface d'empreinte digitale a été mise à jour. Ajoutez de nouveau votre empreinte digitale."</string>
     <string name="fingerprint_add_title">Ajouter une empreinte digitale</string>
     <string name="fingerprint_again_identified_msg">"Votre empreinte digitale est maintenant active. Utilisez-la pour déverrouiller l'appareil ou entrez votre mot de passe."</string>
