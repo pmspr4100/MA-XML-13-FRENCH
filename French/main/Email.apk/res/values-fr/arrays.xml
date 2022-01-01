@@ -55,10 +55,22 @@
         <item>ancien</item>
         <item>liste</item>
     </string-array>
-    <string-array name="sign_in_dialog_item">
-        <item>Outlook pour les entreprises (sans calendrier)</item>
-        <item>IMAP (sans calendrier)</item>
-        <item>EXCHANGE (sans calendrier)</item>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Site:</item>
+        <item>Email:</item>
+        <item>Mobile:</item>
+        <item>Téléphone:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Adresse :</item>
@@ -70,18 +82,6 @@
         <item>Fax :</item>
         <item>Code postal :</item>
     </string-array>
-    <string-array name="signature_special_string_array_next">
-        <item>Merci,</item>
-        <item>Sincères salutations</item>
-        <item>Envoyé de mon</item>
-        <item>Email original</item>
-        <item>Envoyé de mon</item>
-        <item>Envoyé par</item>
-        <item>De</item>
-        <item>Cet Email</item>
-        <item>Avertissement</item>
-        <item>Avertissement par Email</item>
-    </string-array>
     <string-array name="signature_special_string_array">
         <item>Avertissement :</item>
         <item>Avis de non responsabilité</item>
@@ -90,5 +90,17 @@
         <item>Envoyé avec</item>
         <item>Merci,</item>
         <item>Sincères salutations</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Merci,</item>
+        <item>Sincères salutations</item>
+        <item>Envoyé de mon</item>
+        <item>E-mail original</item>
+        <item>Envoyé de mon</item>
+        <item>Envoyé par</item>
+        <item>De</item>
+        <item>Cet e-mail</item>
+        <item>Avertissement</item>
+        <item>Avertissement par e-mail</item>
     </string-array>
 </resources>

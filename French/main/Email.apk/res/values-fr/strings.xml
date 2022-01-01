@@ -217,6 +217,7 @@ Mettre à jour maintenant ?"</string>
     <string name="allread">Tout lire</string>
     <string name="always_bcc_myself">Toujours me mettre en Cci</string>
     <string name="am">AM</string>
+    <string name="app_loading">Chargement…</string>
     <string name="always_show_images">Toujours afficher les images de cet expéditeur</string>
     <string name="app_name">E-mail</string>
     <string name="app_uninstall_content">"E-mail est une application système. Vous ne pourrez plus gérer vos comptes de messagerie, envoyer et recevoir des e-mails ou synchroniser des événements après avoir désinstallé l'application."</string>
@@ -308,10 +309,6 @@ Mettre à jour maintenant ?"</string>
     <string name="cancel_action">Annuler</string>
     <string name="cancel_pop3_attchemt_downloading">"Impossible d'annuler les téléchargements en cours pour les pièces jointes dans les comptes POP3"</string>
     <string name="cant_move_or_change_labels">Impossible de déplacer des messages depuis plusieurs comptes.</string>
-    <string name="cc">Cc</string>
-    <string name="cc_attribution">Cc: %1$s&lt;br></string>
-    <string name="cc_bcc">Cc/Bcc</string>
-    <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">"Impossible d'ajouter le certificat \"%s\""</string>
     <string name="certificate_added">Certificat \"%s\" ajouté avec succès</string>
     <string name="certificate_alias_prompt_certificate_name">Nom</string>
@@ -325,6 +322,7 @@ Mettre à jour maintenant ?"</string>
     <string name="change_folders_selection_dialog_title">Changement de dossier</string>
     <string name="change_sync_settings">Modifier les paramètres de synchronisation</string>
     <string name="changepw_dialog_auth_tips">Entrez à nouveau le code pour %s</string>
+    <string name="changepw_dialog_tips">Ressaisissez le mot de passe pour %s</string>
     <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -450,7 +448,7 @@ Mettre à jour maintenant ?"</string>
     <string name="default_signature">Envoyé depuis mon Téléphone Mi</string>
     <string name="default_signature_2">Envoyé depuis mon %s</string>
     <string name="default_signature_pad">Envoyé depuis mon Mi Pad</string>
-    <string name="del_account_questionnair_hint">Pourriez-vous nous dire pourquoi vous voulez supprimer ce compte ?</string>
+    <string name="default_signature_phone">Envoyé depuis mon téléphone Mi</string>
     <string name="delete">Supprimer</string>
     <string name="delete_contact_content">Supprimer ce contact maintenant ?</string>
     <string name="delete_message_event">Supprimer cette invitation ?</string>
@@ -525,7 +523,19 @@ Mettre à jour maintenant ?"</string>
     <string name="eras_bc">Av. J.-C.</string>
     <string name="error">Erreur</string>
     <string name="error_icon_content_description">Erreur</string>
-    <string name="evening">APrès-midi</string>
+    <string name="error_message_account_or_password">"L'ID de compte ou le mot de passe est incorrect."</string>
+    <string name="error_message_auth_error">Utilisez un code de vérification pour vous connecter.</string>
+    <string name="error_message_blacklist">Votre compte a été ajouté à la liste de blocage. Contactez votre fournisseur de services de messagerie pour résoudre ce problème.</string>
+    <string name="error_message_imap_or_pop3_service_not_open">Activez IMAP ou POP3 et réessayez.</string>
+    <string name="error_message_imap_service_not_open">Activez IMAP et réessayez.</string>
+    <string name="error_message_outlook_error">"Vérifiez d'abord votre identité sur la version Web d'Outlook."</string>
+    <string name="error_message_respond_revert_03">"Ce nom de domaine n'existe pas. Vérifiez l'URL et réessayez."</string>
+    <string name="error_message_respond_revert_06">Le mot de passe que vous avez entré est incorrect.</string>
+    <string name="error_message_respond_revert_07">Impossible de vérifier votre identité. Utilisez un code de vérification pour vous connecter.</string>
+    <string name="error_message_respond_revert_16">Votre mot de passe a expiré. Mettez à jour votre mot de passe et connectez-vous à nouveau.</string>
+    <string name="error_message_respond_revert_21">Activez POP3 et réessayez.</string>
+    <string name="error_message_respond_revert_25">Vérifiez votre connexion réseau et réessayez.</string>
+    <string name="evening">Après-midi</string>
     <string name="exception_cancel">"
 Cet événement a été annulé
 pour le:
@@ -587,6 +597,7 @@ pour le:
     <string name="folder_list_current_account">Compte actuel</string>
     <string name="folder_list_display_all">Afficher tous les dossiers</string>
     <string name="folder_list_display_only_import">Afficher seulement les dossiers importants</string>
+    <string name="folder_list_switch_account">Changer</string>
     <string name="folder_no_mails">"Pas d'e-mails dans ce dossier."</string>
     <string name="folder_notification_setting_tip">Vous avez plusieurs dossiers dans votre boîte de réception. Définissez des notifications sur les nouveaux messages dans des dossiers spécifiques.</string>
     <string name="folder_picker_title">Choisissez des dossiers</string>
@@ -683,7 +694,9 @@ pour le:
     <string name="info_item_hide">Supprimer</string>
     <string name="inline_as_attachment">Envoyer en pièce jointe</string>
     <string name="inline_picture_deleted">"Téléchargement de l'image manquante…"</string>
-    <string name="input_password_prompt">Entrer votre mot de passe</string>
+    <string name="inline_too_large">"L'image est trop grande"</string>
+    <string name="inline_too_large_des">Les images en ligne ne peuvent pas dépasser 3 Mo. Envoyez des images plus grandes en pièces jointes ou compressez-les.</string>
+    <string name="input_password_prompt">Entrez votre mot de passe</string>
     <string name="install_mime_encrypt_cert">Installer le certificat de chiffrement S/MIME</string>
     <string name="install_mime_sign_cert">Installer le certificat de signature S/MIME</string>
     <string name="installation_cancelled">Installation annulée.</string>
@@ -729,7 +742,7 @@ pour le:
     <string name="login_des_yangdex">Connectez-vous à Yandex Mail</string>
     <string name="login_err_message">Utilisez des codes autorisés pour vous authentifier sur %1$s si vous avez choisi cette option précédemment. Allez sur https://email.163.com/ pour réinitialiser votre mot de passe ou votre code.</string>
     <string name="login_err_outlook_msg">"%s
-Bonjour, veuillez vérifier que le mot de passe de l'application est activé. S'il est activé, veuillez vous rendre sur le site web officiel de Microsoft pour réinitialiser le mot de passe de l'application"</string>
+Ce problème peut être causé par l'authentification à deux facteurs du compte. Essayez d'entrer votre mot de passe ou désactivez l'authentification à deux facteurs."</string>
     <string name="login_err_sina_message">Utilisez des codes autorisés pour vous authentifier sur %1$s si vous avez choisi cette option précédemment. Allez sur https://mail.sina.com.cn/ pour réinitialiser votre mot de passe ou votre code.</string>
     <string name="login_failed">Impossible de se connecter</string>
     <string name="login_failed_ticker">Impossible de se connecter à %s.</string>
@@ -745,11 +758,6 @@ Bonjour, veuillez vérifier que le mot de passe de l'application est activé. S'
     <string name="mail_description_content">"E-mail est un client de messagerie capable de gérer plusieurs comptes, envoyer et recevoir des e-mail, ainsi que synchroniser les informations de l'agenda et des contacts. Assurez-vous que pouvez vous passer de ces fonctionnalités avamt de désinstaller l'application. Vos contacts Exchange et vos informations d'agenda seront également supprimés."</string>
     <string name="mail_description_title">À propos de E-mail</string>
     <string name="mail_header_network_not_available">Vous ne disposez pas de connexion réseau.</string>
-    <string name="mail_login_help">"Comment s'authentifier"</string>
-    <string name="mail_login_help_bottom_tip">"Si vous avez oublié votre mot de passe ou devez vérifier le statut de votre compte, utilisez la version web de NetEase Mail. Vous pouvez aussi obtenir de l'aide sur WeChat: "</string>
-    <string name="mail_login_help_details1">"1. Le mot de passe d'e-mail peut être utilisé lorsqu'aucun code d'autorisation n'a été réglé dans le client de messagerie et que des services POP3/IMAP/SMTP ont été activés."</string>
-    <string name="mail_login_help_details2">"2. Les codes d'autorisation tiers peuvent être utilisés pour s'authentifier dans des clients de messagerie tiers lorsque des services POP3/IMAP/SMTP sont activés."</string>
-    <string name="mail_login_help_title">Mot de passe e-mail/Client de messagerie tiers:</string>
     <string name="mail_outlook_login_tips">"Utilisez une connexion Oauth plus sécurisée
 (Les utilisateurs d'Outlook Personnel ne peuvent pas synchroniser leurs calendriers lors de la connexion avec OAuth)"</string>
     <string name="mail_outlook_oauth_login">"S'authentifier avec OAuth"</string>
@@ -768,7 +776,7 @@ Bonjour, veuillez vérifier que le mot de passe de l'application est activé. S'
     <string name="mailbox_name_server_all_unread">Non lus</string>
     <string name="mailbox_name_server_drafts">Brouillons</string>
     <string name="mailbox_name_server_inbox">Boîte de réception</string>
-    <string name="mailbox_name_server_junk">Junk</string>
+    <string name="mailbox_name_server_junk">Corbeille</string>
     <string name="mailbox_name_server_outbox">"Boîte d'envoi"</string>
     <string name="mailbox_name_server_sent">Envoyé</string>
     <string name="mailbox_name_server_starred">Favoris</string>
@@ -791,48 +799,48 @@ Bonjour, veuillez vérifier que le mot de passe de l'application est activé. S'
     <string name="me_object_pronun">moi</string>
     <string name="me_subject_pronun">moi</string>
     <string name="meeting_accepted">"
-Accepté:
-%s
+        Accepté:
+        %s
 "</string>
     <string name="meeting_allday">"
-Quand:
-%s
-(toute la journée)
+        Quand:
+        %s
+        (toute la journée)
 "</string>
     <string name="meeting_allday_recurring">"
-Quand:
-%s
-(toute la journée, récurrent)
+        Quand:
+        %s
+        (toute la journée, récurrent)
 "</string>
     <string name="meeting_canceled">"
-Annulé:
-%s
+        Annulé:
+        %s
 "</string>
     <string name="meeting_declined">"
-Refusé:
+        Refusé:
 %s
 "</string>
     <string name="meeting_recurring">"
-Quand:
-%s
-(récurrent)
+        Quand:
+        %s
+        (récurrent)
 "</string>
     <string name="meeting_responded_failed">Pas de réponse</string>
     <string name="meeting_tentative">"
-Tentative:
-%s
+        Tentative:
+        %s
 "</string>
     <string name="meeting_updated">"
-Mis à jour:
-%s
+        Mis à jour:
+        %s
 "</string>
     <string name="meeting_when">"
-Quand:
-%s
+        Quand:
+        %s
 "</string>
     <string name="meeting_where">"
-Où:
-%s
+        Où:
+        %s
 "</string>
     <string name="megabytes">%s Mo</string>
     <string name="menu_att_mgr">Pièces jointes</string>
@@ -877,6 +885,8 @@ Où:
     <string name="mibill_privacy_policy_title">Gérer les factures automatiquement</string>
     <string name="midnight">Nuit</string>
     <string name="min_payment_text">Paiement minimal</string>
+    <string name="miuix_access_state_desc">Sélectionné</string>
+    <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
@@ -891,6 +901,8 @@ Où:
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+    <string name="miuix_indexer_collect">Collections</string>
+    <string name="miuix_indexer_selected">%s sélectionné</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -968,6 +980,7 @@ Où:
     <string name="mtrl_picker_range_header_title">Sélectionner un intervalle de dates</string>
     <string name="mtrl_picker_range_header_unselected">Date de début - Date de fin</string>
     <string name="mtrl_picker_save">Enregistrer</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
     <string name="mtrl_picker_text_input_day_abbr">j</string>
@@ -1211,26 +1224,13 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="qq_changepw_dialog_tips">Obtenez un nouveau code de %s pour vous connecter.</string>
     <string name="qq_group_info_summary">Groupe QQ : %s. Appuyez pour copier.</string>
     <string name="qq_group_info_title">Groupe QQ pour commentaires</string>
-    <string name="qq_login_help_bottom_tip">"Si vous avez oublié votre mot de passe ou devez vérifier le statut de votre compte, utilisez la version web de QQ Mail. Vous pouvez aussi obtenir de l'aide sur WeChat: "</string>
-    <string name="qq_login_help_details1">"1. Le mot de passe QQ peut être utilisé lorsqu'aucun code d'autorisation n'a été réglé dans le client de messagerie et que des services POP3/IMAP/SMTP ont été activés.."</string>
-    <string name="qq_login_help_details2">"2. Un mot de passe indépendant peut être utilisé lorsqu'aucun code d'autorisation n'a été configuré avec les protocoles IMAP / Exchange."</string>
-    <string name="qq_login_help_details3">"3. Les codes d'autorisation générés pour les clients de messagerie tiers peuvent également être utilisés pour la connexion. Si vous avez oublié votre code, reportez-vous à ce lien:"</string>
-    <string name="qq_login_help_title">"QQ/Mot de passe indépendant/Code d'autorisation:"</string>
     <string name="qq_login_notice">"Remarque : Si vous avez déjà configuré un mot de passe, vous devez le vérifier lorsque vous vous connectez."</string>
     <string name="qq_login_sent_setting">Synchroniser les messages envoyés</string>
     <string name="qq_pwd_or_qq_auth_code">Entrez le code</string>
     <string name="qq_sent_no_message">"Vous ne trouvez pas vos e-mails envoyés? Appuyez ici pour apprendre comment faire."</string>
     <string name="qq_sent_no_message_setting">Synchroniser les messages envoyés depuis QQ Mail</string>
     <string name="qq_uthentication_failed">Impossible de vérifier le compte, connectez-vous à nouveau</string>
-    <string name="questionnair_body_invisibility">Les messages ne sont pas affichés</string>
     <string name="questionnair_confirm_delete">Supprimer le compte ?</string>
-    <string name="questionnair_instability">Se plante régulièrement</string>
-    <string name="questionnair_not_send">"Impossible d'envoyer l'e-mail"</string>
-    <string name="questionnair_not_sync">Synchronisation instable</string>
-    <string name="questionnair_other_reasons">Autre</string>
-    <string name="questionnair_title">Supprimer un compte ?</string>
-    <string name="questionnair_ui_not_pretty">"Vous n'aimez pas le design de l'application"</string>
-    <string name="questionnair_waste_resource">Espace de stockage insuffisant</string>
     <string name="quick_1">Merci !</string>
     <string name="quick_2">Cela me semble bien !</string>
     <string name="quick_3">Je vais le lire plus tard et revenir vers vous.</string>
@@ -1273,6 +1273,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
     <string name="request_entity_large">Fichier trop gros !</string>
     <string name="request_permission_activity">Autorisations requises</string>
     <string name="respond_inline">Répondre en ligne</string>
+    <string name="retry">Réessayer</string>
     <string name="retry_login">Se connecter à nouveau</string>
     <string name="saturday">Samedi</string>
     <string name="saturday_short">Sam</string>

@@ -120,6 +120,22 @@
         <item quantity="other">Masquer %1$d pièces jointes</item>
         <item quantity="one">Masquer %1$d pièce jointe</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Dans 1 demi-heure</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">dans %d min</item>
+        <item quantity="one">dans 1 min</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">"À l'instant"</item>
+    </plurals>
     <plurals name="local_search_result">
         <item quantity="other">%s résultats dans les messages synchronisés</item>
         <item quantity="one">%s résultat dans les messages synchronisés</item>
@@ -143,6 +159,10 @@
     <plurals name="new_messages">
         <item quantity="other">%1$d nouveaux messages</item>
         <item quantity="one">%1$d nouveau message</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Il y a %d minutes</item>
+        <item quantity="one">Il y a 1 minute</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d sélectionnés</item>
@@ -187,10 +207,6 @@
     <plurals name="number_of_week_before">
         <item quantity="other">%1$d semaines plus tôt</item>
         <item quantity="one">%1$d semaine plus tôt</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">Répondre à %1$d personnes</item>
-        <item quantity="one">Réponse à %1$d personne</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s résultats de tous les comptes</item>

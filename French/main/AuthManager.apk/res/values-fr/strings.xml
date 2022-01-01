@@ -80,8 +80,6 @@
     <string name="HIPS_Perm_background_start_activity_Desc">"Affiche les fenêtres contextuelles lors de l'exécution en arrière-plan"</string>
     <string name="HIPS_Perm_clipboard">Presse-papiers</string>
     <string name="HIPS_Perm_clipboard_Desc">"Autoriser l'application à accéder et à ajouter des éléments du presse-papiers"</string>
-    <string name="HIPS_Perm_dcimControl">"Consulter l'album"</string>
-    <string name="HIPS_Perm_dcimControl_Desc">"Autoriser les applications à accéder à l'album"</string>
     <string name="HIPS_Perm_deamon_notification">Notification permanente</string>
     <string name="HIPS_Perm_deamon_notification_Desc">Affiche les notifications permanentes</string>
     <string name="HIPS_Perm_get_accounts">"Accéder à des comptes sur l'appareil"</string>
@@ -145,6 +143,7 @@
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="actionbar_button_up_description">Retour</string>
     <string name="afternoon">Après-midi</string>
+    <string name="am">AM</string>
     <string name="animator_property_name_alpha">alpha</string>
     <string name="animator_property_name_translationX">translationX</string>
     <string name="animator_property_name_translationY">translationY</string>
