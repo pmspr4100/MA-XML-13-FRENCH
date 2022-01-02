@@ -326,7 +326,6 @@ Mettre à jour maintenant ?"</string>
     <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
-    <string name="changepw_dialog_tips">Entrez à nouveau le mot de passe de %s</string>
     <string name="chat_item_msg_people_unit">personnes</string>
     <string name="chat_item_msg_user_etc">etc.</string>
     <string name="check_setup_data">"    Validation des paramètres du serveur…"</string>

@@ -550,8 +550,6 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="creating_baby_album">"Création de l'album…"</string>
     <string name="creativity_summary">"Afficher des fonctionnalités supplémentaires de créativité et d'édition"</string>
     <string name="creativity_title">Créativité</string>
-    <string name="create_quick_icon_on_desk">Créer un raccourcis</string>
-    <string name="creating_baby_album">"Création de l'album…"</string>
     <string name="crop_label">Photos rognées</string>
     <string name="cta_agreement_declare"><Data>"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et notre &lt;a href =\"%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser cette application."</Data></string>
     <string name="cta_network_declare">Pour synchroniser des photos et des vidéos avec Xiaomi Cloud, cette application doit se connecter à Internet.</string>
