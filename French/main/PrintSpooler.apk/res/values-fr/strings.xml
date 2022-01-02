@@ -26,7 +26,7 @@
   <string name="activity_jump_market_alert_update_message">"Update WPS Office to convert this file and prepare it for printing. You'll need to start printing again after the new version is installed. Update now?"</string>
   <string name="activity_jump_market_alert_update_positive_button">Update</string>
   <string name="add_print_service_label">Ajouter un service</string>
-  <string name="afternoon">Afternoon</string>
+  <string name="afternoon">Après-midi</string>
   <string name="all_printers">Toutes les imprimantes</string>
   <string name="all_printers_label">Toutes les imprimantes</string>
   <string name="all_services_title">Tous les services</string>

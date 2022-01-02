@@ -21,14 +21,14 @@
   <string name="actionbar_button_up_description">Back</string>
   <string name="activity_title_fakecell">Protection contre les fausses antennes-relais</string>
   <string name="add_Ovrride_Config">Ajouter des données</string>
-  <string name="afternoon">Afternoon</string>
+  <string name="afternoon">Après-midi</string>
   <string name="am">AM</string>
   <string name="app_name">StepsProvider</string>
   <string name="booster_config_version">"Version actuelle : "</string>
   <string name="cc_version">"Version actuelle : "</string>
-  <string name="close">Close</string>
+  <string name="close">Fermer</string>
   <string name="connect_wifi">Non connecté au Wi-Fi</string>
-  <string name="copy">Copy</string>
+  <string name="copy">Copier</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="delDialog">Avertissement : opération de suppression</string>

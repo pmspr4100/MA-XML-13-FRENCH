@@ -147,7 +147,7 @@
   <string name="content_desc_city_manage_del">Supprimer</string>
   <string name="content_desc_city_manage_edit">Éditer</string>
   <string name="content_desc_close_button">Fermer</string>
-  <string name="copy">Copie</string>
+  <string name="copy">Copier</string>
   <string name="daily_forcast_no_stable_direction">Brise</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s plus tard.</string>
   <string name="daily_forcast_whirl_wind">Tourbillon</string>

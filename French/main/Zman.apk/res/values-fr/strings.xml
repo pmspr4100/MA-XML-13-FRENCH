@@ -27,7 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
-  <string name="copy">Copie</string>
+  <string name="copy">Copier</string>
   <string name="expand_button_title">Avancé</string>
   <string name="first_settings_default_camera_title">Partager sans métadonnées par défaut</string>
   <string name="first_settings_default_location_subtitle">Supprimer les informations de localisation des photos partagées</string>

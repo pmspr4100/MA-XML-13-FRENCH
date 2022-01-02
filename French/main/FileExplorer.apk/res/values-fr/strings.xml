@@ -130,7 +130,7 @@
     <string name="confirm_know">OK</string>
     <string name="connection_error">Impossible de se connecter</string>
     <string name="connection_lost">Déconnecté</string>
-    <string name="copy">Copie</string>
+    <string name="copy">Copier</string>
     <string name="copy_failed">Impossible de copier</string>
     <string name="copy_to">Copier vers…</string>
     <string name="create_folder">Créer</string>

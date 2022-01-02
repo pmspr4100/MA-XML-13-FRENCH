@@ -273,7 +273,7 @@ Bluetooth"</string>
     <string name="clear_adb_keys">Annuler autorisations pour débog. USB</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="clearable_edittext_clear_description">Clear</string>
-    <string name="close">Désactiver</string>
+    <string name="close">Fermer</string>
     <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : Les fonctionnalités de protection de l'appareil sont désactivées tant que ce paramètre est activé."</string>
     <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
     <string name="connected_to_metered_access_point">Connected to metered network</string>
@@ -290,7 +290,7 @@ Appuyez sur \"Effacer et convertir\" pour continuer."</string>
     <string name="convert_to_file_encryption">Convertir en chiffrement basé sur un fichier</string>
     <string name="convert_to_file_encryption_done">Déjà chiffré via un fichier</string>
     <string name="convert_to_file_encryption_enabled">Convertir…</string>
-    <string name="copy">Copy</string>
+    <string name="copy">Copier</string>
     <string name="daltonizer_mode_deuteranomaly">Deutéranomalie (rouge/vert)</string>
     <string name="daltonizer_mode_disabled">Désactivé</string>
     <string name="daltonizer_mode_monochromacy">Monochromatisme</string>
@@ -357,8 +357,8 @@ Appuyez sur \"Effacer et convertir\" pour continuer."</string>
     <string name="enable_verbose_vendor_logging_summary">Include additional device-specific vendor logs in bug reports, which may contain private information, use more battery, and/or use more storage.</string>
     <string name="enabled_by_admin">"Activé par l'administrateur"</string>
     <string name="enhanced_connectivity_summary">Enables the Enhanced Connectivity feature.</string>
-    <string name="eras_ad">CE</string>
-    <string name="eras_bc">BCE</string>
+    <string name="eras_ad">Apr. J.-C.</string>
+    <string name="eras_bc">Av. J.-C.</string>
     <string name="error_icon_content_description">Error</string>
     <string name="evening">Afternoon</string>
     <string name="expand_button_title">Options avancées</string>

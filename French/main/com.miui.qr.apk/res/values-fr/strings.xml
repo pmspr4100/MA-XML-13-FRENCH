@@ -28,7 +28,7 @@
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="app_name">QR_Cit</string>
-  <string name="close">Quitter</string>
+  <string name="close">Fermer</string>
   <string name="close_hit_again">Appuyez à nouveau pour fermer cet écran</string>
   <string name="important_ration_info">Information importante</string>
   <string name="no_important_ration_info">Information de débogage</string>

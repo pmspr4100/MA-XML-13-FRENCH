@@ -199,7 +199,7 @@
     <string name="converting_to_picture_message">Conversion en MMS…</string>
     <string name="converting_to_text_message">Conversion en SMS…</string>
     <string name="converting_vcard_failed">Impossible de convertir le contact</string>
-    <string name="copy">Copie</string>
+    <string name="copy">Copier</string>
     <string name="copy_message_text">Copier</string>
     <string name="copy_message_text_success">Copie réussie</string>
     <string name="copy_to_sdcard">Enregistrer la pièce jointe</string>

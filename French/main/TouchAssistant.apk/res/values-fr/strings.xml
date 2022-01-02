@@ -36,7 +36,7 @@
     <string name="category_others">Autre</string>
     <string name="category_setting">Paramètres</string>
     <string name="close_panel">"Désactivez l'assistant tactile"</string>
-    <string name="copy">Copie</string>
+    <string name="copy">Copier</string>
     <string name="customize_entries">Sélectionner des raccourcis</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>

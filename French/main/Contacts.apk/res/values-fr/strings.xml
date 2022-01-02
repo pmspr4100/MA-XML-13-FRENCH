@@ -564,7 +564,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="contacts_unavailable_import_from_old_device">Importer depuis un ancien appareil</string>
     <string name="contacts_unavailable_import_sim_contacts">Importer des contacts SIM</string>
     <string name="convenient_service">services</string>
-    <string name="copy">Copie</string>
+    <string name="copy">Copier</string>
     <string name="copy_number">Copier</string>
     <string name="copy_text">Copier dans le presse-papiers</string>
     <string name="createContactShortcutSuccessful">Widget contact ajouté au bureau</string>

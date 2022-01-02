@@ -158,7 +158,7 @@ Note : Les données des applications que vous avez installées ne seront pas sa
   <string name="confirm_restore_app_data_summary">"La restauration des données WeChat écrasera la version actuelle des données d'application sur cet appareil. Restaurez quand même ?"</string>
   <string name="confirm_restore_summary">"L'écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement."</string>
   <string name="confirm_restore_title">Restaurer</string>
-  <string name="copy">Copie</string>
+  <string name="copy">Copier</string>
   <string name="customization">Personnaliser</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>

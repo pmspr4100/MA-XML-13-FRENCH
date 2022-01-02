@@ -86,7 +86,7 @@ dd/MM"</string>
   <string name="component_notification">Notifications</string>
   <string name="component_step">Nombre de pas</string>
   <string name="continue_to_use">Continuer</string>
-  <string name="copy">Copie</string>
+  <string name="copy">Copier</string>
   <string name="custom_image">Image personnalisée</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>

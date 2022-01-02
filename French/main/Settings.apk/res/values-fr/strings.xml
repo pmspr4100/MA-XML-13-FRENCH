@@ -2094,7 +2094,7 @@ Appuyer sur \"Nettoyer et convertir…\" pour continuer."</string>
     <string name="convert_to_file_encryption_done">Les fichiers sont chiffrés</string>
     <string name="convert_to_file_encryption_enabled">Conversion…</string>
     <string name="cool_color">Froid</string>
-    <string name="copy">Copie</string>
+    <string name="copy">Copier</string>
     <string name="copyable_slice_toast">%1$s copié dans le presse-papiers.</string>
     <string name="copyright">"Droits d'auteur"</string>
     <string name="copyright_title">"Droits d'auteur"</string>

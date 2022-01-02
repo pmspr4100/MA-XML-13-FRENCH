@@ -34,7 +34,7 @@
   <string name="btn_text_next">Suivant</string>
   <string name="compose_message_hint">Saisissez les réponses rapides ici</string>
   <string name="compose_message_send">Envoyer</string>
-  <string name="copy">Copie</string>
+  <string name="copy">Copier</string>
   <string name="copy_message_text">Copie</string>
   <string name="create_shortcut_tips">"Autorisez d'abord la création de raccourcis d'écran d'accueil dans les paramètres."</string>
   <string name="create_shortcut_tips2">"Autorisez d'abord la création de raccourcis vers l'écran d'accueil."</string>

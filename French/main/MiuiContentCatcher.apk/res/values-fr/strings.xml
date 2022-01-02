@@ -42,8 +42,8 @@
     <string name="cancel">Annuler</string>
     <string name="change_passwork_dialog_content">"Vous avez déjà enregistré un mot de passe pour ce compte. Mettre à jour le mot de passe maintenant ?"</string>
     <string name="change_passwork_dialog_title">Mettre à jour le mot de passe ?</string>
-    <string name="close">Close</string>
-    <string name="copy">Copy</string>
+    <string name="close">Fermer</string>
+    <string name="copy">Copier</string>
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="delete">Supprimer</string>

@@ -237,7 +237,7 @@ Appuyez sur \"Effacer et convertir…\" pour continuer."</string>
     <string name="convert_to_file_encryption">Convertir en chiffrant les fichiers</string>
     <string name="convert_to_file_encryption_done">Fichiers déjà chiffrés</string>
     <string name="convert_to_file_encryption_enabled">Convertir…</string>
-    <string name="copy">Copie</string>
+    <string name="copy">Copier</string>
     <string name="daltonizer_mode_deuteranomaly">Deutéranopie (rouge-vert)</string>
     <string name="daltonizer_mode_disabled">Désactivé</string>
     <string name="daltonizer_mode_monochromacy">Monochromatisme</string>

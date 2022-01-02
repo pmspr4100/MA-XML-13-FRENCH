@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="add_emergency_contact">Add an emergency contact</string>
-    <string name="afternoon">Afternoon</string>
+    <string name="afternoon">Après-midi</string>
     <string name="alarm_close">Slide up to turn off</string>
     <string name="alarm_later">Snooze</string>
     <string name="align_type">Alignment</string>
@@ -50,7 +50,7 @@ dd/MM"</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="clock_panel_icon">Clock theme</string>
-    <string name="close">Quitter</string>
+    <string name="close">Fermer</string>
     <string name="color_change_with_time_description">Change text color automatically throughout the day</string>
     <string name="color_change_with_time_title">Change colors automatically</string>
     <string name="component_battery">Batterie</string>
@@ -65,7 +65,7 @@ dd/MM"</string>
     <string name="contentDescripton_vertical_center">Vertical layout. Center aligned.</string>
     <string name="contentDescripton_vertical_left">Vertical layout. Left aligned.</string>
     <string name="contentDescripton_vertical_right">Vertical layout. Right aligned.</string>
-    <string name="copy">Copy</string>
+    <string name="copy">Copier</string>
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="early_morning">Morning</string>

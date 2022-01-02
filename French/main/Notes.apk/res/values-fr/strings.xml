@@ -89,7 +89,7 @@
   <string name="confirm_ok">Accepter</string>
   <string name="continuous_default_hint">"Copiez du texte, enregistrez des images et des captures d'écran sous forme d'extraits"</string>
   <string name="continuous_new_excerpt_title">Nouvel extrait</string>
-  <string name="copy">Copie</string>
+  <string name="copy">Copier</string>
   <string name="cta_agree_desc">Autorisez cette application à se connecter à Internet et accordez les autorisations facultatives pour pouvoir utiliser toutes ses fonctionnalités.</string>
   <string name="cta_confirm_cancel">Ne pas autoriser</string>
   <string name="cta_confirm_ok">Autoriser</string>

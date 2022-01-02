@@ -750,7 +750,7 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="commute_time_to_office_invalid">"Start time can't be later than noon."</string>
   <string name="company">Company</string>
   <string name="company_or_school">Work or school</string>
-  <string name="copy">Copy</string>
+  <string name="copy">Copier</string>
   <string name="corpus_description_apps">Installed applications</string>
   <string name="corpus_hint_apps">Rechercher des applications</string>
   <string name="corpus_label_apps">Applications</string>
@@ -865,8 +865,8 @@ Please send this code to the technician."</string>
   <string name="empty_recharge_card_tip">"On dirait que la carte SIM n'est pas installée ou que vous n'avez pas défini votre forfait de données"</string>
   <string name="empty_recharge_card_title">Aucune donnée</string>
   <string name="entrance">Raccourcis de carte</string>
-  <string name="eras_ad">CE</string>
-  <string name="eras_bc">BCE</string>
+  <string name="eras_ad">Apr. J.-C.</string>
+  <string name="eras_bc">Av. J.-C.</string>
   <string name="error_share_not_support">"Such items aren't supported in favorites."</string>
   <string name="evening">Afternoon</string>
   <string name="exercise_setting_brief">Mesurer la distance et compter les pas que vous faites quotidiennement</string>

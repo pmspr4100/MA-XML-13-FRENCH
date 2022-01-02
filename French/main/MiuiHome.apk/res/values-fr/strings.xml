@@ -11,7 +11,7 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="actionbar_button_up_description">Back</string>
-    <string name="afternoon">Afternoon</string>
+    <string name="afternoon">Après-midi</string>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -21,7 +21,7 @@
     <string name="abc_capital_off">DÉSACTIVÉ</string>
     <string name="abc_capital_on">ACTIVÉ</string>
     <string name="abc_search_hint">Recherche…</string>
-    <string name="close">Close</string>
+    <string name="close">Fermer</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
@@ -206,7 +206,7 @@
     <string name="content_description_for_shortcut_icon_checked">%1$s, vérifié</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, non vérifié</string>
     <string name="content_description_workspace_thumbnail_item">"Aperçu de l'écran, page %1$s"</string>
-    <string name="copy">Copie</string>
+    <string name="copy">Copier</string>
     <string name="current_preview">Aperçu</string>
     <string name="current_wallpaper">Actuel</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">"Pour passer des appels aux contacts d'urgence en mode Léger"</string>

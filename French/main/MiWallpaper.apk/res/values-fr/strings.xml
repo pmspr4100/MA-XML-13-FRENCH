@@ -34,7 +34,7 @@
   <string name="cancel_download">Téléchargement annulé</string>
   <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
-  <string name="copy">Copie</string>
+  <string name="copy">Copier</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="download_button">Bouton de téléchargement</string>
   <string name="download_failed">Téléchargement impossible</string>

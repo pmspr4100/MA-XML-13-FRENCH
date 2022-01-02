@@ -37,7 +37,7 @@
   <string name="check_phone_io_error">Connexion au réseau impossible</string>
   <string name="clear_old_task_failed">Suppression des anciennes tâches impossible</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
-  <string name="close">Quitter</string>
+  <string name="close">Fermer</string>
   <string name="close_cellular_summary">Votre appareil utilise maintenant des données mobiles en raison de restrictions système. Désactivez les données mobiles et reconnectez-vous au nouvel appareil.</string>
   <string name="close_cellular_title">Impossible de se connecter</string>
   <string name="close_twice_auth_btn">"Désactiver l'authentification à deux facteurs"</string>

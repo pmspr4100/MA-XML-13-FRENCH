@@ -1210,7 +1210,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="continue_set">Continuer</string>
     <string name="convenient_mode">Déverrouiller toutes vos applications à la fois</string>
     <string name="convenient_summary">Entrez le mot de passe une fois pour déverrouiller toutes les applications</string>
-    <string name="copy">Copie</string>
+    <string name="copy">Copier</string>
     <string name="correction_attention_dialog_message">"Modification des paramètres en cours. Patientez jusqu'à ce que le processus finisse pour réessayer."</string>
     <string name="cpu_usage_android_system">Système Android</string>
     <string name="cpu_usage_process_run_time_little_time">Moins de 1 minute</string>

@@ -75,7 +75,7 @@
   <string name="continue_button">Continuer</string>
   <string name="continue_provisioning_notify_text">Appuyez pour continuer la configuration de votre profil professionnel.</string>
   <string name="continue_provisioning_notify_title">Chiffrement terminé</string>
-  <string name="copy">Copie</string>
+  <string name="copy">Copier</string>
   <string name="copying_certs">Configuration des certificats CA en cours…</string>
   <string name="couldnt_set_up_device">"Impossible de configurer l'appareil. Contactez votre administrateur pour obtenir de l'aide."</string>
   <string name="default_first_meat_user_name">Utilisateur principal</string>

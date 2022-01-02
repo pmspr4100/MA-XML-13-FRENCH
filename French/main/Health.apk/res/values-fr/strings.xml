@@ -207,7 +207,7 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="click_finish_stand">Appuyez si vous vous êtes levé(e)</string>
   <string name="climb">Montée de marches</string>
   <string name="climbing">Escalade</string>
-  <string name="close">Désactiver</string>
+  <string name="close">Fermer</string>
   <string name="close_once">Désactiver une fois</string>
   <string name="close_stand_notice_and_detection_tip">La détection de vous lever ainsi que les rappels sont désactivés</string>
   <string name="close_stand_notice_tip">"La détection de vous lever a été désactivée, Mi Santé vous conseille de l'activer"</string>

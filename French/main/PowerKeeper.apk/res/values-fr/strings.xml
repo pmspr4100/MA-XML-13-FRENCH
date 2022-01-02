@@ -69,7 +69,7 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="config_suggest_suffix_title">Économiseur de batterie (recommandé)</string>
   <string name="confirm">Confirmer</string>
   <string name="connect_intranet_hint">"Veuillez vous connecter à l'intranet"</string>
-  <string name="copy">Copie</string>
+  <string name="copy">Copier</string>
   <string name="current_cloud_addr_is">"L'adresse du serveur de contrôle du Cloud est :"</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>

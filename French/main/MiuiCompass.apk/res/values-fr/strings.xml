@@ -52,7 +52,7 @@
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="close">Fermer</string>
   <string name="compass_settings">Paramètres</string>
-  <string name="copy">Copie</string>
+  <string name="copy">Copier</string>
   <string name="cta_agree_desc">Autorisez cette application à se connecter à internet et accordez des autorisations facultatives pour pouvoir utiliser toutes ses fonctionnalités.</string>
   <string name="cta_v2_app_purpose">"montrant les directions, les coordonnées, la pression atmosphérique et l'altitude actuelle"</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>

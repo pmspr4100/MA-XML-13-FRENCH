@@ -530,7 +530,7 @@ et ajustez les préférences automatiquement"</string>
     <string name="confirm_reset_manually_parameter_message">Réinitialiser tous les paramètres à leurs valeurs par défaut ?</string>
     <string name="confirm_restore_message">"Restaurer les paramètres par défaut de l'appareil photo ?"</string>
     <string name="confirm_restore_title">Restaurer les paramètres par défaut</string>
-    <string name="copy">Copie</string>
+    <string name="copy">Copier</string>
     <string name="cta_mimoji_msg">Bienvenue dans Fun Cam ! Vous pouvez utiliser cette application pour prendre des photos et enregistrer des vidéos. Pour pouvoir fonctionner normalement, cette application doit se connecter à Internet et requiert les autorisations suivantes afin de collecter vos informations personnelles :</string>
     <string name="cta_mimoji_perm_type">Autorisations obligatoires (utilisées pour les fonctionnalités et services de base de cette application)</string>
     <string name="cta_mimoji_user_links"><Data>"Lisez et acceptez notre &lt;a href=%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a> avant d'utiliser cette application."</Data></string>

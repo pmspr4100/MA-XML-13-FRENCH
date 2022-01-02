@@ -630,7 +630,7 @@ Bluetooth"</string>
     <string name="clir_choices_hide_number">Masquer le numéro</string>
     <string name="clir_choices_network_default">Réseau par défaut</string>
     <string name="clir_choices_show_number">Afficher le numéro</string>
-    <string name="close">Désactiver</string>
+    <string name="close">Fermer</string>
     <string name="close_dialog">OK</string>
     <string name="close_profile">Fermer</string>
     <string name="close_volte">Désactiver VoLTE</string>
@@ -902,8 +902,8 @@ Bluetooth"</string>
     <string name="eo_enable">"Les offres d'emploi sont activées"</string>
     <string name="eps_only_set_button">set eps only</string>
     <string name="eps_only_set_title">this button is for setting eps only</string>
-    <string name="eras_ad">CE</string>
-    <string name="eras_bc">BCE</string>
+    <string name="eras_ad">Apr. J.-C.</string>
+    <string name="eras_bc">Av. J.-C.</string>
     <string name="error_icon_content_description">Error</string>
     <string name="error_updating_title">"Erreur des paramètres d'appel"</string>
     <string name="esim_goto_active">Activer</string>
