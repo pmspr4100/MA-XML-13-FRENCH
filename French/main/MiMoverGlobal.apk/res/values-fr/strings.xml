@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
-  <string name="abc_action_bar_up_description">Navigate up</string>
+  <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+  <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="account_or_password_incorrect">ID de compte ou mot de passe incorrect</string>
   <string name="action_mode_deselect_all">Deselect</string>
   <string name="action_mode_select_all">Tout sélectionner</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">"Aller à l'accueil"</string>
-  <string name="abc_action_bar_up_description">Naviguer vers le haut</string>
+  <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+  <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="action_mode_deselect_all">Désélectionner</string>
   <string name="action_mode_select_all">Tout sélectionner</string>
   <string name="action_mode_title_empty">Sélectionner des éléments</string>

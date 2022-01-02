@@ -5,7 +5,7 @@
     <string name="ab_negative">AB négatif</string>
     <string name="ab_positive">AB positif</string>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
-    <string name="abc_action_bar_up_description">Naviguer vers le haut</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
     <string name="abc_action_mode_done">Terminé</string>
     <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
@@ -17,7 +17,7 @@
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
     <string name="abc_searchview_description_submit">Envoyer la requête</string>
-    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
