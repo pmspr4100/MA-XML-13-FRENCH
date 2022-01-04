@@ -22,6 +22,32 @@
         <item>Mois prochain</item>
         <item>Choisir une date</item>
     </string-array>
+    <string-array name="error_message_respond">
+        <item>LOGIN Login error or password error</item>
+        <item>LOGIN Login error password error</item>
+        <item>ERR.LOGIN.DOMAINNOTEXIST</item>
+        <item>Please using authorized code to login. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Login error user suspended</item>
+        <item>LOGIN errno:1423, user password error(sp return:2200019)</item>
+        <item>AUTHENTICATIONFAILED LOGIN Invalid credentials</item>
+        <item>Login fail. Password is incorrect or service is not open</item>
+        <item>LOGIN imap4 nosupport</item>
+        <item>LOGIN errno:1328, custom imap off</item>
+        <item>LOGIN Login error user suspended</item>
+        <item>LOGIN user in black list</item>
+        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
+        <item>LOGIN user in black list</item>
+        <item>LOGIN errno:1412 status=51 The password is not changed for a long time. Please modify the password. http://mail.10086.cn</item>
+        <item>LOGIN imap4 nosupport</item>
+        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
+        <item>ERR Invalid login user or password</item>
+        <item>Login fail. Please using app password to login. More information at http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>ERR custom pop3 off</item>
+        <item>LOGIN Login error user name or password error</item>
+        <item>Invalid login or password</item>
+        <item>ip XXXXXXX in blacklist please switch your network or login https://mail.sohu.com to setup client ip whitelist</item>
+        <item>java.net.UnknownHostException: Unable to resolve host XXXX : No address associated with hostname</item>
+    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Très petit</item>
         <item>Petit</item>

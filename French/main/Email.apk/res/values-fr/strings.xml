@@ -1054,7 +1054,7 @@ Essayez un autre compte de messagerie."</string>
     <string name="ntes_send_to_content">Si votre numéro de téléphone est associé avec le compte, appuyez sur \"Envoyer SMS\".</string>
     <string name="ntes_verification_code">Entrez le code : %s</string>
     <string name="oauth_error_description">"Échec de l'authentification"</string>
-    <string name="oauth_find_browser_error_description">Veuillez installer le navigateur avant de vous connecter</string>
+    <string name="oauth_find_browser_error_description">Installez un navigateur avant de vous connecter</string>
     <string name="oauth_gmail_login_notify">"Entrez le nom d'utilisateur et le mot de passe de votre compte Google sur la page suivante."</string>
     <string name="oauth_login_continue">Continuer</string>
     <string name="oauth_login_continue_qq">"Obtenez un code d'accès et connectez-vous >"</string>
