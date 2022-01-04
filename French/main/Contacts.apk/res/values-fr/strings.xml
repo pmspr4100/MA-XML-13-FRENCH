@@ -65,6 +65,7 @@
     <string name="attach_photo_dialog_title">Photo du contact</string>
     <string name="audio_chat">Tchat vocal</string>
     <string name="auto_nickname">Auto</string>
+    <string name="auto_record_yellowpage">Pages jaunes</string>
     <string name="auto_set_nickname">Auto</string>
     <string name="back">Retour</string>
     <string name="back_description">Retour</string>
@@ -83,6 +84,7 @@
     <string name="bh_adjusting">Calibrage…</string>
     <string name="bh_app_name">Services Mi Carrier</string>
     <string name="bh_app_name_short">Services Carrier</string>
+    <string name="bh_back">Retour</string>
     <string name="bh_bill_balance">Solde</string>
     <string name="bh_bill_charge">Augmenter le solde</string>
     <string name="bh_bills_info_label">Détails</string>
@@ -113,7 +115,8 @@
     <string name="bh_connect_name">Destinataire</string>
     <string name="bh_connect_number">Numéro de téléphone du destinataire</string>
     <string name="bh_contact_number">%1$s depuis vos contacts</string>
-    <string name="bh_cur_pkg">Forfait actuel</string>
+    <string name="bh_ct">China Telecom</string>
+    <string name="bh_cu">China Unicom</string>
     <string name="bh_current_no_sim">"La carte SIM n'est pas insérée"</string>
     <string name="bh_current_sim_number">Numéro de téléphone de la carte SIM %1$s</string>
     <string name="bh_day">j</string>
@@ -150,8 +153,7 @@
     <string name="bh_mb">Mo</string>
     <string name="bh_minute">min</string>
     <string name="bh_misim_recharge">Recharger</string>
-    <string name="bh_month_pkg">Forfait de ce mois</string>
-    <string name="bh_more">Plus</string>
+    <string name="bh_mm">Mi Mobile</string>
     <string name="bh_more_recommend">Plus de recommandations</string>
     <string name="bh_more_traffic_pkg">Plus de forfaits données mobiles</string>
     <string name="bh_more_value">Autre montant</string>
@@ -207,9 +209,7 @@
     <string name="bh_save_desc">"Enregistrer ce numéro pour l'utiliser lors de la prochaine recharge"</string>
     <string name="bh_save_sccuss">Enregistré avec succès</string>
     <string name="bh_saved_number">Numéro enregistré : %1$s</string>
-    <string name="bh_set_package">"Paramétrer le forfait de l'opérateur"</string>
-    <string name="bh_settings">Paramètres</string>
-    <string name="bh_should_login_to_buy">"Identifiez-vous sur votre Compte Mi pour pouvoir acheter des minutes d'appel et des données mobiles"</string>
+    <string name="bh_should_login_to_buy">"Connectez-vous à votre Compte Mi pour pouvoir acheter des minutes d'appel et des données mobiles"</string>
     <string name="bh_similar_number_hint">Ce numéro est similaire à %1$s. Recharger quand même ce numéro ?</string>
     <string name="bh_stop_carrier_services">Désactiver les services Mi Carrier</string>
     <string name="bh_stop_carrier_services_short">Désactiver les services Mi Carrier</string>
@@ -299,8 +299,40 @@
     <string name="call_pager">Appeler téléavertisseur</string>
     <string name="call_problem_report">Signaler un problème</string>
     <string name="call_radio">Appeler par signal radio</string>
-    <string name="call_record_setting_miui">"Paramètres d'enregistrement"</string>
-    <string name="call_settings">Paramètres</string>
+    <string name="call_record_add_numbers">Ajouter des numéros de téléphone</string>
+    <string name="call_record_auto_always">Tous les appels</string>
+    <string name="call_record_auto_scenario_title">Appels enregistrés</string>
+    <string name="call_record_auto_summary">Enregistrez les appels automatiquement</string>
+    <string name="call_record_auto_title">Enregistrer automatiquement</string>
+    <string name="call_record_auto_unknown_number">Numéro inconnu</string>
+    <string name="call_record_auto_whitelist">Numéros de téléphone sélectionnés</string>
+    <string name="call_record_content_search">"Recherche d'appels vocaux"</string>
+    <string name="call_record_content_search_summary">Enregistrez et retranscrivez automatiquement les appels pour pouvoir retrouver les appels au cours desquels certains mots ont été prononcés</string>
+    <string name="call_record_content_summary">"Pour protéger votre vie privée, les enregistrements audio de vos appels ainsi que le texte transcrit seront chiffrés et stockés localement sur votre appareil. Les autres applications ne pourront pas accéder à ces éléments."</string>
+    <string name="call_record_content_title">"Transcrire les enregistrements d'appels"</string>
+    <string name="call_record_content_type">Enregistrements sauvegardés</string>
+    <string name="call_record_content_type_audio">Audio seulement</string>
+    <string name="call_record_content_type_audio_text">Audio et texte</string>
+    <string name="call_record_content_type_text">Texte seulement</string>
+    <string name="call_record_history">"Enregistrements d'appels"</string>
+    <string name="call_record_password">Mot de passe de protection de la vie privée</string>
+    <string name="call_record_password_closed">Désactivé</string>
+    <string name="call_record_password_opened">Activé</string>
+    <string name="call_record_password_summary">"Protégez les enregistrements d'appels avec un mot de passe supplémentaire"</string>
+    <string name="call_record_storage_list">"Enregistrements d'appels"</string>
+    <string name="call_record_text_auto_delete">"Supprimer automatiquement les enregistrements d'appels"</string>
+    <string name="call_record_text_auto_delete_half_year">Après %d mois</string>
+    <string name="call_record_text_auto_delete_never">Jamais</string>
+    <string name="call_record_text_auto_delete_one_month">Après %d mois</string>
+    <string name="call_record_user_notice_all_purpose">Retrouver les appels au cours desquels certains mots ont été prononcés</string>
+    <string name="call_record_user_notice_permission_desc_microphone">Pour enregistrer les appels</string>
+    <string name="call_record_user_notice_permission_desc_storage">Pour sauvegarder les enregistrements</string>
+    <string name="call_record_user_notice_title">"Recherche d'appels vocaux"</string>
+    <string name="call_record_whitelist_custom">Appels sélectionnés</string>
+    <string name="call_recording_notification_summary">"Recevoir une notification après l'enregistrement d'un appel"</string>
+    <string name="call_recording_notification_title">Notifier les appels enregistrés</string>
+    <string name="call_recording_notification_title_error">"Impossible d'enregistrer l'appel"</string>
+    <string name="call_recording_setting">"Enregistrements d'appels"</string>
     <string name="call_sim1_description">SIM 1</string>
     <string name="call_sim1_menu_title">Appel sur SIM 1</string>
     <string name="call_sim2_description">SIM 2</string>
@@ -325,7 +357,7 @@
     <string name="callrecordview_item_op_time_short_outgoing">"sortant : "</string>
     <string name="callrecordview_item_op_video">Vidéo</string>
     <string name="callrecordview_menu_add_call_note">"Ajouter une note d'appel"</string>
-    <string name="callrecordview_menu_aiphone">AI calls</string>
+    <string name="callrecordview_menu_aiphone">Appels IA</string>
     <string name="callrecordview_menu_batch_delete">Supprimer les contacts par lot</string>
     <string name="callrecordview_menu_blocklist">Liste noire</string>
     <string name="callrecordview_menu_conference">Conférence téléphonique</string>
@@ -385,8 +417,8 @@
     <string name="clearFrequentsProgress_title">Suppression des appels fréquents...</string>
     <string name="clear_copy_number_description">Effacer le numéro de téléphone copié</string>
     <string name="clear_default">Vider les réglages par défaut</string>
-    <string name="clear_digits">Numéro de téléphone supprimé avec succès</string>
-    <string name="clearable_edittext_clear_description">Clear</string>
+    <string name="clear_digits">Supprimer le numéro de téléphone</string>
+    <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="close">Fermer</string>
     <string name="click_close">Appuyez pour fermer</string>
     <string name="clip_dialog_title">Composer le numéro copié ?</string>
@@ -495,12 +527,10 @@ Les cartes de contact ont été désactivées"</string>
     <string name="copy_text">Copier dans le presse-papiers</string>
     <string name="create_group_dialog_title">Créer un nouveau groupe</string>
     <string name="create_qrcode_fail_message">Impossible de créer le QR code</string>
-    <string name="cta_content_seg1">
-        <Data>"&lt;strong>Avertissement important
-    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Conditions de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Itinérance Mi&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politique de confidentialité&lt;/a>&lt;/font>. Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>"</Data>
-    </string>
+    <string name="cta_content_seg1"><Data>"&lt;strong>Avertissement important
+En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Conditions de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Itinérance Mi&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politique de confidentialité&lt;/a>&lt;/font>. Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">"
-    Itinérance Mi nécessite une connexion à internet et doit accéder à vos informations de localisation pour fonctionner normalement. De plus, Itinérance Mi est suceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales."</string>
+Itinérance Mi nécessite une connexion à internet et doit accéder à vos informations de localisation pour fonctionner normalement. De plus, Itinérance Mi est suceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales."</string>
     <string name="cta_dialog_cancel">Quitter</string>
     <string name="cta_dialog_ok">"J'accepte"</string>
     <string name="cta_dialog_title">Termes et conditions</string>
@@ -592,14 +622,13 @@ Les cartes de contact ont été désactivées"</string>
     <string name="dialer_empty_text_no_search_result">Aucun contact trouvé</string>
     <string name="dialer_firewall_entry_name">Historique des appels bloqués</string>
     <string name="dialer_menu_description">Afficher le menu</string>
-    <string name="dialer_menu_title">Options menu</string>
-    <string name="dialer_returnToInCallScreen">"Retourner à l'appel en cours"</string>
-    <string name="dialer_useDtmfDialpad">Utilisez le clavier à touches</string>
-    <string name="dialog_import">Importer les contacts</string>
-    <string name="dialog_import_export">Importer / Exporter</string>
-    <string name="dialog_new_contact_account">Créez des contacts sous le compte</string>
-    <string name="dialog_new_group_account">Créer un groupe sous ce compte</string>
-    <string name="dialog_phone_call_prohibited_message">Appel non émis</string>
+    <string name="dialer_menu_title">Options du menu</string>
+    <string name="dialog_delete_contact_button_delete">Supprimer</string>
+    <string name="dialog_delete_contact_button_keep">Conserver</string>
+    <string name="dialog_delete_contact_content">Xiaomi Cloud souhaite supprimer certains de vos contacts. Effacer maintenant ?</string>
+    <string name="dialog_delete_contact_title">Supprimer des contacts</string>
+    <string name="dialog_new_contact_account">Créer des contacts sous compte</string>
+    <string name="dialog_new_group_account">Créer un groupe sous compte</string>
     <string name="dialog_sync_add">Ajouter une synchronisation au groupe</string>
     <string name="directory_search_label">Dossier</string>
     <string name="display_all_contacts">Tous les contacts</string>
@@ -621,13 +650,13 @@ Les cartes de contact ont été désactivées"</string>
     <string name="editContactNameExpandOpenDescription">Afficher le nom</string>
     <string name="edit_contact_card_title">Sélectionner des éléments à partager</string>
     <string name="edit_contact_photo">Éditer la photo du contact</string>
-    <string name="email">Email</string>
-    <string name="emailLabelsGroup">Email</string>
-    <string name="email_custom">Envoyer un Email à %s</string>
-    <string name="email_home">Env. Email domicile</string>
-    <string name="email_mobile">Env. Email mobile</string>
-    <string name="email_other">Env. Email</string>
-    <string name="email_work">Env. Email bureau</string>
+    <string name="email">E-mail</string>
+    <string name="emailLabelsGroup">E-mail</string>
+    <string name="email_custom">Envoyer un e-mail à %s</string>
+    <string name="email_home">Env. e-mail domicile</string>
+    <string name="email_mobile">Env. e-mail mobile</string>
+    <string name="email_other">Env. e-mail</string>
+    <string name="email_work">Env. e-mail bureau</string>
     <string name="emergency_number_label">"Numéro d'urgence"</string>
     <string name="emptyGroup">Personne dans ce groupe</string>
     <string name="ensure">OK</string>
@@ -724,6 +753,7 @@ Raison : \"%s\""</string>
     <string name="hybrid_webpage_not_available">Page Web non disponible</string>
     <string name="ic_menu_back">Retour</string>
     <string name="ic_menu_done">Fait</string>
+    <string name="identify_numbers_text">"Activez l'identification de l'appelant pour identifier les appels indésirables"</string>
     <string name="imLabelsGroup">Messagerie instantanée</string>
     <string name="import_all_sim_entries_miui">Importer tous les contacts</string>
     <string name="import_all_vcard_string">Importer tous les fichiers vCard</string>
