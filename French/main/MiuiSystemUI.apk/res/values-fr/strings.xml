@@ -2149,6 +2149,8 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="search_menu">Paramètres de recherche</string>
     <string name="search_menu_title">Recherche</string>
     <string name="select_application">Sélectionner une application</string>
+    <string name="select_conversation_text">"Appuyez sur une conversation pour l'ajouter à votre écran d'accueil"</string>
+    <string name="select_conversation_title">Widgets de conversation</string>
     <string name="select_logd_size_dialog_title">Sélectionner la taille des mémoires tampons des journaux</string>
     <string name="select_logd_size_title">Tailles des tampons journaux</string>
     <string name="select_logpersist_dialog_title">"Sélectionner un tampon de journaux pour stocker de manière permanent sur l'appareil"</string>
@@ -3051,8 +3053,8 @@ If you have questions, contact %2$s."</string>
     <string name="person_available">Available</string>
     <string name="power_charging_limited">%1$s - Charging temporarily limited</string>
     <string name="power_suggestion_battery_run_out">Battery may run out by %1$s</string>
-    <string name="priority_conversations">Priority conversations</string>
-    <string name="privacy_type_camera">camera</string>
+    <string name="priority_conversations">Conversations prioritaires</string>
+    <string name="privacy_type_camera">appareil photo</string>
     <string name="privacy_type_location">location</string>
     <string name="privacy_type_microphone">microphone</string>
     <string name="process_kernel_label">Android OS</string>
@@ -3073,11 +3075,11 @@ If you have questions, contact %2$s."</string>
     <string name="quick_settings_tiles">default</string>
     <string name="reboot_info_auto_boot_global">Upcoming alarm: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Shutdown alarm: %s</string>
-    <string name="recent_conversations">Recent conversations</string>
+    <string name="recent_conversations">Conversations récentes</string>
     <string name="remote_input_image_insertion_text">sent an image</string>
     <string name="require_unlock_for_nfc">Unlock to use NFC</string>
     <string name="restart_button_description">Tap to restart this app and go full screen.</string>
-    <string name="ring_toggle_title">Calls</string>
+    <string name="ring_toggle_title">Appels</string>
     <string name="screen_pinning_can_open_other_apps">Pinned app may open other apps.</string>
     <string name="screen_pinning_description_gestural">This keeps it in view until you unpin. Swipe up &amp; hold to unpin.</string>
     <string name="screen_pinning_description_recents_invisible">This keeps it in view until you unpin. Touch &amp; hold Back and Home to unpin.</string>
@@ -3090,7 +3092,7 @@ If you have questions, contact %2$s."</string>
     <string name="screen_pinning_toast_recents_invisible">To unpin this app, touch &amp; hold Back and Home buttons</string>
     <string name="screenrecord_audio_label">Record audio</string>
     <string name="screenrecord_background_processing_label">Processing screen recording</string>
-    <string name="screenrecord_cancel_label">Cancel</string>
+    <string name="screenrecord_cancel_label">Annuler</string>
     <string name="screenrecord_cancel_success">Screen recording canceled</string>
     <string name="screenrecord_channel_description">Ongoing notification for a screen record session</string>
     <string name="screenrecord_delete_error">Error deleting screen recording</string>
