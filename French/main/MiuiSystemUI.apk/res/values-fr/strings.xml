@@ -3127,8 +3127,6 @@ If you have questions, contact %2$s."</string>
     <string name="screenshot_scroll_label">Capture more</string>
     <string name="screenshot_top_boundary_pct">Top boundary %1$d percent</string>
     <string name="see_more_title">See more</string>
-    <string name="select_conversation_text">Tap a conversation to add it to your Home screen</string>
-    <string name="select_conversation_title">Conversation widgets</string>
     <string name="sensor_privacy_start_use_camera_dialog_content">This unblocks access for all apps and services allowed to use your camera.</string>
     <string name="sensor_privacy_start_use_camera_dialog_title">Unblock device camera?</string>
     <string name="sensor_privacy_start_use_mic_camera_dialog_content">This unblocks access for all apps and services allowed to use your camera or microphone.</string>
