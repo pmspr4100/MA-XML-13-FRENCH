@@ -172,9 +172,13 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
     <string name="accessibility_menu_description">"Le menu d'accessibilité fournit des raccourcis pratiques qui vous permettent de contrôler votre appareil.
 
 Activez cette fonction et appuyez sur le bouton Accessibilité en bas de votre écran pour ouvrir le menu."</string>
+    <string name="accessibility_menu_description_pad">"Le menu d'accessibilité fournit des raccourcis pratiques qui vous permettent de contrôler votre appareil.
+
+        Activez cette fonction et appuyez sur le bouton Accessibilité en bas de votre écran pour ouvrir le menu."</string>
     <string name="accessibility_menu_item_settings">Paramètres</string>
     <string name="accessibility_menu_service_name">"Menu d'accessibilité"</string>
     <string name="accessibility_menu_summary">"Contrôlez votre appareil à l'aide de raccourcis pratiques"</string>
+    <string name="accessibility_menu_summary_pad">"Contrôlez votre appareil à l'aide de raccourcis pratiques"</string>
     <string name="accessibility_more_settings">Paramètres additionnels</string>
     <string name="accessibility_no_service_selected">Aucun service sélectionné</string>
     <string name="accessibility_no_services_installed">Aucun service installé</string>
@@ -824,6 +828,9 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="auto_clean_description">"À propos de cette fonctionnalité
 1. Lancez cette fonctionnalité une ou deux fois si vous trouvez que votre haut-parleur est légèrement bloqué par la poussière.
 2. Si le haut-parleur est fortement bloqué, lancez cette fonctionnalité 2 à 5 fois tout en secouant votre appareil avec le haut-parleur dirigé vers le bas."</string>
+    <string name="auto_clean_description_pad">"À propos de cette fonctionnalité
+- Lancez cette fonctionnalité une ou deux fois si vous trouvez que votre haut-parleur est légèrement bloqué par la poussière.
+- Si le haut-parleur est fortement bloqué, lancez cette fonctionnalité %1$d à %2$d fois tout en secouant votre appareil avec le haut-parleur dirigé vers le bas."</string>
     <string name="auto_clean_summary">Joue un son de 30 secondes pour nettoyer votre haut-parleur</string>
     <string name="auto_clean_title">Nettoyage haut-parleur</string>
     <string name="auto_connect_disable">La connexion automatique est désactivée</string>
@@ -1863,6 +1870,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="clear_all_data">Effacer toutes les données</string>
     <string name="clear_cache_btn_text">Vider le cache</string>
     <string name="clear_data_alert_info">Toutes les sauvegardes stockées sur cet appareil seront supprimées définitivement. Sauvegardez les éléments importants sur votre ordinateur et Xiaomi Cloud avant de continuer.</string>
+    <string name="clear_data_alert_info_pad">Toutes les sauvegardes stockées sur cet appareil seront supprimées définitivement. Sauvegardez les éléments importants sur votre ordinateur et Xiaomi Cloud avant de continuer.</string>
     <string name="clear_data_dlg_text">Les données de cette application (fichiers, paramètres, comptes, bases de données, etc.) vont être définitivement supprimées.</string>
     <string name="clear_data_dlg_title">"Supprimer les données de l'application ?"</string>
     <string name="clear_failed_dlg_text">"Impossible d'effacer le stockage pour l'application."</string>
@@ -3171,8 +3179,9 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fcc_equipment_id">"ID de l'équipement"</string>
     <string name="feature_flags_dashboard_title">Drapeaux de fonctionnalité</string>
     <string name="feedback">"Retour d'information"</string>
-    <string name="feedback_btn_text">Submit feedback</string>
-    <string name="feedback_settings">"Retour d'information"</string>
+    <string name="feedback_btn_text">Soumettre des commentaires</string>
+    <string name="feedback_settings">"Services et retour d'information"</string>
+    <string name="feedback_settings_new">"Retour d'information"</string>
     <string name="file_privacy_password_role_instruction">Vos fichiers privés seront stockés ici.</string>
     <string name="filter">Filtrer</string>
     <string name="filter_all_apps">Toutes les applis</string>
@@ -3418,6 +3427,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="freeform_guide_settings">Fenêtre flottante</string>
     <string name="freeform_guide_slide_to_small_freeform_summary">"Faites glisser du bas de l'écran vers le coin supérieur droit de l'écran"</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Faites glisser le coin pour réduire une application</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Faites glisser le coin pour réduire une application</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Glisser vers des fenêtres flottantes</string>
     <string name="freeform_guide_slide_up_to_close_summary">"Glissez vers le haut depuis la barre d'action d'une fenêtre flottante"</string>
     <string name="freeform_guide_slide_up_to_close_title">Fermer les fenêtres flottantes</string>
@@ -4918,6 +4928,7 @@ Passer à %1$s n'annulera pas votre %2$s service."</string>
     <string name="model_info">Modèle</string>
     <string name="model_name">Modèle</string>
     <string name="model_number">"Modèle de l'appareil"</string>
+    <string name="model_number_pad">"Modèle de l'appareil"</string>
     <string name="model_summary">Modèle : %1$s</string>
     <string name="modern_control_center_desc">Déroulez la barre de statut sur la gauche pour afficher les notifications. Déroulez la barre de statut sur la droite pour ouvrir le Centre de contrôle.</string>
     <string name="modern_control_center_title">Nouvelle version</string>
@@ -5056,6 +5067,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="multi_touch_points_category_title">Multi-touch points</string>
     <string name="multi_touch_points_preference">Ce paramètre prendra effet après avoir redémarré votre appareil</string>
     <string name="multi_window_cvw_summary">Faites glisser le coin pour basculer vers une fenêtre flottante et ajuster sa taille</string>
+    <string name="multi_window_cvw_summary_global">Faites glisser le coin pour basculer vers une fenêtre flottante et ajuster sa taille</string>
     <string name="multi_window_cvw_title">Fenêtre flottante</string>
     <string name="multifunction_keyboard">Multifonctionnel</string>
     <string name="music_app_unavailable">"Assurez-vous que l'application Mi Musique est disponible."</string>
@@ -5848,8 +5860,8 @@ Lisez et acceptez %s avant d'utiliser ce service."</string>
     <string name="power_mgr">Optimisation de la batterie</string>
     <string name="power_mode">Puissance</string>
     <string name="power_mode_balanced_title">Puissance équilibrée</string>
-    <string name="power_monitor_summary">"Outils utilisés pour surveiller l'alimentation."</string>
-    <string name="power_monitor_title">Moniteur de puissance</string>
+    <string name="power_monitor_summary">"Outils de suivi de la consommation électrique"</string>
+    <string name="power_monitor_title">"Consommation d'énergie"</string>
     <string name="power_optimize">Économiseur de batterie</string>
     <string name="power_overcounted">Surestimée</string>
     <string name="power_phone">Appels vocaux</string>
@@ -6295,6 +6307,7 @@ Interface UT : %5$s"</string>
 Vous ne perdrez aucune donnée d'application."</string>
     <string name="reset_app_preferences_title">Réinitialiser les préférences ?</string>
     <string name="reset_confirm_directory">"Remarque : Avant de restaurer des éléments, vérifiez si le dossier \"MIUI-Backup-AllBackup\" existe sur votre appareil mobile. Si ce n'est pas le cas, créez-le."</string>
+    <string name="reset_confirm_directory_pad">"Remarque : Avant de restaurer des éléments, vérifiez si le dossier \"MIUI-Backup-AllBackup\" existe sur votre appareil mobile. Si ce n'est pas le cas, créez-le."</string>
     <string name="reset_dashboard_summary">"Vous pouvez réinitialiser le réseau, les applications ou l'appareil"</string>
     <string name="reset_dashboard_summary_onlyApps">Les applications peuvent être réinitialisées</string>
     <string name="reset_dashboard_title">Options de réinitialisation</string>
@@ -7764,6 +7777,12 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="storageuse_settings_title">Utilisation du stockage</string>
     <string name="strict_mode">Mode strict activé</string>
     <string name="strict_mode_summary">"Flasher l'écran lorsque des applications effectuent de longues opérations sur le fil principal"</string>
+    <string name="string_KB">%d Ko</string>
+    <string name="string_KB_per_log_buffer">%d Ko par tampon de journal</string>
+    <string name="string_MB">%d Mo</string>
+    <string name="string_MB_per_log_buffer">%d Mo par tampon de journal</string>
+    <string name="string_off">Désactivé</string>
+    <string name="string_offed">Désactivé</string>
     <string name="strong_suppression_summary">Votre appareil sera moins réactif au toucher accidentel, certains contrôles gestuels peuvent ne pas fonctionner près des bords</string>
     <string name="strong_suppression_title">Grande zone</string>
     <string name="structure_add_facerecoginition_text">Ajouter des données de visage 3D</string>

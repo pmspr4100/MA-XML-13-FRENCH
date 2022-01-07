@@ -48,6 +48,7 @@
   <string name="calibrate_success">Étalonnée</string>
   <string name="calibrate_tip">Inclinez votre appareil pour mettre la balle dans le cercle</string>
   <string name="calibrate_title">Étalonner la boussole</string>
+  <string name="calibrating">Étalonnage de la boussole</string>
   <string name="cancel">Annuler</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="close">Fermer</string>

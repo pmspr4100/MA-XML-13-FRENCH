@@ -421,6 +421,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="save_to_gallery_success_message">Enregistré avec succès dans Galerie</string>
   <string name="search_menu_title">Recherche</string>
   <string name="send">Envoyer</string>
+  <string name="select_show_city">"Sélectionnez l'emplacement"</string>
   <string name="search_weather">Météo</string>
   <string name="search_weather_keywords">"Température;Prévisions météorologiques;Météo;qualité de l'air;Degré de pollution;Humidité"</string>
   <string name="settings">Paramètres</string>

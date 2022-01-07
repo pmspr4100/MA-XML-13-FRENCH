@@ -29,7 +29,7 @@
   <string name="early_morning">Morning</string>
   <string name="eras_ad">Apr. J.-C.</string>
   <string name="eras_bc">Av. J.-C.</string>
-  <string name="evening">Afternoon</string>
+  <string name="evening">Après-midi</string>
   <string name="fmt_date_long_month_day">MMMM dd</string>
   <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
   <string name="fmt_date_numeric_month_day">M/d</string>

@@ -728,6 +728,12 @@ Protocole de connexion plus rapide."</string>
     <string name="storage_category">Stockage</string>
     <string name="strict_mode">Mode strict activé</string>
     <string name="strict_mode_summary">"Fait clignoter l'écran flash lorsque les applications effectuent de longues opérations sur le thread principal"</string>
+    <string name="string_KB">%d Ko</string>
+    <string name="string_KB_per_log_buffer">%d Ko par tampon de journal</string>
+    <string name="string_MB">%d Mo</string>
+    <string name="string_MB_per_log_buffer">%d Mo par tampon de journal</string>
+    <string name="string_off">Désactivé</string>
+    <string name="string_offed">Désactivé</string>
     <string name="stylus_ota_check_update">Mettre à jour</string>
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>

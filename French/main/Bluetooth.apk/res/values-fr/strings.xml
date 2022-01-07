@@ -27,6 +27,10 @@
   <string name="airplane_error_title">Mode avion</string>
   <string name="am">AM</string>
   <string name="app_name">Bluetooth</string>
+  <string name="aptx_notification_aptx">Cet appareil prend en charge Qualcomm® aptX™</string>
+  <string name="aptx_notification_aptx_adaptive">Cet appareil prend en charge Qualcomm® aptX™ Adaptive</string>
+  <string name="aptx_notification_aptx_hd">Cet appareil prend en charge Qualcomm® aptX™ HD</string>
+  <string name="aptx_notification_title">Bluetooth</string>
   <string name="auth_notif_message">Entrer la clé de session de %1$s</string>
   <string name="auth_notif_ticker">"Demande d'authentification Obex"</string>
   <string name="auth_notif_title">Clé de session</string>

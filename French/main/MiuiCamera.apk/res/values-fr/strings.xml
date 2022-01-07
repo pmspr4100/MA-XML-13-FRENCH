@@ -825,6 +825,9 @@ en mode portrait"</string>
     <string name="live_sticker_updating">Mise à jour…</string>
     <string name="live_workspace_title">Brouillons</string>
     <string name="live_workspace_title_edit">Sélectionnez les éléments à supprimer</string>
+    <string name="live_workspace_title_pause">Arrêter</string>
+    <string name="live_workspace_title_play">Lecture</string>
+    <string name="live_workspace_title_pre_edit">Sélectionnez les éléments à supprimer</string>
     <string name="location_access_allow">Accepter</string>
     <string name="location_fromkeyguard_not_permission">"Appareil photo n'est pas autorisé à accéder à votre position pour le moment. Déverrouillez d'abord votre appareil."</string>
     <string name="location_permission_des">Mémoriser les emplacements pour les photos et les vidéos</string>

@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ErrorTooManyRequests">Trop de demandes sont en cours de traitement. Réessayez plus tard.</string>
-    <string name="a2dp_sink_mbs_label">Bluetooth Audio</string>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -26,6 +24,8 @@
     <string name="account_summary">"Sauvegardez le compte Google, le Compte Mi et d'autres données utilisateur"</string>
     <string name="actionbar_button_up_description">Retour</string>
     <string name="afternoon">Après-midi</string>
+    <string name="agree_button">Autoriser</string>
+    <string name="agree_revoke_permission_title">Retrait des autorisations</string>
     <string name="alert_button_agree_and_continue">Autoriser</string>
     <string name="alert_button_deny">Refuser</string>
     <string name="alert_message_backup_to_miasist">"Mi PC Suite nécessite une permission pour créer une sauvegarde sur un ordinateur. Autoriser ?"</string>
@@ -37,6 +37,7 @@
     <string name="alert_title_backup_to_miasist">Sauvegarder des éléments grâce à Mi PC Suite ?</string>
     <string name="alert_title_restore_from_miasist">Restaurer des éléments sur votre téléphone ?</string>
     <string name="already_enable_encrypt">Le chiffrement est déjà activé</string>
+    <string name="alternative_ui_content">"Cette fonctionnalité vous permet de sauvegarder et de restaurer des éléments à l'aide de votre appareil mobile et de votre ordinateur. Cette fonctionnalité doit se connecter à Internet et nécessite les autorisations obligatoires suivantes pour pouvoir fonctionner normalement :"</string>
     <string name="am">AM</string>
     <string name="app_name">Sauvegarde</string>
     <string name="apps_and_data_item_desc">Applications et données</string>
@@ -233,6 +234,8 @@ Ne pas modifier ou renommer les fichiers de sauvegarde."</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="gallery_summary">Paramètres de la galerie (photo non comprise)</string>
+    <string name="grant_all_permission_content">Accordez toutes les autorisations obligatoires pour pouvoir sauvegarder et restaurer des éléments.</string>
+    <string name="grant_all_permission_title">Autorisations requises</string>
     <string name="guarded_mode_dialog_backup_message">Les sauvegardes ne sont pas autorisées en mode invité.</string>
     <string name="guarded_mode_dialog_title">Vous êtes en mode invité</string>
     <string name="guarded_mode_dialog_transfer_message">"Impossible d'utiliser Mi Transfert en mode Invité."</string>
@@ -523,6 +526,7 @@ vous devez d'abord créer une sauvegarde iCloud."</string>
     <string name="permission_content_title">Autorisations requises</string>
     <string name="permission_dialog_positive_btn">Paramètres</string>
     <string name="permission_intro">Détails des autorisations</string>
+    <string name="permission_management_entrance">Gérer les autorisations</string>
     <string name="permission_not_admit">Refusé</string>
     <string name="permission_purpose">"Cette fonctionnalité vous permet de sauvegarder et de restaurer des éléments à l'aide de votre appareil mobile, de vos ordinateurs et de vos clés USB."</string>
     <string name="permission_read_apps">Accéder à la liste des applications installées sur cet appareil</string>
@@ -531,6 +535,7 @@ vous devez d'abord créer une sauvegarde iCloud."</string>
     <string name="permission_read_contacts">Accéder aux contacts</string>
     <string name="permission_read_sms">Accéder aux messages</string>
     <string name="permission_read_storage">Accéder et enregistrer des éléments dans le stockage</string>
+    <string name="permission_read_storage_global">Accéder au stockage</string>
     <string name="permission_read_write_storage">"Pour pouvoir sauvegarder des éléments, autorisez d'abord cette fonction à accéder au stockage."</string>
     <string name="permission_read_write_sys_app">"Pour pouvoir sauvegarder et restaurer les messages, les contacts et l'historique des appels, autorisez d'abord cette fonction à accéder à ces éléments."</string>
     <string name="permission_related">Autorisations</string>
@@ -544,6 +549,7 @@ vous devez d'abord créer une sauvegarde iCloud."</string>
     <string name="permission_show_all_apps_desc">"Pour pouvoir afficher les applications pouvant être sauvegardées, autorisez d'abord cette application à accéder à la liste des applications installées sur cet appareil."</string>
     <string name="permission_write_calllog">"Modifier l'historique des appels"</string>
     <string name="permission_write_contacts">Modifier les contacts</string>
+    <string name="permission_write_storage">Enregistrer les éléments dans le stockage</string>
     <string name="phone_title">Paramètres du téléphone</string>
     <string name="platform_chooser_item_android_mi">Téléphone Mi</string>
     <string name="platform_chooser_item_android_others">Autres marques</string>
@@ -551,8 +557,10 @@ vous devez d'abord créer une sauvegarde iCloud."</string>
     <string name="platform_chooser_title">Choisir un ancien appareil</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
+    <string name="privacy_policy_link"><Data>"Pour en savoir plus sur nos pratiques de traitement des données et vos droits en tant qu'utilisateur, lisez et acceptez notre &lt;a href='%1s'>Politique de confidentialité&lt;/a> avant de continuer."</Data></string>
     <string name="privacy_settings">Vie privée</string>
     <string name="privacy_settings_title">Politique de confidentialité</string>
+    <string name="private_policy_text">Politique de confidentialité</string>
     <string name="progress_backup_hint">Sauvegarde de vos données...</string>
     <string name="progress_restore_hint">Restauration…</string>
     <string name="prompt_reading">Lecture…</string>
@@ -571,6 +579,7 @@ vous devez d'abord créer une sauvegarde iCloud."</string>
     <string name="restore_counts">Restauration :</string>
     <string name="restore_data">Choisir les éléments à restaurer</string>
     <string name="restore_failed">Impossible de restaurer</string>
+    <string name="restore_files">Pour restaurer des éléments</string>
     <string name="restore_finished">Restauré avec succès</string>
     <string name="restore_is_running">"Restauration de l'appareil"</string>
     <string name="restore_launcher_layout_hit">"Restaurer les paramètres du lanceur d'applications"</string>
@@ -579,6 +588,7 @@ vous devez d'abord créer une sauvegarde iCloud."</string>
     <string name="restore_telephony_hit">La restauration va réinitialiser les applications et leurs données</string>
     <string name="retry">Réessayer</string>
     <string name="reverse_all">Tout effacer</string>
+    <string name="revoke_permission_dialog_content">Vous ne pourrez pas sauvegarder ou restaurer des éléments sans toutes les autorisations obligatoires. Retirer les autorisations quand même ?</string>
     <string name="router_backup_hint">Laissez votre appareil allumé</string>
     <string name="saturday">Samedi</string>
     <string name="saturday_short">Sam</string>
@@ -959,6 +969,7 @@ Libérez de l'espace ou faites plusieurs transferts plus petits."</string>
     <string name="usb_trans_select_data_no_space">"Seulement %s disponibles sur votre lecteur USB.
 Libérez de l'espace ou ne transférez que les éléments importants."</string>
     <string name="user_feedback">"Retour d'information"</string>
+    <string name="user_know_button_text">Compris</string>
     <string name="user_name">Identifiant Apple ou Email</string>
     <string name="user_name_null">"Le champ du nom d'utilisateur ne peut être vide"</string>
     <string name="user_notice_declaration_ignore">Ne plus afficher</string>

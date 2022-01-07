@@ -1135,6 +1135,7 @@ Continuer de les afficher ?"</string>
     <string name="input_pin_after_boot_msg">"La saisie de votre code PIN est requise après un redémarrage de l'appareil"</string>
     <string name="input_pin_code">Saisir le code PIN</string>
     <string name="input_puk_code">Saisir le code PUK</string>
+    <string name="input_second_pattern_after_restart_msg">Confirmez le mot de passe du Deuxième espace pour continuer</string>
     <string name="install_other_apps">Installer des applications inconnues</string>
     <string name="installer_cd_button_title">"Installer l'application de transfert de fichier Android pour Mac"</string>
     <string name="instant_apps">Applications instantanées</string>
