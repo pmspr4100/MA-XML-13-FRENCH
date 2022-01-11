@@ -611,7 +611,6 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="bluetooth_item_double_battery_level_right">D : %d%%</string>
   <string name="bluetooth_item_double_battery_level_right_invalid">D : Pas de données</string>
   <string name="bluetooth_setting_brief">"Afficher les informations d'utilisation de la batterie des appareils connectés"</string>
-  <string name="bluetooth_setting_brief">"Afficher les informations sur l'utilisation de la batterie des appareils connectés"</string>
   <string name="book_add">Ajouter une réservation</string>
   <string name="book_add_date_diff">"La date de départ doit être postérieure à la date d'arrivée."</string>
   <string name="book_add_dialog_continue">Continuer</string>
