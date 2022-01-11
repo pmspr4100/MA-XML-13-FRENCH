@@ -81,6 +81,15 @@
     <string name="guide_window_operation">"Faites glisser du côté vers le centre de l'écran"</string>
     <string name="guide_window_title">Retourner</string>
     <string name="http_buffer_size">Taille du cache HTTP</string>
+    <string name="invisible_mode_dialog_cancel">Annuler</string>
+    <string name="invisible_mode_dialog_message">"Impossible d'utiliser MIUI+ Screen Combo lorsque vous êtes en navigation privée. Désactivez d'abord le mode navigation privée."</string>
+    <string name="invisible_mode_dialog_positive">Désactiver</string>
+    <string name="invisible_mode_dialog_title">Navigation privée</string>
+    <string name="invisible_mode_toast">"Désactivez d'abord navigation privée"</string>
+    <string name="loading">Un instant…</string>
+    <string name="loading_view_abort_close_text">Fermer</string>
+    <string name="loading_view_abort_text">"La connexion a expiré.
+Fermez cette page et réessayez."</string>
     <string name="log_warning">"Les activations du journal peuvent augmenter les risques de sécurité et affecter les performances. Utilisez ces boutons uniquement lorsque cela est nécessaire."</string>
     <string name="low_version_dialog_message">Mettez à jour MIUI+ sur votre ordinateur ou téléchargez la dernière version sur plus.miui.com.</string>
     <string name="low_version_dialog_title">Mettre à jour MIUI+</string>

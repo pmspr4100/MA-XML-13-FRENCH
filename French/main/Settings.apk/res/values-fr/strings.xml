@@ -2073,6 +2073,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="connected_wifi">Connecté</string>
     <string name="connecting_to_vpn">Connexion au VPN</string>
     <string name="connection_and_sharing">Connexion &amp; partage</string>
+    <string name="connection_control">Gérer les connexions</string>
     <string name="contact_data">Contacts</string>
     <string name="content_capture">Contenu application</string>
     <string name="content_capture_summary">Autoriser les applications à envoyer du contenu au système Android</string>
@@ -3862,6 +3863,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="intent_sender_sendbroadcast_text">Envoyer broadcast</string>
     <string name="intent_sender_startactivity_text">Démarrer activity</string>
     <string name="interaction_control_category_title">"Commandes d'interaction"</string>
+    <string name="interconnection">Interconnectivité</string>
     <string name="interesting_text">"Des sensations tactiles réalistes rendent votre interaction avec l'écran plus claire et plus articulée."</string>
     <string name="interesting_title">Toucher réaliste</string>
     <string name="internal_memory">Mémoire de stockage interne</string>

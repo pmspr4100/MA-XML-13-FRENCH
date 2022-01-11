@@ -276,6 +276,15 @@
   <string name="slavewifi_disconnect">Déconnecter</string>
   <string name="slavewifi_notification_title">Double accélération Wi-Fi</string>
   <string name="slavewifi_settings">Appuyez pour modifier la configuration</string>
+  <string name="small_freeform_check_memory_exception_message">%1$s a provoqué une erreur de mémoire. Fermez cette application pour éviter le décalage.</string>
+  <string name="small_freeform_check_memory_exception_negative_message">Annuler</string>
+  <string name="small_freeform_check_memory_exception_positive_message">Fermer</string>
+  <string name="small_freeform_enter_warning">Fenêtre flottante</string>
+  <string name="small_freeform_exit_tip">Fermer la fenêtre flottante</string>
+  <string name="small_freeform_memory_toast_app_type">"Impossible d'ouvrir maintenant. Cette application nécessite trop de mémoire pour pouvoir fonctionner."</string>
+  <string name="small_freeform_memory_toast_game_type">"Impossible d'ouvrir maintenant. Ce jeu nécessite trop de mémoire pour pouvoir fonctionner."</string>
+  <string name="smartisan">Smartisan</string>
+  <string name="smartisan_phone">Smartisan</string>
   <string name="softap_notifif_summary">%d connecté</string>
   <string name="softap_notifif_title">"Point d'accès \"%s\" activé"</string>
   <string name="standard">Silencieux</string>

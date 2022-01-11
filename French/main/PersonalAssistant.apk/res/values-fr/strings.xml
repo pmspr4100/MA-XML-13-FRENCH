@@ -400,6 +400,19 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="app_pa_setting_private_auth">"Autoriser la collecte des statistiques d'utilisation"</string>
   <string name="app_pa_setting_private_auth_summary">"Les statistiques d'utilisation sont utilisées pour vous recommander des articles pertinents"</string>
   <string name="app_pa_setting_private_policy">Politique de confidentialité</string>
+  <string name="app_pa_setting_ps_key">perm_desc_perf_key</string>
+  <string name="app_pa_setting_retract">Withdrawal of consent</string>
+  <string name="app_pa_setting_retract_dialog_message">"If you continue, you'll withdraw your consent to the Privacy Policy of App vault. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As App vault provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept App vault services. Withdraw consent now?"</string>
+  <string name="app_pa_setting_retract_dialog_negative">Withdraw</string>
+  <string name="app_pa_setting_retract_error">"Couldn't connect to the network. Check your network settings and try again."</string>
+  <string name="app_pa_setting_retract_error_message">A server error occurred. Wait a minute or two and try again.</string>
+  <string name="app_pa_setting_retract_error_title">"Couldn't withdraw consent"</string>
+  <string name="app_pa_setting_retract_no_net_message">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
+  <string name="app_pa_setting_retract_no_net_title">"Couldn't connect to the network"</string>
+  <string name="app_pa_setting_retract_positive">Got it</string>
+  <string name="app_pa_setting_retract_sec_left">Withdraw (%ds)</string>
+  <string name="app_pa_setting_retract_summary">Withdraw consent to the Privacy Policy of App vault</string>
+  <string name="app_pa_setting_retract_title">Withdrawal of consent and service cancelation</string>
   <string name="app_pa_setting_service_airstar">Airstar</string>
   <string name="app_pa_setting_service_airstar_summary">"Afficher les informations financières, de crédit et d'assurance"</string>
   <string name="app_pa_setting_service_commute">Transports en commun</string>
@@ -1361,6 +1374,8 @@ Vérifiez votre numéro de suivi."</string>
   <string name="miuishare_title_share">Partage</string>
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="miuix_access_state_desc">Sélectionné</string>
+  <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
@@ -1375,6 +1390,7 @@ Vérifiez votre numéro de suivi."</string>
   <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
   <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+  <string name="miuix_indexer_selected">%s sélectionné</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>

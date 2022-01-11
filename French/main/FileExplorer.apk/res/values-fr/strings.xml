@@ -330,6 +330,8 @@
     <string name="mi_router_label">Routeur</string>
     <string name="mi_share">MiShare</string>
     <string name="midnight">Nuit</string>
+    <string name="midriver_install_button_text">Installer</string>
+    <string name="midriver_not_install_title">Mi Drive est désinstallé</string>
     <string name="midrop_msg_1">"Activez Mi Drop sur l'autre appareil"</string>
     <string name="midrop_msg_2">Lorsque Mi Drop est activé, vous pouvez rechercher des appareils à proximité et envoyer des fichiers</string>
     <string name="midrop_send_files">Choisissez les fichiers à envoyer</string>
@@ -583,6 +585,7 @@
     <string name="qq_title">"Impossible d'accéder aux documents WeChat"</string>
     <string name="recent_hide_camera_and_screenshots">"Ne pas afficher, parmi les fichiers récents, les éléments de la Galerie et les captures d'écran"</string>
     <string name="refresh_success">Actualisation terminé</string>
+    <string name="reinstall_midriver_message">Installer à nouveau maintenant ?</string>
     <string name="release_enter_private">Relâchez pour ouvrir le dossier privé</string>
     <string name="remainder_size">| Disponible : %s</string>
     <string name="rename_alert">"Si vous modifiez l'extension de ce fichier, vous ne pourrez peut-être pas l'ouvrir."</string>

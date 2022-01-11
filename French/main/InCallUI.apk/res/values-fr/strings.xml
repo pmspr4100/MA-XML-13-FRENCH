@@ -422,6 +422,7 @@
     <string name="video_call_downgrade_insufficient_bandwidth">Bande passante insuffisante, rétrogradation en appel vocal</string>
     <string name="video_conference_caller_info_name">%1$s appel vidéoconférence</string>
     <string name="video_crbt_title">"La tonalité de retour d'appel vidéo de l'autre partie est en cours de lecture"</string>
+    <string name="voice_control_deny_permission_msg">"Impossible d'utiliser les commandes vocales maintenant. Autorisez cette application à enregistrer l'audio en premier."</string>
     <string name="voicemail">Boite vocale</string>
     <string name="volte_call">Appel VoLTE</string>
     <string name="volume_boost_text">Volume amplifié avec succès</string>
