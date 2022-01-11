@@ -607,6 +607,8 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="aod_style_description">"Afficher l'horloge, la date, l'heure, les notifications et d'autres éléments lorsque l'écran est éteint"</string>
     <string name="aod_style_title">Style</string>
     <string name="aod_to_close">Désactiver</string>
+    <string name="ap_connect_failed">échec de connexion</string>
+    <string name="ap_connected_battery_level">" | batterie%1$s"</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">"Type d'authentification"</string>
     <string name="apn_auth_type_chap">CHAP</string>
