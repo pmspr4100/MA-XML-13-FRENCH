@@ -27,8 +27,8 @@
     <string name="close_hotspot_hint">"Désactive le point d'accès portable avant la diffusion"</string>
     <string name="close_slave_wifi_hint">Déconnecte les réseaux Wi-Fi additionnels avant la diffusion</string>
     <string name="close_slave_wifi_hint_china">Déconnecte les réseaux Wi-Fi additionnels avant la diffusion</string>
-    <string name="config_wifi_label_china">Configurer MiPaiPai Wi-Fi</string>
-    <string name="config_wifi_label_global">Configurer MiPaiPai Wi-Fi</string>
+    <string name="config_wifi_label_china">Xiaomi Conference Tapcast Wi-Fi</string>
+    <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="connect_device_fail">"Impossible de se connecter à l'appareil"</string>
     <string name="console_guide_btn_got_it">Compris</string>
     <string name="console_guide_subtitle_hang_up">"Vous pouvez continuer à diffuser lorsque l'écran de votre appareil est éteint. Cette fonctionnalité diminue la consommation énergétique."</string>
