@@ -71,7 +71,6 @@
     <string name="backup_hint_onpad">Laissez votre appareil allumé</string>
     <string name="backup_hint_pad">Laissez votre appareil allumé</string>
     <string name="backup_is_running">"Sauvegarde de l'appareil"</string>
-    <string name="backup_notification_title">\"Sauvegarde\" est actif…</string>
     <string name="backup_new">Nouveau :</string>
     <string name="backup_progress">Sauvegarde en cours…</string>
     <string name="backup_report">Afficher les détails du message</string>

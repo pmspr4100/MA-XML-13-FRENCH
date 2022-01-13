@@ -108,6 +108,8 @@
     <string name="brvah_app_name">Médiathèque</string>
     <string name="btn_clear_history">"Effacer l'historique"</string>
     <string name="btn_empty_go_to_download">Télécharger</string>
+    <string name="btn_clear_history">"Effacer l'historique"</string>
+    <string name="btn_empty_go_to_download">Télécharger</string>
     <string name="cancel">Annuler</string>
     <string name="cancel_choose">Désélectionner</string>
     <string name="cancel_subscribe_tips">Se désabonner maintenant ?</string>
