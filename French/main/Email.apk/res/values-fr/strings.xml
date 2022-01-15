@@ -125,6 +125,7 @@ Mettre à jour maintenant ?"</string>
     <string name="account_setup_correct_address_tips">"L'adresse e mail que vous avez entré est invalide."</string>
     <string name="account_setup_creating_account_msg">"    Création du compte…"</string>
     <string name="account_setup_deleting_account_msg">"    Suppression du compte…"</string>
+    <string name="account_setup_domain_invalid_toast">Le nom de domaine de messagerie que vous avez entré est incorrect, veuillez vérifier</string>
     <string name="account_setup_exchange_certificate_title">Certificat client</string>
     <string name="account_setup_exchange_no_certificate">Aucun</string>
     <string name="account_setup_failed_auth_required">"Cette méthode d'authentification n'est pas supportée par le service."</string>
