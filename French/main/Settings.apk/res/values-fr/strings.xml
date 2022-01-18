@@ -1607,6 +1607,7 @@ Si vous avez déjà effectué l'une des opérations ci-dessus, ajoutez à nouvea
     <string name="breathing_light_freq_summary">Clignote lorsque vous recevez de nouvelles notifications</string>
     <string name="breathing_light_freq_title">Fréquence de clignotement du voyant de notifications</string>
     <string name="brightness">Niveau de luminosité</string>
+    <string name="brightness_auto_summary">Ajustez la luminosité à la lumière ambiante pour économiser la batterie</string>
     <string name="brightness_auto_adjust_off">"La luminosité de l'écran restera constante."</string>
     <string name="brightness_auto_adjust_on">"La luminosité de l'écran sera optimisée en fonction de la lumière ambiante."</string>
     <string name="brightness_summary">"Régler la luminosité de l'écran"</string>
@@ -3096,6 +3097,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="external_ram_dialog_btn_ok">Redémarrer</string>
     <string name="external_ram_dialog_message">Redémarrez votre appareil pour appliquer les modifications.</string>
     <string name="external_ram_dialog_title">Redémarrer votre appareil</string>
+    <string name="external_ram_remind_toast">"L'espace de stockage s'épuise. Extension de mémoire désactivée pour le moment."</string>
     <string name="external_ram_summary">"Ajoutez %1$s %2$s de RAM en utilisant du stockage. Utilisez cette fonctionnalité uniquement lorsqu'il y a suffisamment d'espace de stockage disponible sur votre appareil."</string>
     <string name="external_ram_title">Extension mémoire</string>
     <string name="external_ram_toast">"Impossible d'utiliser l'extension de mémoire en raison d'un espace de stockage insuffisant"</string>
@@ -3645,6 +3647,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="headphone_assisted_summary">Transmettez le flux micro de votre téléphone aux écouteurs Bluetooth connectés</string>
     <string name="headphone_assisted_title">Moniteur intra-auriculaire en direct</string>
     <string name="headset_aac">AAC</string>
+    <string name="headset_ambient_sound">"Sons d'ambiance"</string>
     <string name="headset_aptx_adapter">Qualcomm® aptX™ Adaptive</string>
     <string name="headset_connectiong">Connexion…</string>
     <string name="headset_find_both">Les deux</string>
@@ -3685,6 +3688,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="hide_extra_apps">Afficher utilisation appli</string>
     <string name="hide_silent_icons_summary">"Les icônes des notifications douces ne sont pas affichées dans la barre de notification"</string>
     <string name="hide_silent_icons_title">Masquer les icônes des notifications douces</string>
+    <string name="high_brightness_hint_summary">"Une petite icône de soleil apparaîtra en haut de l'écran lorsque la lumière ambiante est forte"</string>
     <string name="high_label">Haute</string>
     <string name="high_performance_notif_summary">"L'appareil peut chauffer pendant une utilisation intensive."</string>
     <string name="high_performance_notif_title">Mode performance actif</string>
@@ -6467,6 +6471,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="scanning_status_text_wifi_on_ble_off">Balayage Wi-Fi activé, balayage Bluetooth désactivé</string>
     <string name="scanning_status_text_wifi_on_ble_on">Balayages Wi-Fi et Bluetooth activés</string>
     <string name="screen">Écran</string>
+    <string name="screen_brightness">"Luminosité de l'écran"</string>
     <string name="screen_cancel">Annuler</string>
     <string name="screen_color_and_optimize">Couleurs et contraste</string>
     <string name="screen_color_and_optimize_disabled">Impossible de régler la palette de couleurs et la température de couleur en mode lecture</string>
@@ -7887,7 +7892,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
     <string name="sunlight_mode">Mode lumière du soleil</string>
-    <string name="sunlight_mode_summary">Ajustez la luminosité à une forte lumière ambiante lorsque la luminosité automatique est désactivée</string>
+    <string name="sunlight_mode_summary">"Ajustez la luminosité à une forte lumière ambiante pour éviter que l'écran ne devienne trop sombre"</string>
     <string name="supl_not_set">Non définie</string>
     <string name="supplicant_state_label">État du suppliant :</string>
     <string name="support_gesture_title">Modèles 3D</string>

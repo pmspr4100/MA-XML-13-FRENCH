@@ -1217,8 +1217,8 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="cpu_usage_view_action_btn_text">Appuyer pour voir</string>
     <string name="create_gamebooster_destop">"Création du raccourci de l'écran d'accueil avec succès"</string>
     <string name="create_shortcut">"Créer un raccourci vers l'écran d'accueil pour Game Turbo"</string>
-    <string name="cta_HIPS_Perm_Location_Desc">get precise location (GPS and network-based)</string>
-    <string name="cta_agree_desc">To be able to use our services, allow this app to connect to the internet and grant the permissions listed above.</string>
+    <string name="cta_HIPS_Perm_Location_Desc">"Pour utiliser vos informations de localisation dans le Centre d'avertissement MIUI, SOS d'urgence, l'économiseur de batterie de l'application et le scanner de sécurité des paiements, ainsi que pour activer l'emplacement approximatif"</string>
+    <string name="cta_agree_desc">Pour pouvoir utiliser nos services, autorisez cette application à se connecter à Internet et accordez les autorisations indiquées ci-dessus.</string>
     <string name="cta_close_dialog_cancel">Annuler</string>
     <string name="cta_close_dialog_content">"Si vous limitez l'accès de la Sécurité à internet et à vos informations de localisation, vous ne pourrez pas recevoir d'alertes de tremblement de terre, mettre à jour les définitions de virus et les informations de liste de blocage. Votre appareil deviendra moins sûr. Restreindre quand même ?"</string>
     <string name="cta_close_dialog_ok">Restreindre</string>
@@ -1226,7 +1226,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="cta_dialog_negative">Quitter</string>
     <string name="cta_dialog_positive">Accepter</string>
     <string name="cta_dialog_title">Connexion internet</string>
-    <string name="cta_main_purpose">"Bienvenue dans la sécurité ! Vous pouvez utiliser cette application pour nettoyer les fichiers inutiles de votre appareil, rechercher et neutraliser les virus, optimiser les performances de jeu, économiser la batterie, gérer des applications, etc."</string>
+    <string name="cta_main_purpose">"Bienvenue dans Sécurité ! Vous pouvez utiliser Sécurité et ses modules (y compris les composants de sécurité MIUI et les services système) pour libérer de l'espace de stockage, analyser votre appareil contre les virus, contrôler l'utilisation de la batterie, optimiser votre appareil pour les jeux, gérer les applications, recevoir des alertes précoces en cas de tremblement de terre, etc."</string>
     <string name="cta_settings">Autoriser la connexion à internet</string>
     <string name="current_network_state_not_need_diagnose">La connexion internet est normale.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">"Pour utiliser la liste de blocage et passer des appels aux contacts d'urgence lorsque des avertissements de tremblement de terre sont émis"</string>
@@ -1235,7 +1235,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="custom_define_permission_desc_android.permission.READ_SMS">Pour utiliser la liste de blocage et reconnaître les messages de votre opérateur</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Pour utiliser la liste de blocage et envoyer des messages d'étalonnage à votre opérateur"</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Pour supprimer des messages de votre liste de blocage</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">"Pour fournir vos informations de localisation au Centre d'avertissement MIUI et à SOS d'urgence"</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">"Pour fournir les fonctionnalités pertinentes à votre emplacement dans le Centre d'avertissement MIUI, SOS d'urgence, l'économiseur de batterie de l'application et le scanner de sécurité des paiements et le service de localisation approximative"</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pour effacer la corbeille et effectuer des analyses antivirus</string>
     <string name="customize_limit_pkg">%s (personnaliser)</string>
     <string name="customizer_mode_user_define_name">Mes règles</string>
@@ -2725,11 +2725,13 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="not_limited_brand">Illimité</string>
     <string name="not_set">Non défini</string>
     <string name="not_settled">Non paramétré</string>
+    <string name="not_support_root_summary">"Autoriser l'accès root pour des applications tierces peut poser des risques de sécurité et endommager votre appareil. Pour cette raison, nous ne fournissons plus d'options pour gérer les autorisations d'accès root."</string>
+    <string name="not_support_root_title">Accès root</string>
     <string name="note">Note</string>
     <string name="note_call_none">Aucun appel</string>
     <string name="note_list_none">La liste est vide</string>
     <string name="note_sms_none">Aucun message</string>
-    <string name="noti_back_diving_mode_title">Mode immersif Activé . Appuyez pour désactiver.</string>
+    <string name="noti_back_diving_mode_title">Mode immersif Activé. Appuyez pour désactiver.</string>
     <string name="notification_abnormal_check_button">Afficher</string>
     <string name="notification_abnormal_check_now_button">Afficher</string>
     <string name="notification_abnormal_consume_app_title">%s vide la batterie</string>
@@ -4099,6 +4101,7 @@ Retirer le consentement maintenant ?"</string>
     <string name="select_province_and_city">Sélectionnez la localisation</string>
     <string name="send">Envoyer</string>
     <string name="send_msg_to_query">Envoyez un SMS pour vérifier</string>
+    <string name="send_sms_title">Autoriser %s à envoyer des messages ?</string>
     <string name="set_applock_password">Définir un mot de passe</string>
     <string name="set_complete">Paramétré avec succès</string>
     <string name="set_location">Régler la localisation</string>
@@ -4110,6 +4113,7 @@ Retirer le consentement maintenant ?"</string>
     <string name="set_pattern_password_name">Dessinez un schéma</string>
     <string name="set_traffic_tips">"Définissez votre forfait de données pour gérer l'utilisation des données mobiles et éviter les frais supplémentaires de l'opérateur"</string>
     <string name="setting">Paramètres</string>
+    <string name="setting_back_sound_loading_msg">Un instant…</string>
     <string name="setting_online_service">Services en ligne</string>
     <string name="setting_privacy_password">Ajouter un schéma</string>
     <string name="setting_wireless_reverse_charging_fg_control_summary">Arrêtez la charge sans fil inversée lorsque la batterie de cet appareil atteint %s</string>
@@ -4267,6 +4271,7 @@ Retirer le consentement maintenant ?"</string>
     <string name="sms_blacklist">Liste noire des messages</string>
     <string name="sms_cloud_block">Liste noire du Cloud</string>
     <string name="sms_contact_block">Bloquer les messages des contacts</string>
+    <string name="sms_content">"Message : "</string>
     <string name="sms_delete_all_hint">Supprimer tous les messages maintenant ?</string>
     <string name="sms_delete_hint">Supprimer les messages bloqués de ce numéro ?</string>
     <string name="sms_delete_title">Supprimer des messages</string>
@@ -4277,6 +4282,7 @@ Retirer le consentement maintenant ?"</string>
     <string name="sms_keywords">Liste noire des mots-clés</string>
     <string name="sms_malicious_url">Bloquer les messages avec des URL malveillantes</string>
     <string name="sms_prefix">Liste noire des préfixes</string>
+    <string name="sms_sender">"À : "</string>
     <string name="sms_service">Bloquer les messages de services</string>
     <string name="sms_smart_engine_update">Mettre à jour automatiquement le filtre des SMS</string>
     <string name="sms_smart_engine_update_now">Mettre à jour</string>
@@ -5351,6 +5357,8 @@ L'activation de l'une de ces fonctionnalités désactivera l'autre."</string>
 Essayez de mettre à l'échelle la définition !"</string>
     <string name="verify_shut_down_password_content">"Exiger la confirmation du verrouillage de l'écran si votre appareil est éteint alors qu'il est verrouillé"</string>
     <string name="verify_shut_down_password_title">"Confirmation d'arrêt"</string>
+    <string name="verify_sms_ensure_allow">Envoyer</string>
+    <string name="verify_sms_title">"%1$s essaie d'envoyer un message…"</string>
     <string name="video_repeat">Rejouer</string>
     <string name="videobox_hangup_tips_content">"Cette fonctionnalité permet à l'application de s'exécuter en arrière-plan lorsque l'écran est éteint. Activer maintenant ?"</string>
     <string name="videobox_hangup_tips_title">Attention</string>
