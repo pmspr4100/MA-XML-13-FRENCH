@@ -595,7 +595,7 @@ Envoyez ce code au superviseur."</string>
     <string name="exo_download_downloading">Téléchargement en cours</string>
     <string name="exo_download_failed">Échec du téléchargement</string>
     <string name="exo_download_notification_channel_name">Téléchargements</string>
-    <string name="exo_download_removing">Suppression des téléchargements</string>
+    <string name="exo_download_removing">Suppression des téléchargements…</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Aucun</string>

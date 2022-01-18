@@ -320,6 +320,15 @@
   <string name="eras_ad">Apr. J.-C.</string>
   <string name="eras_bc">Av. J.-C.</string>
   <string name="evening">Après-midi</string>
+  <string name="exo_download_completed">Téléchargement terminé</string>
+  <string name="exo_download_description">Télécharger</string>
+  <string name="exo_download_downloading">Téléchargement</string>
+  <string name="exo_download_failed">Échec du téléchargement</string>
+  <string name="exo_download_notification_channel_name">Téléchargements</string>
+  <string name="exo_download_paused">Téléchargements en pause</string>
+  <string name="exo_download_paused_for_network">Téléchargements en attente de réseau</string>
+  <string name="exo_download_paused_for_wifi">Téléchargements en attente de WiFi</string>
+  <string name="exo_download_removing">Suppression des téléchargements…</string>
   <string name="expand_button_title">Avancé</string>
   <string name="facebook_clean_exit_confirm_cancel">"Continuer l'analyse"</string>
   <string name="facebook_clean_exit_confirm_msg">"Vous n'avez pas encore fini de scanner Facebook. Arrêtez l'analyse maintenant ?"</string>

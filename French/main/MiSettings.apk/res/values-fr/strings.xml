@@ -207,7 +207,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="exo_download_downloading">Téléchargement</string>
   <string name="exo_download_failed">Échec du téléchargement</string>
   <string name="exo_download_notification_channel_name">Téléchargements</string>
-  <string name="exo_download_removing">Suppression des téléchargements</string>
+  <string name="exo_download_removing">Suppression des téléchargements…</string>
   <string name="exo_track_mono">Mono</string>
   <string name="exo_track_role_alternate">Alterné</string>
   <string name="exo_track_role_closed_captions">Sous-titres</string>

@@ -361,12 +361,12 @@ Envoyez ce code au superviseur."</string>
     <string name="exo_controls_rewind_description">Retour arrière</string>
     <string name="exo_controls_shuffle_description">Aléatoire</string>
     <string name="exo_controls_stop_description">Arrêter</string>
-    <string name="exo_download_completed">Téléchargement complété</string>
+    <string name="exo_download_completed">Téléchargement terminé</string>
     <string name="exo_download_description">Télécharger</string>
     <string name="exo_download_downloading">Téléchargement</string>
     <string name="exo_download_failed">Échec du téléchargement</string>
     <string name="exo_download_notification_channel_name">Téléchargements</string>
-    <string name="exo_download_removing">Suppression des téléchargements</string>
+    <string name="exo_download_removing">Suppression des téléchargements…</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Aucun</string>
