@@ -2925,8 +2925,8 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
     <string name="enable_service_pattern_reason">"Vous devez confirmer le schéma, car l'activation du service %1$s influe sur le chiffrement des données."</string>
     <string name="enable_service_pin_reason">"Vous devez confirmer le code PIN, car l'activation du service %1$s influe sur le chiffrement des données."</string>
     <string name="enable_service_title">Le service effectuera les actions suivantes :</string>
-    <string name="enable_sizecompat_freeform">Activer freeform sizecompat</string>
-    <string name="enable_sizecompat_freeform_summary">Autorise les applications sizecompat à être dans freeform</string>
+    <string name="enable_sizecompat_freeform">"Forcer l'autorisation de redimensionner les fenêtres"</string>
+    <string name="enable_sizecompat_freeform_summary">"Autorise les applications avec des restrictions de compatibilité à s'exécuter dans des fenêtres redimensionnables"</string>
     <string name="enable_snapshot_screenlock">Appui prolongé sur retour prend une photo</string>
     <string name="enable_tcp_rtt_support">Affichage TCP RTT</string>
     <string name="enable_tcp_rtt_support_summary">Évaluer les performances de la qualité de la communication réseau</string>
@@ -3666,7 +3666,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="headset_find_tip_title">Attention</string>
     <string name="headset_find_title">Trouver vos écouteurs</string>
     <string name="headset_find_voice_warning">Avertissement de volume élevé</string>
-    <string name="headset_head_tracking_desc">Ajustez le son surround en fonction du mouvement de la tête</string>
+    <string name="headset_head_tracking_desc">Ajustez le son immersif en fonction du mouvement de la tête</string>
     <string name="headset_head_tracking_title">Suivre le mouvement de la tête</string>
     <string name="headset_notification_switch_summary">"Afficher l'état sur le widget Panneau de notification lorsque les écouteurs sont connectés"</string>
     <string name="headset_notification_switch_title">Widget Panneau de notification</string>
@@ -3674,7 +3674,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="headset_remove_message_indicate">Tous les périphériques associés avec le compte Xiaomi seront supprimés</string>
     <string name="headset_sbc">SBC</string>
     <string name="headset_settings_title">Effets sonores</string>
-    <string name="headset_spatial_audio">Audio spatial</string>
+    <string name="headset_spatial_audio">Audio dimensionnelle</string>
     <string name="headset_toast_tip_disconnect_others">Le casque ne peut pas être configuré pour le moment. Votre casque est peut-être connecté à un autre téléphone</string>
     <string name="headset_unsaved_device">"Supprimer l'appareil"</string>
     <string name="headset_unsaved_devices">"Utilisé sur d'autres appareils"</string>
@@ -7901,7 +7901,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="surround_sound_all_desc">Améliorez la profondeur de la reproduction sonore pour les écouteurs et les haut-parleurs</string>
     <string name="surround_sound_only_headset_desc">Améliore la profondeur de la reproduction sonore pour les écouteurs</string>
     <string name="surround_sound_only_speaker_desc">Améliore la profondeur de la reproduction sonore des haut-parleurs</string>
-    <string name="surround_sound_title">Son surround</string>
+    <string name="surround_sound_title">Son immersif</string>
     <string name="suw_back_button_label">Retour</string>
     <string name="suw_more_button_label">Plus</string>
     <string name="suw_next_button_label">Suivant</string>

@@ -49,6 +49,7 @@
   <string name="backup_action_no_space_with_wechat_on_content">Espace de stockage cloud insuffisant pour sauvegarder les données WeChat. Mettez à niveau votre plan de stockage pour sauvegarder des éléments.</string>
   <string name="backup_action_no_space_with_wechat_on_title">Impossible de sauvegarder les données WeChat</string>
   <string name="backup_action_retry_now">Réessayer</string>
+  <string name="backup_failed_reason_app_data_error">Impossible de sauvegarder les données WeChat</string>
   <string name="backup_failed_reason_app_usage_denied">Accordez les autorisations requises pour sauvegarder les éléments</string>
   <string name="backup_failed_reason_cloud_space_not_enough">"Espace disponible sur le cloud insuffisant pour créer cette sauvegarde. Changez votre abonnement ou libérez de l'espace de stockage cloud."</string>
   <string name="backup_failed_reason_disk_space_not_enough">"Pas assez d'espace de stockage. Libérez d'abord le stockage."</string>
@@ -352,6 +353,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="restore_detail_category_settings">Paramètres</string>
   <string name="restore_detail_more">Plus</string>
   <string name="restore_detail_title">Sélectionnez les éléments à restaurer</string>
+  <string name="restore_failed_reason_app_data_error">Impossible de restaurer les données WeChat</string>
   <string name="restore_failed_reason_disk_space_not_enough">"Pas assez d'espace de stockage. Libérez d'abord le stockage."</string>
   <string name="restore_failed_reason_network_error">Erreur réseau. Attendez une minute ou deux et réessayez.</string>
   <string name="restore_finish_description">Restauration terminée</string>
