@@ -2007,7 +2007,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="quick_settings_rotation_locked_landscape_label">Paysage</string>
     <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
     <string name="quick_settings_rotation_unlocked_label">Rotation auto</string>
-    <string name="quick_settings_rotationlock_label">Verrouiller la rotation</string>
+    <string name="quick_settings_rotationlock_label">"Verrouiller l'orientation"</string>
     <string name="quick_settings_rssi_emergency_only">"Appel d'urgence uniquement"</string>
     <string name="quick_settings_screen_record_label">"Enregistreur d'écran"</string>
     <string name="quick_settings_screen_record_start">Démarrer</string>
