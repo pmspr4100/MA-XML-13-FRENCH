@@ -625,10 +625,6 @@
     <string name="recents_title_market">Trouver des apps</string>
     <string name="recents_title_security_scan">Analyse de sécurité</string>
     <string name="recents_tv_small_window_text">Fenêtres flottantes</string>
-    <string name="recents_worldcirculate_text">Relâchez pour sélectionner</string>
-    <string name="recnets_worldcirculate_display_computer_info">"L'application fonctionne sur %s."</string>
-    <string name="recnets_worldcirculate_display_default_info">Appuyez pour le ramener ici.</string>
-    <string name="recnets_worldcirculate_display_pad_info">"L'application fonctionne sur %s."</string>
     <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
     <string name="recommend_app">"Suggestions d'applications"</string>
     <string name="recommend_apps_default_title">Vide</string>

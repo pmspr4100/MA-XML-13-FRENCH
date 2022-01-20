@@ -85,6 +85,7 @@
     <string name="call_recording_notification_message_sd_unmounted">La carte SD a été retirée.</string>
     <string name="call_recording_notification_title">Appel enregistré</string>
     <string name="call_recording_notification_title_error">"Impossible d'enregistrer l'appel"</string>
+    <string name="caller_info_name_delimiter">" ou "</string>
     <string name="caller_manage_header">Conférence %s</string>
     <string name="can_not_use">"Impossible d'utiliser"</string>
     <string name="cancel">Annuler</string>

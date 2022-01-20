@@ -3674,6 +3674,8 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="headset_remove_message_indicate">Tous les périphériques associés avec le compte Xiaomi seront supprimés</string>
     <string name="headset_sbc">SBC</string>
     <string name="headset_settings_title">Effets sonores</string>
+    <string name="headset_silent_upgrade_switch_summary">Le casque se met automatiquement à jour dans des conditions spécifiées</string>
+    <string name="headset_silent_upgrade_switch_title">Mise à jour automatique</string>
     <string name="headset_spatial_audio">Audio dimensionnelle</string>
     <string name="headset_toast_tip_disconnect_others">Le casque ne peut pas être configuré pour le moment. Votre casque est peut-être connecté à un autre téléphone</string>
     <string name="headset_unsaved_device">"Supprimer l'appareil"</string>
