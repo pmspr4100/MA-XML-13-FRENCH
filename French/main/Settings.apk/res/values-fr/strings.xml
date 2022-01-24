@@ -5320,12 +5320,6 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="night_display_temperature_title">Intensité</string>
     <string name="night_display_text">"L'éclairage nocturne colore votre écran en rouge ambré. Cela vous permet de le regarder ou de lire plus facilement lorsque l'éclairage est faible, et peut vous aider à vous endormir."</string>
     <string name="night_display_title">Éclairage nocturne</string>
-    <string name="night_light">Mode sombre</string>
-    <string name="night_light_brightness">Luminosité du mode Nuit</string>
-    <string name="night_light_color">Température des couleurs en mode nuit</string>
-    <string name="night_light_color_tip">Les modifications prendront effet lorsque le mode lecture sera activé</string>
-    <string name="night_light_summary">"Pour activer le mode Nuit, réduisez la luminosité de l'écran dans des conditions de faible luminosité."</string>
-    <string name="night_light_tip">Les modifications prendront effet lorsque le mode Nuit sera activé</string>
     <string name="no">Non</string>
     <string name="no_5g_in_dsds_text">"Lors de l'utilisation de 2 SIM, ce téléphone sera limité à la 4G. &lt;annotation id="url"> En savoir plus &lt;/annotation>."</string>
     <string name="no_application">Aucune</string>
