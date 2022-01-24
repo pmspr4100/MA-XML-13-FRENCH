@@ -2226,7 +2226,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="dark_mode_day_night_mode_summary">Passez en Mode sombre au coucher du soleil et désactivez-le au lever du soleil</string>
     <string name="dark_mode_day_night_mode_title">Du coucher au lever du soleil</string>
     <string name="dark_mode_font_background_title">Ajuster les couleurs et diminuer le contraste automatiquement</string>
-    <string name="dark_mode_time_settings">Planifier le Mode sombre</string>
+    <string name="dark_mode_time_settings">Planifier le mode sombre</string>
     <string name="dark_theme_slice_subtitle">Aide à prolonger la durée de vie de la batterie</string>
     <string name="dark_theme_slice_title">Essayer le Thème sombre</string>
     <string name="dark_ui_activation_off_auto">"Désactiver jusqu'au coucher du soleil"</string>
@@ -3084,6 +3084,9 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="external_data_size_label">Stockage externe</string>
     <string name="external_ram_dialog_btn_cancel">Plus tard</string>
     <string name="external_ram_dialog_btn_ok">Redémarrer</string>
+    <string name="external_ram_dialog_icon_confirm">"J'ai compris"</string>
+    <string name="external_ram_dialog_icon_info">Le système étendra la RAM de %1$s %2$s.</string>
+    <string name="external_ram_dialog_icon_title">"L'extension de mémoire est activée"</string>
     <string name="external_ram_dialog_message">Redémarrez votre appareil pour appliquer les modifications.</string>
     <string name="external_ram_dialog_title">Redémarrer votre appareil</string>
     <string name="external_ram_summary">"Ajoutez %1$s %2$s de RAM en utilisant du stockage. Utilisez cette fonctionnalité uniquement lorsqu'il y a suffisamment d'espace de stockage disponible sur votre appareil."</string>
@@ -3471,7 +3474,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="game_driver_dashboard_title">Préférences du pilote de jeu</string>
     <string name="game_driver_footer_text">"Lorsque le pilote de jeu est activé, vous pouvez choisir d'utiliser le pilote graphique mis à jour pour les applications installées sur le périphérique."</string>
     <string name="game_storage_settings">Jeux</string>
-    <string name="gd_setting_title">Sidebar</string>
+    <string name="gd_setting_title">Barre latérale</string>
     <string name="general_text">Champ texte</string>
     <string name="general_time">"Heure : %1$d:%2$d. Les longues vibrations représentent les heures, les courtes vibrations représentent les minutes. Il y aura une courte pause entre les heures et les minutes. Appuyez deux fois pour essayer."</string>
     <string name="gentle_notifications_also_display">Afficher également en</string>
@@ -4196,6 +4199,15 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="location_settings_title">Paramètres de localisation</string>
     <string name="location_sources_heading">Sources de localisation</string>
     <string name="location_street_level">Autoriser les applications à utiliser le GPS sur votre téléphone pour vous localiser</string>
+    <string name="location_time_zone_detection_auto_is_off">Automatic time zone is off</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_cancel_button">Cancel</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_message">To set the time zone using your location, turn on location, then update time zone settings</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_ok_button">Location settings</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_title">Device location needed</string>
+    <string name="location_time_zone_detection_not_allowed">Location time zone detection changes are not allowed</string>
+    <string name="location_time_zone_detection_not_applicable">Location time zone detection is disabled</string>
+    <string name="location_time_zone_detection_not_supported">Location time zone detection is not supported</string>
+    <string name="location_time_zone_detection_toggle_title">Utiliser la localisation pour définir le fuseau horaire</string>
     <string name="location_title">Ma localisation</string>
     <string name="lock_after_timeout">Verrouiller automatiquement</string>
     <string name="lock_after_timeout_summary">Après %1$s de veille</string>
