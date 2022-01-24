@@ -1445,8 +1445,12 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_camera_touch_focus_delay_title">Augmentez le délai de mise au point tactile</string>
     <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
     <string name="pref_camera_touchafaec_entry_on">Activé</string>
-    <string name="pref_camera_track_focus_preferred_description">"Activez pour faire automatiquement la mise au point sur les personnes et les animaux. Vous pourrez également sélectionner des sujets à suivre manuellement."</string>
-    <string name="pref_camera_track_focus_preferred_title">Suivi de la mise au point</string>
+    <string name="pref_camera_track_eye_preferred_description">Suit le mouvement des yeux pour garder les yeux nets lorsqu'une personne est dans le cadre</string>
+    <string name="pref_camera_track_eye_preferred_title">Mise au point du suivi des yeux</string>
+    <string name="pref_camera_track_focus_intro_description">"Lorsque vous prenez des photos ou enregistrez des vidéos avec des sujets en mouvement, cette fonction détecte les personnes, les chats et les chiens et les maintient automatiquement au point. De plus, vous pouvez également appuyer deux fois sur n'importe quel sujet pour suivre le mouvement."</string>
+    <string name="pref_camera_track_focus_intro_goto">Activer</string>
+    <string name="pref_camera_track_focus_preferred_description">"Maintenez automatiquement la mise au point sur les personnes, les chats et les chiens en mouvement ou appuyez deux fois sur n'importe quel sujet pour le suivre"</string>
+    <string name="pref_camera_track_focus_preferred_title">Mise au point du suivi de mouvement</string>
     <string name="pref_camera_ubifocus_title">Refocus</string>
     <string name="pref_camera_ultra_wide_ldc_description">Corriger automatiquement les objets déformés</string>
     <string name="pref_camera_ultra_wide_ldc_title">Correction de la distorsion lors de prises de vue ultra larges</string>
@@ -1518,6 +1522,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_hdr10_video_mode_description">Optimisez automatiquement les couleurs et le contraste pour les vidéos 4K et 8K. Les vidéos optimisées ne peuvent être lues que sur des appareils compatibles HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR 10</string>
     <string name="pref_hdr10plus_video_mode_description">Optimise les couleurs et ajuste le contraste pour les vidéos 4K et 8K. Cette fonction ne fonctionne que sur les appareils compatibles HDR10 +.</string>
+    <string name="pref_hybrid_video_mode_description">Utilise la technologie HLG pour améliorer les couleurs et la plage dynamique des vidéos enregistrées en haute résolution</string>
     <string name="pref_i_n_r_b">Réduction intelligente du bruit</string>
     <string name="pref_k_h">Moniteur intra-auriculaire temps réel</string>
     <string name="pref_k_s_i">"Surveiller le son enregistré à l'aide des écouteurs lorsqu'ils sont connectés"</string>
@@ -1932,6 +1937,8 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
     <string name="video_effect_entry_summer_day_describe">Un faible contraste et des tons clairs fonctionnent bien lorsque vous avez besoin de préserver les tons chair. Ce filtre convient aux scènes extérieures ensoleillées.</string>
     <string name="video_effect_entry_wind_sing">Brise</string>
     <string name="video_hdr10_tip">HDR 10</string>
+    <string name="video_hybrid_tip">HLG</string>
+    <string name="video_overheat_tip_content">Il semble que votre appareil soit trop chaud. Essayez de filmer une vidéo avec une définition inférieure.</string>
     <string name="video_reach_size_limit">Limite de taille atteinte.</string>
     <string name="video_shortcut_short">Vidéo</string>
     <string name="video_tag_flag_title">Étiquette</string>

@@ -497,6 +497,7 @@
     <string name="hungama_category_radio">Radio</string>
     <string name="hungama_category_video">Vidéos</string>
     <string name="hungama_category_vip">Pro</string>
+    <string name="hungama_download_subscription_toast">Abonnez-vous à Hungama Music pour télécharger cette chanson</string>
     <string name="hungama_free_download_out_summary">Vous ne pouvez pas télécharger plus de chansons gratuites. Obtenez un abonnement PRO pour télécharger des chansons illimitées ?</string>
     <string name="hungama_free_download_out_summary_toast">"Vous avez déjà téléchargé %d chansons. Obtenez un abonnement pour télécharger plus."</string>
     <string name="hungama_playlist_category">Catégorie de playliste</string>
@@ -1114,7 +1115,7 @@ Soyez heureux"</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Tenter de faire une transition entre les chansons à la lecture</string>
     <string name="start_to_check_new_version">Vérification des mises à jour…</string>
     <string name="start_to_download">Téléchargement…</string>
-    <string name="start_to_play">Lecture</string>
+    <string name="start_to_play">Préparation à la lecture…</string>
     <string name="start_update">"Installation d'une nouvelle version…"</string>
     <string name="storage_cloned_app">Storage for dual apps</string>
     <string name="storage_internal">Stockage interne</string>
