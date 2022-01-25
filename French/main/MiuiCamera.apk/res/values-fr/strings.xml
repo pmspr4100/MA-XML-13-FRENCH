@@ -1445,7 +1445,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_camera_touch_focus_delay_title">Augmentez le délai de mise au point tactile</string>
     <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
     <string name="pref_camera_touchafaec_entry_on">Activé</string>
-    <string name="pref_camera_track_eye_preferred_description">Suit le mouvement des yeux pour garder les yeux nets lorsqu'une personne est dans le cadre</string>
+    <string name="pref_camera_track_eye_preferred_description">"Suit le mouvement des yeux pour garder les yeux nets lorsqu'une personne est dans le cadre"</string>
     <string name="pref_camera_track_eye_preferred_title">Mise au point du suivi des yeux</string>
     <string name="pref_camera_track_focus_intro_description">"Lorsque vous prenez des photos ou enregistrez des vidéos avec des sujets en mouvement, cette fonction détecte les personnes, les chats et les chiens et les maintient automatiquement au point. De plus, vous pouvez également appuyer deux fois sur n'importe quel sujet pour suivre le mouvement."</string>
     <string name="pref_camera_track_focus_intro_goto">Activer</string>
