@@ -169,6 +169,13 @@
   <string name="already">Terminé :</string>
   <string name="am">AM</string>
   <string name="announce_for_drag">Dragging one item</string>
+  <string name="app_accessibility_olympic_bronze_medal">Bronze medal</string>
+  <string name="app_accessibility_olympic_gold_medal">Gold medal</string>
+  <string name="app_accessibility_olympic_info_title">More info</string>
+  <string name="app_accessibility_olympic_silver_medal">Silver medal</string>
+  <string name="app_accessibility_olympic_the_first">First place: %s</string>
+  <string name="app_accessibility_olympic_the_second">Second place: %s</string>
+  <string name="app_accessibility_olympic_the_third">Third place: %s</string>
   <string name="app_agenda_i_known">Got it</string>
   <string name="app_agenda_need_install_alipay">Install Alipay before using this feature.</string>
   <string name="app_airstar_card_title">Airstar</string>
@@ -362,10 +369,10 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="app_news_default_title">Actualités</string>
   <string name="app_note_add">Ajouter</string>
   <string name="app_note_title_empty">Notes</string>
-  <string name="app_olympic_card_service_des">Classements mis à jour en temps réel</string>
+  <string name="app_olympic_card_service_des">Consultez le classement des médailles olympiques</string>
   <string name="app_olympic_card_service_title">Tableau des médailles olympiques</string>
-  <string name="app_olympic_card_title">Tableau des médailles olympiques</string>
-  <string name="app_olympic_card_title_info">Les données sont fournies par un tiers et peuvent être différées</string>
+  <string name="app_olympic_card_title">Médailles</string>
+  <string name="app_olympic_card_title_info">Ces données sont fournies par un tiers et peuvent être mises à jour avec un délai.</string>
   <string name="app_olympic_gold_medal_country_region">Équipe</string>
   <string name="app_olympic_gold_medal_total">Total</string>
   <string name="app_pa_more">Plus</string>

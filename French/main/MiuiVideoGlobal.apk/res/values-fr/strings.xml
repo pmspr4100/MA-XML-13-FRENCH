@@ -567,6 +567,7 @@ Cette opération n'affectera pas les photos de votre galerie."</string>
     <string name="got_it">Compris</string>
     <string name="goto_sign_up">Créer un compte</string>
     <string name="have_learned">Compris</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hidden_channels">"Les chaînes suivantes ne s'afficheront pas sur la page d'accueil."</string>
     <string name="hide">Masquer</string>
     <string name="hint_icon_ad_title">Recommandé</string>
@@ -764,6 +765,10 @@ pour la meilleure expérience visuelle"</string>
     <string name="lv_videoView_error_title">Impossible de lire la vidéo</string>
     <string name="lv_volume">Volume</string>
     <string name="manage">Gérer</string>
+    <string name="mangotv_feature_list_title3">Épisode %s ajouté</string>
+    <string name="mangotv_feature_more">Plus</string>
+    <string name="mangotv_feature_title1">Épisodes</string>
+    <string name="mangotv_feature_title2">Épisodes</string>
     <string name="mediation_ad_can_not_share">Impossible de partager cette vidéo</string>
     <string name="mi_video">Mi Vidéo</string>
     <string name="midnight">Nuit</string>
@@ -1252,6 +1257,7 @@ Augmenter la sécurité de votre compte."</string>
     <string name="popup_click_for_download_video">Télécharger la vidéo</string>
     <string name="popup_pip_activate_button">Paramètres</string>
     <string name="popup_pip_not_activated">"Autorisez Mi Vidéo à utiliser d'abord l'image dans l'image (PiP)."</string>
+    <string name="popup_window_home_tip">Télécharger des vidéos en ligne</string>
     <string name="privacy_agree_subtitle">"Le consentement à la politique de confidentialité vous permet d'utiliser toutes les fonctionnalités de Mi Vidéo"</string>
     <string name="privacy_agree_title">Consentement</string>
     <string name="privacy_experience_plan">"Rejoignez notre programme d'expérience utilisateur pour partager les données des utilisateurs avec nous afin de nous aider à améliorer nos produits et services"</string>
@@ -1358,6 +1364,7 @@ Augmenter la sécurité de votre compte."</string>
     <string name="share">Partager</string>
     <string name="share_fail">Impossible de partager. Vérifiez vos paramètres réseau et réessayez.</string>
     <string name="share_success">Partagé avec succès</string>
+    <string name="share_text_before_link">Regardez et téléchargez de superbes vidéos gratuitement sur Mi Vidéo</string>
     <string name="share_ugc_content">"Jeter un coup d'œil à %1$s ! #%2$s (%3$s)"</string>
     <string name="share_ugc_join">Joindre</string>
     <string name="share_ugc_waitting">Générer un lien en cours…</string>
@@ -1516,6 +1523,8 @@ Il ne montre rien."</string>
     <string name="tip_author_click">Appuyez pour voir plus de vidéos de ce compte</string>
     <string name="tip_download_video_to_save_here">%d. La vidéo sera enregistrée dans vos téléchargements</string>
     <string name="tip_enter_the_website">%d. Ouvrir un site web ou une application</string>
+    <string name="tip_local_long_press_for_manager">Appuyez et maintenez pour gérer les vidéos</string>
+    <string name="tip_local_manager_here">Gérez vos fichiers ici</string>
     <string name="tip_play_a_video">%d. Lire une vidéo</string>
     <string name="tip_pop"><Data>"Le contenu de Moments est fourni par Firework. Afin d'améliorer votre expérience de visionnage et de recevoir des recommandations de contenu plus pertinentes, autorisez Firework à collecter, traiter et utiliser vos informations personnelles conformément à sa Politique de confidentialité. Lisez et acceptez la &lt;a href=\"%1$s\">Politique de confidentialité de Firework&lt;/a> avant d'utiliser ses services."</Data></string>
     <string name="tip_storage_used_space" formatted="false">%.2f Go/%.2f Go utilisés</string>
@@ -1538,6 +1547,7 @@ Il ne montre rien."</string>
     <string name="toast_bookmark_success_to_add">Favori ajouté</string>
     <string name="toast_bookmark_success_to_delete">Favori supprimé</string>
     <string name="toast_bookmark_url_error">Entrez une adresse valide</string>
+    <string name="toast_m3u8_download_path_tip">Impossible de modifier le chemin de téléchargement du contenu au format m3u8</string>
     <string name="toast_no_data">"Ce contenu n'est pas disponible pour le moment. Réessayez plus tard."</string>
     <string name="toast_request_too_frequently">Pas si vite !</string>
     <string name="toast_share_failed">Impossible de partager. Réessayez dans 1 à 2 minutes.</string>
@@ -1638,6 +1648,12 @@ Il ne montre rien."</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="welcome_tip_content1">Puissant lecteur vidéo local</string>
+    <string name="welcome_tip_content2">Des millions de vidéos à regarder en ligne ou à télécharger</string>
+    <string name="welcome_tip_explore_more">Découvrir</string>
+    <string name="welcome_tip_into_mivideo">Commencer</string>
+    <string name="welcome_tip_skip">Ignorer</string>
+    <string name="welcome_tip_title">Bienvenue dans Mi Vidéo</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$s o</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion au gestionnaire de téléchargement. Veuillez vérifier l'état du gestionnaire de téléchargement dans Gestion des applications."</string>
     <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s

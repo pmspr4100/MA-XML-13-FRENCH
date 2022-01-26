@@ -49,6 +49,26 @@
         <item quantity="other">Démarre dans %1$d minutes</item>
         <item quantity="one">Démarre dans %1$d minute</item>
     </plurals>
+    <plurals name="app_accessibility_olympic_bronze_medal_count">
+        <item quantity="other">%d médailles de bronze</item>
+        <item quantity="one">%d médaille de bronze</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_gold_medal_count">
+        <item quantity="other">"%d médailles d'or"</item>
+        <item quantity="one">"%d médaille d'or"</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_medal_count">
+        <item quantity="other">%d médailles en tout</item>
+        <item quantity="one">%d médaille en tout</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_rank">
+        <item quantity="other">Place %d</item>
+        <item quantity="one">Place %d</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_silver_medal_count">
+        <item quantity="other">"%d médailles d'argent"</item>
+        <item quantity="one">"%d médaille d'argent"</item>
+    </plurals>
     <plurals name="app_course_to_start">
         <item quantity="other">Démarre dans %1$d minutes</item>
         <item quantity="one">Démarre dans %1$d minute</item>
