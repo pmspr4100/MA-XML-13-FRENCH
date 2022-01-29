@@ -1306,6 +1306,8 @@ pour personnaliser Galerie"</string>
     <string name="midnight">Nuit</string>
     <string name="migrate_msg">Certains albums nécessitent des autorisations pour déplacer des éléments après une mise à jour du système.</string>
     <string name="miplay_adjust_volume">Régler le volume sur %d</string>
+    <string name="miplay_circulate_failed">Impossible de transférer la lecture. Attendez une minute ou deux et réessayez.</string>
+    <string name="miplay_circulating_msg">Transfert de la lecture…</string>
     <string name="miplay_pause_video">Pause</string>
     <string name="miplay_play_video">Lecture</string>
     <string name="miplay_seekbar_content_description">Progression de la lecture : %1$s %2$s</string>

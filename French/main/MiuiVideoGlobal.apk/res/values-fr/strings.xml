@@ -367,6 +367,9 @@ Envoyez ce code au superviseur."</string>
     <string name="exo_download_failed">Échec du téléchargement</string>
     <string name="exo_download_notification_channel_name">Téléchargements</string>
     <string name="exo_download_removing">Suppression des téléchargements…</string>
+    <string name="exo_media_action_repeat_all_description">Tout répéter</string>
+    <string name="exo_media_action_repeat_off_description">Ne rien répéter</string>
+    <string name="exo_media_action_repeat_one_description">Répéter une fois</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Aucun</string>
