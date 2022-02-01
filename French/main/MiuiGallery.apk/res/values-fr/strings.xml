@@ -2433,8 +2433,8 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
     <string name="text_item_type_talkback_spot_tiantan">Temple du Ciel</string>
     <string name="text_item_type_talkback_spot_victoria">Victoria Harbor</string>
     <string name="text_item_type_talkback_spot_wuzhen">Wuzhen</string>
-    <string name="text_item_type_talkback_spot_xihu">Lac de l'Ouest</string>
-    <string name="text_item_type_talkback_spot_yiheyuan">Palais d'Été</string>
+    <string name="text_item_type_talkback_spot_xihu">"Lac de l'Ouest"</string>
+    <string name="text_item_type_talkback_spot_yiheyuan">"Palais d'Été"</string>
     <string name="text_item_type_talkback_spot_zhangjiajie">Zhangjiajie</string>
     <string name="text_tab_bubble">Bulle</string>
     <string name="text_tab_city">Ville</string>
