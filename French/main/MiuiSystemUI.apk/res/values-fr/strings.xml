@@ -1448,6 +1448,10 @@ une capture d'écran de défilement"</string>
     <string name="miui_guide_dialog_button_negative_text">Paramètres</string>
     <string name="miui_guide_dialog_button_positive_text">Compris</string>
     <string name="miui_guide_dialog_message">Les sons des médias (musique, vidéos, etc.) seront toujours lus en mode silencieux. Vous pouvez changer cela dans les paramètres.</string>
+    <string name="miui_keyboard_shortcut_click">Appui</string>
+    <string name="miui_keyboard_shortcut_double_click">Double appui</string>
+    <string name="miui_keyboard_shortcut_system_dock">"Show app dock"</string>
+    <string name="miui_keyboard_shortcut_system_quickly_recent">Basculer entre les applications récentes</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Déverrouillé par un périphérique Bluetooth</string>
     <string name="miui_notification_menu_aggregate_feedback">Retour</string>
     <string name="miui_notification_menu_allow">Autoriser</string>

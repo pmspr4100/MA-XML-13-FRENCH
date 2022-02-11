@@ -49,9 +49,11 @@
     <string name="dolby_dax_setting">Effets Dolby</string>
     <string name="dolby_dax_title">Son surround</string>
     <string name="early_morning">Matin</string>
-    <string name="effect_3dsurround">Son surround</string>
+    <string name="effect_3dsurround">Son immersif</string>
     <string name="effect_3dsurround_summary">Améliorez la profondeur de la reproduction sonore pour les écouteurs et les haut-parleurs</string>
     <string name="effect_3dsurround_summary_headphone">Améliorer la profondeur de la reproduction sonore pour les écouteurs</string>
+    <string name="effect_virtual_surround">Son immersif virtuel</string>
+    <string name="effect_virtual_surround_summary">"Enrichir la profondeur du son pour la lecture audio et vidéo dans les écouteurs (cette fonctionnalité ne fonctionnera pas lorsque l'audio %.1f est lu)"</string>
     <string name="end_wireless_transmission">Arrêter</string>
     <string name="eq_auto">Personnaliser</string>
     <string name="eq_blues">Blues</string>
@@ -470,7 +472,7 @@
     <string name="sound_transmission_stop">Pause</string>
     <string name="sound_transmission_title">Micro sans fil</string>
     <string name="spatial_audio">Suivre le mouvement de la tête</string>
-    <string name="spatial_audio_summary">Ajustez le son surround en fonction du mouvement de la tête</string>
+    <string name="spatial_audio_summary">Ajustez le son immersif en fonction du mouvement de la tête</string>
     <string name="speaker_scenario_resume">"Restaurer les effets d'origine"</string>
     <string name="start_test_sound">Démarrer le test</string>
     <string name="sunday">Dimanche</string>
