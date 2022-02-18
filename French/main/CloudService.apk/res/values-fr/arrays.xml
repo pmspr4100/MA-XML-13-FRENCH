@@ -49,7 +49,7 @@
         <item>"Localiser l'appareil"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray_pad">
-        <item>Synchroniser les données de l'application</item>
+        <item>"Synchroniser les données de l'application"</item>
         <item>Rechercher un appareil</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">

@@ -4800,7 +4800,7 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_last_version">Le micrologiciel est à jour</string>
     <string name="miheadset_local_ota">Mise à jour</string>
     <string name="miheadset_low_latency">Faible latence</string>
-    <string name="miheadset_manual">À propos de l'appareil</string>
+    <string name="miheadset_manual">"À propos de l'appareil"</string>
     <string name="miheadset_minus">Volume -</string>
     <string name="miheadset_moreSettingsInAi">Réglages supplémentaires</string>
     <string name="miheadset_multi_connect_mode">Multipoint</string>
