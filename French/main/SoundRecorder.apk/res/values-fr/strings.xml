@@ -272,6 +272,11 @@
     <string name="network_tip_dialog_title">Une connexion internet est nécessaire</string>
     <string name="network_unavailable_tip">Se connecter au réseau, puis réessayez.</string>
     <string name="new_record_name">Nouvel enregistrement</string>
+    <string name="new_saf_permission_dialog_content">"Les autorisations d'enregistrement ont été mises à jour. Autoriser l'enregistreur à accéder aux enregistrements d'appels.
+
+Comment accorder une autorisation
+Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Suivante</string>
     <string name="night">Soirée</string>
     <string name="no_content">No items here yet</string>
     <string name="no_file">Vide</string>
@@ -586,6 +591,7 @@
     <string name="the_united_nations_day">United Nations Day</string>
     <string name="the_valentines_day">"Valentine's Day"</string>
     <string name="the_water_lantern_festival">Water Lantern Festival</string>
+    <string name="this_folder">Utiliser ce dossier</string>
     <string name="thursday">Jeudi</string>
     <string name="thursday_short">Jeu</string>
     <string name="thursday_shortest">Jeu</string>
