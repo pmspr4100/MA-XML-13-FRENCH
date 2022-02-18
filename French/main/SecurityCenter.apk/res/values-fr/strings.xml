@@ -3144,8 +3144,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_center_batteryscan_normal">"Aucun problème d'utilisation de la batterie. Voir les résultats."</string>
     <string name="power_center_charge_status">En charge</string>
     <string name="power_center_charge_time">%1$s avant charge complète</string>
-    <string name="power_center_consume_fast">Utilisation excessive</string>
-    <string name="power_center_consume_fast">Draining battery</string>
+    <string name="power_center_consume_fast">Décharge batterie excessive</string>
     <string name="power_center_dialog_msg_bottom">You can increase battery life up to %1$dh %2$dm. Turn on Battery saver?</string>
     <string name="power_center_dialog_msg_title">Turn on to get %1$s of extra time. The following actions will be performed to save battery:</string>
     <string name="power_center_dialog_msg_top">When Battery saver is on, MIUI will perform the following optimizations:</string>
@@ -5185,7 +5184,6 @@ L'activation de l'une de ces fonctionnalités désactivera l'autre."</string>
 Essayez de mettre à l'échelle la définition !"</string>
     <string name="verify_shut_down_password_content">"Exiger la confirmation du verrouillage de l'écran si votre appareil est éteint alors qu'il est verrouillé"</string>
     <string name="verify_shut_down_password_title">"Confirmation d'arrêt"</string>
-    <string name="verify_shut_down_password_title">Shutdown confirmation</string>
     <string name="verify_sms_ensure_allow">Envoyer</string>
     <string name="verify_sms_title">"%1$s essaie d'envoyer un message…"</string>
     <string name="video_repeat">Rejouer</string>
