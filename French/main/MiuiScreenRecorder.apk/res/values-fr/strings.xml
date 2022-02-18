@@ -36,7 +36,8 @@
   <string name="app_notification_record_complete">"Enregistrement d'écran enregistré dans Galerie. Appuyez pour le voir."</string>
   <string name="app_notification_title">"Enregistreur d'écran"</string>
   <string name="auto_stop_title">Vidéo enregistrée avec succès</string>
-  <string formatted="false" name="battery_not_allowed">"Impossible d'enregistrer lorsque le niveau de la batterie est inférieur à 3%. Assurez-vous que la batterie est chargée à au moins 20%."</string>
+  <string name="battery_not_allowed">"Impossible d'enregistrer lorsque le niveau de la batterie est inférieur à 3%. Assurez-vous que la batterie est chargée à au moins 20%."</string>
+  <string name="battery_not_allowed_warning">"Impossible d'enregistrer lorsque la batterie est inférieure à %1$s. Assurez-vous que la batterie est chargée au moins à %2$s."</string>
   <string name="bit_rate">Qualité de la vidéo</string>
   <string name="bit_rate_summary">Une meilleure qualité signifie taille de fichier élevée</string>
   <string name="bubble_text">"Appuyez pour démarrer l'enregistrement"</string>
@@ -95,6 +96,7 @@
   <string name="low_battery_warning">"Niveau de batterie trop faible. Arrêtez l'enregistrement et enregistrez la vidéo."</string>
   <string name="low_memory">"Vous avez moins de 1 Go d'espace de stockage disponible. Vous pouvez enregistrer jusqu'à 20 minutes maintenant."</string>
   <string name="low_memory_for_pad">"Vous avez moins de %1$d Go d'espace de stockage disponible. Vous pouvez enregistrer jusqu'à %2$d minutes maintenant."</string>
+  <string name="low_memory_for_phone">"Vous avez moins de %1$d Go d'espace de stockage disponible. Vous pouvez enregistrer jusqu'à %2$d minutes maintenant."</string>
   <string name="low_memory_title">Espace de stockage insuffisant</string>
   <string name="low_momery_warning">"Espace de stockage insuffisant. Arrêtez l'enregistrement et enregistrez la vidéo."</string>
   <string name="memory_not_allowed">Aucun stockage disponible. Libérez du stockage pour enregistrer.</string>

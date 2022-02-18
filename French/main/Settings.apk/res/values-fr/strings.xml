@@ -12,6 +12,7 @@
     <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
     <string name="APN_NAME_CUWAP">China Unicom WAP</string>
     <string name="Accounts_settings_title">Comptes</string>
+    <string name="Intelligentpickfree">Détecter la voix</string>
     <string name="MiSans_title">MiSans</string>
     <string name="a11y_settings_label">"Paramètres d'accessibilité"</string>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
@@ -578,6 +579,9 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="ambient_display_tap_screen_title">Appuyer pour vérifier le téléphone</string>
     <string name="ambient_display_title">Appuyer deux fois sur tél. pour le consulter</string>
     <string name="ambient_display_wake_screen_title">Affichage de réveil</string>
+    <string name="anc_auto">Auto</string>
+    <string name="anc_depth">Fort</string>
+    <string name="anc_mild">Léger</string>
     <string name="android_beam_disabled_summary">Pour utiliser cette fonctionnalité, activez le NFC</string>
     <string name="android_beam_explained">Vous pouvez transmettre une page Web, une vidéo, ou tout autre contenu affiché sur votre écran à un autre appareil, en les rapprochant (généralement en les tenant dos à dos).</string>
     <string name="android_beam_label">Android Beam</string>
@@ -805,6 +809,11 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="audio_share_confirm">Partager</string>
     <string name="auto_adjst_effect_summary">Ajustez automatiquement la température de couleur à la lumière ambiante afin de maintenir un niveau de confort optimal</string>
     <string name="auto_adjust_effect_title">Ajustement automatique de la température de couleur</string>
+    <string name="auto_anc_closed">Désactivé</string>
+    <string name="auto_anc_fifteen_recover">%d secondes</string>
+    <string name="auto_anc_five_recover">%d secondes</string>
+    <string name="auto_anc_not_recover">Continuer</string>
+    <string name="auto_anc_ten_recover">%d secondes</string>
     <string name="auto_brightness_default_title">Par défaut</string>
     <string name="auto_brightness_description">"La luminosité de l'écran s'adapte automatiquement à votre environnement et à vos activités. Vous pouvez déplacer le curseur manuellement pour aider la luminosité adaptative à apprendre vos préférences."</string>
     <string name="auto_brightness_disclaimer">"Adapte la luminosité selon l'éclairage. Si l'option est activée, un réglage temporaire est possible."</string>
@@ -2776,6 +2785,8 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="done_button">Terminé</string>
     <string name="double_click_power_key">"Appuyer rapidement deux fois sur le bouton d'alimentation"</string>
     <string name="double_click_volume_down_when_lock">"Appuyer rapidement deux fois sur le bouton \"Volume -\" lorsque l'écran est verrouillé"</string>
+    <string name="double_connect">Connection double</string>
+    <string name="double_connect_summary">Pour connecter deux appareils</string>
     <string name="double_knock">"Toquer rapidement deux fois sur l'écran"</string>
     <string name="double_tap_power_for_camera_suggestion_title">"Ouvrir l'appareil photo rapidement"</string>
     <string name="double_tap_power_for_camera_summary">"Pour accéder rapidement à l'appareil photo, appuyez deux fois sur le bouton Marche/Arrêt. Fonctionne à partir de n'importe quel écran."</string>
@@ -3851,6 +3862,9 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="input_settings">Paramètres de saisie</string>
     <string name="insert_sim_card_and_try_again">Insérez votre carte SIM et réessayez.</string>
     <string name="input_text">Barre de saisie de texte</string>
+    <string name="inputdebuglog_select_level">"Niveau de journal d'entrée"</string>
+    <string name="inputdebuglog_select_level_show">Niveau %d</string>
+    <string name="inputdebuglog_select_level_summary">Sélectionnez le niveau</string>
     <string name="install_all_warning">"Votre téléphone et vos données personnelles sont très vulnérables aux attaques provenant d'applications inconnues. En installant des applications provenant de cette source, vous acceptez d'être le seul responsable de tout dommage causé à votre téléphone ou de toute perte de données pouvant découler de l'utilisation de telles applications."</string>
     <string name="install_applications">Sources inconnues</string>
     <string name="install_applications_title">Autoriser toutes sources appli</string>
@@ -4672,6 +4686,7 @@ D'autres personnes utilisent cet appareil.
     <string name="menu_stats_total">Utilisation totale</string>
     <string name="menu_stats_unplugged">Débranché depuis %1$s</string>
     <string name="menu_use_uss">"Utiliser l'USS"</string>
+    <string name="mi_headset_healthy">"Santé de l'écoute"</string>
     <string name="mi_pay">Mi Wallet</string>
     <string name="mi_pay_indonesia">Compte Mi Pay</string>
     <string name="mi_pay_summary">Carte de bus/Mi Pay/Émulateur de carte</string>
@@ -8231,6 +8246,9 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="transcode_settings_title">Media transcoding settings</string>
     <string name="transcode_user_control">Override transcoding defaults</string>
     <string name="transition_animation_scale_title">"Échelle de l'animation de transition"</string>
+    <string name="transparent_human_voice">Voix</string>
+    <string name="transparent_normal">Normal</string>
+    <string name="transparent_surroundings">Ambiant</string>
     <string name="trigger_carrier_provisioning">Déclencher la gestion des comptes opérateur</string>
     <string name="truetone_summary">Ajuster les couleurs à la lumière ambiante</string>
     <string name="truetone_title">Couleurs adaptatives</string>

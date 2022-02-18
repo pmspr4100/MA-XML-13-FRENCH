@@ -1176,6 +1176,14 @@
         <item>Vérifier pour le contenu DRM uniquement</item>
         <item>Toujours vérifier</item>
     </string-array>
+    <string-array name="inputdebuglog_select_level_entries">
+        <item>Niveau 0</item>
+        <item>Niveau 1</item>
+        <item>Niveau 2</item>
+        <item>Niveau 3</item>
+        <item>Niveau 4</item>
+        <item>Niveau 5</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>"Allumer l'écran"</item>
         <item>"Afficher l'animation"</item>

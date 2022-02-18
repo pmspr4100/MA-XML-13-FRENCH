@@ -37,6 +37,7 @@
   <string name="avrcp_notification_name">BT FONCTION AVANCÉE AVRCP</string>
   <string name="bluetooth_a2dp_sink_queue_name">Lecture en cours</string>
   <string name="bluetooth_advanced_feat_description">Fonction de navigation avancée Bluetooth</string>
+  <string name="bluetooth_broadcast_status">Diffusion activée</string>
   <string name="bluetooth_connected">Audio Bluetooth connecté</string>
   <string name="bluetooth_disconnected">Audio Bluetooth déconnecté</string>
   <string name="bluetooth_map_remote_advance_feature_support">"Fonction avancée d'accès aux messages prise en charge"</string>
@@ -62,6 +63,7 @@
   <string name="bluetooth_sap_notif_message">Demander au client de se déconnecter ?</string>
   <string name="bluetooth_sap_notif_ticker">Accès SIM Bluetooth</string>
   <string name="bluetooth_sap_notif_title">Accès SIM Bluetooth</string>
+  <string name="broadcast_notification_name">Statut de la diffusion</string>
   <string name="bt_audio_share_notification_content">Appuyez pour afficher les options</string>
   <string name="bt_audio_share_notification_title">Partage audio</string>
   <string name="bt_enable_cancel">Annuler</string>
