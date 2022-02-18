@@ -34,6 +34,19 @@
     <string name="downloading">Téléchargement :</string>
     <string name="downloading_desc">Téléchargement en cours, contrôle du statut dans la zone de notification.</string>
     <string name="fastboot_update_warning">"Cette mise à jour est uniquement destinée à l'installation fastboot !"</string>
+    <string name="fetch_notification_default_channel_name">Téléchargements</string>
+    <string name="fetch_notification_download_cancel">Annuler</string>
+    <string name="fetch_notification_download_complete">Terminer</string>
+    <string name="fetch_notification_download_downloading">En cours de téléchargement</string>
+    <string name="fetch_notification_download_eta_hrs">%1$dh %2$dm %3$ds restant</string>
+    <string name="fetch_notification_download_eta_min">%1$dm %2$ds restant</string>
+    <string name="fetch_notification_download_eta_sec">%1$ds restant</string>
+    <string name="fetch_notification_download_failed">Échec</string>
+    <string name="fetch_notification_download_pause">Pause</string>
+    <string name="fetch_notification_download_paused">En pause</string>
+    <string name="fetch_notification_download_resume">Reprendre</string>
+    <string name="fetch_notification_download_retry">Réessayer</string>
+    <string name="fetch_notification_download_starting">Démarrage en cours</string>
     <string name="fetching_data">Récupération du lien de téléchargement, veuillez patienter…</string>
     <string name="install_desc">"L'appareil va redémarrer en mode Recovery et installer le fichier suivant : %1$s
 Les données ne seront pas effacées."</string>

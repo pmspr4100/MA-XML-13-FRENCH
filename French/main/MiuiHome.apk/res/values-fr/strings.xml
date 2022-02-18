@@ -649,8 +649,6 @@
     <string name="reset_fail">Impossible de restaurer</string>
     <string name="reset_scene_prompt">"L'écran sera réinitialisé à la disposition par défaut."</string>
     <string name="reset_title">Restaurer</string>
-    <string name="resource_canary_leak_tip">il a une fuite !</string>
-    <string name="resource_canary_wait_for_heapdump_message">"Vidage de l'instantané de la pile..."</string>
     <string name="restore_icon_successful">Ajouté avec succès</string>
     <string name="russia_preinstall_folder_name">Russie</string>
     <string name="saturday">Samedi</string>
