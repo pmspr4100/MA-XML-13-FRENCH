@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <resources>
+    <string name="HIPS_Perm_External_Storage">Stockage</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Accéder et enregistrer des fichiers et des photos sur votre appareil</string>
+    <string name="HIPS_Perm_Read_Contact">Contacts</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Accéder aux contacts</string>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>

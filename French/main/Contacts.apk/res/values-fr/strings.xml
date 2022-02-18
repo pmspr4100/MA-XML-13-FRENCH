@@ -348,6 +348,7 @@
     <string name="calllog_menu_blacklist">Ajouter à la liste noire</string>
     <string name="calllog_menu_edit_before_call">Éditer</string>
     <string name="calllog_menu_send_sms">Envoyer un SMS</string>
+    <string name="calllog_record_none_toast">"Aucun enregistrement d'appel à afficher"</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
     <string name="callrecordview_item_op_time_missed">non connecté</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -1008,6 +1009,12 @@ Raison : \"%s\""</string>
     <string name="name_phonetic_middle">Nom usuel phonétique</string>
     <string name="name_prefix">Préfixe de nom</string>
     <string name="name_suffix">Suffixe de nom</string>
+    <string name="new_saf_permission_dialog_content">"Les autorisations des contacts ont été mises à jour. Autoriser les contacts à accéder aux enregistrements d'appels.
+
+Comment accorder une autorisation
+Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Suivant</string>
+    <string name="new_saf_permission_dialog_title"><b>Autorisations requises</b></string>
     <string name="next">Suivant</string>
     <string name="next_birthday">Prochain anniversaire : %s</string>
     <string name="nfc_vcard_file_name">Contact reçu par NFC</string>
@@ -1595,6 +1602,7 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="the_united_nations_day">United Nations Day</string>
     <string name="the_valentines_day">"Valentine's Day"</string>
     <string name="the_water_lantern_festival">Water Lantern Festival</string>
+    <string name="this_folder">Utiliser ce dossier</string>
     <string name="theme_dialog_confirm_button">Compris</string>
     <string name="theme_dialog_confirm_content">Cette version de Contacts ne gère pas le thème qui est actuellement appliqué.</string>
     <string name="theme_dialog_confirm_title">"Impossible d'appliquer le thème"</string>

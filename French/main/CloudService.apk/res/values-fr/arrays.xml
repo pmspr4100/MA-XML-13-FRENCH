@@ -32,6 +32,10 @@
         <item>"Sauvegarder les réglages importants, y compris pour le Wi-Fi et l'affichage"</item>
         <item>"Verrouiller à distance votre appareil si vous l'avez perdu"</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Synchronisez vos photos, notes, enregistrements et plus encore</item>
+        <item>Verrouillez votre appareil à distance en cas de perte</item>
+    </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>Synchroniser vos contacts, messages, notes, rendez-vous, et plus encore</item>
         <item>"Sauvegarder les applications, l'arrangement d'écran d'accueil, et le fond d'écran"</item>
@@ -44,13 +48,14 @@
         <item>Sauvegarder les paramètres système</item>
         <item>"Localiser l'appareil"</item>
     </string-array>
-    <string-array name="privacy_dialog_sync_runtime_perm_desc">
-        <item>For syncing events</item>
-        <item>For syncing messages</item>
-        <item>For syncing messages</item>
-        <item>For syncing contacts</item>
-        <item>For syncing contacts</item>
-        <item>For saving items on your device (e.g. images, videos, songs)</item>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Synchroniser les données de l'application</item>
+        <item>Rechercher un appareil</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Pour localiser votre appareil et passer en mode perdu</item>
+        <item>"Pour localiser cet appareil lorsqu'il n'est pas connecté à Internet"</item>
+        <item>"Pour accéder au numéro de téléphone afin de localiser cet appareil lorsqu'il n'est pas connecté à Internet"</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Sauvegardes</item>
@@ -97,11 +102,6 @@
         <item>Activer / configurer la synchronisation</item>
         <item>Galerie;Photos;Cloud;Sync;Services Cloud;Xiaomi Cloud</item>
     </string-array>
-    <string-array name="settings_search_music">
-        <item>Synchroniser la musique avec Xiaomi Cloud</item>
-        <item>Activer la synchronisation</item>
-        <item>Musique;Cloud;Synchronisation;Services Cloud;Xiaomi Cloud</item>
-    </string-array>
     <string-array name="settings_search_notes">
         <item>Synchroniser Notes avec Xiaomi Cloud</item>
         <item>Activer la synchronisation</item>
@@ -118,9 +118,9 @@
         <item>"Coffre d'applications;Cartes;Cloud;Synchronisation;Services Cloud;Xiaomi Cloud"</item>
     </string-array>
     <string-array name="settings_search_phrase">
-        <item>Sync quick replies</item>
-        <item>Turn on sync</item>
-        <item>Quick replies;Clipboard;Editor;Cloud;Sync;Cloud services</item>
+        <item>Synchroniser les réponses rapides</item>
+        <item>Activer la synchronisation</item>
+        <item>Réponses rapides;Presse-papiers;Éditeur;Cloud;Synchronisation;Services Cloud</item>
     </string-array>
     <string-array name="settings_search_recorder">
         <item>Synchroniser les enregistrements avec Xiaomi Cloud</item>
@@ -132,12 +132,22 @@
         <item>Restaurer des contacts, des photos, des messages, etc</item>
         <item>Corbeille;Éléments supprimés;Corbeille;Restaurer;Services Cloud;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Éléments supprimés dans Xiaomi Cloud</item>
+        <item>Restaurer des photos, des notes et plus encore</item>
+        <item>Corbeille;Éléments supprimés;Corbeille;Restaurer;Services Cloud;Xiaomi Cloud</item>
+    </string-array>
     <string-array name="settings_search_restore_device">
-        <item>Restore items from Xiaomi Cloud</item>
-        <item>Download backed up items to your device</item>
-        <item>Cloud;Back up;Backup;Restore;Cloud services;Xiaomi Cloud</item>
+        <item>Restaurer des éléments à partir de Xiaomi Cloud</item>
+        <item>Télécharger des éléments sauvegardés sur votre appareil</item>
+        <item>Cloud;Sauvegarde;Sauvegarde;Récupération;Services Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
+        <item>Synchronisation cloud de sécurité</item>
+        <item>Activer la synchronisation</item>
+        <item>Securité;Cloud;Synchronisation;Services Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
         <item>Synchronisation cloud de sécurité</item>
         <item>Activer la synchronisation</item>
         <item>Securité;Cloud;Synchronisation;Services Cloud;Xiaomi Cloud</item>
@@ -155,7 +165,12 @@
     <string-array name="settings_search_sync_manage">
         <item>Xiaomi Cloud. Tous les services Mi en un seul endroit.</item>
         <item>"Accédez à vos photos, contacts, messages et appareils de n'importe où"</item>
-        <item>Insufficient storage;Membership;Storage;Storage space;Cloud;Sync;Cloud services;Xiaomi Cloud;Trash;Deleted items;Security</item>
+        <item>Stockage insuffisant;Abonnement;Stockage;Espace de stockage;Cloud;Synchronisation;Services Cloud;Xiaomi Cloud;Corbeille;Éléments supprimés;Sécurité</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud. Tous les services Mi en un seul endroit.</item>
+        <item>Accédez à vos photos, notes et appareils où que vous soyez</item>
+        <item>Stockage insuffisant;Abonnement;Stockage;Espace de stockage;Cloud;Synchronisation;Services Cloud;Xiaomi Cloud;Corbeille;Éléments supprimés;Sécurité</item>
     </string-array>
     <string-array name="settings_search_wlan">
         <item>Synchroniser les réglages Wi-Fi avec Xiaomi Cloud</item>

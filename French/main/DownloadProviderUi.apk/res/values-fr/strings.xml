@@ -65,6 +65,7 @@
     <string name="cancel">Annuler</string>
     <string name="cancel_running_download">Annuler</string>
     <string name="cancle">Annuler</string>
+    <string name="category">Catégorie</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="choose_open_picture">"Sélectionnez l'action"</string>
     <string name="choose_open_time">"Choisissez quand vous voulez commencer"</string>
@@ -132,6 +133,7 @@
     <string name="do_not_support_url">"Ce type d'URL n'est pas supporté"</string>
     <string name="doc_filter">Documents</string>
     <string name="download">Téléchargements</string>
+    <string name="downloadCount">Téléchargements</string>
     <string name="download_auth">Obtention des autorisations…</string>
     <string name="download_complete">Téléchargé</string>
     <string name="download_description_content">"Téléchargements est une application système. Vous ne pourrez plus gérer vos téléchargements après l'avoir supprimée."</string>
@@ -367,6 +369,7 @@
     <string name="notify_install_guide_title">Installé %s avec succès</string>
     <string name="notify_not_support">Ces notifications ne sont pas gérées, mettez à jour maintenant</string>
     <string name="notify_only_wifi_download">En attente du Wi-Fi</string>
+    <string name="nowInstall">Installer</string>
     <string name="one_month">1 mois</string>
     <string name="only_support_torrent">Seuls les fichiers torrent sont pris en charge</string>
     <string name="Only_the_wifi">Utiliser uniquement le Wi-Fi</string>
@@ -491,6 +494,7 @@
     <string name="shortcut_dialog_create">Créer</string>
     <string name="shortcut_dialog_title">"Créer un raccourci d'écran d'accueil ?"</string>
     <string name="show_more">%s fichier(s) en plus</string>
+    <string name="size">Taille</string>
     <string name="size_byte">" o"</string>
     <string name="size_giga_byte">" Go"</string>
     <string name="size_kilo_byte">" Ko"</string>

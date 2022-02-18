@@ -351,6 +351,7 @@ Touch the screen to start GPS…"</string>
   <string name="cit_hide_menu">Hide menu</string>
   <string name="cit_hvdcp_charger_in">Charging via (USB_HVDCP)</string>
   <string name="cit_init_fp_fod_test_tip">Init Fingerprint Test Environment</string>
+  <string name="cit_ispv3_test">ISPv3 test</string>
   <string name="cit_kayboard_home_down">Button: HOME</string>
   <string name="cit_kayboard_power_down">Button: POWER</string>
   <string name="cit_kayboard_volume_down">Button: VOLUME DOWN</string>

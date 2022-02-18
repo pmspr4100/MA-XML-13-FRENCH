@@ -53,6 +53,7 @@
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
+    <string name="long_screenshot_error">"Impossible de prendre une capture d'écran. Réessayez."</string>
     <string name="long_screenshot_guide_text">"Appuyez pour faire
 une capture d'écran défilante"</string>
     <string name="long_screenshot_intercepted_error">"Impossible de faire une capture d'écran. Réessayer."</string>

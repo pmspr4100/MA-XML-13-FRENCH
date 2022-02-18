@@ -403,6 +403,7 @@ en utilisant %s"</string>
   <string name="face_error_timeout">"Essayez à nouveau le déverrouillage par reconnaissance faciale."</string>
   <string name="face_error_unable_to_process">On ne peut pas vérifier le visage. Essayez encore.</string>
   <string name="face_error_user_canceled">"Déverrouillage du visage annulé par l'utilisateur."</string>
+  <string name="face_error_vendor_unknown">"Quelque chose s'est mal passé. Essayer à nouveau."</string>
   <string name="face_icon_content_description">Icône de visage</string>
   <string name="face_name_template">Visage %d</string>
   <string name="face_recalibrate_notification_content">Pour améliorer la reconnaissance, veuillez réinscrire votre visage</string>
@@ -440,6 +441,7 @@ Si vous avez des questions, contactez l'administrateur de votre organisation."</
   <string name="fingerprint_error_timeout">"Délai de détection de l'empreinte digitale expiré. Veuillez réessayer."</string>
   <string name="fingerprint_error_unable_to_process">Veuillez réessayer.</string>
   <string name="fingerprint_error_user_canceled">"Opération d'authentification par empreinte digitale annulée par l'utilisateur."</string>
+  <string name="fingerprint_error_vendor_unknown">Quelque chose s'est mal passé. Essayer à nouveau.</string>
   <string name="fingerprint_icon_content_description">"Icône d'empreinte digitale"</string>
   <string name="fingerprint_name_template">Doigt %d</string>
   <string name="fingerprint_not_recognized">Non reconnu</string>

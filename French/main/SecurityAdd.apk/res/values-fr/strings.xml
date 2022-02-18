@@ -108,7 +108,8 @@
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="game_booster">Accélérateur de jeu</string>
-    <string name="gamebooster_network_dialog_message">"Permettre à Sécurité de se connecter au réseau afin d'utiliser toutes les fonctionnalités de Game Turbo ?"</string>
+    <string name="gamebooster_network_dialog_message">"Autoriser Sécurité de se connecter au réseau afin d'utiliser toutes les fonctionnalités de Game Turbo ?"</string>
+    <string name="gamebooster_network_dialog_message_pad">"Autoriser Sécurité à se connecter au réseau afin d'utiliser toutes les fonctionnalités de Game Turbo ?"</string>
     <string name="gamebooster_network_dialog_title">Certaines fonctionnalités ne sont pas disponibles</string>
     <string name="gamebox_no_network_btn">Recharger</string>
     <string name="gb_adv_touch_adv_title">Mode classique (par défaut)</string>
@@ -156,6 +157,7 @@
     <string name="gb_game_speed_closed_fail">Impossible de désactiver le mode Vitesse lumière</string>
     <string name="gb_game_speed_open">Le mode Vitesse lumière est activé</string>
     <string name="gb_game_speed_open_fail">"Impossible d'activer le mode Vitesse lumière"</string>
+    <string name="gb_global_settings">Paramètres généraux</string>
     <string name="gb_gpu_control_anisotropic_filtering">Filtrage anisotrope</string>
     <string name="gb_gpu_control_anti_aliasing">Anti-crénelage</string>
     <string name="gb_gpu_control_fps">Frame rate</string>
@@ -182,6 +184,9 @@
     <string name="gb_pannel_control_mode_high_quality">haute qualité</string>
     <string name="gb_pannel_control_mode_normal">Défaut</string>
     <string name="gb_pannel_control_mode_power_saving">"Économie d'énergie"</string>
+    <string name="gb_webwindow_schemedialog_accept">Ouvrir</string>
+    <string name="gb_webwindow_schemedialog_cancel">Annuler</string>
+    <string name="gb_webwindow_schemedialog_title">Ouvrir Jeux maintenant ?</string>
     <string name="gb_weixinpay_can_not_complete">Impossible de terminer le paiement. Installer pour continuer.</string>
     <string name="gdpr_msg"><Data>"Pour utiliser les fonctionnalités de base de Sécurité, vous devez accepter que Xiaomi collecte, traite, et utilise vos données personnelles, y compris sur la façon dont vous utilisez les fonctionnalités de Sécurité (par ex. les statistiques d'utilisation des données mobiles, les informations à propos de malwares, ainsi que des informations de base à propos de votre appareil) et d'autres types d'informations indiquées dans notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a>."</Data></string>
     <string name="gtb_dialog_privacy_speed_message">"Vous êtes sur le point d'utiliser Xunyou Game Booster. Ce service collectera votre identifiant de Compte Mi pour enregistrer la durée de votre abonnement."</string>
