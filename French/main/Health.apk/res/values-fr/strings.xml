@@ -77,10 +77,11 @@ Vous pourrez suivre vos entraînements et votre activité."</string>
   <string name="all_records">Tous les enregistrements</string>
   <string name="allergic_drugs">Allergies médicamenteuses</string>
   <string name="allergic_drugs_hint">"Indiquez le médicament et la réaction qu'il induit"</string>
-  <string name="allow_notice_periods">Active time period</string>
+  <string name="allow_notice_periods">Période active</string>
   <string name="altitude">Altitude</string>
   <string name="altitude_pressure_hint">"*L'altitude calculée en fonction de la pression atmosphérique est approximative"</string>
   <string name="altitude_range">Altitude</string>
+  <string name="am">AM</string>
   <string name="app_name">MiaoCourse</string>
   <string name="app_setting">Applications</string>
   <string name="audio_permission_dialog_desc">"La permission d'enregistrement audio a été retirée, merci de la redonner."</string>
@@ -108,6 +109,7 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="average_menstruation_days">Durée moyenne des règles</string>
   <string name="avg_altitude">Altitude moyenne</string>
   <string name="avg_day">Moyenne</string>
+  <string name="avg_earphone_listening_duration">Casque de musique</string>
   <string name="avg_finish_stand">Moyenne journalière (Se lever)</string>
   <string name="avg_freq">Fréquence moyenne</string>
   <string name="avg_heart_rate">Fréquence cardiaque moyenne</string>
@@ -116,6 +118,7 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="avg_low_pressure">Diastolique moyenne (faible)</string>
   <string name="avg_pace">Rythme cardiaque moyen</string>
   <string name="avg_steps">Pas quotidiens</string>
+  <string name="avg_treble_duration">Sons bruyants</string>
   <string name="awake_count">Réveils</string>
   <string name="awake_count_abnormal_description">Vous vous êtes réveillé(e) plusieurs fois lors de votre dernier sommeil.</string>
   <string name="awake_count_normal_description">"Vous vous êtes réveillé(e) une fois lors de votre dernier sommeil. C'est normal."</string>
@@ -135,11 +138,11 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="basic_info_label_height">Taille</string>
   <string name="basic_info_label_weight">Poids</string>
   <string name="basic_info_save">Sauvegarder</string>
-  <string name="bedtime">Heure du coucher</string>
-  <string name="bedtime_description">"L'heure du coucher est le moment où vous allez vous coucher et que vous posez votre téléphone. Cette heure est estimée à partir de votre prévision de coucher et de l'utilisation de votre appareil."</string>
   <string name="bedTime_early_description">Vous vous êtes couché(e) tôt. Si cela devient votre habitude à long terme, vous pouvez continuer et ignorer ce message.</string>
   <string name="bedTime_late_description">Vous vous êtes couché(e) tard.</string>
   <string name="bedTime_normal_description">"Vous vous êtes couché(e) à l'heure. Continuez comme ça !"</string>
+  <string name="bedtime">Heure du coucher</string>
+  <string name="bedtime_description">"L'heure du coucher est le moment où vous allez vous coucher et que vous posez votre téléphone. Cette heure est estimée à partir de votre prévision de coucher et de l'utilisation de votre appareil."</string>
   <string name="bg_control_dialog_go_set">Paramètres</string>
   <string name="bg_control_dialog_msg">"L'économiseur de batterie limitera l'activité en arrière-plan de Mi Santé. Autorisez Mi Santé à toujours s'exécuter en arrière-plan pour obtenir des statistiques précises."</string>
   <string name="bg_control_dialog_title">Restrictions en arrière-plan</string>
@@ -165,10 +168,11 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="body_water">Eau</string>
   <string name="body_water_descripe_content">"Le pourcentage d'eau corporelle désigne la proportion d'eau dans le poids total du corps humain. En général, le tissu musculaire contient plus d'eau que les autres parties du corps."</string>
   <string name="body_weight">Poids</string>
+  <string name="body_weight_2fkg">%1$.2f kg</string>
   <string name="body_weight_descripe_content">"L'indice de masse corporelle (IMC) est la masse corporelle divisée par le carré de la taille du corps (kg/㎡)."</string>
   <string name="body_weight_extremely_obesity">Obésité morbide</string>
-  <string name="body_weight_fkg">%1$.1f KG</string>
-  <string name="body_weight_kg">%1$d KG</string>
+  <string name="body_weight_fkg">%1$.1f kg</string>
+  <string name="body_weight_kg">%1$d kg</string>
   <string name="body_weight_little_obesity">Modérément obèse</string>
   <string name="body_weight_normal">Normal</string>
   <string name="body_weight_obesity">Obèse</string>
@@ -178,8 +182,8 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="body_weight_unmeasure_today">"Pas de pesée aujourd'hui"</string>
   <string name="bone_mass">Masse osseuse</string>
   <string name="bone_mass_descripe_content">"Les minéraux dans l'os représentent le composant inorganique du tissu osseux. La composition chimique des os change avec l'âge, affectant la densité minérale. Des études ont montré que des exercices de résistance réguliers à long terme peuvent effectivement retarder la détérioration osseuse, réduire le risque de fracture et améliorer la qualité de vie."</string>
-  <string name="breaststroke">Breaststroke</string>
-  <string name="butterfly_stroke">Butterfly</string>
+  <string name="breaststroke">Brasse</string>
+  <string name="butterfly_stroke">Papillon</string>
   <string name="button_record_menstruation">Enregistrer</string>
   <string name="buy">Acheter</string>
   <string name="camera_permission_desc">Pour changer la photo de profil</string>
@@ -205,6 +209,7 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="clear_text_end_icon_content_description">Effacer le texte</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="click_finish_stand">Appuyez si vous vous êtes levé(e)</string>
+  <string name="click_to_solve">Aide</string>
   <string name="climb">Montée de marches</string>
   <string name="climbing">Escalade</string>
   <string name="close">Fermer</string>
@@ -214,6 +219,7 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="collapse">Masquer</string>
   <string name="collect_diagnosis_log">Collecter les journaux</string>
   <string name="complete_preference_basic_info">Complétez votre profil</string>
+  <string name="complete_progress">Progrès</string>
   <string name="completed">"Terminé "</string>
   <string name="completed_stand">Vous vous êtes levé(e)</string>
   <string name="confirm_opening">Activer</string>
@@ -269,6 +275,7 @@ Si vous décidez de supprimer vos données de santé après avoir choisi de les 
   <string name="date_format_y_m_d_notranslate">dd/MM/yyyy</string>
   <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
+  <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="day">Jour</string>
   <string name="deep_light_detection_open_prompt">Votre cycle de sommeil sera analysé la prochaine que vous irez dormir</string>
   <string name="deep_sleep">Sommeil profond</string>
@@ -364,6 +371,11 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_sleep_goal_title">Objectif de durée de sommeil</string>
   <string name="dialog_sleep_record_auto_start">"Pour suivre le sommeil avec plus de précision, laissez Mi Santé démarrer automatiquement."</string>
   <string name="dialog_sure">OK</string>
+  <string name="dialog_upgrade_description">"1. Nouveau design.
+2. Synchronisez les données sur tous les appareils.
+3. Affichez les données de santé de Santé, Xiaomi Wear et d'autres applications en un seul endroit."</string>
+  <string name="dialog_upgrade_positive_btn">Mettre à jour</string>
+  <string name="dialog_upgrade_title">Mi Fitness</string>
   <string name="dialog_user_agreement_purpose">Bienvenue sur Mi Santé ! Vous pouvez utiliser cette application pour compter les pas, suivre le sommeil, les règles et le poids, ainsi que synchroniser vos statistiques avec le cloud.</string>
   <string name="dialog_user_agreement_purpose2">"Bienvenue sur Mi Santé, vous pouvez utiliser cette application pour le podomètre de sport, le sommeil, l'enregistrement menstruel, le suivi du poids, le service Mi Santé Cloud et d'autres fonctions."</string>
   <string name="diastolic_pressure">Diastolique</string>
@@ -381,18 +393,21 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="each_week_day_format3">"Tous les %1$s jusqu'au %2$s"</string>
   <string name="early">Plus tôt</string>
   <string name="early_morning">Matin</string>
+  <string name="earphone_listening_duration">Casque de musique</string>
   <string name="edit_aid_file">Éditer</string>
   <string name="edit_basic_info_desc">Info de base</string>
   <string name="edit_immediately">"Entrer l'information"</string>
   <string name="edit_sleep_record_button">Quitter</string>
   <string name="elliptical_machine">Vélo elliptique</string>
   <string name="emergency_contact">"Contact en cas d'urgence"</string>
+  <string name="emergency_lock_show_subtitle">"Trouvez votre identifiant médical d'urgence en appuyant sur \"Urgence\" et \"Identifiant médical d'urgence\" lorsque votre écran est verrouillé."</string>
+  <string name="emergency_lock_show_title">Afficher lorsque verrouillé</string>
   <string name="enable">Activé</string>
   <string name="enable_go_now">Activé</string>
   <string name="enable_not_now">Pas maintenant</string>
   <string name="enable_right_now">Activé</string>
   <string name="enough">Suffisant</string>
-  <string name="enter_mi_health">Ouvrir Mi Santé</string>
+  <string name="enter_mi_health">Ouvrir Xiaomi Santé</string>
   <string name="environment_detection_again">Réessayez</string>
   <string name="environment_detection_fail">"On dirait que c'est trop bruyant ici"</string>
   <string name="environment_detection_fail_hint">Déplacez-vous dans un endroit calme et réessayez.</string>
@@ -400,6 +415,9 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="environment_detection_hint_two">Votre entraînement sera mis en pause et repris automatiquement en fonction des sons que vous produisez.</string>
   <string name="environment_detection_ing">"Vérification de l'environnement d'entraînement…"</string>
   <string name="equivalent_exercise">≈%1$s km marchés (%2$s kcal)</string>
+  <string name="eras_ad">Apr. J.-C.</string>
+  <string name="eras_bc">Av. J.-C.</string>
+  <string name="evaluation_origin_health">Les suggestions sont fournies par Santé.</string>
   <string name="evening">Après-midi</string>
   <string name="every_day">Tous les jours</string>
   <string name="excessive">Excessif</string>
@@ -481,9 +499,10 @@ S'il vous est encore difficile de vous endormir après 30 minutes au lit, rédui
   <string name="fewer">Peu</string>
   <string name="find_new_verision">La version %s est à présent disponible</string>
   <string name="finish">Terminé</string>
-  <string name="finish_stand">finish stand</string>
-  <string name="finish_stand2">Standing up</string>
+  <string name="finish_stand">Oui</string>
+  <string name="finish_stand2">Debout</string>
   <string name="finished_rate">Terminé %1$d%%</string>
+  <string name="first_aid_card">"Identifiant médical d'urgence"</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -545,6 +564,7 @@ S'il vous est encore difficile de vous endormir après 30 minutes au lit, rédui
   <string name="health_setting">Paramètres de santé</string>
   <string name="health_uninstall_dialog_content">"Mi Santé est une application système. Vous pouvez utiliser cette application pour compter les pas, suivre le sommeil, les règles et le poids, ainsi que synchroniser vos statistiques sur le cloud. Vous ne pourrez plus utiliser cette application après l'avoir désinstallée."</string>
   <string name="health_uninstall_dialog_title">Désinstaller Mi Santé ?</string>
+  <string name="hearing">Audition</string>
   <string name="heart_rate">Fréquence cardiaque</string>
   <string name="height">Taille</string>
   <string name="high">Élevé</string>
@@ -560,6 +580,7 @@ S'il vous est encore difficile de vous endormir après 30 minutes au lit, rédui
   <string name="home_tip_sync_done">Synchronisé avec succès</string>
   <string name="home_tip_sync_immediately">"Certains éléments n'ont pas été synchronisés. Appuyez pour synchroniser maintenant."</string>
   <string name="home_tip_syncing">Synchronisation des données de santé…</string>
+  <string name="hr_camera_permission_desc">Pour obtenir la fréquence des changements de lumière autour du doigt à travers la caméra afin de déterminer la valeur de la fréquence cardiaque</string>
   <string name="hr_choose_detect_state">Choisissez votre état lors de la mesure</string>
   <string name="hr_cover_to_red">"Recouvrez complètement l'objectif photo avec votre doigt.
 Attendez que le cercle devienne rouge."</string>
@@ -600,7 +621,6 @@ Recommencer."</string>
   <string name="hr_phone_detect_records">Historique des mesures du téléphone</string>
   <string name="hr_pre_detect">Couvrez complètement le flash et le capteur avec un doigt</string>
   <string name="hr_pre_detect_finger">Vérification…</string>
-  <string name="hr_pre_detect_finger_desc">Vérifier si le flash et le capteur sont entièrement couverts. Ne bougez pas votre doigt.</string>
   <string name="hr_re_detect_title">Recommencer</string>
   <string name="hr_report_active_desc">"Mesurer votre fréquence cardiaque juste après un exercice physique peut vous aider à ajuster vos exercices habituels, car les entraînements d'intensité différente ont différentes zones de fréquence cardiaque optimales. Si votre fréquence cardiaque est trop élevée, l'activité pourrait être préjudiciable à votre santé, entraînant des étourdissements, une oppression thoracique et d'autres risques. Une fréquence cardiaque basse peut être le signe d'une faible efficacité d'un entraînement particulier."</string>
   <string name="hr_report_active_high_desc">"Votre fréquence cardiaque nous indique que vous pratiquez une activité physique d'intensité relativement élevée. Votre cœur et vos poumons travaillent dur."</string>
@@ -666,11 +686,11 @@ Recommencer."</string>
   <string name="label_record_detail_page_source">Source</string>
   <string name="label_set_exercise">"Fixer l'objectif de l'activité"</string>
   <string name="label_sleep">Endormi</string>
+  <string name="label_sleep2">Endormi</string>
   <string name="label_sleep_duration">Durée de sommeil</string>
   <string name="label_sleep_intercept">Interrompu</string>
   <string name="label_sleep_time">Endormi</string>
   <string name="label_sleep_time2">"Heure d'endormissement"</string>
-  <string name="label_sleep2">Endormi</string>
   <string name="label_start_time">Démarrer</string>
   <string name="label_today_exercise_consumption">Brûlé</string>
   <string name="label_today_exercise_summary">"Pas d'aujourd'hui"</string>
@@ -688,6 +708,7 @@ Recommencer."</string>
   <string name="light_sleep_time_decrease_description">Votre sommeil léger est trop court</string>
   <string name="light_sleep_time_increase_description">Votre sommeil léger est trop long</string>
   <string name="light_sleep_time_normal_description">"Votre sommeil léger est d'une durée adéquate"</string>
+  <string name="listening_duration">Casque de musique</string>
   <string name="load_failed">Impossible de charger les éléments. Attendez une minute ou deux et réessayez.</string>
   <string name="loading">Un instant…</string>
   <string name="location_perm_description">Pour suivre les entraînements en extérieur et enregistrer les itinéraires</string>
@@ -703,6 +724,16 @@ Recommencer."</string>
   <string name="location_service_dialog_title">Les services de localisation sont désactivés</string>
   <string name="location_service_ntfc_content">Mi Santé</string>
   <string name="location_service_ntfc_title">Recherche du signal GPS…</string>
+  <string name="lock_not_support_description">"Pour rendre votre identifiant médical d'urgence disponible à partir de l'écran de verrouillage, appuyez sur Plus > Modifier et activez Afficher si verrouillé."</string>
+  <string name="lock_show_dialog_content">"Votre identifiant médical d'urgence est accessible sans déverrouiller votre téléphone.
+Si vous ne souhaitez pas partager vos informations, vous pouvez désactiver cette fonctionnalité."</string>
+  <string name="lock_show_dialog_title">Attention</string>
+  <string name="lock_show_solve_description">"Pour afficher l'identifiant médical d'urgence sur votre écran de verrouillage, autorisez l'affichage de Santé sur l'écran de verrouillage."</string>
+  <string name="lock_show_solve_go">Paramètres</string>
+  <string name="lock_show_solve_path">"Appuyez sur \"Paramètres\" ci-dessous, choisissez \"Afficher sur l'écran de verrouillage\", puis sélectionnez \"Toujours autoriser\"."</string>
+  <string name="lock_show_solve_title">Ajouter des informations sur votre écran de verrouillage</string>
+  <string name="lock_support_description">"Votre identifiant médical d'urgence peut être consulté en appuyant sur \"Urgence\" et \"Identifiant médical d'urgence\" lorsque votre écran est verrouillé."</string>
+  <string name="lock_support_description2">"Vous ne trouvez pas l'identifiant médical sur votre écran de verrouillage ?"</string>
   <string name="login_and_open_sync">Connectez-vous et activez la synchronisation</string>
   <string name="login_and_open_sync2">Connectez-vous et activez la synchronisation</string>
   <string name="low">Faible</string>
@@ -723,8 +754,8 @@ Recommencer."</string>
   <string name="mark_start">Démarrer</string>
   <string name="max_altitude">Altitude la plus élevée</string>
   <string name="max_heart_rate">Fréquence cardiaque la plus élevée</string>
-  <string name="max_high_pressure">Max systolic (upper)</string>
-  <string name="max_low_pressure">Max diastolic (lower)</string>
+  <string name="max_high_pressure">Max. systolique (supérieur)</string>
+  <string name="max_low_pressure">Max. diastolique (inférieur)</string>
   <string name="maximum">Maximum</string>
   <string name="maximum_pace">Rythme le plus élevé</string>
   <string name="mcv2_back_button_desc">Retour</string>
@@ -778,13 +809,13 @@ Recommencer."</string>
   <string name="mens_guess_menstrual_period_end">Il semble que vos règles sont terminées</string>
   <string name="mens_guess_not_in_menstrual_period">"Il semble que vous n'avez pas de règles en ce moment"</string>
   <string name="mens_not_in_menstrual_period">Pas de règles</string>
-  <string name="mens_period_days">Cycle duration</string>
+  <string name="mens_period_days">Durée du cycle</string>
   <string name="mens_period_ovulation">Ovulation</string>
   <string name="mens_period_start">Début</string>
   <string name="mens_predict_day_ovulation">"Il semble que vous êtes en train d'ovuler"</string>
   <string name="mens_predict_not_in_menstrual_period">"Il semble que vous n'avez pas de règles en ce moment"</string>
-  <string name="mens_record_and_predict_more">"Don't forget to record your period"</string>
-  <string name="mens_tip_prepare_sth">"Don't forget to record your period"</string>
+  <string name="mens_record_and_predict_more">"N'oubliez pas d'enregistrer vos règles"</string>
+  <string name="mens_tip_prepare_sth">"N'oubliez pas d'enregistrer vos règles"</string>
   <string name="menses_auto_start_description">"Activer les rappels permettra d'autoriser à Mi Santé de s'auto-démarrer."</string>
   <string name="menses_features_description">Enregistrez vos règles et recevez des rappels</string>
   <string name="menstrual_assistant">Règles menstruelles</string>
@@ -809,7 +840,7 @@ Recommencer."</string>
   <string name="middle">Moyen</string>
   <string name="middle_intensity_description">Fréquence respiratoire plus rapide qui vous permet de terminer des phrases</string>
   <string name="midnight">Nuit</string>
-  <string name="mild_abnormal">Stage 1 hypertension</string>
+  <string name="mild_abnormal">Hypertension de stade 1</string>
   <string name="mild_abnormal_tip">3 jours par semaine après le lever et avant le coucher</string>
   <string name="min_altitude">Altitude min.</string>
   <string name="min_heart_rate">Rythme cardiaque min.</string>
@@ -818,6 +849,8 @@ Recommencer."</string>
   <string name="min_pace">Rythme le plus bas</string>
   <string name="minimum">Minimum</string>
   <string name="minute">M</string>
+  <string name="miuix_access_state_desc">Sélectionné</string>
+  <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
@@ -830,11 +863,12 @@ Recommencer."</string>
   <string name="miuix_appcompat_delete_description">Supprimer</string>
   <string name="miuix_appcompat_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
-  <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
   <string name="miuix_appcompat_search_input_description">Recherche</string>
   <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+  <string name="miuix_indexer_selected">%s sélectionné</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -897,6 +931,7 @@ Recommencer."</string>
   <string name="more">Plus</string>
   <string name="more_card">Plus de cartes</string>
   <string name="more_questions">Plus</string>
+  <string name="morning">"AM "</string>
   <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="mtrl_picker_date_format">d MMM yyyy</string>
@@ -1028,7 +1063,6 @@ Recommencer."</string>
   <string name="recog_permission_dialog_content">"Autorisez Mi Santé à accéder à vos informations d'activité pour pouvoir voir le nombre de pas."</string>
   <string name="recog_permission_dialog_title">Autorisations requises</string>
   <string name="recommand_body_weight_msg">"Poids cible recommandé : %1$.1f kg. Atteindre l'IMC %2$.1f pour réduire le risque de maladies cardiovasculaires et hépatiques."</string>
-  <string name="recommend_sleep_goal">21:00-11:00</string>
   <string name="record_blood_pressure">Enregistrer la mesure</string>
   <string name="record_blood_pressure_exception1">Enregistrement impossible. La pression systolique ne peut pas être inférieure à la pression diastolique.</string>
   <string name="record_blood_pressure_exception2">Enregistrement impossible. Paramètres incorrects.</string>
@@ -1038,10 +1072,10 @@ Recommencer."</string>
   <string name="recorded_menstruation">Règles enregistrées</string>
   <string name="reference">Sources de référence</string>
   <string name="relationship_with_contact">Relation</string>
+  <string name="rem_Duration_increase_description">Votre sommeil paradoxal est trop long</string>
   <string name="rem_duration">Durée du sommeil paradoxal</string>
   <string name="rem_duration_decrease_description">Votre sommeil paradoxal est trop bref</string>
   <string name="rem_duration_description">"REM fait référence aux mouvements oculaires rapides. Le sommeil peut être divisé en sommeil à mouvements oculaires rapides (REM) et sommeil à mouvements oculaires non rapides (NREM). Le sommeil à mouvements oculaires rapides représente environ 20 à 25%% de la durée totale du sommeil. Lorsque les gens se réveillent à ce stade, 74 à 95%% d'entre eux disent qu'ils ont rêvé et sont capables de se souvenir de leurs rêves. Le cerveau est très actif et le corps est complètement détendu pendant le sommeil paradoxal, ce qui rend cette phase de sommeil essentielle au maintien des fonctions cognitives."</string>
-  <string name="rem_Duration_increase_description">Votre sommeil paradoxal est trop long</string>
   <string name="rem_duration_normal_description">La durée du sommeil paradoxal est normale</string>
   <string name="remarks">Remarques</string>
   <string name="remind">Rappeler</string>
@@ -1065,7 +1099,7 @@ Recommencer."</string>
   <string name="remove">Supprimer</string>
   <string name="repeat_mode">Répéter</string>
   <string name="rest_time_between_sets">Repos</string>
-  <string name="resting_heart_rate">Resting heart rate</string>
+  <string name="resting_heart_rate">Fréquence cardiaque au repos</string>
   <string name="resting_heart_rate_desc">A normal heart rate for adults at rest ranges from 60 to 100 beats per minute. It may vary depending on age, gender, and other factors.</string>
   <string name="retraction_time">Temps de récupération</string>
   <string name="retry">Réessayer</string>
@@ -1113,6 +1147,7 @@ Recommencer."</string>
   <string name="setting_sedentary_off">Désactivé</string>
   <string name="setting_sedentary_on">Activé</string>
   <string name="setting_sedentary_title">Se rappeler de bouger</string>
+  <string name="setting_walking_goals">Fixez-vous des objectifs de marche</string>
   <string name="severe_abnormal">"Crises d'hypertension"</string>
   <string name="severe_abnormal_tip">Prendre au moins deux mesures tous les jours, une après le réveil et une avant de se coucher</string>
   <string name="share">Partager</string>
@@ -1217,14 +1252,13 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sleep_duration_insufficient_description">"Dormir moins de 6 heures de sommeil ne vous suffit pas."</string>
   <string name="sleep_duration_more_description">"Vous avez dormi plus que nécessaire."</string>
   <string name="sleep_empty_data_tips">Allez pour un parcours entier de sommeil</string>
-  <string name="sleep_goal">Goals</string>
+  <string name="sleep_goal">Objectifs</string>
   <string name="sleep_goal_by_hours_minutes">Objectif : %1$s %2$s</string>
   <string name="sleep_goal_compliance">Bon sommeil</string>
   <string name="sleep_goal_maybe_compliance">Assez bon sommeil</string>
   <string name="sleep_goal_not_compliance">Sommeil insuffisant</string>
   <string name="sleep_goal_not_upto_standard">"Vous n'avez pas assez dormi."</string>
   <string name="sleep_health_model_hint">"Recommandations d'évaluation du sommeil fournies par Miao Health"</string>
-  <string name="sleep_incomplete_deep_light_data_tip">"Pourquoi les informations sur le sommeil léger et profond sont-elles incomplètes ?"</string>
   <string name="sleep_keep_hard">Problèmes pour rester endormi</string>
   <string name="sleep_light">Sommeil léger</string>
   <string name="sleep_management_content1">Définissez des rappels pour vous coucher et vous lever</string>
@@ -1236,10 +1270,10 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sleep_need_necessary_permissions">Accordez les autorisations requises pour rendre les données de sommeil plus précises</string>
   <string name="sleep_night_title">Sommeil de nuit</string>
   <string name="sleep_no_data_info">"Allez pour un parcours de
-    sommeil entier"</string>
+sommeil entier"</string>
   <string name="sleep_no_deep_light_data_tip">"Pourquoi les sommeils léger et profond ne sont-ils pas enregistrés ?"</string>
   <string name="sleep_no_generate_report">"Impossible de trouver les
-    données de sommeil"</string>
+données de sommeil"</string>
   <string name="sleep_notice">Notifications de sommeil</string>
   <string name="sleep_record_content">"Mi Santé enregistrera automatiquement votre sommeil en fonction de l'utilisation de votre téléphone, des statistiques d'activité, ainsi que de l'heure de l'endormissement et du réveil que vous avez définis."</string>
   <string name="sleep_record_go_open">Basculez le commutateur \"Suivre sommeil\" pour commencer à enregistrer les données de sommeil</string>
@@ -1277,7 +1311,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sleep_today">"Aujourd'hui"</string>
   <string name="sleep_tracing_operation">Suivi du sommeil…</string>
   <string name="sleep_track">Suivi du sommeil</string>
-  <string name="sleep_turn_over_times_title">Turned</string>
+  <string name="sleep_turn_over_times_title">Retourné</string>
   <string name="sleep_week">Semaine</string>
   <string name="slide_freq">Fréquence de coups de rame</string>
   <string name="slow">Lent</string>
@@ -1319,6 +1353,30 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="snore_record_audio_delete_title">"Supprimer l'enregistrement ?"</string>
   <string name="snore_section">Ronflement %1$s</string>
   <string name="snore_write_description">Pour sauvegarder des enregistrements audio sur votre appareil</string>
+  <string name="solar_term_autumn_begins">"Début de l'automne"</string>
+  <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
+  <string name="solar_term_clear_and_bright">Pure lumière</string>
+  <string name="solar_term_cold_dews">Rosée froide</string>
+  <string name="solar_term_grain_buds">Petite plénitude</string>
+  <string name="solar_term_grain_in_ear">Grains en épis</string>
+  <string name="solar_term_grain_rain">Pluie pour les céréales</string>
+  <string name="solar_term_great_cold">Grand froid</string>
+  <string name="solar_term_great_heat">Grande canicule</string>
+  <string name="solar_term_heavy_snow">Grande neige</string>
+  <string name="solar_term_hoar_frost_falls">Descente du givre</string>
+  <string name="solar_term_insects_awaken">Éveil des insectes</string>
+  <string name="solar_term_light_snow">Petite neige</string>
+  <string name="solar_term_slight_cold">Petit froid</string>
+  <string name="solar_term_slight_heat">Petite canicule</string>
+  <string name="solar_term_spring_begins">Début du printemps</string>
+  <string name="solar_term_stopping_the_heat">Arrêt de la canicule</string>
+  <string name="solar_term_summer_begins">"Début de l'été"</string>
+  <string name="solar_term_summer_solstice">"Solstice d'été"</string>
+  <string name="solar_term_the_rains">Eau et pluie</string>
+  <string name="solar_term_vernal_equinox">Équinoxe de printemps</string>
+  <string name="solar_term_white_dews">Rosée blanche</string>
+  <string name="solar_term_winter_begins">"Début de l'hiver"</string>
+  <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
   <string name="sport_audio_permission_dialog_content">"Cette application a besoin d'autorisations pour enregistrer de l'audio pour pouvoir suivre les entraînements en fonction des sons que vous produisez."</string>
   <string name="sport_audio_permission_dialog_desc">Pour suivre les entraînements en fonction des sons que vous produisez</string>
   <string name="sport_audio_permission_dialog_title">Autorisations requises</string>
@@ -1492,8 +1550,6 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="tb_exercise_list_sport">%1$s. Distance en kilomètres : %2$s. Heure de fin : %3$s. Source de données : %4$s. Appuyez pour afficher les détails.</string>
   <string name="tb_exercise_list_sport_one">%1$s. Durée : %2$s. Heure de fin : %3$s. Source de données : %4$s. Appuyez pour afficher les détails.</string>
   <string name="tb_exercise_list_walk">Nombre de pas : %1$s. Heure de fin : %2$s. Appuyez pour afficher les détails.</string>
-  <string name="tb_exercise_sport_no_distance">%1$s. Durée %2$s. Calories brûlées : %3$s.</string>
-  <string name="tb_exercise_sport_normal">%1$s. Distance %2$s. Durée : %3$s. Calories brûlées : %4$s.</string>
   <string name="tb_exercise_sport_sum">"Rapport d'exercice. %1$s. Appuyez pour afficher les détails."</string>
   <string name="tb_exercise_steps_no_data">Aucune donnée des pas. Objectif actuel : %1$d. Appuyez pour afficher les détails.</string>
   <string name="tb_exercise_steps_no_goal">Nombre de pas : %1$d. Appuyez pour afficher les détails.</string>
@@ -1510,6 +1566,10 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="tb_go_next_a_day">Jour précédent</string>
   <string name="tb_go_on_detection">Reprendre</string>
   <string name="tb_has_snore_dream_talk">Conversations et ronflements détectés</string>
+  <string name="tb_hearing_card">Audition | Exposition au casque : %1$s | Enregistré : %2$s.</string>
+  <string name="tb_hearing_column">%1$s | Exposition au casque : %2$s | Sons Bruyants : %3$s.</string>
+  <string name="tb_hearing_daily_card">%1$s | Exposition au casque : %2$s | Sons Bruyants : %3$s.</string>
+  <string name="tb_hearing_wm_card">%1$s | Exposition moyenne au casque : %2$s | Exposition moyenne aux sons Bruyants : %3$s.</string>
   <string name="tb_heart_rate_max_min">Fréquence cardiaque. Plus haute : %1$d. Plus basse : %2$d.</string>
   <string name="tb_home_blood_pressure_card">Pression artérielle. Systolique : %1$d. Diastolique : %2$d. Enregistrée : %3$s. Statut : %4$s.</string>
   <string name="tb_home_blood_pressure_card_no_data">Pression artérielle. Aucune donnée.</string>
@@ -1577,6 +1637,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="tb_stand_day_ring">"Pauses debout aujourd'hui : %1$s. Vous devez en faire au moins 12 aujourd'hui."</string>
   <string name="tb_stand_wm_column_chart">Pauses debout entre %1$s et %2$s. Faites glisser votre doigt horizontalement pour basculer entre les périodes. Appuyez pour afficher les détails.</string>
   <string name="tb_stand_wm_column_click">%1$s. Pauses debout : %2$d. %3$s.</string>
+  <string name="tb_step_widget" formatted="false">"Aujourd'hui. %1$s. Progrès : %2$d%"</string>
   <string name="tb_unmultiple_selecte_all">Tout désélectionner</string>
   <string name="tb_user_account_signed">Compte Mi : %1$s.</string>
   <string name="tb_user_account_unsigned">Appuyez pour vous connecter à votre Compte Mi</string>
@@ -1585,6 +1646,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="tb_user_step_card_info">Objectif quotidien : %1$s, environ %2$s ou %3$s.</string>
   <string name="tb_user_step_target_btn">"Modifier l'objectif"</string>
   <string name="tb_user_weight_card_info">IMC %1$s, %2$s. Poids recommandé : %3$s.</string>
+  <string name="tb_volume_list_item">%1$s | Sons environnants : %3$s (%2$d dB).</string>
   <string name="tb_weight_choice">%2$s de %1$s est %3$s</string>
   <string name="tb_weight_decrease">Poids perdu</string>
   <string name="tb_weight_has_record">Pesée trouvée</string>
@@ -1617,7 +1679,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="the_laba_festival">Laba Festival</string>
   <string name="the_labour_day">Labor Day</string>
   <string name="the_lantern_festival">Lantern Festival</string>
-  <string name="the_mid_autumn_festival">Mid Autumn Festival</string>
+  <string name="the_mid_autumn_festival">Mid-Autumn Festival</string>
   <string name="the_national_day">National Day</string>
   <string name="the_national_father_day">"Sun Yat-sen's Birthday"</string>
   <string name="the_new_years_day">New Year</string>
@@ -1687,7 +1749,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">Mar</string>
-  <string name="turn_count">Turned</string>
+  <string name="turn_count">Retourné</string>
   <string name="turn_on_necessary_permissions">Des permissions sont nécessaires pour suivre le sommeil.</string>
   <string name="unable_record_future_menstruation">"Impossible d'enregistrer les périodes futures"</string>
   <string name="unbound">Supprimé</string>
@@ -1719,13 +1781,20 @@ Mettre à jour maintenant ?"</string>
   <string name="user_agreement">"Accord d'utilisation"</string>
   <string name="user_birthday_display_format">dd/MM/yyyy</string>
   <string name="user_center">"Centre de l'utilisateur"</string>
-  <string name="user_invalid_value">--</string>
   <string name="v7_preference_off">Désactivé</string>
   <string name="v7_preference_on">Activé</string>
   <string name="value_error_correct">"Modifier l'enregistrement"</string>
+  <string name="view_step_and_progress">Afficher votre nombre de pas actuel</string>
   <string name="visceral_fat">Graisse viscérale</string>
   <string name="visceral_fat_descripe_content">La graisse viscérale est essentielle pour stabiliser et protéger les organes internes. Cependant, une graisse viscérale élevée augmente le risque de maladies cardiovasculaires et métaboliques.</string>
   <string name="voice_remind">"Nous avons augmenté le volume pour que vous entendiez mieux les instructions."</string>
+  <string name="volume_high">Bruyant</string>
+  <string name="volume_high_description">"Pour éviter d'endommager votre ouïe, utilisez des écouteurs antibruit. N'augmentez pas le volume pour couvrir le bruit."</string>
+  <string name="volume_level">Sons environnants</string>
+  <string name="volume_normal">OK</string>
+  <string name="volume_normal_description">"L'exposition à des sons faibles ne devrait pas causer de dommages auditifs. Ils peuvent aider à la concentration."</string>
+  <string name="volume_too_high">Très bruyant</string>
+  <string name="volume_too_high_description">"Une exposition répétée et prolongée à des sons très forts peut causer des dommages auditifs. Pour protéger votre audition, éloignez-vous des bruits forts ou envisagez de porter des bouchons d'oreille ou des écouteurs antibruit."</string>
   <string name="walk">Marche</string>
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>
@@ -1736,7 +1805,7 @@ Mettre à jour maintenant ?"</string>
   <string name="weight_remind">Rappels de pesée</string>
   <string name="weight_setting">Paramétrages du poids</string>
   <string name="weight_trend_offset_date">"De %1$s à %2$s : "</string>
-  <string name="weight_unit_kg">KG</string>
+  <string name="weight_unit_kg">kg</string>
   <string name="welcome_back">Bienvenue à nouveau !</string>
   <string name="welcome_exercise">Suivre les entraînements</string>
   <string name="welcome_exercise_description">Emportez votre appareil avec vous pour suivre automatiquement vos entraînements</string>
