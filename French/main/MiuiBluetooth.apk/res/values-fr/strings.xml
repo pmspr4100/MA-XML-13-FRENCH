@@ -222,6 +222,12 @@ Sélection"</string>
     <string name="clear_adb_keys">Révoquer les autorisations de débogage USB</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="close">Fermer</string>
+    <string name="config_net_device_connect">Connecter</string>
+    <string name="config_net_device_find">Connecter un appareil</string>
+    <string name="config_net_not_my_device">Annuler</string>
+    <string name="confignet_app_download">Installer</string>
+    <string name="confignet_cancel">Annuler</string>
+    <string name="confignet_download_title">Installer Mi Fitness pour continuer</string>
     <string name="confirm_enable_oem_unlock_text">"ATTENTION : Les fonctions de protection d'appareil ne fonctionneront pas sur celui-ci tant que ce paramètre est actif."</string>
     <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
     <string name="connected_via_app">Connecté via %1$s</string>

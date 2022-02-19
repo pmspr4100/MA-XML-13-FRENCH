@@ -1171,6 +1171,7 @@ regarder plus grand sur les photos"</string>
     <string name="popup_tips_near_range_mode">Close focus</string>
     <string name="popup_tips_privacy_watermark_edit">Edit watermark</string>
     <string name="portait_effect_entry_blackwhite">Noir et Blanc</string>
+    <string name="portait_effect_entry_cold_white">Lumière des étoiles</string>
     <string name="portait_effect_entry_cool">Mint</string>
     <string name="portait_effect_entry_dusk">Crépuscule</string>
     <string name="portait_effect_entry_fairytale">Enfance</string>
@@ -1184,6 +1185,7 @@ regarder plus grand sur les photos"</string>
     <string name="portait_effect_entry_riddle">Bonbons</string>
     <string name="portait_effect_entry_romance">Romantique</string>
     <string name="portait_effect_entry_sepia">Sépia</string>
+    <string name="portait_effect_entry_shallots">Rayon de soleil</string>
     <string name="portait_effect_entry_story">Story</string>
     <string name="portait_effect_entry_tea">Thé</string>
     <string name="portrait_bokeh_first_tips">"Utilisez le mode Portrait pour rendre flou
@@ -1470,6 +1472,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_camera_video_tag_description">"Appuyez sur \"Marquer\" lors de l'enregistrement d'une vidéo pour pouvoir revenir aux moments marqués de la lecture."</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Déclencheur</string>
     <string name="pref_camera_volumekey_function_entry_timer">Compte à rebours</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Minuteur (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
     <string name="pref_camera_volumekey_function_title">Fonction des boutons de volume</string>
