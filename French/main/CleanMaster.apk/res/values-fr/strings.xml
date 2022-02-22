@@ -632,7 +632,6 @@
   <string name="no_network_btn">Réessayer</string>
   <string name="noon">Midi</string>
   <string name="not_selected_tips">"Sélectionnez d'abord les applications."</string>
-  <string name="not_selected_tips">"Sélectionnez d'abord les applications."</string>
   <string name="not_set">Non défini</string>
   <string name="notification_apk_clean_button_text">Nettoyer</string>
   <string name="notification_checker_installed_apk_hint">"Il n'est pas nécessaire de conserver les APK après installation"</string>
