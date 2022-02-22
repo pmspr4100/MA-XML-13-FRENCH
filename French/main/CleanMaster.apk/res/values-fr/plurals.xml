@@ -39,7 +39,11 @@
     </plurals>
     <plurals name="app_usage_year">
         <item quantity="other">"Non utilisé depuis %d ans"</item>
-        <item quantity="one">"Non utilisé depuis %d ans"</item>
+        <item quantity="one">"Non utilisé depuis %d an"</item>
+    </plurals>
+    <plurals name="clean_app_data_selected_app">
+        <item quantity="other">%d applications sélectionnées pour effacer les données</item>
+        <item quantity="one">%d application sélectionnée pour effacer les données</item>
     </plurals>
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"Nettoyage de %1$d fichiers (%2$d%%)
@@ -70,6 +74,10 @@
     <plurals name="dc_item_summary_app_data">
         <item quantity="other"><Data>"Vous pouvez effacer les données pour &lt;font color=#0097FF>%d&lt;/font> applications"</Data></item>
         <item quantity="one"><Data>"Vous pouvez effacer les données pour &lt;font color=#0097FF>%d&lt;/font> application"</Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">&lt;Data>"&lt;font color=#0097FF>%d&lt;/font> applications utilisent beaucoup d'espace de stockage"&lt;/Data></item>
+        <item quantity="one">&lt;Data>"&lt;font color=#0097FF>%d&lt;/font> application utilisen beaucoup d'espace de stockage"&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_image">
         <item quantity="other"><Data>"Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> photos inutiles"</Data></item>
@@ -205,6 +213,10 @@
         <item quantity="other">Téléchargé par %1$d personnes</item>
         <item quantity="one">Téléchargé par %1$d personnes</item>
     </plurals>
+    <plurals name="reset_app_selected_app">
+        <item quantity="other">%d applications sélectionnées à réinitialiser</item>
+        <item quantity="one">%d application sélectionnée à réinitialiser</item>
+    </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">
             <Data>"&lt;font color=#ff0000 >%d&lt;/font> les applications n'ont pas été utilisées depuis longtemps, jetez un œil."</Data>
@@ -224,6 +236,14 @@
     <plurals name="second">
         <item quantity="other">%1$d secondes</item>
         <item quantity="one">%1$d seconde</item>
+    </plurals>
+    <plurals name="select_app">
+        <item quantity="other">%d applications sélectionnées</item>
+        <item quantity="one">%d application sélectionnée</item>
+    </plurals>
+    <plurals name="unload_app_selected_app">
+        <item quantity="other">%d applications sélectionnées à désinstaller</item>
+        <item quantity="one">%d application sélectionnée à désinstaller</item>
     </plurals>
     <plurals name="video_clean_scan_app_result">
         <item quantity="other">%d applications avec des vidéos mises en cache</item>

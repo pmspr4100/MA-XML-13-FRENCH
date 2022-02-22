@@ -423,12 +423,12 @@
   <string name="pa_recommend_card_image_text_null_des">No data</string>
   <string name="pa_recommend_card_summary">Widget recommendations</string>
   <string name="pa_recommend_card_text_des">%s. Open our widget store to learn more.</string>
-  <string name="pa_recommend_card_title">Recommended</string>
+  <string name="pa_recommend_card_title">Recommandé</string>
   <string name="pa_recommend_no_network">Download the app first</string>
-  <string name="pa_rtk_card_title">Dashboard</string>
+  <string name="pa_rtk_card_title">Tableau de bord</string>
   <string name="pa_rtk_more_content_description">Options</string>
-  <string name="pa_rtk_more_text">Not interested</string>
   <string name="pa_rtk_place_holder_text">This widget was moved to your dashboard for now</string>
+  <string name="pa_rtk_unlike_text">Désépingler</string>
   <string name="pa_rts_summary">Place most frequently used widgets on the dashboard</string>
   <string name="pa_rts_text">Dashboard</string>
   <string name="pa_scan">Scan</string>
@@ -573,7 +573,6 @@
   <string name="pa_stock_update_limitation_tip">The information about the US and Hong Kong stock markets is updated with a 15-minute delay.</string>
   <string name="pa_stock_webview_bottom_button">Download</string>
   <string name="pa_stock_webview_bottom_text">Open the client to view more info</string>
-  <string name="pa_stock_webview_title_tiger_brokers">老虎證券</string>
   <string name="pa_stock_widget_button_add_stock">Add</string>
   <string name="pa_stock_widget_empty">No items here yet</string>
   <string name="pa_stock_widget_name">Stocks</string>

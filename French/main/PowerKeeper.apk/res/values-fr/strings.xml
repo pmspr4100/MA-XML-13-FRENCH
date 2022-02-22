@@ -45,7 +45,9 @@
   <string name="atrace_saving">Sauvegarde en cours du journal atrace…</string>
   <string name="atrace_start">Enregistrement du journal atrace…</string>
   <string name="base_info">Infos de base</string>
-  <string name="checking_intranet">Vérification de la connexion intranet, veuillez patienter...</string>
+  <string name="checking_intranet">Vérification de la connexion intranet…</string>
+  <string name="chip_text">Chip text</string>
+  <string name="clear_temperature">Température finale</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="close">Fermer</string>
   <string name="cloud_addr_info">Info sur Cloud</string>
@@ -68,12 +70,12 @@
 L'économiseur de batterie traitera les applications importantes de manière sélective."</string>
   <string name="config_suggest_suffix_title">Économiseur de batterie (recommandé)</string>
   <string name="confirm">Confirmer</string>
-  <string name="connect_intranet_hint">"Veuillez vous connecter à l'intranet"</string>
+  <string name="connect_intranet_hint">"Connectez-vous à l'intranet"</string>
   <string name="copy">Copier</string>
   <string name="current_cloud_addr_is">"L'adresse du serveur de contrôle du Cloud est :"</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
-  <string name="delete_data_confirm">Confirmer pour supprimer ces données</string>
+  <string name="delete_data_confirm">Supprimer cet élément maintenant ?</string>
   <string name="empty_title_apps_container_list">Aucune application</string>
   <string name="enable_sleep_mode">"Activez le mode veille pour optimiser l'utilisation de la batterie pendant la nuit"</string>
   <string name="eras_ad">Apr. J.-C.</string>
@@ -110,9 +112,9 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="important_warning">Attention</string>
   <string name="insert_data">Insérer des données</string>
   <string name="item_view_role_description">Onglet</string>
-  <string name="kill_all_back_pro_toast_message">"Impossible d'utiliser tous les processus en arrière-plan en raison d'une surchauffe de l'appareil"</string>
+  <string name="kill_all_back_pro_toast_message">Votre appareil est en surchauffe. Toutes les applications exécutées en arrière-plan ont été fermées.</string>
   <string name="kill_pkg_toast_message">"Impossible d'utiliser les applications en raison d'une surchauffe de l'appareil"</string>
-  <string name="kill_some_back_pro_toast_message">"Impossible d'utiliser certains processus en arrière-plan en raison d'une surchauffe de l'appareil"</string>
+  <string name="kill_some_back_pro_toast_message">Votre appareil est en surchauffe. Toutes les applications exécutées en arrière-plan ont été fermées.</string>
   <string name="lasttime_applist_cloud">Applications mises à jour :</string>
   <string name="lasttime_feature_cloud">Fonctionnalités mises à jour :</string>
   <string name="message_i_know">Compris</string>
@@ -230,6 +232,8 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="scenario_policies_summary">"Appliquer différentes stratégies d'économie d'énergie pour des scènes différentes."</string>
   <string name="scenario_policies_title">Scènes intelligentes</string>
   <string name="scenario_policies_warmcontrol">Contrôle de température</string>
+  <string name="screen_off_current">Écran éteint CC</string>
+  <string name="screen_on_current">Écran allumé CC</string>
   <string name="search_menu_title">Recherche</string>
   <string name="search_result_text">Impossible de trouver une application</string>
   <string name="send">Envoyer</string>
@@ -240,7 +244,7 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="sleep_config_enhance_title">Mode veille</string>
   <string name="sleepmode_disclaimer_agree">Accepter</string>
   <string name="sleepmode_disclaimer_cancel">Annuler</string>
-  <string name="sleepmode_privacy_content">"Cette fonction utilisera les informations sur le système et l'appareil. Il ne sera pas téléchargé sur nos serveurs."</string>
+  <string name="sleepmode_privacy_content">Cette fonctionnalité doit accéder aux informations sur votre système et votre appareil. Ces informations ne seront pas téléchargées sur nos serveurs.</string>
   <string name="sleepmode_privacy_link">Apprendre plus à propos de la confidentialité et de la sécurité</string>
   <string name="sleepmode_privacy_title">Mode veille</string>
   <string name="softbank_high_temp_toast_time_10min">Lampe de poche éteinte pour éviter la surchauffe</string>
@@ -314,8 +318,8 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="the_united_nations_day">United Nations Day</string>
   <string name="the_valentines_day">"Valentine's Day"</string>
   <string name="the_water_lantern_festival">Water Lantern Festival</string>
-  <string name="thermal_cancel">NON</string>
-  <string name="thermal_confirm">OUI</string>
+  <string name="thermal_cancel">Annuler</string>
+  <string name="thermal_confirm">OK</string>
   <string name="thursday">Jeudi</string>
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
@@ -325,6 +329,7 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="title_home">Accueil</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
+  <string name="trig_temperature">Température initiale</string>
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">Mar</string>

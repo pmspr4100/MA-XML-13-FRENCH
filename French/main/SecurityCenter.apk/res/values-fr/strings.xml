@@ -1133,6 +1133,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="correction_attention_dialog_message">"Modification des paramètres en cours. Patientez jusqu'à ce que le processus finisse pour réessayer."</string>
     <string name="cpu_usage_android_system">Système Android</string>
     <string name="cpu_usage_process_run_time_little_time">Moins de 1 minute</string>
+    <string name="cpu_usage_process_run_time_little_time_new">Moins de %d minute</string>
     <string name="cpu_usage_view_action_btn_text">Appuyer pour voir</string>
     <string name="create_gamebooster_destop">"Création du raccourci de l'écran d'accueil avec succès"</string>
     <string name="create_shortcut">"Créer un raccourci vers l'écran d'accueil pour Game Turbo"</string>
@@ -1659,8 +1660,8 @@ des tremblements de terre"</string>
     <string name="first_aid_card_airplane_title">Impossible de passer des appels ou de se connecter au réseau</string>
     <string name="first_aid_card_consume_power_button1">Restreindre</string>
     <string name="first_aid_card_consume_power_button2">Désactiver</string>
-    <string name="first_aid_card_consume_power_summary1">Plus de 5 applications sont autorisées à démarrer automatiquement. Restreindre pour économiser la batterie.</string>
     <string name="first_aid_card_consume_power_summary2">"Désactiver le point d'accès mobile pour économiser la batterie"</string>
+    <string name="first_aid_card_consume_power_summary_app">Plus de %d applications sont autorisées à démarrer automatiquement. Restreindre pour économiser la batterie.</string>
     <string name="first_aid_card_consume_power_title">Utilisation de la batterie</string>
     <string name="first_aid_card_kadun_button1">"Libérez de l'espace"</string>
     <string name="first_aid_card_kadun_button2">Restreindre</string>
@@ -2057,7 +2058,6 @@ de vos sessions de jeu"</string>
     <string name="gd_setting_desc_action1">Ouvrir la fenêtre flottante</string>
     <string name="gd_setting_desc_action2">Utiliser un raccourci</string>
     <string name="gd_setting_group_custom_gtb_apps">Jeux</string>
-    <string name="gd_setting_group_custom_line_location">Emplacement de la boîte à outils</string>
     <string name="gd_setting_group_custom_settings">Personalisation</string>
     <string name="gd_setting_group_custom_vtb_apps">Applications vidéo</string>
     <string name="gd_setting_group_smart_tool_box">Barre latérale</string>
@@ -4653,7 +4653,9 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="system_anti_fraud_dialog_content">"Il semble que vous venez de recevoir un appel ou un message frauduleux. Procéder à ce paiement peut entraîner des pertes financières."</string>
     <string name="system_anti_fraud_dialog_hint">"&lt;font = color=#747474&gt;Si le personnel du service client, les autorités ou les personnes que vous connaissez peut-être vous demandent d'effectuer ce paiement, &lt;/font&gt;&lt;font = color=#F22424&gt;vérifiez leur identité avant de continuer.&lt;/font&gt;"</string>
     <string name="system_anti_fraud_dialog_image_txt">Protection anti-fraude</string>
+    <string name="system_anti_fraud_dialog_message">Protection anti-fraude</string>
     <string name="system_anti_fraud_dialog_title">Alerte anti-fraude</string>
+    <string name="system_anti_fraud_dialog_title2">Alerte anti-fraude</string>
     <string name="system_app">Applications système</string>
     <string name="system_app_permission_instruction">"Cette application a besoin des autorisations suivantes pour fournir des services système de base. La gestion des autorisations est limitée pour cette application, car la modification des statuts d'autorisation entraînera des anomalies de fonctionnement du système."</string>
     <string name="system_application">Applications système</string>

@@ -66,9 +66,12 @@
   <string name="app_clean_group_document_send">Fichiers envoyés</string>
   <string name="app_clean_group_image_recv">Images reçues</string>
   <string name="app_clean_group_image_send">Images envoyées</string>
+  <string name="app_cleaned">Effacé avec succès</string>
   <string name="app_description_content">"Le nettoyeur détecte les fichiers inutiles de votre appareil et libère de l'espace de stockage. Assurez-vous que vous pouvez vous passer de cette fonctionnalités avant de désinstaller l'application."</string>
   <string name="app_description_title">À propos du nettoyeur</string>
-  <string name="app_name">Préférence</string>
+  <string name="app_reset">Réinitialiser</string>
+  <string name="app_specific_clean">"Nettoyeur d'applications"</string>
+  <string name="app_unload">Désinstaller</string>
   <string name="app_usage_never">Pas récemment utilisé</string>
   <string name="app_usage_recently">Récemment utilisé</string>
   <string name="appcleaner_g_audio_summary_qq">Supprimer définitivement les messages vocaux QQ</string>
@@ -181,6 +184,7 @@
   <string name="cached_garbage">Cache</string>
   <string name="call_log">Journal des appels</string>
   <string name="cancel">Annuler</string>
+  <string name="cancel_select_all">Tout désélectionner</string>
   <string name="cd_back">retour</string>
   <string name="cd_check_box_checked">vérifié</string>
   <string name="cd_check_box_middle">sélection partielle</string>
@@ -196,6 +200,10 @@
   <string name="clean_content_three">3 éléments</string>
   <string name="clean_content_two">2 éléments</string>
   <string name="clean_content_zero">Vide</string>
+  <string name="clean_ing">Nettoyage…</string>
+  <string name="clean_item_tip_data_app">Effacer les données pour %s</string>
+  <string name="clean_item_tip_reset_app">Réinitialiser %s</string>
+  <string name="clean_item_tip_unload_app">Désinstaller %s</string>
   <string name="clean_master_icon_recall_button_text">Ajouter</string>
   <string name="clean_master_icon_recall_dialog_button_negative">Non merci</string>
   <string name="clean_master_icon_recall_dialog_button_positive">Ajouter</string>
@@ -206,6 +214,7 @@
   <string name="clean_master_icon_recall_title">Nettoyage rapide des fichiers inutiles</string>
   <string name="clean_master_icon_recall_toast_text">"Raccourci pour le Nettoyeur ajouté avec succès à l'écran d'accueil"</string>
   <string name="clean_summary">Nettoyé %1$s</string>
+  <string name="clear_app_data">Nettoyer</string>
   <string name="clear_bigfiles">"Supprimer les fichiers volumineux, les photos en double et d'autres éléments obsolètes"</string>
   <string name="clear_immediately">Procéder</string>
   <string name="clear_safe_notify">Widget du Panneau de notification</string>
@@ -216,7 +225,10 @@
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Connexion réseau pour la sécurité</string>
   <string name="connecting">Connexion…</string>
+  <string name="continue_check">Sélectionner</string>
+  <string name="continue_to_do">Continuer</string>
   <string name="copy">Copier</string>
+  <string name="data_selected">Éléments sélectionnés</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="dc_activity_title">Nettoyage en profondeur</string>
@@ -279,6 +291,7 @@
   <string name="default_cache_type">Fichiers de données</string>
   <string name="delete_confirm">Supprimer</string>
   <string name="delete_confirm_msg">Supprimer définitivement tous les fichiers sélectionnés ?</string>
+  <string name="delete_slected_data">Réinitialiser</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Supprimer les photos de Mi Cloud aussi</string>
   <string name="dialog_content_select_all_confirm">Garder une copie de ces photos ?</string>
   <string name="dialog_msg_add_white_list_error">"Impossible d'ajouter ce fichier aux exceptions"</string>
@@ -493,7 +506,10 @@
   <string name="install_time_format">dd/MM/yyyy</string>
   <string name="installed">Installé</string>
   <string name="installing">Installation</string>
+  <string name="is_Scanning">Analyse…</string>
+  <string name="item_content_app_reset">%s occupé</string>
   <string name="item_title_process_mode">Choisir une action</string>
+  <string name="jump_to_next">Ignorer</string>
   <string name="junk_tag_RF_EmptyFolders">Dossiers vides</string>
   <string name="junk_tag_RF_ImageThumbnails">Galerie de miniatures</string>
   <string name="junk_temporary_file">Fichiers temporaires</string>
@@ -610,10 +626,13 @@
   <string name="nb_clear_set">Nettoyer le cache, afficher les informations de la batterie et de liste noire dans le Panneau de notification</string>
   <string name="network_not_available">Impossible de se connecter au réseau</string>
   <string name="news_change">Changer</string>
+  <string name="next_step">Suivante</string>
   <string name="night">Soirée</string>
   <string name="no_network">Connexion au réseau impossible, réessayez plus tard</string>
   <string name="no_network_btn">Réessayer</string>
   <string name="noon">Midi</string>
+  <string name="not_selected_tips">"Sélectionnez d'abord les applications."</string>
+  <string name="not_selected_tips">"Sélectionnez d'abord les applications."</string>
   <string name="not_set">Non défini</string>
   <string name="notification_apk_clean_button_text">Nettoyer</string>
   <string name="notification_checker_installed_apk_hint">"Il n'est pas nécessaire de conserver les APK après installation"</string>
@@ -772,6 +791,9 @@
   <string name="recommend_news">Recevoir des recommandations</string>
   <string name="recommend_the_following">Prenez les mesures suivantes pour tirer le meilleur parti de votre appareil</string>
   <string name="recommended">Sélection</string>
+  <string name="reset_app_dialog_summary">"Vous êtes sur le point de réinitialiser les applications que vous avez sélectionnées. Toutes leurs données d'application (y compris votre statut de connexion, vos paramètres, vos images en cache, vos vidéos, vos fichiers et vos chats) seront définitivement supprimées, ramenant les applications à leur état initial."</string>
+  <string name="reset_app_dialog_title">Réinitialiser les applications</string>
+  <string name="reset_selected">Réinitialiser %s</string>
   <string name="resutl_function_deep_clean_summary"><Data>"&lt;font color=#ff0000 >%1$s&lt;/font> d'autres fichiers peuvent être effacés. Libérez plus d'espace."</Data></string>
   <string name="resutl_function_qq_clean_summary"><Data>"Vous pouvez nettoyer &lt;font color=#ff0000 >%1$s&lt;/font> de cache généré par QQ"</Data></string>
   <string name="resutl_function_wechat_clean_summary"><Data>"&lt;font color=#ff0000 >%1$s&lt;/font> du cache de WeChat. Libérez plus d'espace."</Data></string>
@@ -788,6 +810,7 @@
   <string name="search_menu_title">Recherche</string>
   <string name="security_center_slogan">Sécurité. Toujours sur ses gardes.</string>
   <string name="see_more">Plus</string>
+  <string name="select_all">Tout sélectionner</string>
   <string name="send">Envoyer</string>
   <string name="set_immediately">Régler</string>
   <string name="seton_immediately">Activer</string>
@@ -827,6 +850,7 @@
   <string name="solar_term_winter_begins">"Début de l'hiver"</string>
   <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
   <string name="sponsored">Sponsorisé</string>
+  <string name="start_clean">Démarrer</string>
   <string name="start_downloading_app">Commencer à télécharger : %1$s</string>
   <string name="start_install">Installer maintenant</string>
   <string name="summary_auto_cleaner">Recevoir des notifications chaque fois que la taille de fichiers inutiles atteint 100 Mo ?</string>
@@ -884,6 +908,11 @@
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
   <string name="time_picker_dialog_title">"Régler l'heure"</string>
+  <string name="tips_app_reset_dialog">"La réinitialisation libère au maximum l'espace de stockage sans désinstaller l'application. Cependant, toutes les données (y compris votre statut de connexion, vos paramètres, les images en cache, les vidéos, les fichiers et les chats) de l'application que vous réinitialisez seront définitivement supprimées."</string>
+  <string name="tips_app_reset_result_page">Réinitialisez les applications pour effacer toutes leurs données et les ramener à leur état initial</string>
+  <string name="tips_app_reset_top">La réinitialisation ramène les applications à leur état initial et efface toutes leurs données</string>
+  <string name="tips_app_specific_clean_result_page">"Libérez de l'espace de stockage"</string>
+  <string name="tips_data_page">"Essayez d'effacer les données de l'application pour libérer de l'espace de stockage"</string>
   <string name="tips_low_storage_dialog_cancel">Annuler</string>
   <string name="tips_low_storage_dialog_msg_qq">La taille du cache de QQ a atteint 3 Go. Cela pourrait ralentir votre appareil. Nettoyez le cache de QQ maintenant ?</string>
   <string name="tips_low_storage_dialog_msg_storage">"Vous utilisez 90% de votre espace de stockage. Désinstallez les applications que vous n'utilisez plus."</string>
@@ -903,6 +932,9 @@
   <string name="tips_of_traffic_notification">Voir les statistiques de données mobiles dans le Panneau de notification</string>
   <string name="tips_of_traffic_pack_threshold">"Acheter plus de données lorsque vous êtes sur le point d'atteindre votre limite de trafic"</string>
   <string name="tips_of_virus_scan">Analysez votre appareil régulièrement pour conserver votre sécurité</string>
+  <string name="tips_reset_page">"Essayez de réinitialiser les applications pour effacer toutes leurs données et libérer de l'espace de stockage"</string>
+  <string name="tips_result_ad">"Essayer ces applications dans l'espace libéré ?"</string>
+  <string name="tips_unload_page">"Essayez de désinstaller les applications que vous n'avez pas utilisées depuis %d jours"</string>
   <string name="title_auto_cleaner">Rappel de nettoyage</string>
   <string name="title_delete_cache">Nettoyer le cache des applications</string>
   <string name="title_delete_clipboard">Contenus du presse-papiers</string>
@@ -919,6 +951,7 @@
   <string name="title_of_traffic_notification">Barre de statistiques de données</string>
   <string name="title_optimizer">"Conditions d'utilisation"</string>
   <string name="title_share_link">"Partager l'URL"</string>
+  <string name="to_reset_app">Réinitialiser</string>
   <string name="toast_add_white_list_success">Ajouté aux exceptions avec succès</string>
   <string name="toast_app_no_residual_on_sdcard">"L'application n'a aucune donnée stockée sur votre carte SD"</string>
   <string name="toast_backup_is_running">La sauvegarde est déjà en cours</string>
@@ -942,15 +975,16 @@
   <string name="toast_updater_open_4g_text">Les applis seront mises à jour en utilisant les données mobiles (4G)</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
-  <string name="total_clean">Total nettoyé: %s</string>
+  <string name="total_clean">Total nettoyé : %s</string>
   <string name="total_clean_text">Nettoyer</string>
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">Mar</string>
-  <string name="unit_gb">%s Go</string>
-  <string name="unit_mb">%s Mo</string>
+  <string name="unit_gb">%s Go</string>
+  <string name="unit_mb">%s Mo</string>
   <string name="unlike">Non merci</string>
   <string name="update_date_format">dd/MM/yyyy</string>
+  <string name="updating_tips">Un instant…</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
   <string name="video_clean">Nettoyer les vidéos mises en cache</string>
@@ -999,7 +1033,7 @@
   <string name="wechat_copy_video_failed_dialog_title">Exportation impossible</string>
   <string name="wechat_copying_video">Exportation…</string>
   <string name="wechat_copying_video_dialog_checkbox">"Effacer les fichiers après l'exportation"</string>
-  <string name="wechat_copying_video_dialog_msg">Les fichiers seront sauvegardés dans ce dossier: %s</string>
+  <string name="wechat_copying_video_dialog_msg">Les fichiers seront sauvegardés dans ce dossier : %s</string>
   <string name="wechat_copying_video_dialog_title">Exporter vers la Galerie</string>
   <string name="wechat_copying_video_empty">Aucune vidéo a exporter</string>
   <string name="wechat_copying_video_success">Exporté avec succès</string>
@@ -1041,10 +1075,10 @@
   <string name="whatsapp_group_wallpaper">"Fonds d'écran"</string>
   <string name="whatsapp_title">Nettoyeur WhatsApp</string>
   <string name="white_list_ad_header">Fichiers obsolètes: %d</string>
-  <string name="white_list_apk_header">"Paquets d'installation: %d"</string>
-  <string name="white_list_cache_header">Fichiers en cache: %d</string>
-  <string name="white_list_large_file_header">Fichiers volumineux et vidéos: %d</string>
-  <string name="white_list_residual_header">Résidus: %d</string>
+  <string name="white_list_apk_header">"Paquets d'installation : %d"</string>
+  <string name="white_list_cache_header">Fichiers en cache : %d</string>
+  <string name="white_list_large_file_header">Fichiers volumineux et vidéos : %d</string>
+  <string name="white_list_residual_header">Résidus : %d</string>
   <string name="white_list_title">Exceptions</string>
   <string name="wq_deep_clean_filter_all">Tout</string>
   <string name="wq_deep_clean_filter_month_ago">Il y a 1 mois</string>

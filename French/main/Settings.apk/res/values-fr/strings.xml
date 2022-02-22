@@ -4724,7 +4724,7 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_auto_ack_mode">Répondez automatiquement aux appels lorsque vous portez les écouteurs</string>
     <string name="miheadset_auto_ack_mode_summary">Répondre automatiquement aux appels</string>
     <string name="miheadset_auto_answer_call">Répondre aux appels automatiquement</string>
-    <string name="miheadset_bluetooth_audio_title">"Taux d'échantillonnage audio Bluetooth LC%dplus"</string>
+    <string name="miheadset_bluetooth_audio_title">"Taux d'échantillonnage audio Bluetooth LC3plus"</string>
     <string name="miheadset_Box">Boîtier</string>
     <string name="miheadset_bright">Brillant</string>
     <string name="miheadset_call_assist">Appel AI</string>
@@ -4831,7 +4831,7 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_triple_press_right">"Tapotez 3 fois sur l'écouteur de droite"</string>
     <string name="miheadset_unpair_device_text">%1$s sera dissocié de tous les périphériques associés à ce Compte Mi.</string>
     <string name="miheadset_virtual_surround">Son immersif virtuel</string>
-    <string name="miheadset_virtual_surround_summary">"Augmentez la profondeur sonore lors d'une lecture audio ou vidéo dans les écouteurs. Cette fonctionnalité ne fonctionnera pas lorsqu'un flux audio %1$d.%2$d sera lu."</string>
+    <string name="miheadset_virtual_surround_summary">"Augmentez la profondeur sonore lors d'une lecture audio ou vidéo dans les écouteurs. Cette fonctionnalité ne fonctionnera pas lorsqu'un flux audio %s sera lu."</string>
     <string name="miheadset_voice_control_summary">"Lorsque cette fonctionnalité est activée, vous pouvez dire à Mi AI de naviguer sur votre appareil ou de contrôler la lecture audio à l'aide de commandes vocales"</string>
     <string name="miheadset_windnoise">Vent</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
@@ -9657,15 +9657,14 @@ Toucher "Toucher </string>
     <string name="wifi_switch_to_gsm_message">Connexion Wi-Fi perdue. Utiliser la connexion de données mobiles ?</string>
     <string name="wifi_switch_to_gsm_title">Utiliser le GSM ?</string>
     <string name="wifi_tap_to_sign_in">Appuyez ici pour vous connecter au réseau</string>
-    <string name="wifi_tether_checkbox_kddi_text">Partage de connexion Wi-Fi</string>
+    <string name="wifi_tether_checkbox_kddi_text">"Point d'accès Wi-Fi"</string>
     <string name="wifi_tether_checkbox_text">"Point d'accès Wi-Fi"</string>
-    <string name="wifi_tether_configure_ap_kddi_text">Configurer le partage de connexion Wi-Fi</string>
-    <string name="wifi_tether_configure_ap_text">"Configurer le point d'accès"</string>
+    <string name="wifi_tether_configure_ap_kddi_text">"Configurer le point d'accès Wi-Fi"</string>
+    <string name="wifi_tether_configure_ap_text">"Configurer le point d'accès Wi-Fi"</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="wifi_tether_configure_subtext">Nom : %1$s | Sécurité : %2$s</string>
     <string name="wifi_tether_disabled_by_airplane">Indisponible, car le mode Avion est activé</string>
     <string name="wifi_tether_enabled_subtext">%1$s est actif</string>
-    <string name="wifi_tether_enabled_summary">%1$s est actif</string>
     <string name="wifi_tether_failed_subtext">Erreur sur le partage de connexion</string>
     <string name="wifi_tether_setting_title">Paramètres</string>
     <string name="wifi_tether_settings_title">Partage de connexion</string>

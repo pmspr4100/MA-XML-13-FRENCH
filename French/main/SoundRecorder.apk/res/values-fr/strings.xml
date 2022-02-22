@@ -334,6 +334,8 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="permission_desc">Détails des autorisations</string>
     <string name="permission_dialog_cancel">Annuler</string>
     <string name="permission_dialog_ok">Paramètres</string>
+    <string name="permission_read_phone_state">"Accéder aux informations sur l'appareil"</string>
+    <string name="permission_read_phone_state_description">"Pour accéder au statut des appels afin d'arrêter automatiquement l'enregistrement lors de la réception d'appels"</string>
     <string name="permission_record">"Enregistrer l'audio"</string>
     <string name="permission_record_description">"Pour fournir des services d'enregistrement audio"</string>
     <string name="permission_storage">Accéder au stockage</string>
