@@ -365,6 +365,7 @@ Envoyez ce code au superviseur."</string>
     <string name="my_device_title">Appareil actuel</string>
     <string name="need_install_wechat">Installez WeChat en premier</string>
     <string name="night">Soirée</string>
+    <string name="no_account_or_forget_password">Créer un compte ou mot de passe oublié ?</string>
     <string name="no_network_btn">Actualiser</string>
     <string name="no_network_title">Impossible de se connecter au réseau.</string>
     <string name="no_phone">Aucun numéro de téléphone</string>

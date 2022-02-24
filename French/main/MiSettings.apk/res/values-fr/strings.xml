@@ -284,7 +284,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="hsv_space_color_hue">Teinte</string>
   <string name="hsv_space_color_saturation">Saturation</string>
   <string name="intelligent_radio_btn_summary">"Ajustez le taux de rafraîchissement de manière dynamique en fonction de scénarios pour équilibrer les performances avec la consommation d'énergie"</string>
-  <string name="intelligent_radio_btn_title">Auto (recommandé)</string>
+  <string name="intelligent_radio_btn_title">Par défaut (recommandé)</string>
   <string name="intelligent_recognition_item_summary">"Utilisez une sonnerie spécifique pour les appels des services de livraison et de taxi. Cette fonctionnalité fonctionnera lorsque %s est défini comme sonnerie par défaut."</string>
   <string name="intelligent_recognition_item_title">Identifier les services</string>
   <string name="item_anura">Anoures</string>

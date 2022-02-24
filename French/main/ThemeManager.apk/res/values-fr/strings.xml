@@ -87,6 +87,7 @@
     <string name="app_name">Thèmes</string>
     <string name="app_name_pad">Personnalisation</string>
     <string name="application_list_permission_desc">"Pour afficher les applications compatibles avec les fonds d'écran transparents"</string>
+    <string name="application_notify_title">Attention</string>
     <string name="apply_choosen_type_resource">Appliquer les éléments sélectionnés</string>
     <string name="apply_default_font_tip">Conserver la police actuelle ?</string>
     <string name="apply_failed">"Application impossible"</string>
@@ -171,6 +172,7 @@
     <string name="component_title_video_wallpaper">"Films pour fond d'écran"</string>
     <string name="component_title_wallpaper">"Fonds d'écran"</string>
     <string name="concentration_old_period">Plus</string>
+    <string name="configure_success_not_enable_aod">"Appliqué avec succès. Activez l'affichage permanent pour que le thème prenne effet."</string>
     <string name="copy">Copier</string>
     <string name="count_down_tip">%ds restant</string>
     <string name="create_home_icon">"Raccourci écran d'accueil"</string>
@@ -1207,6 +1209,7 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
     <string name="super_wallpaper">"Super fonds d'écran"</string>
+    <string name="super_wallpaper_dialog_content">"L'économiseur de batterie désactivera les fonctionnalités dynamiques des fonds d'écran."</string>
     <string name="super_wallpaper_list_footer_text">"Restez à l'écoute de nos nouvelles versions !"</string>
     <string name="super_wallpaper_list_label">"Super fonds d'écran"</string>
     <string name="super_wallpaper_setting_apply_success_toast">Appliqué avec succès</string>
@@ -1465,6 +1468,7 @@ Accéder aux thèmes > Profil > Laboratoire thématique pour plus de fonctionnal
     <string name="video_not_support_message">"Cette vidéo peut s'afficher de manière incorrecte ou ralentir votre appareil. Appliquer quand même ?"</string>
     <string name="video_not_support_title">Cette vidéo est trop grande</string>
     <string name="video_silence_apply_success">Vidéo configurée sans son avec succès</string>
+    <string name="video_wallpaper_apply_warning">"Ce fond d'écran sera appliqué à la fois à votre écran d'accueil et à votre écran de verrouillage. Appliquer maintenant ?"</string>
     <string name="video_wallpaper_import">Appuyez pour ajouter des éléments</string>
     <string name="voice_input">Entrée vocale</string>
     <string name="wallpaper_apply">Appliquer</string>

@@ -375,6 +375,10 @@
     <string name="reach_upper_limit">"Impossible d'ajouter d'autres minuteurs"</string>
     <string name="read_external_storage_permission_desc">Pour définir des sonneries personnalisées</string>
     <string name="read_internal_storage">Accéder au stockage</string>
+    <string name="read_phone_state">"Accéder aux informations sur l'appareil"</string>
+    <string name="read_phone_state_desc">"Accéder au statut de l'appel lorsque l'alarme sonne"</string>
+    <string name="read_phone_state_desc_when_request">"Pour accéder au statut des appels afin de mettre automatiquement les alarmes en pause lors de la réception d'appels"</string>
+    <string name="remark_hint">Saisir le libellé</string>
     <string name="remind_ringtone">Sonnerie</string>
     <string name="repeat_count">Fois</string>
     <string name="repeat_type">Répéter</string>
@@ -638,8 +642,5 @@
     <string name="worldcolock_timezone_date">d MMMM</string>
     <string name="worldcolock_timezone_local">"Identique à l'heure locale"</string>
     <string name="xiaoai_ringtone_title">Sonneries Mi IA</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
     <string name="yesterday">Hier</string>
 </resources>
