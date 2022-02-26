@@ -435,10 +435,9 @@
     <string name="in_the_end">"Plus d'éléments à afficher"</string>
     <string name="incall_show_apply">Profil vidéo pour les appels sortants</string>
     <string name="incall_show_apply_fail">Impossible de définir</string>
-    <string name="incall_show_apply_success">"Appliqué avec succès. Pour désactiver cette fonctionnalité,
-        allez dans Paramètres > Sons &amp; vibrations > Vidéo de profil."</string>
+    <string name="incall_show_apply_success">Appliqué avec succès.</string>
     <string name="incall_show_apply_success_without_ringtone">"Appliqué avec succès. Cette vidéo n'a pas de son. La sonnerie originale sera utilisée.
-        Pour désactiver cette fonction, accédez à Paramètres > Sons &amp; vibrations > Vidéo de profil."</string>
+Pour désactiver cette fonction, accédez à Paramètres > Sons &amp; vibrations > Vidéo de profil."</string>
     <string name="incall_show_find_more">Trouver plus</string>
     <string name="incall_show_not_set">Aucune vidéo de profil</string>
     <string name="incall_show_remove">Retirer la vidéo de profil</string>
@@ -881,6 +880,9 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="refresh_footer_release">Relâcher pour charger plus</string>
     <string name="region_not_support">Les thèmes ne sont pas pris en charge dans cette région.</string>
     <string name="reload">Veuillez réessayer</string>
+    <string name="repeat_exchange_dialog_content">"Impossible d'utiliser le code. Vérifiez quelles autres récompenses sont disponibles maintenant ?"</string>
+    <string name="repeat_exchange_dialog_positive_btn">Vérifier</string>
+    <string name="repeat_exchange_dialog_title">Réessayez</string>
     <string name="request_time_out">La demande a expiré. Réessayer.</string>
     <string name="resource_account_abnormal_state">Erreur de compte. Patientez une minute ou deux et réessayez.</string>
     <string name="resource_account_fail_to_add">"Impossible d'ajouter un compte"</string>
@@ -1530,8 +1532,13 @@ Accéder aux thèmes > Profil > Laboratoire thématique pour plus de fonctionnal
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">"Écran d'accueil"</string>
     <string name="wallpaper_setting_library">Bibliothèque</string>
     <string name="wallpaper_setting_live">En direct</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">"Verrouiller l'écran"</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">"Fonds d'écran en ligne"</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">"Découvrez les fonds d'écran"</string>
+    <string name="wallpaper_setting_online_wallpaper_title">"Fonds d'écran en ligne"</string>
     <string name="wallpaper_setting_super_wallpaper_banner_title">"Super fonds d'écran"</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">Plus</string>
+    <string name="wallpaper_setting_title">"Fond d'écran"</string>
     <string name="wallpaper_settings">"Réglages fond d'écran"</string>
     <string name="wallpaper_settings_loading_text">Chargement…</string>
     <string name="wallpaper_settings_no_history">Aucun historique</string>
@@ -1539,6 +1546,7 @@ Accéder aux thèmes > Profil > Laboratoire thématique pour plus de fonctionnal
     <string name="wallpaper_settings_page_title">"Fond d'écran"</string>
     <string name="wallpaper_share_alert">Une erreur est apparue. Patienter une miniute ou deux et réessayé.</string>
     <string name="wallpaper_static">Statique</string>
+    <string name="warning_subscribe_wallpaper_group_content">"Vous avez activé le diaporama de l'écran d'accueil. %1$s sera appliqué à votre écran d'accueil."</string>
     <string name="wechat_not_found">Installez WeChat en premier</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
