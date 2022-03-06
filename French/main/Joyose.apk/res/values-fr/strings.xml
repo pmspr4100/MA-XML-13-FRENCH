@@ -182,7 +182,7 @@
   <string name="thursday">Thursday</string>
   <string name="thursday_short">Thu</string>
   <string name="thursday_shortest">Thu</string>
-  <string name="time_picker_dialog_title">Set time</string>
+  <string name="time_picker_dialog_title">"Régler l'heure"</string>
   <string name="today">Today</string>
   <string name="tomorrow">Tomorrow</string>
   <string name="tuesday">Tuesday</string>

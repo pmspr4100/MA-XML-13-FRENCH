@@ -181,7 +181,7 @@ Selection"</string>
   <string name="cb_menu_add_channel">Add Channel</string>
   <string name="cb_menu_channel_list">Channel list</string>
   <string name="cb_menu_delete">Delete broadcast</string>
-  <string name="cb_menu_edit">Edit</string>
+  <string name="cb_menu_edit">Modifier</string>
   <string name="cb_menu_tile">Channel Operation</string>
   <string name="cb_other_message_identifiers">Diffuser des messages</string>
   <string name="cell_broadcast_setting">Cell Broadcast settings</string>

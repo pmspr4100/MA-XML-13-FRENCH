@@ -307,7 +307,7 @@
   <string name="mind_note_toolbar_delete_node">Supprimer le nœud</string>
   <string name="mind_note_toolbar_demote">Niveau inférieur</string>
   <string name="mind_note_toolbar_promote">Niveau supérieur</string>
-  <string name="miui_penengine_button_cancel">Cancel</string>
+  <string name="miui_penengine_button_cancel">Annuler</string>
   <string name="miui_penengine_button_confirm">OK</string>
   <string name="miui_penengine_more_tool_add_text">Insert text</string>
   <string name="miui_penengine_more_tool_finger_write">Draw with fingers</string>

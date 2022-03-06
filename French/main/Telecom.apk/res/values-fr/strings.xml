@@ -257,7 +257,7 @@ Bluetooth"</string>
     <string name="category_work">Professionnel</string>
     <string name="cell_data_off_content_description">Mobile data off</string>
     <string name="change_default_call_screening_dialog_affirmative">Set Default</string>
-    <string name="change_default_call_screening_dialog_negative">Cancel</string>
+    <string name="change_default_call_screening_dialog_negative">Annuler</string>
     <string name="change_default_call_screening_dialog_title">Make %s your default call screening app?</string>
     <string name="change_default_call_screening_warning_message">%s will be able to see information about callers not in your contacts and will be able to block these calls. Only apps you trust should be set as the default call screening app.</string>
     <string name="change_default_call_screening_warning_message_for_disable_old_app">%s will no longer be able to screen calls.</string>
@@ -272,7 +272,7 @@ Bluetooth"</string>
     <string name="choose_profile">Sélectionner un profil</string>
     <string name="clear_adb_keys">Annuler autorisations pour débog. USB</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
-    <string name="clearable_edittext_clear_description">Clear</string>
+    <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="close">Désactiver</string>
     <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : Les fonctionnalités de protection de l'appareil sont désactivées tant que ce paramètre est activé."</string>
     <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
@@ -967,7 +967,7 @@ Please check validity of certificates"</string>
 Credential storage might not enable"</string>
     <string name="wifi_wapi_psk_type">Password type</string>
     <string name="wifi_wapi_user_certificate">User certificate</string>
-    <string name="wifitrackerlib_auto_connect_disable">Auto-connect is off</string>
+    <string name="wifitrackerlib_auto_connect_disable">Auto-connexion désactivée</string>
     <string name="wifitrackerlib_available_via_app">Available via %1$s</string>
     <string name="wifitrackerlib_certinstaller_package">com.android.certinstaller</string>
     <string name="wifitrackerlib_connected_via_app">Connected via %1$s</string>

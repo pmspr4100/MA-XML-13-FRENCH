@@ -4256,7 +4256,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="location_sources_heading">Sources de localisation</string>
     <string name="location_street_level">Autoriser les applications à utiliser le GPS sur votre téléphone pour vous localiser</string>
     <string name="location_time_zone_detection_auto_is_off">Automatic time zone is off</string>
-    <string name="location_time_zone_detection_location_is_off_dialog_cancel_button">Cancel</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_cancel_button">Annuler</string>
     <string name="location_time_zone_detection_location_is_off_dialog_message">To set the time zone using your location, turn on location, then update time zone settings</string>
     <string name="location_time_zone_detection_location_is_off_dialog_ok_button">Location settings</string>
     <string name="location_time_zone_detection_location_is_off_dialog_title">Device location needed</string>
@@ -9718,7 +9718,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="wifi_wps_onstart_pin">Saisir le PIN %1$s sur votre routeur Wi-Fi. La configuration peut prendre plusieurs minutes.</string>
     <string name="wifi_wps_overlap_error">Une autre session Wi-Fi a été détectée. Patientez 1 ou 2 minutes et réessayer.</string>
     <string name="wifi_wps_setup_title">Configuration Wi-Fi protégée</string>
-    <string name="wifitrackerlib_auto_connect_disable">Auto-connect is off</string>
+    <string name="wifitrackerlib_auto_connect_disable">Auto-connexion désactivée</string>
     <string name="wifitrackerlib_available_via_app">Available via %1$s</string>
     <string name="wifitrackerlib_certinstaller_package">com.android.certinstaller</string>
     <string name="wifitrackerlib_connected_via_app">Connected via %1$s</string>

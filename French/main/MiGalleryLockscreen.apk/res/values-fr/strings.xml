@@ -34,6 +34,7 @@
     <string name="about_newest">"Fond d'écran est à jour."</string>
     <string name="about_permission">Autorisations</string>
     <string name="about_update">Mise à jour</string>
+    <string name="access_denied_info">"Trop d'essais. Attendez une minute ou deux et réessayez."</string>
     <string name="account_bind_secure_email_title">Ajouter un e-mail de secours</string>
     <string name="account_bind_secure_phone_title">Ajouter un numéro de téléphone de secours</string>
     <string name="account_crop_user_avatar">Recadrer la photo</string>
@@ -61,23 +62,23 @@
     <string name="account_user_gender">Sexe</string>
     <string name="account_user_id">ID du Compte Mi</string>
     <string name="account_user_name">Surnom</string>
-    <string name="account_user_name_dialog_title">Enter username</string>
-    <string name="account_user_other_info">Details</string>
-    <string name="account_user_phone">Recovery phone</string>
-    <string name="account_user_region">Region</string>
-    <string name="action_add_phone">Add phone number</string>
+    <string name="account_user_name_dialog_title">"Saisir le nom d'utilisateur"</string>
+    <string name="account_user_other_info">Détails</string>
+    <string name="account_user_phone">Téléphone de récupération</string>
+    <string name="account_user_region">Région</string>
+    <string name="action_add_phone">Ajouter un numéro de téléphone</string>
     <string name="action_update_phone">Modifier le numéro de téléphone</string>
     <string name="actionbar_button_up_description">Retour</string>
     <string name="activate_email_notice">Veillez à activer votre compte dans les 24 heures</string>
     <string name="activity_not_found_notice">Application introuvable</string>
-    <string name="ad_btn_connecting">Connecting</string>
-    <string name="ad_btn_download_continue">Resume</string>
+    <string name="ad_btn_connecting">Connexion en cours</string>
+    <string name="ad_btn_download_continue">Reprendre</string>
     <string name="ad_btn_download_start">Télécharger</string>
     <string name="ad_btn_installing">Installation</string>
     <string name="ad_btn_open">Ouvrir</string>
     <string name="ad_btn_pending">En attente</string>
     <string name="ad_download_now">Télécharger</string>
-    <string name="ad_feed_badge">AD</string>
+    <string name="ad_feed_badge">PUB</string>
     <string name="ad_pop_btn_hidden">Caché</string>
     <string name="ad_pop_des">Application de téléchargement:</string>
     <string name="add">Ajouter</string>
@@ -108,7 +109,7 @@
     <string name="apply_to_above_all">Définir les deux</string>
     <string name="apply_to_screenlock">"Définir pour l'écran de verrouillage"</string>
     <string name="apply_to_wallpaper">"Définir comme pour l'écran d'accueil"</string>
-    <string name="article_item_hot">Check out %s+ popular articles</string>
+    <string name="article_item_hot">Découvrez %s+ articles populaires</string>
     <string name="at_least_one">Sélectionnez au moins 1 catégorie</string>
     <string name="auth_fail_warning">Session expirée. Reconnectez-vous.</string>
     <string name="auto_interval">"Chaque fois que l'appareil se déverrouille"</string>
@@ -134,9 +135,9 @@
     <string name="carousel_suggest">Attention</string>
     <string name="carousel_suggest1">"Obtenez gratuitement de nouveaux fonds d'écran directement sur votre écran de verrouillage tous les jours."</string>
     <string name="carousel_suggest2">"Diaporama de fonds d'écran est-il activé ?"</string>
-    <string name="category_subscribe_failed">"Couldn't subscribe"</string>
+    <string name="category_subscribe_failed">"Impossible de s'abonner"</string>
     <string name="change_activate_email">"Modifier l'adresse e-mail"</string>
-    <string name="change_password">Change password</string>
+    <string name="change_password">Changer le mot de passe</string>
     <string name="change_time">"Changer de fonds d'écran"</string>
     <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
@@ -168,7 +169,7 @@
     <string name="current_network_invalid">"Se connecter d'abord au réseau"</string>
     <string name="current_no_more_pictures">"C'est tout pour le moment"</string>
     <string name="current_permission_network_denied">"Autoriser fond d'écran à accéder au réseau"</string>
-    <string name="custom_wallpaper_des">Turn on Wallpaper Carousel, add your photos and online images to the mix to make them appear in the slideshow automatically.</string>
+    <string name="custom_wallpaper_des">"Activez le diaporama de fonds d'écran, ajoutez vos photos et images en ligne au mélange pour les faire apparaître automatiquement dans le diaporama."</string>
     <string name="cw_add">Ajouter</string>
     <string name="cw_add2">Ajouter (%1$d)</string>
     <string name="cw_add_fail">"Impossible d'ajouter au diaporama"</string>
@@ -221,6 +222,7 @@
     <string name="detail_menu_history">Historique</string>
     <string name="detail_menu_home">"Aller à la page d'accueil"</string>
     <string name="detail_menu_setting">"Paramètres de l'application"</string>
+    <string name="detail_menu_settingbtn_save">Sauvegarder dans la galerie</string>
     <string name="detail_menu_settingbtn_setting">Paramètres</string>
     <string name="detail_menu_settingbtn_share">Partager</string>
     <string name="detail_menu_wall">"Fonds d'écran d'aujourd'hui"</string>
@@ -236,16 +238,19 @@
     <string name="detail_toast_deny_favor">"Impossible d'ajouter aux favoris."</string>
     <string name="detail_toast_dislike_fail">"Impossible de supprimer"</string>
     <string name="detail_toast_favor_permission">"Autoriser le fond d'écran à accéder au stockage dans Sécurité."</string>
-    <string name="diagnosis_log_send_failed">"Couldn't send logs. Try again."</string>
-    <string name="diagnosis_log_sent_format">"Sent logs successfully.
-        ID:%s
-        Send this code to the supervisor."</string>
+    <string name="diagnosis_log_send_failed">"Impossible d'envoyer les journaux. Réessayer."</string>
+    <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
+ID : %s
+Envoyez ce code au superviseur."</string>
     <string name="disable_dlg_cancel">Annuler</string>
     <string name="disable_dlg_content">"Vous ne pourrez pas obtenir de nouvelles images sur votre écran d'accueil et votre écran de verrouillage si vous désactivez le diaporama. Désactiver quand même ?"</string>
     <string name="disable_dlg_ok">Désactiver</string>
     <string name="disable_dlg_title">"Désactiver Diaporama de fonds d'écran ?"</string>
     <string name="dislike">Supprimer</string>
     <string name="dlg_cancel">Annuler</string>
+    <string name="doing_login">Connexion…</string>
+    <string name="doing_query_account">Vérification des informations de compte…</string>
+    <string name="doing_register">Création du compte…</string>
     <string name="double_click_to_exit_activity">Appuyez à nouveau pour quitter</string>
     <string name="early_morning">Matin</string>
     <string name="edit_wallpaper">"Gérer les fonds d'écran"</string>
@@ -256,7 +261,7 @@
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
     <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée à un autre Compte Mi.</string>
-    <string name="error_icon_content_description">Error</string>
+    <string name="error_icon_content_description">Erreur</string>
     <string name="error_invalid_bind_address">"L'adresse e-mail que vous avez entrée est invalide."</string>
     <string name="evening">Après-midi</string>
     <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre Compte Mi.</string>
@@ -292,7 +297,8 @@
     <string name="history_list_no_data">Aucun article ici</string>
     <string name="hour_1">Toutes les heures</string>
     <string name="hour_3">Toutes les 3 heures</string>
-    <string name="icon_content_description">Dialog Icon</string>
+    <string name="i_know">Compris</string>
+    <string name="icon_content_description">Icône de dialogue</string>
     <string name="idbct_desc">"Personnalisez le fond d'écran en fonction des types de réseau"</string>
     <string name="idbct_opt_auto_select_desc_text">"Téléchargez des images standard à l'aide de données mobiles et d'images HD via Wi-Fi"</string>
     <string name="idbct_opt_auto_select_main_text">Auto</string>
@@ -304,11 +310,14 @@
     <string name="identity">Identification</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
     <string name="input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
+    <string name="input_length_exceeds_limit">Le texte saisi est trop long</string>
     <string name="input_new_pwd">Entrez un nouveau mot de passe</string>
     <string name="isornot_your_mi_account">Est-ce votre Compte Mi ?</string>
     <string name="just_a_second">Un instant…</string>
     <string name="later">Ne pas désactiver</string>
-    <string name="launch_bg_permission_exception">Allow Wallpaper Carousel to display pop-up windows while running in the background in Security</string>
+    <string name="launch_bg_permission_exception">"Autoriser le diaporama de fonds d'écran à afficher des fenêtres contextuelles lors de l'exécution en arrière-plan dans Sécurité"</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API basée sur SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
     <string name="like">Ajouter aux favoris</string>
     <string name="liked">Ajouté aux favoris</string>
     <string name="lks_left_net_deny">La connexion réseau est restreinte</string>
@@ -316,12 +325,13 @@
     <string name="lks_left_top_notice">Appuyez ici pour revenir en haut</string>
     <string name="lks_left_top_notice_refresh">Appuyez pour voir les nouveaux éléments</string>
     <string name="lks_logo_desc2">"Fonds d'écran frais tous les jours"</string>
+    <string name="lks_logo_desc_search">"Nouveaux fonds d'écran quotidiens"</string>
     <string name="lks_subscription_toast">"Fond d'écran changé avec succès"</string>
-    <string name="llks_add_cate">Subscribe to %s</string>
-    <string name="llks_auto_switch_wp">Subscribe to the categories you like</string>
+    <string name="llks_add_cate">"S'abonner à %s"</string>
+    <string name="llks_auto_switch_wp">Abonnez-vous aux catégories que vous aimez</string>
     <string name="llks_display_error">Autorisations requises</string>
-    <string name="llks_display_error_des">Allow Wallpaper Carousel to be shown on the Lock screen in the Settings.</string>
-    <string name="llks_learn_more_cate">More categories</string>
+    <string name="llks_display_error_des">"Autoriser l'affichage du diaporama de fonds d'écran sur l'écran de verrouillage dans les paramètres."</string>
+    <string name="llks_learn_more_cate">Plus de catégories</string>
     <string name="llks_pop_btm_des">Commence ta journée avec un sourire</string>
     <string name="llks_pop_btm_des_backup">Commencez bien votre journée</string>
     <string name="llks_pop_btm_title">Bonjour</string>
@@ -362,6 +372,11 @@
     <string name="login_app">"S'identifier"</string>
     <string name="login_app_cancel">Annuler</string>
     <string name="login_app_confirm">"S'identifier"</string>
+    <string name="login_by_local_phone_long_text">Sign in now</string>
+    <string name="login_by_local_phone_short_text">Sign in</string>
+    <string name="login_other">Another Mi Account</string>
+    <string name="login_register_by_local_phone_long_text">Create account</string>
+    <string name="login_with_sns">Other ways to sign in</string>
     <string name="login_xiaomi_account_summary">"J'ai lu et accepté le &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Contrat d'utilisation&lt;/font>&lt;/a> du Compte Mi et la &lt;font color ='# 0D84FF'>&lt;a href='%2$s'>Politique de confidentialité&lt;/font>&lt;/a>."</string>
     <string name="logout">Se déconnecter</string>
     <string name="logout_account">Se déconnecter</string>
@@ -378,6 +393,7 @@
     <string name="midnight">Nuit</string>
     <string name="minutes_15">Toutes les 15 minutes</string>
     <string name="minutes_5">Toutes les 5 minutes</string>
+    <string name="mishop_login_other">Another Account</string>
     <string name="miui_clock_city_name_local">Locale</string>
     <string name="miui_clock_city_name_second">Deuxième horloge</string>
     <string name="miui_lock_screen_date">EEEE d MMMM</string>
@@ -499,6 +515,8 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
     <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
     <string name="need_open_gallery">"Activer Fond d'écran"</string>
+    <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
+    <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
     <string name="new_feature_title">Quoi de neuf</string>
     <string name="nick_name">Surnom</string>
     <string name="night">Soirée</string>
@@ -527,6 +545,7 @@
     <string name="open_gallery">"Diaporama de fonds d'écran"</string>
     <string name="open_gallery_tips">"Appuyez ici pour activer le Diaporama de fonds d'écran"</string>
     <string name="open_guid_des">"Allez dans Paramètres &gt; Autorisations &gt; Autres autorisations &gt; Diaporama de fonds d'écran et donnez à l'application toutes les autorisations requises."</string>
+    <string name="open_settings">Settings</string>
     <string name="open_sub_title">Sélectionnez les catégories</string>
     <string name="open_title">Wallpaper Carousel</string>
     <string name="open_unable">"Wallpaper Carousel only works with MIUI's default Lock screen."</string>
@@ -629,6 +648,7 @@
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="permission_account_tip">Accéder aux informations du compte</string>
     <string name="permission_manager">Détails des autorisations</string>
+    <string name="permission_storage_read_tip">Access photos stored on your device</string>
     <string name="permission_storage_tip">"Accéder aux images sur votre appareil afin de les utiliser en tant que fonds d'écran"</string>
     <string name="personalized">Personalisation</string>
     <string name="phone_bind_too_many">"Ce téléphone a été associé à plusieurs Comptes Mi en peu de temps. Essayez d'utiliser un autre numéro de téléphone."</string>
@@ -641,9 +661,11 @@
     <string name="platform_unavailable_wechat">Installer WeChat</string>
     <string name="platform_unavailable_wechatmoment">Installer WeChat</string>
     <string name="platform_unavailable_weibo">Installer Weibo</string>
+    <string name="please_agree_protocal">Veuillez accepter le protocole</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
-    <string name="privacy_settings">Vie privée</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="privacy_setting">Paramètres de confidentialité</string>
     <string name="privacy_update_cancel">Annuler</string>
     <string name="privacy_update_confirm">Accepter</string>
     <string name="privacy_update_quit">Quitter</string>
@@ -652,6 +674,10 @@
     <string name="privacy_update_summary3">"Vous ne pourrez pas continuer à utiliser le Diaporama de fonds d'écran à moins que vous n'acceptiez la nouvelle version de sa &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Politique de confidentialité&lt;/font>&lt;/a>. Accepter la politique de confidentialité mise à jour maintenant ?"</string>
     <string name="privacy_update_title1">Politique de confidentialité mise à jour</string>
     <string name="privacy_update_title2">Attention</string>
+    <string name="progressbar_title">Checking for security issues…</string>
+    <string name="protocal_dialog_cancel">Annuler</string>
+    <string name="protocal_dialog_confirm">Agree</string>
+    <string name="protocal_dialog_title">Attention</string>
     <string name="prv_end">"&lt;CDATA&gt;C'est tout pour le moment.&lt;/CDATA&gt;"</string>
     <string name="prv_loading">&lt;CDATA&gt;Chargement…&lt;/CDATA&gt;</string>
     <string name="prv_nodata">&lt;CDATA&gt;Aucune donnée&lt;/CDATA&gt;</string>
@@ -669,8 +695,17 @@
     <string name="recommend_switch_dlg_title">Désactiver les recommandations ?</string>
     <string name="recommend_switch_title">Recommandations personnalisées</string>
     <string name="refresh_network">Actualiser</string>
+    <string name="register_by_local_phone_long_text">Create account</string>
+    <string name="register_by_local_phone_short_text">Create account</string>
     <string name="remove">Supprimer</string>
     <string name="req_permission_dis_tip">Autorisations requises</string>
+    <string name="request_agree">Allow</string>
+    <string name="request_camera_permission_message">"We shall protect your personal information in accordance with the relevant laws and regulations. This app needs the following permissions to work normally:&lt;br>&lt;br>&lt;b>Using camera (for setting your profile photo)&lt;/b>&lt;br>&lt;br>If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
+    <string name="request_cancel">Annuler</string>
+    <string name="request_error_invalid_token">"Couldn't verify"</string>
+    <string name="request_error_network">A network error occurred. Check your network settings and try again.</string>
+    <string name="request_error_unknown">A system error occurred. Go back and try again.</string>
+    <string name="request_gallery_permission_message">Allow access to Gallery:&lt;br />For setting profile photos</string>
     <string name="require_permission">Autorisations requises</string>
     <string name="require_permission_text">"Pour pouvoir enregistrer et afficher des éléments, autorisez Diaporama de fonds d'écran à accéder au stockage."</string>
     <string name="resend_active_email">Renvoyer</string>
@@ -750,6 +785,7 @@
     <string name="sign_in">Connexion</string>
     <string name="sign_in_progress">Connexion…</string>
     <string name="sign_in_title">Se connecter avec votre Compte Mi</string>
+    <string name="skip_query_account">Skip</string>
     <string name="sliding_on_unlock">Swipe up to unlock</string>
     <string name="sms_send_success">Envoyé avec succès</string>
     <string name="sns_access_token_expired_warning">La session a expiré. Connectez-vous à nouveau pour reconnecter ce compte.</string>
@@ -846,8 +882,10 @@
     <string name="status_wallpaper_loop_start">Activer</string>
     <string name="subscribe_apply_wp">"Fond d'écran de l'écran de verrouillage appliqué avec succès"</string>
     <string name="subscribe_dlg_btn">Démarrer</string>
+    <string name="subscribe_dlg_btn_txt">Subscribe</string>
     <string name="subscribe_dlg_content">"Abonnez-vous pour recevoir quotidiennement de nouveaux fonds d'écran sur votre écran de verrouillage et recevoir les salutations du matin."</string>
     <string name="subscribe_dlg_content2">Subscribe to \"%1$s\"</string>
+    <string name="subscribe_dlg_desc">Subscribe to view slideshows</string>
     <string name="subscribe_dlg_title">Add your favorite images to the mix</string>
     <string name="subscribe_free">Subscribe</string>
     <string name="subscribe_item_checked">Abonné</string>
@@ -871,6 +909,7 @@
     <string name="sure_close_gallery">"Désactiver Diaporama de fonds d'écran ?"</string>
     <string name="sure_close_gallery_des">"Vous ne pourrez pas recevoir de nouvelles fraîches sur votre écran d'accueil et votre écran de verrouillage si vous désactivez Diaporama de fonds d'écran. Désactiver quand même ?"</string>
     <string name="system_default">Par défaut</string>
+    <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
     <string name="tab_user_title_bar_text">Paramètres</string>
     <string name="tb_collapse_desc">Masquer le menu \"Partager\"</string>
     <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
@@ -959,15 +998,29 @@
     <string name="uninstall_introduction_text_title">À propos</string>
     <string name="uninstall_warning_text_desc">"Sans Diaporama de fonds d'écran, vous ne pourrez pas recevoir régulièrement de nouveaux fonds d'écran de verrouillage. Cependant, vous pourrez télécharger et installer à nouveau l'application. Supprimer Diaporama de fonds d'écran ?"</string>
     <string name="uninstall_warning_text_title">"Suppression fond d'écran"</string>
+    <string name="unknown_error_info">Unknown error</string>
     <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de mettre à jour l'e-mail de récupération."</string>
     <string name="update_email_address_dialog_title">"Mettre à jour l'e-mail de récupération"</string>
     <string name="update_phone_notice">Modifier les paramètres de sécurité</string>
     <string name="upload_error_log">Envoyer le journal</string>
     <string name="user_ac_click_to_login">Cliquez pour vous connecter</string>
     <string name="user_ac_not_login">Pas connecté</string>
+    <string name="user_agreement_hint_3rd_app"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Read and agreed to the &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"I've read and agreed to the &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy.&lt;/a> The first login will automatically create a Xiaomi account"</Data></string>
+    <string name="user_agreement_hint_first_login">"We'll create an account automatically if you're using your phone number for the first time."</string>
+    <string name="user_agreement_hint_with_mobile"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>
     <string name="user_id_hint">E-mail/Téléphone/ID du Compte Mi</string>
+    <string name="user_name_phone_number">Phone number</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
     <string name="v_code_title">Entrez le code de vérification</string>

@@ -25,7 +25,7 @@
   <string name="action_dial_number">Dial</string>
   <string name="action_disable_rw">OK</string>
   <string name="action_enable_dnd">Turn on</string>
-  <string name="action_keep_rw">Cancel</string>
+  <string name="action_keep_rw">Annuler</string>
   <string name="action_open">Open</string>
   <string name="action_open_tag">Read tags</string>
   <string name="action_sms">Send</string>

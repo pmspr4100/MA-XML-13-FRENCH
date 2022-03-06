@@ -69,7 +69,7 @@
   <string name="miui_toast_zen_to_dnd_when_lock">Calls and notifications will be silenced when the device is locked</string>
   <string name="notification_control_center">Notifications &amp; Control center</string>
   <string name="quick_settings_uwbsh_label">Xiaomi Magic Control</string>
-  <string name="wireless_charging_fg_control_cancel">Cancel</string>
+  <string name="wireless_charging_fg_control_cancel">Annuler</string>
   <string name="wireless_charging_fg_control_messgae">"Reverse wireless charging was turned off because there's less than %d%% of battery remaining. You can adjust settings to allow reverse wireless charging to work longer."</string>
   <string name="wireless_charging_fg_control_ok">Adjust</string>
   <string name="wireless_charging_tips_sub_message">The other device must support Qi wireless charging standard.</string>

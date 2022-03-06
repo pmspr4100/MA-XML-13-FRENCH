@@ -3126,7 +3126,7 @@ If you have questions, contact %2$s."</string>
     <string name="screenshot_bottom_boundary_pct">Bottom boundary %1$d percent</string>
     <string name="screenshot_dismiss_description">Dismiss screenshot</string>
     <string name="screenshot_edit_description">Edit screenshot</string>
-    <string name="screenshot_edit_label">Edit</string>
+    <string name="screenshot_edit_label">Modifier</string>
     <string name="screenshot_failed_to_save_user_locked_text">Device must be unlocked before screenshot can be saved</string>
     <string name="screenshot_left_boundary_pct">Left boundary %1$d percent</string>
     <string name="screenshot_preview_description">Screenshot preview</string>
@@ -3209,7 +3209,7 @@ Any user can update apps for all other users. Accessibility settings and service
     <string name="wifi_connected_low_quality">Low quality</string>
     <string name="wifi_hotspot_switch_off_text">Off</string>
     <string name="wifi_hotspot_switch_on_text">On</string>
-    <string name="wifitrackerlib_auto_connect_disable">Auto-connect is off</string>
+    <string name="wifitrackerlib_auto_connect_disable">Auto-connexion désactivée</string>
     <string name="wifitrackerlib_available_via_app">Available via %1$s</string>
     <string name="wifitrackerlib_connected_via_app">Connected via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Automatically connected via %1$s</string>

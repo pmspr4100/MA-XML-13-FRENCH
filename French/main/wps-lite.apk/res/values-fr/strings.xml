@@ -180,7 +180,7 @@
   <string name="public_app_language">2052</string>
   <string name="public_bad_doc_to_process">"Invalid document, can't complete operation"</string>
   <string name="public_bookmark">Bookmark</string>
-  <string name="public_cancel">Cancel</string>
+  <string name="public_cancel">Annuler</string>
   <string name="public_chart_category">Categories</string>
   <string name="public_chart_series">Series</string>
   <string name="public_checkPasswdFaild">Password is incorrect.</string>
@@ -198,7 +198,7 @@
   <string name="public_decryptDocument">Decrypt</string>
   <string name="public_displayPasswd">Show password</string>
   <string name="public_doc_end_preview_tip">Powered by WPS Office</string>
-  <string name="public_edit">Edit</string>
+  <string name="public_edit">Modifier</string>
   <string name="public_enter_phonemode">Enter mobile view</string>
   <string name="public_exit_phonemode">Exit mobile view</string>
   <string name="public_exit_play">Exit</string>

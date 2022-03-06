@@ -124,7 +124,7 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
     <string name="install">Installer</string>
     <string name="install_app_progress_clear_apk">Supprimer APK</string>
     <string name="install_confirm_dialog_message">This app is made by Google. You should install Google Play services to be able to use this app normally. Installing this app now might make your device misbehave. Install anyway?</string>
-    <string name="install_confirm_dialog_negative_button">Cancel</string>
+    <string name="install_confirm_dialog_negative_button">Annuler</string>
     <string name="install_confirm_dialog_positive_button">Install</string>
     <string name="install_confirm_dialog_title">Attention</string>
     <string name="install_confirm_question">Voulez-vous installer cette application ? Elle aura accès à:</string>

@@ -584,7 +584,7 @@ et ajustez les préférences automatiquement"</string>
     <string name="dialog_button_scan">Rechercher des appareils</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_ok_time">OK (%ds)</string>
-    <string name="dialog_privacy_watermark_button_cancel">Cancel</string>
+    <string name="dialog_privacy_watermark_button_cancel">Annuler</string>
     <string name="dialog_privacy_watermark_button_input">Enter</string>
     <string name="dialog_privacy_watermark_msg">Enter text</string>
     <string name="dialog_privacy_watermark_title">Protective watermark</string>

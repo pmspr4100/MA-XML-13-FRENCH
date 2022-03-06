@@ -3202,7 +3202,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_center_speed_mode_enter_noti_title">Switched to Speed mode</string>
     <string name="power_center_speed_mode_exit_noti_summary">Less than %s of battery remaining</string>
     <string name="power_center_speed_mode_exit_noti_title">Turned off Speed mode</string>
-    <string name="power_center_speed_mode_negative_btn_text">Cancel</string>
+    <string name="power_center_speed_mode_negative_btn_text">Annuler</string>
     <string name="power_center_speed_mode_positive_btn_text">Turn on</string>
     <string name="power_center_speed_mode_positive_btn_text_count">Turn on (%ds)</string>
     <string name="power_center_speed_mode_progress_free_game_limit">Improve graphics performance</string>

@@ -791,7 +791,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
         Credential storage might not enable"</string>
     <string name="wifi_wapi_psk_type">Password type</string>
     <string name="wifi_wapi_user_certificate">User certificate</string>
-    <string name="wifitrackerlib_auto_connect_disable">Auto-connect is off</string>
+    <string name="wifitrackerlib_auto_connect_disable">Auto-connexion désactivée</string>
     <string name="wifitrackerlib_available_via_app">Available via %1$s</string>
     <string name="wifitrackerlib_certinstaller_package">com.android.certinstaller</string>
     <string name="wifitrackerlib_connected_via_app">Connected via %1$s</string>
