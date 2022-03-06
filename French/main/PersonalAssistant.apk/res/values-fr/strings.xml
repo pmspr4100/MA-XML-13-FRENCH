@@ -533,7 +533,7 @@ pour afficher les widgets."</string>
   <string name="pa_stock_display_limit_alert">"Impossible d'ajouter d'autres entreprises"</string>
   <string name="pa_stock_empty_display_list">Aucun élément ici pour le moment. Appuyez sur \"Ajouter\" pour ajouter des éléments.</string>
   <string name="pa_stock_empty_follow_list">Aucun élément ici pour le moment</string>
-  <string name="pa_stock_follow_limit_alert">Vous pouvez ajouter jusqu'à %1$d entreprises</string>
+  <string name="pa_stock_follow_limit_alert">"Vous pouvez ajouter jusqu'à %1$d entreprises"</string>
   <string name="pa_stock_follow_list_label">Mes entreprises</string>
   <string name="pa_stock_green_grow">Vert - haut, rouge - bas</string>
   <string name="pa_stock_hszs">Hang Sen</string>
