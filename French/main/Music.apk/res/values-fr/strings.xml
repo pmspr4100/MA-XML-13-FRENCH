@@ -781,6 +781,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Appuyez pour passer à la sélection du jour</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
     <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="mulit_choice_management">Gérer plusieurs éléments</string>
     <string name="music_browser_label">Musique</string>
     <string name="music_filter">Filtrer les fichiers audio</string>
@@ -1023,7 +1024,7 @@ Soyez heureux"</string>
     <string name="select">Sélectionner</string>
     <string name="select_all">Tout sélectionner</string>
     <string name="select_clip_desc">Sélectionnez une partie de la chanson</string>
-    <string name="select_desc_sub">"Vous pouvez sélectionner jusqu'à 3 langues"</string>
+    <string name="select_desc_sub">"Vous pouvez sélectionner jusqu'à %d langues"</string>
     <string name="select_device">Sélectionnez un périphérique</string>
     <string name="select_displayed_folders">Choisir les dossiers à afficher</string>
     <string name="select_local_album_cover">Select image</string>
@@ -1031,8 +1032,8 @@ Soyez heureux"</string>
     <string name="select_local_lyric">Select file</string>
     <string name="select_local_lyric_file">Sélectionner le fichier de paroles local</string>
     <string name="select_none">Tout désélectionner</string>
-    <string name="select_one_language">Sélectionner au moins une langue</string>
-    <string name="select_three_languages">"Vous pouvez sélectionner jusqu'à 3 langues"</string>
+    <string name="select_one_language">Sélectionner au moins %d langue</string>
+    <string name="select_three_languages">"Vous pouvez sélectionner jusqu'à %d langues"</string>
     <string name="selected_count">%1$d sur %2$d sélectionnés</string>
     <string name="send">Envoyer</string>
     <string name="send_to_title">Envoyer avec (%1$s)</string>
