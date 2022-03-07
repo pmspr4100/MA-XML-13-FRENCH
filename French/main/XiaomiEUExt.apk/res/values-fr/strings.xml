@@ -22,6 +22,7 @@
     <string name="afternoon">Après-midi</string>
     <string name="am">AM</string>
     <string name="app_name">Extension Xiaomi.eu</string>
+    <string name="auto">Automatique</string>
     <string name="confirm_reset">Confirmer la réinitialisation</string>
     <string name="confirm_reset_message">Réinitialiser les applications par défaut ?</string>
     <string name="contributors">Contributeurs</string>
@@ -200,5 +201,6 @@
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="wifi_region">Région Wi-Fi</string>
     <string name="yesterday">Hier</string>
 </resources>
