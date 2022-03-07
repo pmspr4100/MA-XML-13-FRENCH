@@ -2104,7 +2104,7 @@ Interface UT : %5$s"</string>
     <string name="reject_via_sms_summary">Afficher les boutons pour terminer un appel ou pour envoyer des SMS</string>
     <string name="reject_via_sms_title">Réponses rapides</string>
     <string name="relay_call_answered_by_other_devices">Cet appel a été répondu sur un autre appareil.</string>
-    <string name="relay_call_released_due_to_connect_lost">"La connexion a été perdue. Continuez l'appel sur l'appareil déconnecté."</string>
+    <string name="relay_call_released_due_to_connect_lost">"La connexion a été perdue. Continuez l'appel sur votre autre appareil."</string>
     <string name="relay_connection_service_label">Appel RELAI intégré</string>
     <string name="remaining_length_format">Il reste %1$s</string>
     <string name="remove">Retirer</string>
@@ -2870,6 +2870,8 @@ Le stockage des justificatifs pourrait ne pas permettre"</string>
     <string name="window_animation_scale_title">Échelle animation fenêtres</string>
     <string name="window_blurs">Allow window-level blurs</string>
     <string name="wrong_password">Le mot de passe que vous avez entré est incorrect</string>
+    <string name="xcap_setting_summary">"Interdiction d'appels, messagerie vocale et &amp; renvoi d'appel, appel en attente"</string>
+    <string name="xcap_setting_title">"Paramètres du service d'appel"</string>
     <string name="yesterday">Hier</string>
     <string name="zen_alarm_warning">"Vous n'entendrez pas votre prochaine alarme %1$s"</string>
     <string name="zen_alarm_warning_indef">"Vous n'entendrez pas votre prochaine alarme %1$s, sauf si vous désactivez cette option avant"</string>

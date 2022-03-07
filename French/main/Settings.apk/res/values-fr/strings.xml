@@ -596,6 +596,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="angle_enabled_app">"Sélectionnez l'application compatible ANGLE"</string>
     <string name="angle_enabled_app_not_set">Aucune application compatible avec ANGLE définie</string>
     <string name="angle_enabled_app_set">Application compatible ANGLE : %1$s</string>
+    <string name="animation_off">Animation désactivée</string>
     <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
     <string name="another_migration_already_in_progress">Une autre migration est déjà en cours.</string>
     <string name="anti_spam">Antispam</string>
@@ -800,6 +801,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="asst_feedback_indicator_title">Retour de notification adaptatif</string>
     <string name="asst_importance_reset_summary">"Réinitialiser les paramètres d'importance modifiés par l'utilisateur et autoriser l'assistant de notification à prioriser"</string>
     <string name="asst_importance_reset_title">"Réinitialiser l'importance des notifications"</string>
+    <string name="at_most_one_process">Au plus %d processus</string>
     <string name="attempt_other_network">Changer de réseaux</string>
     <string name="au_pay">au PAY</string>
     <string name="audio_and_captions_category_title">"Audio et texte à l'écran"</string>
@@ -839,7 +841,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="auto_caps_summary">Mettre une majuscule en début de phrase</string>
     <string name="auto_clean_description">"À propos de cette fonctionnalité
 1. Lancez cette fonctionnalité une ou deux fois si vous trouvez que votre haut-parleur est légèrement bloqué par la poussière.
-2. Si le haut-parleur est fortement bloqué, lancez cette fonctionnalité 2 à 5 fois tout en secouant votre appareil avec le haut-parleur dirigé vers le bas."</string>
+2. Si le haut-parleur est fortement bloqué, lancez cette fonctionnalité %1$d à %2$d fois tout en secouant votre appareil avec le haut-parleur dirigé vers le bas."</string>
     <string name="auto_clean_description_pad">"À propos de cette fonctionnalité
 - Lancez cette fonctionnalité une ou deux fois si vous trouvez que votre haut-parleur est légèrement bloqué par la poussière.
 - Si le haut-parleur est fortement bloqué, lancez cette fonctionnalité %1$d à %2$d fois tout en secouant votre appareil avec le haut-parleur dirigé vers le bas."</string>
@@ -1210,6 +1212,10 @@ Applications :
     <string name="block_list_title">Liste noire</string>
     <string name="block_title">Afficher les notifications</string>
     <string name="bluetooth">Bluetooth</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_1">Optimisé pour la qualité audio (%1$dkbps/%2$dkbps)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Qualité audio et connexion équilibrée (%1$dkbps/%2$dkbps)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Optimisé pour la qualité de la connexion (%1$dkbps/%2$dkbps)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Meilleur effet (débit binaire adaptatif)</string>
     <string name="bluetooth_a2dp_profile_summary_connected">"Connecter à l'audio du contenu multimédia"</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">"Jouer l'audio du contenu multimédia"</string>
     <string name="bluetooth_active_battery_level">Actif, %1$s de batterie</string>
@@ -3384,8 +3390,10 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="force_immersive_compatibility_hide">Masquer</string>
     <string name="force_immersive_compatibility_hint_message">Certaines applications pourraient ne pas fonctionner correctement si vous choisissez de masquer les boutons virtuels.</string>
     <string name="force_immersive_compatibility_hint_title">Problèmes de compatibilité</string>
-    <string name="force_msaa">Forcer MSAA 4x</string>
-    <string name="force_msaa_summary">Activer MSAA 4x dans les applications OpenGL ES 2.0</string>
+    <string name="force_msaa">Forcer MSAA 4x</string>
+    <string name="force_msaa_new">Forcer MSAA %dx</string>
+    <string name="force_msaa_summary">Activer MSAA 4x dans les applications OpenGL ES 2.0</string>
+    <string name="force_msaa_summary_new">Activer le MSAA %2$dx dans les applications OpenGL ES %1$.1f</string>
     <string name="force_resizable_activities">Forcer possibilité de redimensionner les activités</string>
     <string name="force_resizable_activities_summary">Permettre de redimensionner toutes les activités pour le mode multifenêtre, indépendamment des valeurs du fichier manifeste</string>
     <string name="force_rtl_layout_all_locales">Forcer de droite à gauche</string>
@@ -4607,6 +4615,7 @@ D'autres personnes utilisent cet appareil.
     <string name="max_cpu8_info">"Octa-Core Max "</string>
     <string name="max_fingerprint_number_reached">"Impossible d'ajouter plus de 5 empreintes digitales. Pour en ajouter une, supprimez d'abord une existante."</string>
     <string name="max_fingerprint_reached_toast">"Vous pouvez ajouter jusqu'à 5 empreintes digitales"</string>
+    <string name="max_number_of_processes">Au plus %d processus</string>
     <string name="maximum_memory_use">Utilisation mémoire (maximale)</string>
     <string name="mechanical_ime">Clavier mécanique</string>
     <string name="mechanical_ime_hint">Pris en charge uniquement par le clavier personnalisé pour Xiaomi</string>
@@ -5408,6 +5417,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="no_5g_in_dsds_text">"Lors de l'utilisation de 2 SIM, ce téléphone sera limité à la 4G. &lt;annotation id="url"> En savoir plus &lt;/annotation>."</string>
     <string name="no_application">Aucune</string>
     <string name="no_applications">Aucune application</string>
+    <string name="no_background_processes">"Aucun processus d'arrière-plan"</string>
     <string name="no_battery_summary">Aucune utilisation de la batterie depuis la dernière charge complète</string>
     <string name="no_bluetooth_devices">Aucun périphérique Bluetooth</string>
     <string name="no_carrier_update_now_text">"Mis à jour à l'instant"</string>
@@ -7592,6 +7602,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="stable_build">" Stable"</string>
     <string name="standard">Silencieux</string>
     <string name="standard_info">Les appels et les notifications seront réduits au silence</string>
+    <string name="standard_limit">Limite standard</string>
     <string name="standby_bucket_summary">Application en état de veille : %s</string>
     <string name="start_silent_mode">Activer le mode Silence</string>
     <string name="starting_android">"Lancement d'Android en cours…"</string>
@@ -7852,8 +7863,34 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="string_KB_per_log_buffer">%d Ko par tampon de journal</string>
     <string name="string_MB">%d Mo</string>
     <string name="string_MB_per_log_buffer">%d Mo par tampon de journal</string>
+    <string name="string_after_int_minute">Après %d minute</string>
+    <string name="string_after_int_minutes">Après %d minutes</string>
+    <string name="string_after_int_seconds">Après %d secondes</string>
+    <string name="string_always">Toujours</string>
+    <string name="string_bits_per_sample">%d bits/échantillon</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Latence courte (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Latence moyenne (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Longue latence (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Optimisé pour une faible latence (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">Optimisé pour la qualité de la connexion (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Qualité audio et connexion équilibrée (%1$d/%2$dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimisé pour la qualité audio (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Meilleur effort (débit binaire automatique)</string>
+    <string name="string_float_inches">%f pouces</string>
+    <string name="string_float_seconds">%f secondes</string>
+    <string name="string_immediately">Immédiatement</string>
+    <string name="string_int_hour">%d heure</string>
+    <string name="string_int_hours">%d heures</string>
+    <string name="string_int_minute">%d minute</string>
+    <string name="string_int_minutes">%d minutes</string>
+    <string name="string_int_second">%d seconde</string>
+    <string name="string_int_seconds">%d secondes</string>
+    <string name="string_never">Jamais</string>
     <string name="string_off">Désactivé</string>
     <string name="string_offed">Désactivé</string>
+    <string name="string_scale_float">"Échelle d'animation %.1fx"</string>
+    <string name="string_scale_int">"Échelle d'animation %dx"</string>
+    <string name="string_unlimited">Illimité</string>
     <string name="strong_suppression_summary">Votre appareil sera moins réactif au toucher accidentel, certains contrôles gestuels peuvent ne pas fonctionner près des bords</string>
     <string name="strong_suppression_title">Grande zone</string>
     <string name="structure_add_facerecoginition_text">Ajouter des données de visage 3D</string>
@@ -8196,6 +8233,9 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="time_floating_window">Horloge flottante</string>
     <string name="time_floating_window_summary">"Afficher l'horloge dans la fenêtre flottante au-dessus des autres applications"</string>
     <string name="time_format_category_title">Format des heures</string>
+    <string name="time_format_entries_1">%d-heures 1:00 PM</string>
+    <string name="time_format_entries_2">%d-heures 13:00</string>
+    <string name="time_format_entries_3">Auto (basé sur la langue du système)</string>
     <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="time_picker_title">Heure</string>
     <string name="time_spent_in_app_pref_title">"Temps passé sur l'application"</string>
@@ -8672,6 +8712,7 @@ ou des écouteurs avec fiche de 3,5 mm."</string>
     <string name="use_personalized_ad_service_summary">"Lorsque les recommandations sont désactivées, la quantité de publicités affichée reste la même que lorsqu'elle est activée, mais pas en fonction des données de vos habitudes ou de vos informations personnelles."</string>
     <string name="use_privacy_password_immediate">Utiliser</string>
     <string name="use_system_language_to_select_input_method_subtypes">Utiliser la langue du système</string>
+    <string name="use_system_preference">Utiliser la préférence système (par défaut)</string>
     <string name="use_this_wlan">Rester connecté</string>
     <string name="use_wifi_hotsopt_main_switch_title">Use Wi‑Fi hotspot</string>
     <string name="user_account_title">Compte pour contenu</string>

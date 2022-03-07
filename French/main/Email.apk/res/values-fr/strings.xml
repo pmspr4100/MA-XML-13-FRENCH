@@ -125,7 +125,7 @@ Mettre à jour maintenant ?"</string>
     <string name="account_setup_correct_address_tips">"L'adresse e mail que vous avez entré est invalide."</string>
     <string name="account_setup_creating_account_msg">"    Création du compte…"</string>
     <string name="account_setup_deleting_account_msg">"    Suppression du compte…"</string>
-    <string name="account_setup_domain_invalid_toast">Le nom de domaine de messagerie que vous avez entré est incorrect, veuillez vérifier</string>
+    <string name="account_setup_domain_invalid_toast">Saisissez un domaine de messagerie valide</string>
     <string name="account_setup_exchange_certificate_title">Certificat client</string>
     <string name="account_setup_exchange_no_certificate">Aucun</string>
     <string name="account_setup_failed_auth_required">"Cette méthode d'authentification n'est pas supportée par le service."</string>
@@ -249,6 +249,9 @@ Mettre à jour maintenant ?"</string>
     <string name="attachment_decoding">Décompression des pièces jointes…</string>
     <string name="attachment_detail_empty_prompt">Sélectionnez les fichiers</string>
     <string name="attachment_download_all">Tout télécharger</string>
+    <string name="attachment_drag_add_inline">Intégrer</string>
+    <string name="attachment_drag_add_picture_prompt">Souhaitez-vous intégrer ou joindre les images sélectionnées ?</string>
+    <string name="attachment_drag_create_email_prompt">Joindre les fichiers sélectionnés à un nouvel e-mail ?</string>
     <string name="attachment_image">Image</string>
     <string name="attachment_list_search_hint">Recherche pièce jointe</string>
     <string name="attachment_mgr_name">Pièces jointes</string>
@@ -344,14 +347,20 @@ Mettre à jour maintenant ?"</string>
     <string name="click_download_all_content">[Appuyez pour télécharger le corps du message]</string>
     <string name="click_to_reload">"Touchez l'écran pour actualiser"</string>
     <string name="close">Fermer</string>
+    <string name="close_custom_folder">Masquer les sous-dossiers</string>
     <string name="collapse_recipient_details">Masquer les détails du destinataire</string>
     <string name="compose">Rédiger</string>
     <string name="compose_add_attachment_permission_denied">"Impossible de transférer l'e-mail. Autorisations d'accès au stockage externe requises."</string>
+    <string name="compose_encrypt_lock_description">Chiffrer</string>
+    <string name="compose_encrypt_unlock_description">Déchiffrer</string>
+    <string name="compose_encrypt_unlock_w_description">Pas un contact de confiance</string>
     <string name="compose_event">Invitation</string>
     <string name="compose_paste_address_oob">Trop de caractères</string>
     <string name="compose_picturesexceedlimits">"Vous pouvez ajouter plus d'images en tant que pièces jointes"</string>
     <string name="compose_send">Envoyer</string>
     <string name="compose_sent">E-mail envoyé</string>
+    <string name="compose_smime_sign_description">Appliquer la signature</string>
+    <string name="compose_smime_unsign_description">Supprimer la signature</string>
     <string name="compose_to_label">À</string>
     <string name="compress_failed_and_retry">Impossible de compresser. Réessayer.</string>
     <string name="compress_img">Compresser les images</string>
@@ -878,6 +887,7 @@ Ce problème peut être causé par l'authentification à deux facteurs du compte
     <string name="message_view_attachment_background_load">Les pièces jointes dans votre message transmis seront téléchargées avant de les envoyer.</string>
     <string name="mi_sync_erroe_toast">"Une erreur de réseau s'est produite: "</string>
     <string name="mi_sync_erroe_toast_other">"Une erreur de serveur s'est produite: "</string>
+    <string name="mi_slide_menu">Barre latérale</string>
     <string name="mibill_privacy_policy_button1">Plus tard</string>
     <string name="mibill_privacy_policy_button2">Accepter</string>
     <string name="mibill_privacy_policy_description">Autoriser Mi Wallet à analyser et gérer vos factures automatiquement. Cette fonctionnalités est automatiquement désactivé pour les adresses e-mails de travail.</string>
@@ -1066,6 +1076,7 @@ Essayez un autre compte de messagerie."</string>
     <string name="one_month">1 mois</string>
     <string name="one_week">1 semaine</string>
     <string name="open_calendar_and_contacts_permission">"Autoriser E-mail à accéder aux informations du stockage et de l'agenda dans les paramètres"</string>
+    <string name="open_custom_folder">Afficher les sous-dossiers</string>
     <string name="open_external_storage_and_calendar_permission">"Autoriser E-mail à accéder aux informations du stockage et de l'agenda dans les paramètres"</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">"Autoriser E-mail à accéder aux informations des contacts, du stockage et de l'agenda dans les paramètres"</string>
     <string name="open_external_storage_and_contacts_permission">Autoriser E-mail à accéder au stockage et au contacts dans les paramètres</string>
@@ -1123,9 +1134,12 @@ de l'écran de verrouillage soit modifié."</string>
     <string name="pdf_save_error">Le corps étant trop volumineux, il ne peut pas être exporté sous forme de fichier PDF</string>
     <string name="pdf_save_no_body">Veuillez attendre que le texte se charge et réessayez</string>
     <string name="pdf_save_to">Enregistré sous</string>
+    <string name="pdf_signature_add">Ajouter une nouvelle signature</string>
     <string name="pdf_signature_create_title">Dessiner votre signature</string>
+    <string name="pdf_signature_delete">Supprimer la signature</string>
     <string name="pdf_signature_manager_max_count">Le nombre maximum de signatures pouvant être créées a été atteint. Veuillez supprimer les signatures existantes avant de les créer</string>
     <string name="pdf_signature_manager_title">Gestion de signature</string>
+    <string name="pdf_signature_select">Sélectionner la signature</string>
     <string name="pdf_viewer_actionbar_more_other">"Ouvrir avec d'autres applications"</string>
     <string name="pdf_viewer_actionbar_more_wps">Ouvrir avec WPS</string>
     <string name="pdf_viewer_file_damage_toast">Le fichier PDF est endommagé, veuillez vérifier le fichier et réessayer</string>
@@ -1303,6 +1317,7 @@ respectées"</string>
     <string name="select_attachment_type">Choisir la pièce jointe depuis</string>
     <string name="select_no_file">Aucune pièce jointe sélectionnée</string>
     <string name="select_path">"Sélectionnez le chemin d'accès"</string>
+    <string name="selected">Selectionné</string>
     <string name="send">Envoyer</string>
     <string name="send_encrypt_dialog_fail_content">"Il semble que le destinataire ne dispose pas du certificat de confiance requis pour chiffrer cet e-mail. Envoyer un e-mail régulier à la place ?"</string>
     <string name="send_encrypt_dialog_fail_title">"Impossible d'envoyer un e-mail chiffré"</string>
@@ -1537,6 +1552,7 @@ Supprimer le compte ?"</string>
     <string name="undo">Annuler</string>
     <string name="unknow">Inconnu</string>
     <string name="unread_string">Conversation non lue</string>
+    <string name="unselected">Désélectionné</string>
     <string name="unzip_file_failed">Impossible de décompresser le fichier</string>
     <string name="update_date_format_templete">HH:mm d MMMM aa</string>
     <string name="update_domain_summary">Mettre à jour la liste des domaines et des configurations disponibles</string>
@@ -1571,7 +1587,7 @@ Appuyer sur "&lt;b>Sync Now&lt;/b> pour synchroniser maintenant, ou &lt;b>Modifi
     <string name="wait_for_sync_title">En attente de synchronisation</string>
     <string name="wait_help_context">patienter</string>
     <string name="wait_while_update_db">Mise à jour de la base de données…</string>
-    <string name="web_view_load_error_tip">"Le corps de cet e-mail n'a pas pu s'afficher correctement. Signalez-nous ce problème dans notre groupe QQ (952315061)."</string>
+    <string name="web_view_load_error_tip">Votre navigateur a planté. Téléchargez la dernière version de Webview sur Google Play pour vous aider à résoudre ce problème.</string>
     <string name="webview_logout">Vous pouvez essayer de vous connecter à nouveau</string>
     <string name="webview_logout_cancel">Plus tard</string>
     <string name="webview_logout_sure">Réessayer</string>

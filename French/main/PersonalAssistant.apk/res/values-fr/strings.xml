@@ -201,6 +201,7 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="pa_express_empty_extra">Suivre</string>
   <string name="pa_express_empty_title">"Pas d'informations sur la livraison ici"</string>
   <string name="pa_express_i_known">OK</string>
+  <string name="pa_express_input_again">Saisissez à nouveau</string>
   <string name="pa_express_inqiury_select_logistics">Sélectionnez le service de messagerie</string>
   <string name="pa_express_inquiry">Vérifier la commande</string>
   <string name="pa_express_inquiry_frequently_used_logistics">Populaire</string>
@@ -222,6 +223,9 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="pa_express_phone_binding_send_verifacation_code">Envoyer le code</string>
   <string name="pa_express_phone_binding_title">Ajouter un numéro de téléphone</string>
   <string name="pa_express_provider_banner">Fourni par %s</string>
+  <string name="pa_express_query_fail_content_input_again">Impossible de trouver des informations sur votre livraison express. Vérifiez votre numéro de suivi et réessayez.</string>
+  <string name="pa_express_query_fail_content_manual_select">Impossible de trouver des informations sur votre livraison express. Essayez plutôt de sélectionner manuellement une société de livraison.</string>
+  <string name="pa_express_query_fail_title">"Impossible d'obtenir les informations"</string>
   <string name="pa_express_query_history">Historique des commandes</string>
   <string name="pa_express_send">Envoyer</string>
   <string name="pa_express_setting">Paramètres de livraison express</string>
@@ -271,8 +275,8 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="pa_express_state_unknown">Aucune donnée pour le moment</string>
   <string name="pa_express_tail_number">Numéro de commande : %1$s</string>
   <string name="pa_express_title">Livraison express</string>
-  <string name="pa_express_widget_logout">Connectez-vous pour suivre vos colis</string>
-  <string name="pa_express_widget_order_42">Suivre le colis</string>
+  <string name="pa_express_widget_logout">Connectez-vous pour voir vos colis en livraison express</string>
+  <string name="pa_express_widget_order_42">Entrez le numéro de suivi</string>
   <string name="pa_express_widget_post">Envoyer le colis</string>
   <string name="pa_finish">Effectué</string>
   <string name="pa_guide_dialog_desc">Appuyez longuement sur un widget pour le réorganiser. Appuyez sur le plus pour ajouter plus de widgets.</string>
@@ -357,6 +361,7 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="pa_picker_detail_install_tip_un_upgrade">"Mettre d'abord à jour l'application"</string>
   <string name="pa_picker_detail_launcher_screen_lock">"La disposition de votre écran d'accueil est verrouillée. Impossible d'ajouter des widgets."</string>
   <string name="pa_picker_detail_maml_download_error">Impossible de télécharger</string>
+  <string name="pa_picker_detail_maml_downloading">Téléchargement des éléments…</string>
   <string name="pa_picker_detail_modify_maml">Modifier</string>
   <string name="pa_picker_detail_net_error">Erreur réseau. Appuyez pour réessayer.</string>
   <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Un instant…</string>

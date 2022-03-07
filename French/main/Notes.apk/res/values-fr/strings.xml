@@ -47,6 +47,7 @@
   <string name="alert_message_delete_excerpt">"Supprimer cette note ? L'extrait sera également supprimé."</string>
   <string name="alert_message_delete_note">Supprimer cette note ?</string>
   <string name="alert_message_edit_anyway">Si vous éditez cette note, cela peut entraîner une perte de données.</string>
+  <string name="alert_message_edit_anyway_new">Cette note contient du contenu non pris en charge. Le modifier peut entraîner des changements de format ou une perte de données.</string>
   <string name="alert_message_restore">"Impossible d'ouvrir cette note. Restaurez-la pour modifier son contenu."</string>
   <string name="alert_title_delete">Supprimer une note</string>
   <string name="alert_title_edit_anyway">La note contient du contenu non valable</string>
@@ -189,6 +190,7 @@
   <string name="error_send_empty_note">"Impossible d'envoyer une note vide"</string>
   <string name="error_send_empty_note_to_weibo">"Impossible d'envoyer une note vide via Weibo"</string>
   <string name="error_unsupport_content">Cette note contient des contenus non supportés, appuyer ici pour mettre à jour</string>
+  <string name="error_unsupport_content_format">Cette note contient du contenu non pris en charge. Mettez à jour vers la version %1$s ou ultérieure.</string>
   <string name="error_widget_exist_for_send_to_desktop">Cette note existe déjà sur le bureau</string>
   <string name="exceed_todo_text_limitation">La description de la tâche est trop longue.</string>
   <string name="excerpt">Extraits</string>
@@ -637,6 +639,12 @@
   <string name="select_account_prompt">Synchroniser les notes</string>
   <string name="send">Envoyer</string>
   <string name="set_alarm_description">Régler une alarme</string>
+  <string name="setting_big_screen_layout_columns">Barre latérale</string>
+  <string name="setting_big_screen_layout_flat">Tuiles</string>
+  <string name="setting_big_screen_layout_title">Disposition grand écran</string>
+  <string name="setting_layout">Mise en page</string>
+  <string name="setting_micloud_sync_title">Synchroniser avec le cloud</string>
+  <string name="setting_note_list_layout_title">Mise en page</string>
   <string name="setting_other">AUTRE</string>
   <string name="setting_privacy">Politique de confidentialité</string>
   <string name="single_link_excerpt_saving">Enregistrement des éléments…</string>
@@ -872,6 +880,15 @@ Autorisez Notes à lire le statut et lidentité du téléphone."</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
   <string name="view_all_notes">Tout afficher</string>
+  <string name="warn_cannot_add_new_bullet">"Impossible d'ajouter une nouvelle liste à puces car la note est trop longue"</string>
+  <string name="warn_cannot_add_new_checkbox">"Impossible d'ajouter une nouvelle case à cocher car la note est trop longue"</string>
+  <string name="warn_cannot_add_new_doodle">"Impossible d'ajouter un nouveau doodle car la note est trop longue"</string>
+  <string name="warn_cannot_add_new_element">"Impossible d'ajouter un nouvel élément car la note est trop longue"</string>
+  <string name="warn_cannot_add_new_link_card">"Impossible d'ajouter un nouveau lien car la note est trop longue"</string>
+  <string name="warn_cannot_add_new_picture">"Impossible d'ajouter une nouvelle image car la note est trop longue"</string>
+  <string name="warn_cannot_add_new_style">"Impossible d'ajouter un nouveau format car la note est trop longue"</string>
+  <string name="warn_disable_edit_in_browse_mode">Vous ne pouvez pas modifier les notes en mode lecture seule</string>
+  <string name="warn_enter_browse_mode">Vous êtes en mode lecture seule</string>
   <string name="web_sso_login_fail">Vous devez vous reconnecter</string>
   <string name="web_sso_login_message">Connexion…</string>
   <string name="webview_reload">Réessayez</string>

@@ -491,7 +491,13 @@
 Ce message peut être non sollicité."</string>
     <string name="mms_block_hint_highlight">Bloquer MMS</string>
     <string name="mms_main_purpose">"Pour accéder à toutes les fonctionnalités de la messagerie, activez Mi Message et la Messagerie intelligente."</string>
+    <string name="mms_mi_message_main_purpose">Bienvenue dans Mi Message ! Un message SMS sortant est nécessaire pour activer Mi Message. Votre opérateur vous facturera pour ce message.</string>
+    <string name="mms_mi_message_request_notice">Nous voulons que vous tiriez le meilleur parti de Mi Message.</string>
+    <string name="mms_mx_privacy_policy">Politique de confidentialité de Mi Message</string>
+    <string name="mms_smart_msg_main_purpose">La messagerie intelligente peut reconnaître les identifiants des expéditeurs, fournir des services de menu intelligents et identifier les messages suspects.</string>
+    <string name="mms_smart_msg_privacy_policy">Politique de confidentialité de la messagerie intelligente</string>
     <string name="mms_title">Messagerie</string>
+    <string name="mms_user_agreement">"Accord de l'utilisateur"</string>
     <string name="monday">Lundi</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -1195,14 +1201,19 @@ Take a look at the recommended ones!"</string>
     <string name="system_permission_declare_disagree">Annuler</string>
     <string formatted="false" name="system_permission_declare_double_link">"Lisez et acceptez notre %1s et %2s avant d'utiliser cette fonctionnalité."</string>
     <string formatted="false" name="system_permission_declare_main_purpose">Bienvenue à %1s ! %2s</string>
+    <string name="system_permission_declare_mi_message">Bienvenue à Mi Message !</string>
     <string name="system_permission_declare_no_say_no">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité en vigueur.
 Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application."</string>
     <string name="system_permission_declare_privacy_declare">%1s doit collecter vos données et nécessite les autorisations suivantes pour fonctionner normalement :</string>
-    <string name="system_permission_declare_privacy_declare_new">This app needs to connect to the internet and requires the following permissions to be able to work normally:</string>
+    <string name="system_permission_declare_privacy_declare_new">Cette application doit se connecter à Internet et nécessite les autorisations suivantes pour pouvoir fonctionner normalement :</string>
+    <string name="system_permission_declare_privacy_link">"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez nos %1."</string>
+    <string name="system_permission_declare_rcs">Bienvenue dans la messagerie 5G !</string>
     <string name="system_permission_declare_revoke_path">Vous pouvez révoquer votre autorisation et désactiver les services dans les paramètres de messagerie.</string>
     <string name="system_permission_declare_single_link">"Lisez et acceptez nos %1s avant d'utiliser cette fonction."</string>
+    <string name="system_permission_declare_smart_message">Bienvenue dans la messagerie intelligente !</string>
     <string name="system_permission_declare_triple_link" formatted="false">"Lisez et acceptez nos %1s, %2s, et %3s avant d'utiliser ces fonctionnalités."</string>
     <string name="system_permission_declare_use_network">Connectez-vous au réseau</string>
+    <string name="system_permission_declare_user_agree">Accepter</string>
     <string name="system_permission_disabled">Refusé</string>
     <string name="system_permission_enabled">Autorisé</string>
     <string name="system_permission_perm_agree_desc">Autorisez cette application à se connecter à Internet et accordez les autorisations facultatives pour pouvoir utiliser toutes ses fonctionnalités.</string>
@@ -1234,6 +1245,10 @@ Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et tél
     <string name="system_permission_perm_write_mms">Autoriser la Messagerie à écrire des MMS</string>
     <string name="system_permission_perm_write_sms">Autoriser la Messagerie à écrire des SMS</string>
     <string name="system_permission_requested">Demander</string>
+    <string name="system_permission_user_privacy">Avant de continuer, lisez et acceptez les termes et conditions suivants.</string>
+    <string name="tab_finance">Finance</string>
+    <string name="tab_message">Messages</string>
+    <string name="tab_promotions">Promotions</string>
     <string name="text_in_popup_saved_to_clipboard">Copié dans le presse-papiers</string>
     <string name="text_message">Message texte</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>

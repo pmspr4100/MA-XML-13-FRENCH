@@ -520,6 +520,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="terms_of_use_label_statistics">Statistiques</string>
     <string name="terms_of_use_label_systemhelper">"Service d'enregistrement automatique"</string>
     <string name="terms_of_use_label_translation">Service de traduction</string>
+    <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (version de Xiaomi)</string>
     <string name="terms_of_use_label_updater">Mise à jour</string>
     <string name="terms_of_use_label_use_location_and_network_global">"Avant d'utiliser MIUI, vous devez lire et accepter nos Conditions d'utilisation et notre Politique de confidentialité. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Lorsque votre appareil est activé, les services suivants se connectent au réseau et accèdent à votre position :"</string>
     <string name="terms_of_use_label_use_network_china">"Avant d'utiliser MIUI, vous devez lire et accepter nos Conditions d'utilisation et notre Politique de confidentialité. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Lorsque votre appareil est activé, les services suivants se connectent au réseau :"</string>
