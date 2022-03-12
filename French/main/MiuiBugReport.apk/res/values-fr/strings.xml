@@ -739,7 +739,7 @@ Lisez et acceptez la nouvelle version de %3$s avant de continuer."</string>
     <string name="system_app_select">Applications système</string>
     <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
     <string name="tab_title_chat">FAQ</string>
-    <string name="tab_title_my_reports">Mes rapports</string>
+    <string name="tab_title_my_reports">Mes commentaires</string>
     <string name="tab_title_preferences">Paramètres</string>
     <string name="tab_title_report">Rapports</string>
     <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>

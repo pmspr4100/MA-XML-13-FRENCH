@@ -108,6 +108,7 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="high_temp_benchmark_state_message">"On dirait que cet appareil est trop chaud maintenant. Utilisez cette application une fois l'appareil refroidi :"</string>
   <string name="high_temp_state">Surchauffe</string>
   <string name="high_temp_state_message">"Votre appareil surchauffe. Les données mobiles, les points d'accès Wi-Fi, le GPS et l'appareil photo seront restreints."</string>
+  <string name="high_temp_state_message_orange_es">"Certaines applications n'ont pas pu être utilisées temporairement pour améliorer les performances du téléphone."</string>
   <string name="hints_loading_text">Chargement…</string>
   <string name="important_warning">Attention</string>
   <string name="insert_data">Insérer des données</string>

@@ -1800,6 +1800,7 @@ des tremblements de terre"</string>
     <string name="gamebox_app_not_find">"Installer d'abord l'application."</string>
     <string name="gamebox_brightness">Brightness</string>
     <string name="gamebox_browser_not_find">"Installer depuis Navigateur Mi d'abord"</string>
+    <string name="gamebox_bullet_chat">"Commentaires à l'écran"</string>
     <string name="gamebox_collimator">Viseur</string>
     <string name="gamebox_display_1">Aucun</string>
     <string name="gamebox_display_2">Saturé</string>
@@ -1900,7 +1901,11 @@ des tremblements de terre"</string>
     <string name="gb_dialog_record_way_ai">Les enregistrements IA sont sauvegardés dans la boîte de jeu et y sont stockés pendant 7 jours.</string>
     <string name="gb_dialog_record_way_finish">Terminé</string>
     <string name="gb_dialog_record_way_manual">"Enregistrez des vidéos jusqu'à 30 secondes manuellement"</string>
-    <string name="gb_dialog_record_way_setting_tips">"Remarque : L'enregistrement de vos sessions de jeu nécessite une consommation d'énergie plus élevée, ce qui peut entraîner un retard."</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">Enregistrer manuellement %d-%d secondes de vidéo pendant la session de jeu.</string>
+    <string name="gb_dialog_record_way_setting_tip_one">"Augmentation de la consommation d'énergie et du retard"</string>
+    <string name="gb_dialog_record_way_setting_tip_title">Cette fonctionnalité peut entraîner les problèmes suivants :</string>
+    <string name="gb_dialog_record_way_setting_tip_two">"Conflits avec d'autres enregistreurs d'écran"</string>
+    <string name="gb_dialog_record_way_setting_tips">"Remarque : l'enregistrement de vos sessions de jeu nécessite une consommation d'énergie plus élevée, ce qui peut entraîner un retard."</string>
     <string name="gb_dialog_record_way_title">"Sélectionnez la méthode d'enregistrement"</string>
     <string name="gb_first_guide_function_shiled_title">Désactiver les fonctionnalités du système lorsque Game Turbo est activé</string>
     <string name="gb_first_guide_gamebox_des">Utiliser des raccourcis en jouant</string>
@@ -1927,7 +1932,8 @@ Enregistrez des séquences et utilisez-les à tout moment !"</string>
     <string name="gb_game_video_page_delete_success">Supprimé avec succès</string>
     <string name="gb_game_video_page_null">Enregistrez les moments clés de vos sessions de jeu</string>
     <string name="gb_game_video_record_finish_tips">Saved manually recorded video to Game Turbo</string>
-    <string name="gb_game_video_save">Sauvegarder</string>
+    <string name="gb_game_video_save">Enregistrer</string>
+    <string name="gb_game_video_save_tip">Enregistré avec succès</string>
     <string name="gb_game_video_type_ai">IA</string>
     <string name="gb_game_video_type_ai_record">Record using AI</string>
     <string name="gb_game_video_type_manual">Manuellement</string>
@@ -1940,6 +1946,7 @@ Enregistrez des séquences et utilisez-les à tout moment !"</string>
     <string name="gb_gpu_driver_update_app_tips">Current version is up to date</string>
     <string name="gb_have_signed">"S'enregistrer aujourd'hui"</string>
     <string name="gb_manual_record_dialog_del_video_message">Supprimer définitivement les vidéos sélectionnées ?</string>
+    <string name="gb_manual_video_record_title">Enregistrements</string>
     <string name="gb_msg_completely_shielded">Masquer les messages</string>
     <string name="gb_msg_completely_shielded_summary">Masquer</string>
     <string name="gb_msg_not_shielded_summary">Afficher</string>
@@ -1959,13 +1966,22 @@ le taux de rafraîchissement et les limites de température"</string>
     <string name="gb_performance_tips">"Performance mode improves graphics performance,
 but also increases power consumption and allows your device to overheat"</string>
     <string name="gb_shortcut_pref_title">"Raccourci de l'écran d'accueil"</string>
+    <string name="gb_shoulder_guide_message1">"Déplacez le bouton [G] vers n'importe quelle position fonctionnelle pour l'utiliser via le déclencheur contextuel."</string>
+    <string name="gb_shoulder_guide_message2">"L'action [1] est activée en appuyant sur le bouton. L'action [2] est activée en relâchant le bouton."</string>
+    <string name="gb_shoulder_guide_tips1">Ouvrir la boîte à outils et configurer les déclencheurs contextuels</string>
+    <string name="gb_shoulder_guide_title1">Action</string>
+    <string name="gb_shoulder_guide_title2">Séquence</string>
     <string name="gb_shoulder_key">Déclencheurs contextuels</string>
     <string name="gb_shoulder_key_add_show_btn">Afficher les boutons virtuels pendant les jeux</string>
     <string name="gb_shoulder_key_add_tips">"Déplacez les boutons [G] et [D] vers n'importe quelle position fonctionnelle et utilisez-les via les déclencheurs contextuels"</string>
     <string name="gb_shoulder_key_btn_cancel">Annuler</string>
     <string name="gb_shoulder_key_btn_save_exit">Enregistrer</string>
     <string name="gb_shoulder_key_circle_left">G</string>
+    <string name="gb_shoulder_key_circle_left_sub1">G1</string>
+    <string name="gb_shoulder_key_circle_left_sub2">G2</string>
     <string name="gb_shoulder_key_circle_right">D</string>
+    <string name="gb_shoulder_key_circle_right_sub1">D1</string>
+    <string name="gb_shoulder_key_circle_right_sub2">D2</string>
     <string name="gb_shoulder_key_dialog_message">Vous pouvez utiliser les deux déclencheurs contextuels simultanément pour démarrer Game Turbo lorsque vous ne jouez pas à des jeux.</string>
     <string name="gb_shoulder_key_dialog_txt">Vous pouvez activer Game Turbo en utilisant les déclencheurs contextuels.</string>
     <string name="gb_shoulder_key_guide_btn_done">Compris</string>
@@ -1981,6 +1997,14 @@ but also increases power consumption and allows your device to overheat"</string
     <string name="gb_shoulder_key_settings_summary">Utilisez les deux déclencheurs contextuels pour démarrer Game Turbo lorsque vous ne jouez pas à des jeux</string>
     <string name="gb_shoulder_key_settings_title">Utilisez les déclencheurs contextuels pour Game Turbo</string>
     <string name="gb_shoulder_key_settings_title_new">Démarrage rapide Game Turbo</string>
+    <string name="gb_shoulder_set_left_right">Configurer [%s]</string>
+    <string name="gb_shoulder_set_title">Activez les déclencheurs contextuels pour les configurer</string>
+    <string name="gb_shoulder_set_title2">"Déplacez [%s] vers n'importe quelle position fonctionnelle et utilisez-le via le déclencheur contextuel"</string>
+    <string name="gb_shoulder_single_trigger">Action</string>
+    <string name="gb_shoulder_subsection_down">Appuyer</string>
+    <string name="gb_shoulder_subsection_trigger">Séquence</string>
+    <string name="gb_shoulder_subsection_up">Libération</string>
+    <string name="gb_shoulder_update_left_right">Modifier %s</string>
     <string name="gb_sign_gift">Enregistrez-vous pour obtenir des récompenses</string>
     <string name="gb_sign_gift_button_text">Recevoir</string>
     <string name="gb_sign_notification_summary">"S'enregistrer quotidiennement pour recevoir le boost Xunyou"</string>
@@ -2942,7 +2966,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pc_fast_charge_notifi_action_text_on">Boost</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Set battery level for reminders</string>
     <string name="pc_fast_charge_notifi_summary">Charging up to %s faster than usual…</string>
-    <string name="pc_fast_charge_notifi_summary_on">This feature might heat up your device</string>
+    <string name="pc_fast_charge_notifi_summary_on">"La vitesse de charge est augmentée lorsque l'écran est éteint. Votre appareil va chauffer."</string>
     <string name="pc_fast_charge_notifi_switch_summary">Notify about boosting charging speed when the supplied %dW charger is connected and the battery is below the set level</string>
     <string name="pc_fast_charge_notifi_switch_title">Notify about boosting</string>
     <string name="pc_fast_charge_notifi_title">%dW charging</string>
@@ -3881,6 +3905,7 @@ Retirer le consentement maintenant ?"</string>
     <string name="result_sms_title_antispam">Menacé par des URLs de SMS malveillants</string>
     <string name="result_sms_title_auth">Le risque de fuite des SMS de finance</string>
     <string name="result_wifi_header">Risques de Wi-Fi détectés</string>
+    <string name="resume">Récupérer</string>
     <string name="risk_app_install_agree_button">Faire confiance à cette application</string>
     <string name="risk_app_install_agree_checkbox">Je suis prêt à prendre tous les risques possibles.</string>
     <string name="risk_app_install_agree_message">"Cette application est développée par un tiers et peut enfreindre les lois et réglementations locales. Xiaomi ne garantit pas la disponibilité, la continuité et l'accessibilité du contenu et des services fournis par cette application. Toute perte ou tout dommage résultant de l'utilisation de cette application sera à votre charge."</string>
@@ -5149,7 +5174,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="vb_video_effects_3d">Son Surround</string>
     <string name="vb_video_effects_3d_summary">Améliore la profondeur de la reproduction sonore pour les écouteurs et les haut-parleurs</string>
     <string name="vb_video_effects_3d_summary_headset">Increase the sense of immersion and envelopment when listening to audio in the earphones</string>
-    <string name="vb_video_effects_3d_surround">Son Surround</string>
+    <string name="vb_video_effects_3d_surround">Son immersif virtuel</string>
     <string name="vb_video_effects_display_style">Style</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Dialogues améliorés</string>

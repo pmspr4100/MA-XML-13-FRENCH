@@ -93,6 +93,8 @@ L'ID de votre compte : %s"</string>
     <string name="agreement_and_privacy">Termes et conditions</string>
     <string name="am">AM</string>
     <string name="app_name">Compte Mi</string>
+    <string name="area_code_no_search_result">Impossible de trouver des résultats</string>
+    <string name="area_code_search_hint">Rechercher un pays ou une région</string>
     <string name="auth_fail_warning">La session a expiré, veuillez vous reconnecter plus tard</string>
     <string name="authorize_title">Autorisations</string>
     <string name="bind_facebook">Se connecter à votre compte Facebook</string>
@@ -606,6 +608,10 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="passport_talkback_switch_voice_captcha">Basculer vers le code de vérification vocale</string>
     <string name="passport_talkback_voice_captcha">Lire le code de vérification vocale</string>
     <string name="passport_ticket_login_select_sim_card">Sélectionnez une carte SIM</string>
+    <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM1 : %s</string>
+    <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM2 : %s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Annuler</string>
     <string name="passport_title_reg">Créer un compte</string>
     <string name="passport_trust_device">Ajouter cet appareil aux appareils de confiance</string>

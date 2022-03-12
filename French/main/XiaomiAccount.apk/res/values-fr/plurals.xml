@@ -29,6 +29,10 @@
         <item quantity="other">Il y a %d min</item>
         <item quantity="one">Il y a 1 min</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">%d résultats trouvés</item>
+        <item quantity="one">%d résultat trouvé</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Il y a 1 demi-heure</item>
     </plurals>
