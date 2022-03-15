@@ -596,6 +596,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="angle_enabled_app">"Sélectionnez l'application compatible ANGLE"</string>
     <string name="angle_enabled_app_not_set">Aucune application compatible avec ANGLE définie</string>
     <string name="angle_enabled_app_set">Application compatible ANGLE : %1$s</string>
+    <string name="animation_off">Animation désactivée</string>
     <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
     <string name="another_migration_already_in_progress">Une autre migration est déjà en cours.</string>
     <string name="anti_spam">Antispam</string>
@@ -800,6 +801,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="asst_feedback_indicator_title">Retour de notification adaptatif</string>
     <string name="asst_importance_reset_summary">"Réinitialiser les paramètres d'importance modifiés par l'utilisateur et autoriser l'assistant de notification à prioriser"</string>
     <string name="asst_importance_reset_title">"Réinitialiser l'importance des notifications"</string>
+    <string name="at_most_one_process">Au plus %d processus</string>
     <string name="attempt_other_network">Changer de réseaux</string>
     <string name="au_pay">au PAY</string>
     <string name="audio_and_captions_category_title">"Audio et texte à l'écran"</string>
@@ -839,7 +841,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="auto_caps_summary">Mettre une majuscule en début de phrase</string>
     <string name="auto_clean_description">"À propos de cette fonctionnalité
 1. Lancez cette fonctionnalité une ou deux fois si vous trouvez que votre haut-parleur est légèrement bloqué par la poussière.
-2. Si le haut-parleur est fortement bloqué, lancez cette fonctionnalité 2 à 5 fois tout en secouant votre appareil avec le haut-parleur dirigé vers le bas."</string>
+2. Si le haut-parleur est fortement bloqué, lancez cette fonctionnalité %1$d à %2$d fois tout en secouant votre appareil avec le haut-parleur dirigé vers le bas."</string>
     <string name="auto_clean_description_pad">"À propos de cette fonctionnalité
 - Lancez cette fonctionnalité une ou deux fois si vous trouvez que votre haut-parleur est légèrement bloqué par la poussière.
 - Si le haut-parleur est fortement bloqué, lancez cette fonctionnalité %1$d à %2$d fois tout en secouant votre appareil avec le haut-parleur dirigé vers le bas."</string>
@@ -1210,6 +1212,10 @@ Applications :
     <string name="block_list_title">Liste noire</string>
     <string name="block_title">Afficher les notifications</string>
     <string name="bluetooth">Bluetooth</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_1">Optimisé pour la qualité audio (%1$dkbps/%2$dkbps)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Qualité audio et connexion équilibrée (%1$dkbps/%2$dkbps)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Optimisé pour la qualité de la connexion (%1$dkbps/%2$dkbps)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Meilleur effet (débit binaire adaptatif)</string>
     <string name="bluetooth_a2dp_profile_summary_connected">"Connecter à l'audio du contenu multimédia"</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">"Jouer l'audio du contenu multimédia"</string>
     <string name="bluetooth_active_battery_level">Actif, %1$s de batterie</string>
@@ -1633,6 +1639,9 @@ Vous pouvez désactiver cette fonctionnalité dans Paramètres > Bluetooth > Pé
     <string name="bt_absVolume_open_dialog_title">Attention</string>
     <string name="bt_absVolume_pre_title">Volume absolu</string>
     <string name="bt_absVolume_summary">"Synchronise le volume sonore du périphérique Bluetooth avec celui de l'appareil"</string>
+    <string name="bt_aptx_adaptive_open_dialog_summary">"aptX Adaptive fournira une lecture de haute qualité et réduira la latence audio pour les jeux et la vidéo tout en augmentant la consommation d'énergie. La lecture peut être saccadée en raison des limitations matérielles Bluetooth et des interférences environnementales."</string>
+    <string name="bt_aptx_adaptive_open_dialog_title">Passer à aptX Adaptive ?</string>
+    <string name="bt_audio_repair_property">Résoudre les problèmes audio</string>
     <string name="bt_audio_share_property">Partage</string>
     <string name="bt_audio_share_switch_summary">"Partager l'audio avec les périphériques Bluetooth connectés"</string>
     <string name="bt_audio_share_switch_title">Partage audio</string>
@@ -1640,6 +1649,8 @@ Vous pouvez désactiver cette fonctionnalité dans Paramètres > Bluetooth > Pé
     <string name="bt_dialog_settings">Paramètres</string>
     <string name="bt_hci_snoop_log">Log Bluetooth HCI snoop</string>
     <string name="bt_hci_snoop_log_summary">Capturer tous les paquets Bluetooth HCI dans un fichier</string>
+    <string name="bt_lc3plus_open_dialog_summary">"LC3plus fournira une lecture de haute qualité et réduira la latence audio pour les jeux et la vidéo tout en augmentant la consommation d'énergie. La lecture peut être saccadée en raison des limitations matérielles Bluetooth et des interférences environnementales."</string>
+    <string name="bt_lc3plus_open_dialog_title">Passer à LC3plus ?</string>
     <string name="bt_ldac_declaration">"Lorsque le périphérique Bluetooth prend en charge LDAC, il sera connecté par défaut. LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
     <string name="bt_ldac_dialog_summary">"LDAC permet une expérience audio de haute qualité, mais augmente la consommation d'énergie. Cette fonctionnalité peut être désactivée dans les Paramètres."</string>
     <string name="bt_ldac_dialog_title">"L'appareil actuel supporte LDAC, qui a été connecté par défaut :"</string>
@@ -1656,6 +1667,14 @@ Vous pouvez désactiver cette fonctionnalité dans Paramètres > Bluetooth > Pé
     <string name="bt_lhdc_open_dialog_summary">"LHDC permet de lire un son de haute qualité et réduit la latence pendant le jeu, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir pendant la lecture en raison des limitations matérielles Bluetooth."</string>
     <string name="bt_lhdc_open_dialog_title">Activer LHDC ?</string>
     <string name="bt_lhdc_property">Attributs</string>
+    <string name="bt_plugin_new_version">Mettre à jour</string>
+    <string name="bt_plugin_preference_button">Mettre à jour</string>
+    <string name="bt_plugin_preference_msg">Actuel : %1$s | Nouveau : %2$s</string>
+    <string name="bt_plugin_preference_title">Nouvelle version</string>
+    <string name="bt_plugin_set_net_dialog_cancle">Annuler</string>
+    <string name="bt_plugin_set_net_dialog_message">Vérifiez vos paramètres réseau et réessayez.</string>
+    <string name="bt_plugin_set_net_dialog_retry">Réessayer</string>
+    <string name="bt_plugin_set_net_dialog_title">"Impossible de se connecter au réseau"</string>
     <string name="bt_pre_summary">Fournit une expérience audio de haute qualité</string>
     <string name="bt_rarely_used_device_title">%d appareil(s) rarement utilisé(s)</string>
     <string name="bt_show_notification_summary">Affiche une notification permanente dans la barre des notifications</string>
@@ -3385,7 +3404,9 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="force_immersive_compatibility_hint_message">Certaines applications pourraient ne pas fonctionner correctement si vous choisissez de masquer les boutons virtuels.</string>
     <string name="force_immersive_compatibility_hint_title">Problèmes de compatibilité</string>
     <string name="force_msaa">Forcer MSAA 4x</string>
+    <string name="force_msaa_new">Force MSAA %dx</string>
     <string name="force_msaa_summary">Activer MSAA 4x dans les applications OpenGL ES 2.0</string>
+    <string name="force_msaa_summary_new">Activer MSAA %2$dx dans les applications OpenGL ES %1$.1f</string>
     <string name="force_resizable_activities">Forcer possibilité de redimensionner les activités</string>
     <string name="force_resizable_activities_summary">Permettre de redimensionner toutes les activités pour le mode multifenêtre, indépendamment des valeurs du fichier manifeste</string>
     <string name="force_rtl_layout_all_locales">Forcer de droite à gauche</string>
@@ -4607,6 +4628,7 @@ D'autres personnes utilisent cet appareil.
     <string name="max_cpu8_info">"Octa-Core Max "</string>
     <string name="max_fingerprint_number_reached">"Impossible d'ajouter plus de 5 empreintes digitales. Pour en ajouter une, supprimez d'abord une existante."</string>
     <string name="max_fingerprint_reached_toast">"Vous pouvez ajouter jusqu'à 5 empreintes digitales"</string>
+    <string name="max_number_of_processes">Au plus %d processus</string>
     <string name="maximum_memory_use">Utilisation mémoire (maximale)</string>
     <string name="mechanical_ime">Clavier mécanique</string>
     <string name="mechanical_ime_hint">Pris en charge uniquement par le clavier personnalisé pour Xiaomi</string>
@@ -4714,12 +4736,15 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_ancMedium">Moyenne</string>
     <string name="miheadset_ancMild">Légère</string>
     <string name="miheadset_anc_indicate">Connecter et appairer des écouteurs</string>
+    <string name="miheadset_anc_manual">Manuel</string>
     <string name="miheadset_audio_mode">Qualité audio</string>
     <string name="miheadset_audio_mode_high">Haute</string>
     <string name="miheadset_audio_mode_listen">Basse</string>
     <string name="miheadset_audio_mode_normal">Standard</string>
     <string name="miheadset_audio_quality">Qualité audio</string>
     <string name="miheadset_audio_quality_summary">Sélectionnez le codec audio Bluetooth</string>
+    <string name="miheadset_audio_sound_quality">Qualité audio</string>
+    <string name="miheadset_audio_sound_quality_summary">Sélectionnez le codec audio Bluetooth</string>
     <string name="miheadset_auto_ack_mode">Répondez automatiquement aux appels lorsque vous portez les écouteurs</string>
     <string name="miheadset_auto_ack_mode_summary">Répondre automatiquement aux appels</string>
     <string name="miheadset_auto_answer_call">Répondre aux appels automatiquement</string>
@@ -4730,6 +4755,7 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_cancel_device">Annuler</string>
     <string name="miheadset_checkUpdate">Vérifier les mises à jour</string>
     <string name="miheadset_closeAnc">Désactivé</string>
+    <string name="miheadset_codec_sample_rate">"Taux d'échantillonnage audio Bluetooth"</string>
     <string name="miheadset_common_problem">FAQ</string>
     <string name="miheadset_connectHeadsetForFw">Connecter les écouteurs pour afficher la version du micrologiciel</string>
     <string name="miheadset_connect_play_music">Démarrer la lecture automatiquement lorsque les écouteurs sont connectés</string>
@@ -4880,14 +4906,21 @@ en utilisant vos données faciales. Continuez pour accéder
     <string name="miui_master_clear_summary">Efface toutes les données sur le téléphone</string>
     <string name="miui_more_special_feature">Nouvelles fonctionnalités</string>
     <string name="miui_optimization_disabled">"Désactiver l'optimisation de MIUI"</string>
-    <string name="miui_sos_audio_summary">"Jouer le message SOS après que le contact d'urgence ait répondu"</string>
+    <string name="miui_sos_around_photo_summary">"Joignez %d photo, chacune des caméras avant et arrière, au SMS envoyé à vos contacts d'urgence"</string>
+    <string name="miui_sos_around_photo_title">Joindre des photos</string>
+    <string name="miui_sos_around_voice_summary">"Joignez un enregistrement audio de %d secondes au SMS envoyé à vos contacts d'urgence"</string>
+    <string name="miui_sos_around_voice_title">Joindre un audio de %d secondes</string>
+    <string name="miui_sos_audio_summary">"Jouer le message SOS après que le contact d'urgence a répondu"</string>
     <string name="miui_sos_audio_title">Message vocal SOS</string>
+    <string name="miui_sos_call_fire">Pompiers</string>
+    <string name="miui_sos_call_hospital">Ambulance</string>
     <string name="miui_sos_call_log_duration">Durée</string>
     <string name="miui_sos_call_log_none">"Je n'ai pas d'historique d'appel de cette dernière heure."</string>
     <string name="miui_sos_call_log_stranger">Inconnu</string>
     <string name="miui_sos_call_log_summary">"Envoyer l'historique des appels de votre dernière heure à votre contact d'urgence"</string>
     <string name="miui_sos_call_log_time_unit">%1$d m %2$d s</string>
     <string name="miui_sos_call_log_title">"Envoyer l'historique des appels"</string>
+    <string name="miui_sos_call_police">Police</string>
     <string name="miui_sos_call_warning_sim_unable">"Pas de signal. Impossible d'envoyer des SMS."</string>
     <string name="miui_sos_calling_summary">"Votre appareil effectuera des appels automatiques à vos contacts d'urgence en jouant le message vocal SOS que vous avez enregistré. L'appel sera terminé une fois que votre message aura fini de jouer. L'appel automatique s'arrête après la première tentative réussie."</string>
     <string name="miui_sos_calling_title">Appel auto</string>
@@ -4899,14 +4932,19 @@ en utilisant vos données faciales. Continuez pour accéder
     <string name="miui_sos_emergency_delivered_sms_noname">%1$s a reçu le message</string>
     <string name="miui_sos_emergency_failed_sms">"Impossible d'envoyer un message à %1$s (%2$s)"</string>
     <string name="miui_sos_emergency_failed_sms_noname">"Impossible d'envoyer un message à %1s."</string>
+    <string name="miui_sos_emergency_title">"SOS d'urgence"</string>
     <string name="miui_sos_enable_switch_summary">"Appuyez rapidement sur le bouton d'alimentation 5 fois pour envoyer un message d'urgence avec votre position à vos contacts d'urgence"</string>
     <string name="miui_sos_enable_switch_title">"Messages d'urgences"</string>
     <string name="miui_sos_exit_dialog_cancel">Annuler</string>
     <string name="miui_sos_exit_dialog_message">"Vous avez activé le mode SOS Urgence. Vos informations de localisation sont en cours d'envoi à vos contacts d'urgence. Désactiver de toute manière?"</string>
     <string name="miui_sos_exit_dialog_ok">OK </string>
     <string name="miui_sos_exit_dialog_title">Désactivation du mode SOS Urgence</string>
+    <string name="miui_sos_exit_emergency_title">Désactiver</string>
+    <string name="miui_sos_exit_send_location_title">"Partage de votre position en temps réel avec des contacts d'urgence"</string>
     <string name="miui_sos_green_guard_summary">Partager les informations de localisation en temps réel</string>
     <string name="miui_sos_green_guard_title">Contrôle parental</string>
+    <string name="miui_sos_hospital_card">Carte médicale</string>
+    <string name="miui_sos_hospital_card_important_info">Vos informations médicales essentielles pour les premiers secours</string>
     <string name="miui_sos_launch_error">"Impossible d'activer le mode SOS Urgence"</string>
     <string name="miui_sos_launch_error_confirm">Compris</string>
     <string name="miui_sos_launch_error_message">"Impossible de se connecter au réseau mobile. Impossible d'utilise le mode SOS Urgence."</string>
@@ -4933,6 +4971,7 @@ en utilisant vos données faciales. Continuez pour accéder
     <string name="miui_sos_settings_category">"Paramètres d'urgence"</string>
     <string name="miui_sos_statusbar_summary">Appuyez pour désactiver</string>
     <string name="miui_sos_statusbar_title">Mode SOS urgence est activé</string>
+    <string name="miui_sos_unknow_contract">Contact inconnu</string>
     <string name="miui_special_feature">Fonctionnalités spéciales</string>
     <string name="miui_touch_filtered_touchassistant_warning">"La boîte de dialogue des autorisations est couverte par Assistant tactile. Éloignez l'assitant tactile ou désactivez cette fonction."</string>
     <string name="miui_touch_filtered_warning">"Si une application bloque une boîte de dialogue d'autorisations, faites glisser l'élément qui se chevauche ou fermez l'application."</string>
@@ -5407,6 +5446,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="no">Non</string>
     <string name="no_5g_in_dsds_text">"Lors de l'utilisation de 2 SIM, ce téléphone sera limité à la 4G. &lt;annotation id="url"> En savoir plus &lt;/annotation>."</string>
     <string name="no_application">Aucune</string>
+    <string name="no_background_processes">"Aucun processus d'arrière-plan"</string>
     <string name="no_applications">Aucune application</string>
     <string name="no_battery_summary">Aucune utilisation de la batterie depuis la dernière charge complète</string>
     <string name="no_bluetooth_devices">Aucun périphérique Bluetooth</string>
@@ -7355,10 +7395,11 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_management_title_singlesim">Carte SIM &amp; réseaux mobiles</string>
     <string name="sim_multi_sims_summary">Sélectionnez la carte SIM à utiliser en priorité pour les données mobiles.</string>
     <string name="sim_multi_sims_title">Plusieurs cartes SIM détectées</string>
-    <string name="sim_name_hint">Saisir le nom de la carte SIM</string>
+    <string name="sim_name_hint">Saisir le nom de la carte SIM</string>
     <string name="sim_no_inserted_msg">Aucune carte SIM insérée.</string>
+    <string name="sim_no_service">Pas de service</string>
     <string name="sim_notification_summary">Appuyez pour configurer.</string>
-    <string name="sim_notification_title">Cartes SIM modifiées</string>
+    <string name="sim_notification_title">Cartes SIM modifiées</string>
     <string name="sim_other_call_settings">"Autres paramètres d'appel"</string>
     <string name="sim_outgoing_call_title">Carte SIM pour appels sortants</string>
     <string name="sim_pin_change">Modifier code PIN carte SIM</string>
@@ -7366,7 +7407,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_pin_enable_failed">"Impossible d'activer le code PIN."</string>
     <string name="sim_pin_toggle">Verrouiller la carte SIM</string>
     <string name="sim_pins_dont_match">Les codes PIN ne correspondent pas.</string>
-    <string name="sim_pref_divider">Carte SIM préférée pour</string>
+    <string name="sim_pref_divider">Carte SIM préférée pour</string>
     <string name="sim_preferred_message">%1$s est la seule carte SIM dans votre appareil. Voulez-vous utiliser cette carte SIM pour les données mobiles, les appels et les SMS ?</string>
     <string name="sim_preferred_title">Modifier carte SIM préférée ?</string>
     <string name="sim_radio_off">Désactivé</string>
@@ -7516,6 +7557,10 @@ Pour marquer des contacts comme contacts d'urgence
 Pour envoyer des SMS à des contacts d'urgence
 • Accès à l'emplacement
 Pour partager votre position avec des contacts d'urgence
+• Enregistrement audio
+Pour envoyer des enregistrements de son ambiant aux contacts d'urgence
+• Utilisation de l'appareil photo
+Pour envoyer des photos aux contacts d'urgence
 Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez choisir de désactiver ou de ne pas utiliser SOS d'urgence dans de tels cas.
 Avant d'utiliser nos services, lisez et acceptez nos %s."</string>
     <string name="sos_privacy_dialog_title">"Conditions générales d'utilisation"</string>
@@ -7592,6 +7637,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="stable_build">" Stable"</string>
     <string name="standard">Silencieux</string>
     <string name="standard_info">Les appels et les notifications seront réduits au silence</string>
+    <string name="standard_limit">Limite standard</string>
     <string name="standby_bucket_summary">Application en état de veille : %s</string>
     <string name="start_silent_mode">Activer le mode Silence</string>
     <string name="starting_android">"Lancement d'Android en cours…"</string>
@@ -7852,8 +7898,34 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="string_KB_per_log_buffer">%d Ko par tampon de journal</string>
     <string name="string_MB">%d Mo</string>
     <string name="string_MB_per_log_buffer">%d Mo par tampon de journal</string>
+    <string name="string_after_int_minute">Après %d minute</string>
+    <string name="string_after_int_minutes">Après %d minutes</string>
+    <string name="string_after_int_seconds">Après %d secondes</string>
+    <string name="string_always">Toujours</string>
+    <string name="string_bits_per_sample">%d bits/échantillon</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Latence courte (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Latence moyenne (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Longue latence (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Optimisé pour une faible latence (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">Optimisé pour la qualité de la connexion (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Qualité audio et connexion équilibrée (%1$d/%2$dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimisé pour la qualité audio (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Meilleur effort (débit binaire automatique)</string>
+    <string name="string_float_inches">%f pouces</string>
+    <string name="string_float_seconds">%f secondes</string>
+    <string name="string_immediately">Immédiatement</string>
+    <string name="string_int_hour">%d heure</string>
+    <string name="string_int_hours">%d heures</string>
+    <string name="string_int_minute">%d minute</string>
+    <string name="string_int_minutes">%d minutes</string>
+    <string name="string_int_second">%d seconde</string>
+    <string name="string_int_seconds">%d secondes</string>
+    <string name="string_never">Jamais</string>
     <string name="string_off">Désactivé</string>
     <string name="string_offed">Désactivé</string>
+    <string name="string_scale_float">"Échelle d'animation %.1fx"</string>
+    <string name="string_scale_int">"Échelle d'animation %dx"</string>
+    <string name="string_unlimited">Illimitée</string>
     <string name="strong_suppression_summary">Votre appareil sera moins réactif au toucher accidentel, certains contrôles gestuels peuvent ne pas fonctionner près des bords</string>
     <string name="strong_suppression_title">Grande zone</string>
     <string name="structure_add_facerecoginition_text">Ajouter des données de visage 3D</string>
@@ -8196,6 +8268,9 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="time_floating_window">Horloge flottante</string>
     <string name="time_floating_window_summary">"Afficher l'horloge dans la fenêtre flottante au-dessus des autres applications"</string>
     <string name="time_format_category_title">Format des heures</string>
+    <string name="time_format_entries_1">%d heures 1:00 PM</string>
+    <string name="time_format_entries_2">%d heures 13:00</string>
+    <string name="time_format_entries_3">Auto (basé sur la langue du système)</string>
     <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="time_picker_title">Heure</string>
     <string name="time_spent_in_app_pref_title">"Temps passé sur l'application"</string>
@@ -8672,6 +8747,7 @@ ou des écouteurs avec fiche de 3,5 mm."</string>
     <string name="use_personalized_ad_service_summary">"Lorsque les recommandations sont désactivées, la quantité de publicités affichée reste la même que lorsqu'elle est activée, mais pas en fonction des données de vos habitudes ou de vos informations personnelles."</string>
     <string name="use_privacy_password_immediate">Utiliser</string>
     <string name="use_system_language_to_select_input_method_subtypes">Utiliser la langue du système</string>
+    <string name="use_system_preference">Utiliser la préférence système (par défaut)</string>
     <string name="use_this_wlan">Rester connecté</string>
     <string name="use_wifi_hotsopt_main_switch_title">Use Wi‑Fi hotspot</string>
     <string name="user_account_title">Compte pour contenu</string>
@@ -9637,12 +9713,13 @@ Toucher "Toucher </string>
     <string name="wifi_switch_to_gsm_message">Connexion Wi-Fi perdue. Utiliser la connexion de données mobiles ?</string>
     <string name="wifi_switch_to_gsm_title">Utiliser le GSM ?</string>
     <string name="wifi_tap_to_sign_in">Appuyez ici pour vous connecter au réseau</string>
-    <string name="wifi_tether_checkbox_kddi_text">"Point d'accès Wi-Fi"</string>
-    <string name="wifi_tether_checkbox_text">"Point d'accès Wi-Fi"</string>
-    <string name="wifi_tether_configure_ap_kddi_text">"Configurer le point d'accès Wi-Fi"</string>
-    <string name="wifi_tether_configure_ap_text">"Configurer le point d'accès Wi-Fi"</string>
+    <string name="wifi_tether_checkbox_kddi_text">Partage Wi-Fi</string>
+    <string name="wifi_tether_checkbox_text">"Point d'accès portable"</string>
+    <string name="wifi_tether_configure_ap_kddi_text">"Configurer le partage Wi-Fi"</string>
+    <string name="wifi_tether_configure_ap_text">"Configurer le point d'accès portable"</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="wifi_tether_configure_subtext">Nom : %1$s | Sécurité : %2$s</string>
+    <string name="wifi_tether_enabled_nosecurity_summary">"%1$s n'est pas chiffré"</string>
     <string name="wifi_tether_disabled_by_airplane">Indisponible, car le mode Avion est activé</string>
     <string name="wifi_tether_enabled_subtext">%1$s est actif</string>
     <string name="wifi_tether_failed_subtext">Erreur sur le partage de connexion</string>

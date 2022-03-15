@@ -33,6 +33,10 @@
     <string name="apple_image">Photos</string>
     <string name="apple_video">Vidéos</string>
     <string name="appname_app_data_suffix">"%1$s données d'application"</string>
+    <string name="apps_cannot_be_transfered_confirm_button">Démarrer</string>
+    <string name="apps_cannot_be_transfered_next_button">Suivant</string>
+    <string name="apps_cannot_be_transfered_summary">"Ces applications 64 bits ne peuvent pas être transférées vers un appareil 32 bits. Vous pouvez les télécharger directement depuis GetApps après le transfert."</string>
+    <string name="apps_cannot_be_transfered_title">Impossible de transférer ces applications</string>
     <string name="audio">Audio</string>
     <string name="audio_video_document">Audio, vidéo et documents</string>
     <string name="back">Retour</string>
@@ -538,6 +542,7 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="recommend_hint">Recommandé</string>
     <string name="reconnect">Reconnecter</string>
     <string name="recreate_soft_ap_tips">Appuyez sur le bouton ci-dessous pour réessayer.</string>
+    <string name="refuse_accept">Refuser</string>
     <string name="request_all_permission_content">"Mi Mover doit accéder aux éléments suivants pour pouvoir transférer des éléments vers un nouvel appareil :
 - Emplacement
 - Contacts

@@ -321,7 +321,17 @@
     <string name="relay_network_error">Erreur réseau</string>
     <string name="relay_network_error_msg">"Impossible de prendre des appels sur cet appareil en raison d'une erreur réseau. Revenez plutôt à votre téléphone."</string>
     <string name="remind_unlock_message">Votre appareil est actuellement verrouillé. \"%s\" sera disponible lorsque vous déverrouillerez votre appareil. Déverrouiller maintenant ?</string>
+    <string name="remind_unlock_screen_message">Déverrouillez votre appareil pour pouvoir utiliser \"%s\". Déverrouiller maintenant ?</string>
     <string name="respond_via_sms_custom_message">Réponse personnalisée</string>
+    <string name="saf_permission_content">"Les autorisations système ont été mises à jour. Pour pouvoir enregistrer des appels, donnez d'abord votre autorisation.
+
+Comment accorder une autorisation :
+Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
+    <string name="saf_permission_grant_permission_immediately">Suivant</string>
+    <string name="saf_permission_later">Plus tard</string>
+    <string name="saf_permission_refused">"Impossible d'enregistrer les appels en raison d'autorisations manquantes"</string>
+    <string name="saf_permission_title">Autorisations requises</string>
+    <string name="saf_permission_use_this_folder">Utiliser ce dossier</string>
     <string name="saturday">Samedi</string>
     <string name="saturday_short">Sam</string>
     <string name="saturday_shortest">Sam</string>

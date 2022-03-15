@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="about_device_info">"Afficher les détails de l'appareil"</string>
     <string name="accept">Autoriser</string>
+    <string name="access_denied_info">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
     <string name="access_token_expired_warning">Votre compte Weibo a expiré</string>
     <string name="access_token_invalid_warning">Votre compte Weibo est non valide</string>
     <string name="account">Compte</string>
@@ -93,6 +94,8 @@ L'ID de votre compte : %s"</string>
     <string name="agreement_and_privacy">Termes et conditions</string>
     <string name="am">AM</string>
     <string name="app_name">Compte Mi</string>
+    <string name="area_code_no_search_result">Impossible de trouver des résultats</string>
+    <string name="area_code_search_hint">Rechercher un pays ou une région</string>
     <string name="area_code_no_search_result">Impossible de trouver des résultats</string>
     <string name="area_code_search_hint">Rechercher un pays ou une région</string>
     <string name="auth_fail_warning">La session a expiré, veuillez vous reconnecter plus tard</string>
@@ -366,6 +369,8 @@ Envoyez ce code au superviseur."</string>
     <string name="multi_user_not_show_sync_activity_title">Désactiver la synchronisation avec Mi Cloud</string>
     <string name="my_device_title">Appareil actuel</string>
     <string name="need_install_wechat">Installez WeChat en premier</string>
+    <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
+    <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayer.</string>
     <string name="night">Soirée</string>
     <string name="no_account_or_forget_password">Créer un compte ou mot de passe oublié ?</string>
     <string name="no_network_btn">Actualiser</string>
@@ -609,9 +614,9 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="passport_talkback_voice_captcha">Lire le code de vérification vocale</string>
     <string name="passport_ticket_login_select_sim_card">Sélectionnez une carte SIM</string>
     <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
-    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM1 : %s</string>
+    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM%1$d : %2$s</string>
     <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
-    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM2 : %s</string>
+    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM%1$d : %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Annuler</string>
     <string name="passport_title_reg">Créer un compte</string>
     <string name="passport_trust_device">Ajouter cet appareil aux appareils de confiance</string>
@@ -656,6 +661,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
+    <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
     <string name="provision_back">Retour</string>
     <string name="provision_next">Suivant</string>
     <string name="provision_skip_underline">Ignorer</string>
@@ -749,6 +755,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="system_ad_summary">"Activez cette fonctionnalité pour permettre la diffusion d'un petit nombre d'annonces dans les applications système. Ces publicités nous aident à développer et à améliorer nos produits et services. Vous pouvez choisir de désactiver cette fonctionnalité à tout moment. Merci pour votre aide ! "</string>
     <string name="system_ad_switch">Annonces dans les applications système</string>
     <string name="system_ad_switch_failed">échec</string>
+    <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
     <string name="talkback_scan_barcode">Scanner un QR code</string>
     <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
@@ -810,6 +817,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="two_factor_auth_need_code_summary">"Vous verrez un code sur d'autres appareils Mi connectés. Entrez ce code sur un nouvel appareil pour vous connecter."</string>
     <string name="two_factor_auth_summary">"Lorsque vous essayez de vous connecter sur un nouvel appareil ou dans un nouvel emplacement, vous en serez informé sur les autres appareils connectés. Vous devrez confirmer si de telles tentatives de connexion sont autorisées par vous."</string>
     <string name="unbind_sns_description">"Après avoir supprimé ce compte, vous ne serez plus en mesure d'utiliser les informations du compte  %s pour vous connecter à votre Compte Mi."</string>
+    <string name="unknown_error_info">Erreur inconnue</string>
     <string name="unlock_help_notice">"Aide :
 1. Si vous avez oublié votre mot de passe, rendez-vous sur id.mi.com pour le réinitialiser.
 2. Si vous ne parvenez pas à réinitialiser votre mot de passe ou si quelqu'un a verrouillé votre appareil, rendez-vous sur i.mi.com pour le déverrouiller.

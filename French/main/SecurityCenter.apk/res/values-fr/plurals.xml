@@ -269,6 +269,10 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">Désinstaller %2$d jeu (inclus %1$s)</item>
     </plurals>
     <plurals name="gb_dialog_record_way_ai_desc">
+        <item Quantity="other">Enregistrez automatiquement les moments clés et générez des vidéos avec les temps forts de la session. Vous pouvez choisir de les sauvegarder définitivement après chaque session de jeu. Les vidéos non enregistrées seront automatiquement supprimées après %1$d jours.</item>
+        <item quantit="one">Enregistrez automatiquement les moments clés et générez des vidéos avec les temps forts de la session. Vous pouvez choisir de les sauvegarder définitivement après chaque session de jeu. Les vidéos non enregistrées seront automatiquement supprimées après %1$d jour.</item>
+    </pluriels>
+    <plurals name="gb_dialog_record_way_ai_desc">
         <item quantity="other">Enregistrez automatiquement les moments clés et générez des vidéos avec les temps forts de la session. Vous pouvez choisir de les sauvegarder définitivement après chaque session de jeu. Les vidéos non enregistrées seront supprimées automatiquement après %1$d jours.</item>
         <item quantity="one">Enregistrez automatiquement les moments clés et générez des vidéos avec les temps forts de la session. Vous pouvez choisir de les sauvegarder définitivement après chaque session de jeu. Les vidéos non enregistrées seront supprimées automatiquement après %1$d jour.</item>
     </plurals>

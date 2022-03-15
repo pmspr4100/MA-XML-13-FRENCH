@@ -662,6 +662,14 @@ Réessayez dans %d secondes."</string>
     <string name="close">Fermer</string>
     <string name="compat_mode_off">"Étirer pour remplir l'écran"</string>
     <string name="compat_mode_on">"Zoomer pour remplir l'écran"</string>
+    <string name="config_navBarLayout">left[.5W],recent[1WC];home;back[1WC],right[.5W]</string>
+    <string name="config_navBarLayoutHandle">back[70AC];home_handle;ime_switcher[70AC]</string>
+    <string name="config_navBarLayoutQuickstep">back[1.7WC];home;contextual[1.7WC]</string>
+    <string name="config_navBarLayout_left">left[.5W],recent[1WC];home;back[1WC],right[.5W]</string>
+    <string name="config_navBarLayout_reverse">left[.5W],back[1WC];home;recent[1WC],right[.5W]</string>
+    <string name="config_navBarLayout_reverse_left">left[.5W],back[1WC];home;recent[1WC],right[.5W]</string>
+    <string name="config_navBarLayout_reverse_right">left[.5W],back[1WC];home;recent[1WC],right[.5W]</string>
+    <string name="config_navBarLayout_right">left[.5W],recent[1WC];home;back[1WC],right[.5W]</string>
     <string name="confirm">Confirmer</string>
     <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : Les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
     <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
@@ -1903,6 +1911,9 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="qs_rearrange">Réorganiser les paramètres rapides</string>
     <string name="qs_status_phone_muted">Téléphone en sourdine</string>
     <string name="qs_status_phone_vibrate">Téléphone en mode vibreur</string>
+    <string name="qs_traffic_message_type_exceed">%1$s %2$s au-dessus de la limite</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s restant</string>
+    <string name="qs_traffic_message_type_used">%1$s %2$s utilisés</string>
     <string name="quick_controls_setup_subtitle">"Maintenez le bouton d'alimentation enfoncé pour accéder à vos commandes"</string>
     <string name="quick_controls_setup_title">"Configurer les commandes de l'appareil"</string>
     <string name="quick_controls_subtitle">Ajoutez des commandes pour vos appareils connectés</string>
@@ -2462,6 +2473,10 @@ Il peut surchauffer si vous :
     <string name="torch_opened">Torche allumée</string>
     <string name="touch_filtered_warning">"Étant donné qu'une application masque une demande d'autorisation, les paramètres ne peuvent pas vérifier votre réponse."</string>
     <string name="track_frame_time">Rendu du profil HWUI</string>
+    <string name="traffic_unit_byte">" o"</string>
+    <string name="traffic_unit_gigabyte">" Go"</string>
+    <string name="traffic_unit_kilobyte">" Ko"</string>
+    <string name="traffic_unit_megabyte">" Mo"</string>
     <string name="transition_animation_scale_title">"Échelle de l'animation de transition"</string>
     <string name="tts_default_lang_summary">Définir une langue spécifique pour le texte lu</string>
     <string name="tts_default_lang_title">Langue</string>
@@ -3065,6 +3080,7 @@ If you have questions, contact %2$s."</string>
     <string name="privacy_type_microphone">microphone</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="qs_alarm_tile_no_alarm">No alarm set</string>
+    <string name="qs_bill_message_balance">%1$s %2$s restant</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
     <string name="quick_settings_camera_label">Camera access</string>
     <string name="quick_settings_camera_mic_available">Available</string>
