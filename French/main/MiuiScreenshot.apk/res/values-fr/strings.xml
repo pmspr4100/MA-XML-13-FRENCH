@@ -56,7 +56,7 @@
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="default_device_name">Périphérique inconnu</string>
     <string name="device_name_with_ellipsize">%1$s…</string>
-    <string name="device_offline">L'autre appareil est hors ligne. Recommencer.</string>
+    <string name="device_offline">"L'autre appareil est hors ligne. Recommencer."</string>
     <string name="device_status_failed">"Impossible d'envoyer"</string>
     <string name="device_status_sending">Envoi…</string>
     <string name="device_status_success">Envoyé avec succès</string>
@@ -86,7 +86,7 @@
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
-    <string name="functions_are_being_developed">Cette fonctionnalité sera bientôt disponible. Restez à l'écoute !</string>
+    <string name="functions_are_being_developed">"Cette fonctionnalité sera bientôt disponible. Restez à l'écoute !"</string>
     <string name="garbage_count">Il y a %1$s anciennes instances</string>
     <string name="global_main_purpose">"Bienvenue dans l'Éditeur de captures d'écran ! Vous pouvez utiliser cette application pour recadrer et modifier vos captures d'écran. Cette application doit se connecter à Internet pour pouvoir fonctionner normalement."</string>
     <string name="help">"Vous ne trouvez pas d'appareils ?"</string>
