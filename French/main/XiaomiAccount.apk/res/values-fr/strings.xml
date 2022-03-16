@@ -96,8 +96,6 @@ L'ID de votre compte : %s"</string>
     <string name="app_name">Compte Mi</string>
     <string name="area_code_no_search_result">Impossible de trouver des résultats</string>
     <string name="area_code_search_hint">Rechercher un pays ou une région</string>
-    <string name="area_code_no_search_result">Impossible de trouver des résultats</string>
-    <string name="area_code_search_hint">Rechercher un pays ou une région</string>
     <string name="auth_fail_warning">La session a expiré, veuillez vous reconnecter plus tard</string>
     <string name="authorize_title">Autorisations</string>
     <string name="bind_facebook">Se connecter à votre compte Facebook</string>
