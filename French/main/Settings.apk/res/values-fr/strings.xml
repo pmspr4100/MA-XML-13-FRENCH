@@ -3624,6 +3624,8 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gxzw_quick_open_slow_summary">"Appuyez et maintenez l'icône d'empreinte digitale pour ouvrir le menu de raccourcis. Faites glisser pour utiliser un raccourci."</string>
     <string name="gxzw_quick_open_slow_title">Appuyez et maintenez</string>
     <string name="gxzw_quick_open_title">Raccourcis</string>
+    <string name="gxzw_vibrate_summary">"Vibrer pendant la lecture de l'animation de déverrouillage par empreinte digitale"</string>
+    <string name="gxzw_vibrate_title">Vibrer lors du déverrouillage</string>
     <string name="handy_mode">Mode une main</string>
     <string name="handy_mode_enable">Mode une main</string>
     <string name="handy_mode_no_touch_assistant">"Le mode à une main ne fonctionnera que si vous utilisez des boutons pour la navigation dans le système. Vous pouvez basculer entre les gestes et les boutons dans la section \"Navigation système\" des paramètres."</string>
