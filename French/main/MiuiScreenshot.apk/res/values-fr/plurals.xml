@@ -61,16 +61,16 @@
         <item quantity="one">Il y a 1 minute</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
-        <item quantit="other">%2$d packages d'installation (%3$s) de %1$s</item>
-        <item quantit="one">package d'installation de %2$d (%3$s) de %1$s</item>
+        <item quantit="other">%2$d packages d\'installation (%3$s) de %1$s</item>
+        <item quantit="one">package d\'installation de %2$d (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_received">
-        <item quantit="other">Reçu %2$d packages d'installation (%3$s) de %1$s</item>
-        <item quantit="one">Reçu le package d'installation %2$d (%3$s) de %1$s</item>
+        <item quantit="other">Reçu %2$d packages d\'installation (%3$s) de %1$s</item>
+        <item quantit="one">Reçu le package d\'installation %2$d (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_receiving">
-        <item quantit="other">Réception de %2$d packages d'installation (%3$s) de %1$s…</item>
-        <item quantit="one">Réception du package d'installation %2$d (%3$s) de %1$s…</item>
+        <item quantit="other">Réception de %2$d packages d\'installation (%3$s) de %1$s…</item>
+        <item quantit="one">Réception du package d\'installation %2$d (%3$s) de %1$s…</item>
     </plurals>
     <plurals name="send_audio_dialog_desc">
         <item quantit="other">%2$d fichiers audio (%3$s) de %1$s</item>
