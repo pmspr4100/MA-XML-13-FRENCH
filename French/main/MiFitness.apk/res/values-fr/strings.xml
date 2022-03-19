@@ -211,7 +211,7 @@ Si vous changez d'avis, avant d'utiliser nos services, vous devez accepter notre
     <string name="afternoon">Après midi</string>
     <string name="agree">Accepter</string>
     <string name="aivs_huami_operate_on_app">"Continuer dans l'application sur votre téléphone"</string>
-    <string name="aivs_huami_timer_limit">Vous pouvez régler une minuterie jusqu'à 99 min 59 s</string>
+    <string name="aivs_huami_timer_limit">"Vous pouvez régler une minuterie jusqu'à 99 min 59 s"</string>
     <string name="am">AM</string>
     <string name="app_name">Mi Fitness</string>
     <string name="app_upgrade_no_newer_version">La version actuelle est à jour</string>
