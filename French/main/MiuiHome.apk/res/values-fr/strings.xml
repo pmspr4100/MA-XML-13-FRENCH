@@ -163,7 +163,7 @@
     <string name="auto_add_app_shortcut">"Ajouter automatiquement les nouvelles applications à l'écran d'accueil"</string>
     <string name="auto_delete_category_dialog_content">Les applications actuelles seront supprimées de cette catégorie et la catégorie sera supprimée. Supprimer cette catégorie maintenant ?</string>
     <string name="auto_delete_category_dialog_title">"Suppression d'une catégorie"</string>
-    <string name="auto_disable_screenbuttons_summary">Appuyer 2 fois sur un bouton de navigation pour réactiver</string>
+    <string name="auto_disable_screenbuttons_summary">"Désactiver automatiquement les boutons de navigation lorsque la barre d'état n'est pas affichée. Appuyez deux fois sur n'importe quel bouton de navigation pour les réactiver."</string>
     <string name="auto_disable_screenbuttons_title">Désactiver automatiquement les boutons de navigation</string>
     <string name="back">Retour</string>
     <string name="backup_fail">Impossible de sauvegarder le lanceur</string>

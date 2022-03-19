@@ -205,6 +205,14 @@ Sélection"</string>
     <string name="bluetooth_talkback_imaging">Imaging</string>
     <string name="bluetooth_talkback_input_peripheral">"Périphérique d'entrée"</string>
     <string name="bluetooth_talkback_phone">Téléphone</string>
+    <string name="bt_plugin_update_dialog_cancle">Pas maintenant</string>
+    <string name="bt_plugin_update_dialog_title">Mise à jour Bluetooth</string>
+    <string name="bt_plugin_update_dialog_update">Mettre à jour</string>
+    <string name="bt_plugin_update_done_dialog_exit">Appliquer</string>
+    <string name="bt_plugin_update_done_dialog_msg">Pour appliquer les modifications, les paramètres seront fermés et le Bluetooth sera déconnecté.</string>
+    <string name="bt_plugin_update_done_dialog_title">Appliquer les modifications</string>
+    <string name="bt_plugin_update_done_toast">Mise à jour réussie</string>
+    <string name="bt_plugin_update_notification_updating">Mise à jour Bluetooth</string>
     <string name="bt_hci_snoop_log">Activer le journal des paquets Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Capture les paquets Bluetooth (réactiver le Bluetooth après la modification de ce paramètre)</string>
     <string name="bugreport_in_power">Raccourci rapport de bug</string>

@@ -31,6 +31,10 @@
     <string name="antispam_local_marked">Marqué localement</string>
     <string name="antispam_notification_title">Numéro inconnu</string>
     <string name="antispam_provider">Identifié par %s</string>
+    <string name="bluetooth_permission_content">"En raison de la mise à jour de l'autorisation du système, votre autorisation est requise pour obtenir votre liste d'appareils Bluetooth"</string>
+    <string name="bluetooth_permission_grant_immediately">Autorisation immédiate</string>
+    <string name="bluetooth_permission_later">Plus tard</string>
+    <string name="bluetooth_permission_title">"Autorise l'accès aux appareils Bluetooth"</string>
     <string name="callFailed_cb_enabled">"Vous ne pouvez pas effectuer d'appels sortants si l'interdiction d'appel est activée."</string>
     <string name="callFailed_congestion">Le réseau est occupé</string>
     <string name="callFailed_dialToDial">Requête DIAL modifiée en DIAL avec un autre numéro.</string>
@@ -90,14 +94,10 @@
     <string name="can_not_use">"Impossible d'utiliser"</string>
     <string name="cancel">Annuler</string>
     <string name="card_title_answering">Répondre à un appel</string>
-    <string name="card_title_answering_time_out">"Impossible de répondre à l'appel, réessayez."</string>
     <string name="card_title_call_ended">"Appel terminé "</string>
     <string name="card_title_conf_call">Conférence téléphonique</string>
     <string name="card_title_dialing">Appel en cours</string>
     <string name="card_title_hanging_up">"Fin de l'appel "</string>
-    <string name="card_title_hanging_up_fail">"Impossible de terminer l'appel, réessayez."</string>
-    <string name="card_title_hanging_up_restart">Impossible de terminer un appel. Redémarrez votre appareil.</string>
-    <string name="card_title_hanging_up_weak_signal">"Signal du réseau mobile faible ! Fin de l'appel…"</string>
     <string name="card_title_in_call">Appel en cours</string>
     <string name="card_title_in_call_short">Appel en cours</string>
     <string name="card_title_in_crbt">"En attente d'une réponse…"</string>
@@ -118,9 +118,9 @@
     <string name="close">Fermer</string>
     <string name="close_camera_failed">"Impossible de désactiver l'appareil photo…"</string>
     <string name="close_camera_requesting">"Désactivation de l'appareil photo…"</string>
-    <string formatted="false" name="conference_call_description">%s,%s etc. total %s</string>
+    <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
     <string name="conference_call_recorder_title">Conférence téléphonique</string>
-    <string formatted="false" name="conference_call_single_description">%s etc. Total %s</string>
+    <string name="conference_call_single_description" formatted="false">%s etc. Total %s</string>
     <string name="conference_caller_info_name">Conférence téléphonique avec %1$s</string>
     <string name="conference_callers_exceeded">"Impossible d'ajouter plus de personnes"</string>
     <string name="contacts_icon_label">Contacts</string>
@@ -129,6 +129,7 @@
     <string name="crbt_second_hold_prompt_no_name">"L'appel précédent est attente…"</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
+    <string name="description_icon_sim_card">SIM %1$d</string>
     <string name="description_image_button_answer">Répondre</string>
     <string name="description_image_button_dialpad">Clavier</string>
     <string name="description_image_button_eight">huit</string>
@@ -136,7 +137,6 @@
     <string name="description_image_button_four">quatre</string>
     <string name="description_image_button_hangup">Raccrocher</string>
     <string name="description_image_button_message_enter">Répondre avec un message</string>
-    <string name="description_image_button_message_exit">Masquer les messages</string>
     <string name="description_image_button_nine">neuf</string>
     <string name="description_image_button_one">un</string>
     <string name="description_image_button_pound">dièse</string>
@@ -152,16 +152,6 @@
     <string name="description_incoming_video">Vidéo de profil pour les appels entrants</string>
     <string name="description_message_list_title">Liste des réponses rapides</string>
     <string name="description_target_answer">Répondre</string>
-    <string name="dialpad_eight">8</string>
-    <string name="dialpad_five">5</string>
-    <string name="dialpad_four">4</string>
-    <string name="dialpad_nine">9</string>
-    <string name="dialpad_one">1</string>
-    <string name="dialpad_seven">7</string>
-    <string name="dialpad_six">6</string>
-    <string name="dialpad_three">3</string>
-    <string name="dialpad_two">2</string>
-    <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">"L'autre appareil ne supporte pas les appels vidéos"</string>
     <string name="early_morning">Matin</string>
     <string name="emergency_call_dialog_number_for_display">"Numéro d'urgence"</string>
@@ -176,6 +166,10 @@
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="font_camera_tip">"Pliez l'appareil pour utiliser la caméra frontale"</string>
+    <string name="friday">Vendredi</string>
+    <string name="friday_short">Ven</string>
+    <string name="friday_shortest">Ven</string>
     <string name="inCallLabel">Téléphone</string>
     <string name="incall_bubble_hangup_click_hint">Appuyez à nouveau pour revenir à appeler</string>
     <string name="incall_call_type_label_sip">Appel internet</string>
@@ -187,12 +181,9 @@
     <string name="incall_error_supp_service_switch">Impossible de basculer les appels.</string>
     <string name="incall_error_supp_service_transfer">"Impossible de transférer l'appel."</string>
     <string name="incall_error_supp_service_unknown">"Ce service n'est pas pris en charge."</string>
-    <string name="incoming_answer_voice_text">Réponse vocale</string>
     <string name="incoming_call_forwarded_title">Appel transféré</string>
     <string name="incoming_circle_text_answer">Relâcher</string>
     <string name="incoming_circle_text_answer_p">Faire glisser vers le haut</string>
-    <string name="incoming_circle_text_message">Relâcher</string>
-    <string name="incoming_circle_text_message_p">Faire glisser vers le haut</string>
     <string name="incoming_circle_text_reject">Relâcher</string>
     <string name="incoming_circle_text_reject_p">Faire glisser vers le haut</string>
     <string name="incoming_circle_text_video_answer">Relâchez pour répondre à la vidéo</string>
@@ -269,7 +260,6 @@
     <string name="month_september_shortest">Sept</string>
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
-    <string name="msim_select_default_time_left">(%d s)</string>
     <string name="night">Soirée</string>
     <string name="noon">Midi</string>
     <string name="notification_action_accept">Accepter</string>
