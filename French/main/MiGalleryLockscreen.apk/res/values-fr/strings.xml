@@ -588,7 +588,7 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_getting_verify_code">Un instant…</string>
     <string name="passport_identification_expired">Verification code expired. Start over.</string>
     <string name="passport_input_captcha_hint">Enter code</string>
-    <string name="passport_input_password_hint">Enter password</string>
+    <string name="passport_input_password_hint">Entrez le mot de passe</string>
     <string name="passport_input_phone_hint">Enter phone number</string>
     <string name="passport_input_vcode_hint">Enter verification code</string>
     <string name="passport_input_voice_captcha_hint">Enter voice verification code</string>
@@ -676,7 +676,7 @@ Envoyez ce code au superviseur."</string>
     <string name="privacy_update_title2">Attention</string>
     <string name="progressbar_title">Checking for security issues…</string>
     <string name="protocal_dialog_cancel">Annuler</string>
-    <string name="protocal_dialog_confirm">Agree</string>
+    <string name="protocal_dialog_confirm">Accepter</string>
     <string name="protocal_dialog_title">Attention</string>
     <string name="prv_end">"&lt;CDATA&gt;C'est tout pour le moment.&lt;/CDATA&gt;"</string>
     <string name="prv_loading">&lt;CDATA&gt;Chargement…&lt;/CDATA&gt;</string>

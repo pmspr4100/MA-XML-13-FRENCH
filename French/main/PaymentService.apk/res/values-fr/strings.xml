@@ -677,10 +677,10 @@ Because the provision of MiCoin services relies on the collection of necessary p
     <string name="passport_talkback_switch_voice_captcha">Switch to voice verification code</string>
     <string name="passport_talkback_voice_captcha">Play voice verification code</string>
     <string name="passport_timeout_network_error">La demande réseau a expiré</string>
-    <string name="passport_trust_device">This is a trusted device</string>
+    <string name="passport_trust_device">Ceci est un appareil de confiance</string>
     <string name="passport_trying_read_verify_code_sms">Obtention du code de vérification…</string>
     <string name="passport_unknow_error">Une erreur inconnue est survenue</string>
-    <string name="passport_unknow_host_network_error">Check your network settings and try again</string>
+    <string name="passport_unknow_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
     <string name="passport_unknow_network_error">"Une erreur réseau s'est produite"</string>
     <string name="passport_user_agreement_link"><Data>"I've read and agree to Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
     <string name="passport_user_agreement_link_more"><Data>"I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>."</Data></string>

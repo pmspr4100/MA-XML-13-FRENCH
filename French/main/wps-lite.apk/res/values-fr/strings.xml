@@ -72,14 +72,14 @@
   <string name="documentmanager_checkUpdate">Check for updates</string>
   <string name="documentmanager_chooseEmail">Select app</string>
   <string name="documentmanager_feedback">Feedback</string>
-  <string name="documentmanager_file_loading">Just a sec…</string>
+  <string name="documentmanager_file_loading">Un instant…</string>
   <string name="documentmanager_log_list_title">Select log</string>
   <string name="documentmanager_log_no_log">No error logs</string>
   <string name="documentmanager_log_type_cloudstorage_error">Cloud storage error log</string>
   <string name="documentmanager_log_type_crash_error">Crash log</string>
   <string name="documentmanager_log_type_fileroaming_error">File roaming error log</string>
   <string name="documentmanager_log_type_save_error">Saving error log</string>
-  <string name="documentmanager_loginView_toastpassword">Enter password</string>
+  <string name="documentmanager_loginView_toastpassword">Entrez le mot de passe</string>
   <string name="documentmanager_noEmailApp">"Can't find any available email app, make sure you've installed it and signed in."</string>
   <string name="documentmanager_nocall_app">"Can't find any available dialer app, install one now."</string>
   <string name="documentmanager_phone_setting">Settings</string>
@@ -108,7 +108,7 @@
   <string name="et_circle_reference_error">The formulas in the document contain circular references; some formulas may not be calculated.</string>
   <string name="et_filter_blank">(Blank)</string>
   <string name="et_filter_count_tips">%2$d of %1$d record(s) found</string>
-  <string name="et_filter_done">Done</string>
+  <string name="et_filter_done">Effectué</string>
   <string name="et_filter_no_filterstrs">No items to be filtered</string>
   <string name="et_filter_no_search_result">No related items found</string>
   <string name="et_filter_notdatefilter">"Can't use filter in this area, select other areas."</string>
@@ -158,7 +158,7 @@
   <string name="phone_ss_sheet_add">+ (Add)</string>
   <string name="phone_writer_readoptions_page_loading">Paging…</string>
   <string name="ppt_audio_unsupport_format_audio">"This format isn't supported"</string>
-  <string name="ppt_connect">Connect</string>
+  <string name="ppt_connect">Connecter</string>
   <string name="ppt_memery_tips">Go to the last viewed location</string>
   <string name="ppt_no_note">No comments</string>
   <string name="ppt_no_slide_for_play">"The file can't be shown because it contains no slides."</string>
@@ -269,18 +269,18 @@
   <string name="public_replace">Replace</string>
   <string name="public_request_senior_password">Enter the password of highest permission</string>
   <string name="public_ribbon_font">Font</string>
-  <string name="public_save">Save</string>
+  <string name="public_save">Enregistrer</string>
   <string name="public_saveAs">Save as</string>
   <string name="public_saveDocumentError">"Couldn't save file"</string>
   <string name="public_saveDocumentLackOfStorageError">"Not enough storage, can't save file"</string>
-  <string name="public_saving">Just a sec…</string>
+  <string name="public_saving">Un instant…</string>
   <string name="public_search">Find</string>
   <string name="public_search_empty">Enter content first</string>
   <string name="public_searchnotfound">No results</string>
   <string name="public_secre_dialog_content_1">In order to provide you with our services and improve our products, we need permissions to access storage and collect the information which describes how you use our features.</string>
   <string name="public_secre_dialog_content_2" formatted="false"><Data>We shall protect your personal information in accordance with our &lt;a href=\"%s\">User Agreement&lt;/a > and &lt;a href=\"%s\">Privacy Policy&lt;/a >.</Data></string>
   <string name="public_secre_dialog_exit">Exit</string>
-  <string name="public_secre_dialog_positive">Agree</string>
+  <string name="public_secre_dialog_positive">Accepter</string>
   <string name="public_secre_dialog_tips_agree">If you accept the terms and conditions of our User Agreement and Privacy Policy, tap \"Agree\" to start using our services.</string>
   <string name="public_secre_dialog_tips_small">Welcome to Mi Doc Viewer (Powered by WPS)! You can use this app to view documents on your device.</string>
   <string name="public_secre_dialog_title">Privacy statement</string>
@@ -290,7 +290,7 @@
   <string name="public_sensor_ratation_port_tip">Portrait orientation</string>
   <string name="public_service_disable_error_tips">"This feature can't be used since related service has been disabled."</string>
   <string name="public_share_no_network">"Couldn't connect to the network"</string>
-  <string name="public_share_retry">Try again</string>
+  <string name="public_share_retry">Réessayer</string>
   <string name="public_shareplay_connect_fail">Check your network connection</string>
   <string name="public_shareplay_connection">Connecting…</string>
   <string name="public_shareplay_paly_bar">Projection</string>

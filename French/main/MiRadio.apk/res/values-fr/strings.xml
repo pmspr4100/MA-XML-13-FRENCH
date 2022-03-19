@@ -544,7 +544,7 @@ Send this code to the supervisor."</string>
     <string name="introduction">Introduction</string>
     <string name="is_scanning">Vérification du stockage…</string>
     <string name="isornot_your_mi_account">Est-ce votre Compte Mi ?</string>
-    <string name="just_a_second">Just a sec…</string>
+    <string name="just_a_second">Un instant…</string>
     <string name="karaoke_message">Download and install Karaoke plug-in to use this feature.</string>
     <string name="karaoke_negative_text">Later</string>
     <string name="karaoke_positive_text">OK</string>
@@ -570,7 +570,7 @@ Send this code to the supervisor."</string>
     <string name="live_stream_error">Copyright is updating,please try later</string>
     <string name="load_shuffle">Chargement…</string>
     <string name="loadercontainer_loading">Chargement…</string>
-    <string name="loading">Just a sec…</string>
+    <string name="loading">Un instant…</string>
     <string name="loading_hint">Chargement…</string>
     <string name="local_channel">Local channel</string>
     <string name="local_music">Offline</string>
@@ -651,7 +651,7 @@ Send this code to the supervisor."</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mobile_recommended_title">Mobile data usage</string>
     <string name="modify_lyric">Edit lyrics</string>
@@ -850,7 +850,7 @@ Send this code to the supervisor."</string>
     <string name="passport_getting_verify_code">Un instant…</string>
     <string name="passport_identification_expired">Verification code expired. Start over.</string>
     <string name="passport_input_captcha_hint">Enter code</string>
-    <string name="passport_input_password_hint">Enter password</string>
+    <string name="passport_input_password_hint">Entrez le mot de passe</string>
     <string name="passport_input_phone_hint">Enter phone number</string>
     <string name="passport_input_vcode_hint">Enter verification code</string>
     <string name="passport_input_voice_captcha_hint">Enter voice verification code</string>
@@ -887,10 +887,10 @@ Send this code to the supervisor."</string>
     <string name="passport_talkback_switch_voice_captcha">Switch to voice verification code</string>
     <string name="passport_talkback_voice_captcha">Play voice verification code</string>
     <string name="passport_timeout_network_error">La demande réseau a expiré</string>
-    <string name="passport_trust_device">This is a trusted device</string>
+    <string name="passport_trust_device">Ceci est un appareil de confiance</string>
     <string name="passport_trying_read_verify_code_sms">Getting verification code…</string>
     <string name="passport_unknow_error">Une erreur inconnue est survenue</string>
-    <string name="passport_unknow_host_network_error">Check your network settings and try again</string>
+    <string name="passport_unknow_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
     <string name="passport_unknow_network_error">"Une erreur réseau s'est produite"</string>
     <string name="passport_user_agreement">User Agreement</string>
     <string name="passport_user_agreement_link"><Data>"I've read and agree to Xiaomi's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;."</Data></string>
@@ -1035,7 +1035,7 @@ Send this code to the supervisor."</string>
     <string name="resume_download">Resume</string>
     <string name="retry">Retry</string>
     <string name="retry_after_network_available">"Can't connect to the network. Check connection and try again."</string>
-    <string name="retry_download">Try again</string>
+    <string name="retry_download">Réessayer</string>
     <string name="ringtone_not_support">"This song's format isn't supported"</string>
     <string name="root_downloads">Downloads</string>
     <string name="runtime_permission_ungranted">"Can't start record due to ungranted permissions"</string>
@@ -1043,7 +1043,7 @@ Send this code to the supervisor."</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
-    <string name="save">Save</string>
+    <string name="save">Enregistrer</string>
     <string name="save_to_playlist">Save as playlist</string>
     <string name="scanned_list">Available channels</string>
     <string name="search_dialog_title">Recherche de stations</string>
@@ -1161,7 +1161,7 @@ Send this code to the supervisor."</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
     <string name="song_exist_in_playlist">This song is already in the queue</string>
     <string name="song_group_float_save_picture">Save cover</string>
-    <string name="song_group_float_save_picture_success">Saved successfully</string>
+    <string name="song_group_float_save_picture_success">Sauvegardé avec succès</string>
     <string name="song_group_float_to_save_picture">Saved to %1$s</string>
     <string name="song_name">Song</string>
     <string name="song_not_find">"This song isn't available."</string>

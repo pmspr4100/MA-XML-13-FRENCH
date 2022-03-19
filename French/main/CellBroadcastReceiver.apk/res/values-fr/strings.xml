@@ -291,7 +291,7 @@ Selection"</string>
   <string name="disabled">Désactivé</string>
   <string name="disabled_by_admin">"Désactivé par l'administrateur"</string>
   <string name="disabled_by_admin_summary_text">"Contrôlé par l'administrateur"</string>
-  <string name="done_text">Done</string>
+  <string name="done_text">Effectué</string>
   <string name="emergency_alert">"Alerte d'urgence"</string>
   <string name="emergency_alert_dialog_title_prefix">"Alerte d'urgence"</string>
   <string name="emergency_alert_history_title">"Historique des alertes d'urgence"</string>

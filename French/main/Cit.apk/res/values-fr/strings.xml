@@ -57,7 +57,7 @@
   <string name="bt_name">Name:</string>
   <string name="button_ok">OK</string>
   <string name="camera_capture">Capture</string>
-  <string name="camera_done">Done</string>
+  <string name="camera_done">Effectué</string>
   <string name="camera_error">"This device doesn't support Camera2 API."</string>
   <string name="camera_flood">- Flood -</string>
   <string name="camera_menu_list">CameraList</string>
@@ -181,7 +181,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_bluetooth_logging_confirm_info">this Bluetooth Logging will collect your device Bluetooth protocal datas, only record current Bluetooth releated operations. Involve privacy information data will also be recorded: Bluetooth Phonebook Access/Telephone Call History/SMS/MMS/Exchanged Files/Music Meta Data etc. this data is limited to XiaoMi company internal debugging with users but not be used for other purposes.</string>
   <string name="cit_bluetooth_logging_confirm_ng">Reject</string>
   <string name="cit_bluetooth_logging_confirm_notify">Do you agree to enable logging?</string>
-  <string name="cit_bluetooth_logging_confirm_ok">Agree</string>
+  <string name="cit_bluetooth_logging_confirm_ok">Accepter</string>
   <string name="cit_bluetooth_logging_confirm_title">Bluetooth Logging Privacy Warning</string>
   <string name="cit_bluetooth_not_support">"This device doesn't support Bluetooth"</string>
   <string name="cit_bluetooth_scan_retry">Scan again</string>

@@ -519,7 +519,7 @@
     <string name="operation_show_sys">Afficher les fichiers cachés</string>
     <string name="operation_unfavorite">Retirer des favoris</string>
     <string name="optional_change_wifi">Pour gérer des fichiers à distance via Wi-Fi</string>
-    <string name="otg_data_transfer_success">Transferred successfully</string>
+    <string name="otg_data_transfer_success">Transféré avec succès</string>
     <string name="otg_data_transferring">"Transferring files… Don't disconnect external storage."</string>
     <string name="otg_file_security_confirm">copier sur le téléphone</string>
     <string name="otg_file_security_details">Veuillez copier sur le téléphone</string>

@@ -73,7 +73,7 @@
   <string name="regulators">Regulators</string>
   <string name="res">Resource Loading</string>
   <string name="rs">RenderScript</string>
-  <string name="save">Save</string>
+  <string name="save">Enregistrer</string>
   <string name="sched">CPU Scheduling</string>
   <string name="sde">SDE</string>
   <string name="sm">Sync Manager</string>

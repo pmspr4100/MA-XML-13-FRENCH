@@ -308,7 +308,7 @@ Bluetooth"</string>
     <string name="bluetooth_talkback_imaging">Imagerie</string>
     <string name="bluetooth_talkback_input_peripheral">"Périphérique d'entrée"</string>
     <string name="bluetooth_talkback_phone">Téléphone</string>
-    <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
+    <string name="bottomsheet_action_expand_halfway">Déplier à moitié</string>
     <string name="bt_hci_snoop_log">Activer journaux HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Enregistrer tous les paquets HCI Bluetooth dans un fichier (Activez/désactivez le Bluetooth après avoir modifié ce paramètre.)</string>
     <string name="bugreport_in_power">"Raccourci vers rapport d'erreur"</string>
@@ -1485,7 +1485,7 @@ You can still make emergency calls."</string>
     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Select Range</string>
     <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
-    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_save">Enregistrer</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>

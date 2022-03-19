@@ -343,7 +343,7 @@
   <string name="miui_penengine_tool_color_left">Color one</string>
   <string name="miui_penengine_tool_color_right">Color three</string>
   <string name="miui_penengine_tool_color_select">Selected color</string>
-  <string name="miui_penengine_tool_done">Save</string>
+  <string name="miui_penengine_tool_done">Enregistrer</string>
   <string name="miui_penengine_tool_eraser">Eraser</string>
   <string name="miui_penengine_tool_eraser_stroke1">Eraser width one</string>
   <string name="miui_penengine_tool_eraser_stroke2">Eraser width two</string>

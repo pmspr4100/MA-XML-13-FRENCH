@@ -543,7 +543,7 @@ Assurez-vous que vous utilisez le Compte Mi actuel comme compte système MIUI."<
     <string name="warning_bar_title_cloud_space_full">"Le cloud est plein. Impossible de synchroniser les photos, l'historique des appels et d'autres éléments."</string>
     <string name="web_sso_login_fail">You need to sign in again</string>
     <string name="web_sso_login_message">Signing in…</string>
-    <string name="webview_reload">Try again</string>
+    <string name="webview_reload">Réessayer</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>

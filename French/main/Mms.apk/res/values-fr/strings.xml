@@ -858,7 +858,7 @@ Take a look at the recommended ones!"</string>
     <string name="rcs_chatbot_normal_message">You received a message. Tap to view details.</string>
     <string name="rcs_chatbot_notification">Mini app : %s</string>
     <string name="rcs_chatbot_progress_failed">"Couldn't load info. Tap to try again."</string>
-    <string name="rcs_chatbot_progress_loading">Just a sec…</string>
+    <string name="rcs_chatbot_progress_loading">Un instant…</string>
     <string name="rcs_chatbot_recommend_tab_empty">No recommended apps here yet.</string>
     <string name="rcs_chatbot_send_message">Share data from your device with %s?</string>
     <string name="rcs_chatbot_server_error">"Couldn't get data. Open this page again."</string>
@@ -904,7 +904,7 @@ Take a look at the recommended ones!"</string>
     <string name="rcs_group_chat_closed">(Fermé)</string>
     <string name="rcs_group_notification_invitation">Invitation au groupe de discussion</string>
     <string name="rcs_hello_from_pc">Connectez-vous à Fetion sur votre ordinateur pour transférer des fichiers.</string>
-    <string name="rcs_list_bottom_loading">Just a sec…</string>
+    <string name="rcs_list_bottom_loading">Un instant…</string>
     <string name="rcs_list_bottom_search">Searching…</string>
     <string name="rcs_main_purpose">"Cette fonction vous permet d'envoyer et de recevoir des messages RCS. La messagerie RCS est fournie par China Mobile."</string>
     <string name="rcs_message">Messages RCS</string>

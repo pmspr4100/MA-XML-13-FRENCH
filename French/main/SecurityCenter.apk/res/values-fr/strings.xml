@@ -1943,7 +1943,7 @@ Enregistrez des séquences et utilisez-les à tout moment !"</string>
     <string name="gb_gpu_driver_btn_update">Check for updates</string>
     <string name="gb_gpu_driver_update">GPU Driver Updater</string>
     <string name="gb_gpu_driver_update_app">Update</string>
-    <string name="gb_gpu_driver_update_app_tips">Current version is up to date</string>
+    <string name="gb_gpu_driver_update_app_tips">La version actuelle est à jour</string>
     <string name="gb_have_signed">"S'enregistrer aujourd'hui"</string>
     <string name="gb_manual_record_dialog_del_video_message">Supprimer définitivement les vidéos sélectionnées ?</string>
     <string name="gb_manual_video_record_title">Enregistrements</string>
@@ -2182,7 +2182,7 @@ de vos sessions de jeu"</string>
     <string name="gtb_exit_game_to_home">"Retour à l'écran d'accueil"</string>
     <string name="gtb_guide_finish">Skip</string>
     <string name="gtb_guide_game_mode_tips">Select preferred gaming mode</string>
-    <string name="gtb_guide_gtb_button_done">Done</string>
+    <string name="gtb_guide_gtb_button_done">Effectué</string>
     <string name="gtb_guide_gtb_community_desc">Share your experience with fellow gamers</string>
     <string name="gtb_guide_gtb_community_title">Community</string>
     <string name="gtb_guide_gtb_func_desc">Step up your game</string>

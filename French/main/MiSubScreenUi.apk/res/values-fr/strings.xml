@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
-    <string name="actionbar_button_up_description">Back</string>
+    <string name="actionbar_button_up_description">Retour</string>
     <string name="add_emergency_contact">Add an emergency contact</string>
     <string name="afternoon">Après-midi</string>
     <string name="alarm_close">Slide up to turn off</string>
@@ -43,7 +43,7 @@ dd/MM"</string>
     <string name="apply">Appliquer</string>
     <string name="apply_succeed">Applied successfully</string>
     <string name="background_icon">Background</string>
-    <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
+    <string name="bottomsheet_action_expand_halfway">Déplier à moitié</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="chip_text">Chip text</string>
@@ -70,7 +70,7 @@ dd/MM"</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="early_morning">Morning</string>
     <string name="error_icon_content_description">Error</string>
-    <string name="evening">Afternoon</string>
+    <string name="evening">Après midi</string>
     <string name="expand_button_title">Advanced</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
@@ -204,7 +204,7 @@ dd/MM"</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
     <string name="mtrl_picker_range_header_title">Select Range</string>
     <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
-    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_save">Enregistrer</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>

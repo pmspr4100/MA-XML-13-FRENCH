@@ -124,7 +124,7 @@
   <string name="privacy_policy">Politique de confidentialité</string>
   <string name="recovery_progress">Restoring items (%1$d/%2$d)…</string>
   <string name="restore_right_now">Restore</string>
-  <string name="retry">Try again</string>
+  <string name="retry">Réessayer</string>
   <string name="sar">"Information sur l'exposition aux RF"</string>
   <string name="saturday">Samedi</string>
   <string name="saturday_short">Sam</string>

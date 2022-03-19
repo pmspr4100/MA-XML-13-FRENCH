@@ -380,7 +380,7 @@ pour voir les onglets ouverts dans les autres appareils."</string>
   <string name="enter_developer_mode">Enter developer mode</string>
   <string name="enter_infoflow_guide">Slide up to see news</string>
   <string name="enter_the_group_name">Entrez le nom du groupe</string>
-  <string name="enter_the_password">Enter password</string>
+  <string name="enter_the_password">Entrez le mot de passe</string>
   <string name="enter_the_user_name">Enter username</string>
   <string name="error_forbidden">Sync has been turned off due to problems with your Mi Account.</string>
   <string name="error_not_acceptable">Sync is off.</string>
@@ -438,7 +438,7 @@ pour voir les onglets ouverts dans les autres appareils."</string>
   <string name="find_on_page_hint">Search page</string>
   <string name="find_on_page_next">Suivant</string>
   <string name="find_on_page_prev">Retour</string>
-  <string name="finish_sync_cloud_tabs">Synced successfully</string>
+  <string name="finish_sync_cloud_tabs">Synchronisé avec succès</string>
   <string name="fmt_date_long_year_month">MMMM yyyy</string>
   <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -945,12 +945,12 @@ Are you sure you want to navigate away from this page ?"</string>
   <string name="quicklink_user_define_webpage_title">Nom</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
   <string name="readmode_font_size_setting_button">A</string>
-  <string name="readmode_page_loading">Just a sec…</string>
+  <string name="readmode_page_loading">Un instant…</string>
   <string name="readmode_reach_last_page">This is the last page</string>
   <string name="readmodelist_bookmarks_to_show">Reading list</string>
   <string name="recommending_close_toast_text">Set close this function in advanced settings</string>
   <string name="refresh_description">Refresh</string>
-  <string name="refresh_text">Try again</string>
+  <string name="refresh_text">Réessayer</string>
   <string name="refuse_permissions_request">Restrict</string>
   <string name="remember_passwords_confirm_message">Turning this feature off may affect usage.</string>
   <string name="remove_bookmark">Delete bookmark</string>
@@ -1172,7 +1172,7 @@ Navigateur a besoin de se connecter à internet pour fonctionner normalement. Vo
   <string name="support_abc_action_menu_overflow_description">Plus</string>
   <string name="support_abc_action_mode_done">Terminé</string>
   <string name="support_abc_action_mode_select_all">Select all</string>
-  <string name="support_back_button_label">Back</string>
+  <string name="support_back_button_label">Retour</string>
   <string name="support_go_back_descirption">Retourner</string>
   <string name="support_next_button_label">Next</string>
   <string name="support_skip_button_label">Skip</string>
@@ -1283,7 +1283,7 @@ Navigateur a besoin de se connecter à internet pour fonctionner normalement. Vo
   <string name="video_download_start">Téléchargement…</string>
   <string name="video_download_unknown_name">Unknown name</string>
   <string name="video_download_unknown_size">Unknown size</string>
-  <string name="video_download_unsupport">Not supported</string>
+  <string name="video_download_unsupport">Non pris en charge</string>
   <string name="video_download_wait_for_caching">Waiting for caching</string>
   <string name="video_download_wait_for_network">Waiting for network</string>
   <string name="video_download_wait_for_wifi">Waiting for Wi-Fi</string>
@@ -1329,13 +1329,13 @@ interactionType:
   <string name="vo_feedback_shield">Blocklist</string>
   <string name="vo_feedback_sub_quality">Clickbait, profanity, etc.</string>
   <string name="vo_feedback_sub_shield">, etc.</string>
-  <string name="vo_info_flow_load_error_content">Try again</string>
+  <string name="vo_info_flow_load_error_content">Réessayer</string>
   <string name="vo_info_flow_load_error_title">"Couldn't load info. Check your network settings and try again."</string>
   <string name="vo_info_flow_load_more_content">Load more</string>
   <string name="vo_info_flow_load_more_error">A network error occurred. Check your network settings and try again.~</string>
   <string name="vo_info_flow_load_more_full">"That's all for now. Check other channels."</string>
   <string name="vo_info_flow_load_more_idle">Load more</string>
-  <string name="vo_info_flow_load_more_loading">Just a sec…</string>
+  <string name="vo_info_flow_load_more_loading">Un instant…</string>
   <string name="vo_info_flow_load_more_title">Try loading more items manually</string>
   <string name="vo_info_flow_refresh_empty">No updates for now. Check other channels!</string>
   <string name="vo_info_flow_refresh_error">"Couldn't connect to the network. Check your network settings and try again."</string>
@@ -1358,7 +1358,7 @@ interactionType:
   <string name="vo_wei_bo_long_image">Long image</string>
   <string name="vo_wei_bo_publish_time_just">·Just now</string>
   <string name="vo_wei_bo_publish_time_yesterday">· Yesterday at %s</string>
-  <string name="voice_check_network">Check your network settings and try again.</string>
+  <string name="voice_check_network">Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="voice_close_description">Close</string>
   <string name="voice_connect_network">"Couldn't connect to the network."</string>
   <string name="voice_description">Voice search</string>

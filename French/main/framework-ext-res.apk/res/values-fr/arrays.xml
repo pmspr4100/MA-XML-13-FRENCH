@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="fingerprint_acquired_vendor">
-        <item>Try again</item>
+        <item>Réessayer</item>
         <item></item>
         <item></item>
         <item>Cover the fingerprint scanner completely and apply pressure</item>

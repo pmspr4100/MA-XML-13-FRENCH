@@ -20,7 +20,7 @@
   <string name="accessibility_nfc_enabled">NFC activé.</string>
   <string name="action_bluetooth_pair">Coupler</string>
   <string name="action_confirm_url_open">Ouvrir</string>
-  <string name="action_connect_network">Connect</string>
+  <string name="action_connect_network">Connecter</string>
   <string name="action_create_contact">Create</string>
   <string name="action_dial_number">Dial</string>
   <string name="action_disable_rw">OK</string>

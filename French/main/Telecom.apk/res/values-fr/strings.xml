@@ -234,7 +234,7 @@ Bluetooth"</string>
     <string name="bluetooth_talkback_imaging">Imagerie</string>
     <string name="bluetooth_talkback_input_peripheral">"Périphérique d'entrée"</string>
     <string name="bluetooth_talkback_phone">Téléphone</string>
-    <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
+    <string name="bottomsheet_action_expand_halfway">Déplier à moitié</string>
     <string name="bt_hci_snoop_log">Activer journaux HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Enregistrer tous les paquets HCI Bluetooth dans un fichier (Activez/désactivez le Bluetooth après avoir modifié ce paramètre.)</string>
     <string name="bugreport_in_power">"Raccourci vers rapport d'erreur"</string>
@@ -360,7 +360,7 @@ Appuyez sur \"Effacer et convertir\" pour continuer."</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
     <string name="error_icon_content_description">Error</string>
-    <string name="evening">Afternoon</string>
+    <string name="evening">Après midi</string>
     <string name="expand_button_title">Options avancées</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="external_source_trusted">Autorisé</string>

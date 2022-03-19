@@ -2851,7 +2851,7 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="birthday_status">Birthday</string>
     <string name="birthday_status_content_description">"It's %1$s’s birthday"</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
+    <string name="bottomsheet_action_expand_halfway">Déplier à moitié</string>
     <string name="build_number_clip_data_label">Build number</string>
     <string name="build_number_copy_toast">Build number copied to clipboard.</string>
     <string name="camera_recording_announcement">Camera is recording</string>
@@ -2936,7 +2936,7 @@ Enter your PIN to unlock."</string>
     <string name="material_timepicker_select_time">Select time</string>
     <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
     <string name="media_output_dialog_add_output">Add outputs</string>
-    <string name="media_output_dialog_connect_failed">"Couldn't connect. Try again."</string>
+    <string name="media_output_dialog_connect_failed">"Impossible de se connecter. Réessayez."</string>
     <string name="media_output_dialog_disconnected">%1$s (disconnected)</string>
     <string name="media_output_dialog_group">Group</string>
     <string name="media_output_dialog_multiple_devices">%1$d devices selected</string>
@@ -2990,7 +2990,7 @@ If you have questions, contact %2$s."</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
     <string name="mtrl_picker_range_header_title">Select Range</string>
     <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
-    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_save">Enregistrer</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
