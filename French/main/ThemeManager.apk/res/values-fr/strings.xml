@@ -74,7 +74,7 @@
     <string name="anonymous_resource_link_retry_confirm">Réessayer</string>
     <string name="anonymous_resource_link_success">Ajouté avec succès</string>
     <string name="anonymous_resource_linking">Ajout…</string>
-    <string name="anonymous_resource_login_confirm">Sign in</string>
+    <string name="anonymous_resource_login_confirm">Se connecter</string>
     <string name="anonymous_resource_login_title">"Connectez-vous d'abord"</string>
     <string name="anonymous_resource_unlink">Non merci!</string>
     <string name="anonymous_resource_unlink_cancel">Annuler</string>

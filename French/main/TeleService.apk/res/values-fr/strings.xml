@@ -565,8 +565,8 @@ Bluetooth"</string>
     <string name="change_pin_succeeded">Code PIN de messagerie vocale mis à jour</string>
     <string name="change_pin_system_error">Impossible de définir un code PIN</string>
     <string name="change_pin_title">Modifier le code PIN de la messagerie vocale</string>
-    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
-    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="charge_length_format">Il y a %1$s</string>
     <string name="china_mobile_palm_category">Carrier services</string>
     <string name="china_mobile_palm_title">CMCC Online Service Hall</string>
@@ -576,7 +576,7 @@ Bluetooth"</string>
     <string name="clear_adb_keys">Annuler autorisations pour débog. USB</string>
     <string name="clear_all_set_button">clear setting</string>
     <string name="clear_all_set_title">this button is for clear all setting</string>
-    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="clear_text_end_icon_content_description">Effacer le texte</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="clh_callFailed_ACM_equal_to_or_greater_than_ACMmax_txt">ACM est supérieur ou égal à ACMmax</string>
     <string name="clh_callFailed_access_information_discarded_txt">"Informations d'accès ignorées"</string>
@@ -1279,10 +1279,10 @@ You can still make emergency calls."</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
     <string name="miuix_appcompat_cancel_description">Annuler</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
-    <string name="miuix_appcompat_delete_description">Delete</string>
+    <string name="miuix_appcompat_delete_description">Supprimer</string>
     <string name="miuix_appcompat_deselect_all">Deselect</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>

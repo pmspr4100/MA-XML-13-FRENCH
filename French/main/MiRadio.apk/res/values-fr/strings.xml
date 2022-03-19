@@ -164,7 +164,7 @@
     <string name="cannot_reply">"Can't reply to this comment now."</string>
     <string name="change_activate_email">"Modifier l'adresse e-mail"</string>
     <string name="change_download_quality">Change download quality</string>
-    <string name="change_password">Change password</string>
+    <string name="change_password">Modifier le mot de passe</string>
     <string name="channel_name_download">Download manager</string>
     <string name="channel_name_file">File scanning</string>
     <string name="channel_tip_text">More radio stations</string>
@@ -178,8 +178,8 @@
     <string name="check_pay_order_progress">Recharging...</string>
     <string name="choose_download_quality">Choose download quality</string>
     <string name="choose_stream_quality">Choose streaming quality</string>
-    <string name="choose_to_signin">Yes</string>
-    <string name="choose_to_signup">"No, I'll create one"</string>
+    <string name="choose_to_signin">Oui</string>
+    <string name="choose_to_signup">Non, je vais en créer un</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="click_login">Tap to sign in</string>
     <string name="click_to_shuffle">Tap to shuffle</string>
@@ -294,7 +294,7 @@ Send this code to the supervisor."</string>
     <string name="dialog_song_view_type_song">By song</string>
     <string name="dialog_title_delete_tracks">Supprimer</string>
     <string name="dialog_title_name_playlist">Playlist name</string>
-    <string name="dialog_title_not_available">"Couldn't download"</string>
+    <string name="dialog_title_not_available">Téléchargemenet impossible</string>
     <string name="dialog_title_queued_body">File not yet available</string>
     <string name="dialog_title_remove_tracks">Remove</string>
     <string name="disable_auto_payment_fail">"Couldn't turn off"</string>
@@ -580,9 +580,9 @@ Send this code to the supervisor."</string>
     <string name="local_page_playlist">My playlists</string>
     <string name="local_page_song_download_history">Downloads</string>
     <string name="local_page_subscribe_radio">Listen to FM</string>
-    <string name="login">Sign in</string>
+    <string name="login">Se connecter</string>
     <string name="login_by_local_phone_long_text">Sign in now</string>
-    <string name="login_by_local_phone_short_text">Sign in</string>
+    <string name="login_by_local_phone_short_text">Se connecter</string>
     <string name="login_other">Another Mi Account</string>
     <string name="login_register_by_local_phone_long_text">Create account</string>
     <string name="login_tip">Not signed in</string>
@@ -649,8 +649,8 @@ Send this code to the supervisor."</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mobile_recommended_title">Mobile data usage</string>
@@ -769,7 +769,7 @@ Send this code to the supervisor."</string>
     <string name="notification_comment_fav_title">Likes</string>
     <string name="notification_comment_reply_title">Replies to comments</string>
     <string name="notification_download_complete">Download complete</string>
-    <string name="notification_download_failed">"Couldn't download"</string>
+    <string name="notification_download_failed">Téléchargemenet impossible</string>
     <string name="notification_need_wifi_for_size">Download size requires Wi-Fi.</string>
     <string name="notification_setting">Notification settings</string>
     <string name="notification_settings_summary">Recevez des notifications sur les actualités et les dernières versions</string>
@@ -823,7 +823,7 @@ Send this code to the supervisor."</string>
     <string name="passport_can_not_receive_verification_code">"Can't receive verification code?"</string>
     <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Checking password…</string>
-    <string name="passport_close">Close</string>
+    <string name="passport_close">Fermer</string>
     <string name="passport_delete_account">Sign out</string>
     <string name="passport_email">Adresse e-mail</string>
     <string name="passport_empty_password">Le mot de passe ne doit pas être vide</string>
@@ -879,7 +879,7 @@ Send this code to the supervisor."</string>
     <string name="passport_sending_vcode">Sending code…</string>
     <string name="passport_set_password">Set password</string>
     <string name="passport_set_password_no_phone_msg">Add your phone number to protect your account.</string>
-    <string name="passport_sign_in">Sign in</string>
+    <string name="passport_sign_in">Se connecter</string>
     <string name="passport_sign_in_or_sign_up">Sign in/Create account</string>
     <string name="passport_sms_phone_intro">Code envoyé au %1$s</string>
     <string name="passport_talkback_image_captcha">Image verification code</string>
@@ -989,7 +989,7 @@ Send this code to the supervisor."</string>
     <string name="project_device_bs">My Black Shark</string>
     <string name="psw_hint">Mot de passe</string>
     <string name="psw_sign_in">Connectez-vous avec un mot de passe</string>
-    <string name="pulluprefreshrecyclerview_loading_error">"Couldn't load"</string>
+    <string name="pulluprefreshrecyclerview_loading_error">Impossible de charger</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Loaded successfully</string>
     <string name="pulluprefreshrecyclerview_loading_running">Chargement…</string>
     <string name="purchased_empty_hint">No items here yet.</string>
@@ -1016,7 +1016,7 @@ Send this code to the supervisor."</string>
     <string name="reply_comment_hint">Reply to %s:</string>
     <string name="report">Report</string>
     <string name="report_comment_success">"We'll review your report. Thanks for your feedback."</string>
-    <string name="request_agree">Allow</string>
+    <string name="request_agree">Autoriser</string>
     <string name="request_camera_permission_message">"Nous protégerons vos informations personnelles conformément aux lois et réglementations en vigueur. Cette application nécessite les autorisations suivantes pour fonctionner normalement: &lt;br>&lt;br>&lt;b>Utilisation de la caméra (pour définir votre photo de profil)&lt;/b>&lt;br>&lt;br>Si vous n'êtes pas d'accord pour accorder de telles autorisations, vous ne pourrez pas utiliser certaines fonctionnalités de cette application; cependant, sa fonctionnalité de base sera toujours disponible pour vous. Vous pouvez toujours restreindre les autorisations ou révoquer votre autorisation dans les paramètres."</string>
     <string name="request_cancel">Annuler</string>
     <string name="request_error_invalid_token">Vérification impossible</string>
@@ -1119,12 +1119,12 @@ Send this code to the supervisor."</string>
     <string name="sign_in_progress">Connexion…</string>
     <string name="sign_in_title">Se connecter avec votre Compte Mi</string>
     <string name="skip_query_account">Ignorer</string>
-    <string name="sleep_close">Close</string>
+    <string name="sleep_close">Fermer</string>
     <string name="sleep_custom">Custom</string>
     <string name="sleep_mode">Sleep timer</string>
     <string name="sleep_mode_cancel">Annuler</string>
     <string name="sleep_mode_canceled">Sleep mode turned off</string>
-    <string name="sleep_mode_close">Close</string>
+    <string name="sleep_mode_close">Fermer</string>
     <string name="sleep_mode_ok">Ok</string>
     <string name="sleep_mode_one">played now</string>
     <string name="sleep_mode_state">"Sleep timer: "</string>
@@ -1223,7 +1223,7 @@ Send this code to the supervisor."</string>
     <string name="talkback_like">Like</string>
     <string name="talkback_listen_more">More online radio channels</string>
     <string name="talkback_local_radio">"Listen to the radio when you're offline"</string>
-    <string name="talkback_login">Sign in</string>
+    <string name="talkback_login">Se connecter</string>
     <string name="talkback_mode_repeat_all">Loop mode</string>
     <string name="talkback_mode_repeat_current">Repeat mode</string>
     <string name="talkback_mode_repeat_shuffle">Shuffle mode</string>

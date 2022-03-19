@@ -625,7 +625,7 @@
     <string name="local_page_artist_more">Plus de chansons par %s</string>
     <string name="local_page_playlist">Playlistes</string>
     <string name="local_page_song_download_history">Téléchargements</string>
-    <string name="login_instantly">Sign in</string>
+    <string name="login_instantly">Se connecter</string>
     <string name="login_mi_account_and_gain_more_rights">Sign in with your Mi Account to access more features.</string>
     <string name="long_press_to_select_lyric">Appuyer et maintenir pour sélectionner le fichier de paroles local</string>
     <string name="low_sound_quality">Low</string>

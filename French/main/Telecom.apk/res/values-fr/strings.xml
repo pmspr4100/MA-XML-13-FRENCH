@@ -265,13 +265,13 @@ Bluetooth"</string>
     <string name="change_default_dialer_dialog_negative">Annuler</string>
     <string name="change_default_dialer_dialog_title">Faire de %s votre application de Téléphone par défaut ?</string>
     <string name="change_default_dialer_warning_message">"%s sera en mesure d'effectuer et contrôler tous les aspects des appels. Seules les applications auxquelles vous faites confiance devraient être définies comme applications par défaut du téléphone."</string>
-    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
-    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="charge_length_format">Il y a %1$s</string>
     <string name="chip_text">Chip text</string>
     <string name="choose_profile">Sélectionner un profil</string>
     <string name="clear_adb_keys">Annuler autorisations pour débog. USB</string>
-    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="clear_text_end_icon_content_description">Effacer le texte</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="close">Désactiver</string>
     <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : Les fonctionnalités de protection de l'appareil sont désactivées tant que ce paramètre est activé."</string>

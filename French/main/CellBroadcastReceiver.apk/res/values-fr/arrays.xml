@@ -200,7 +200,7 @@
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Off</item>
-        <item>All</item>
+        <item>Tous</item>
         <item>All but radio</item>
         <item>kernel only</item>
     </string-array>

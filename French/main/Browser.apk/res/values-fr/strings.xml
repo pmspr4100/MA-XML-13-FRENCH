@@ -523,7 +523,7 @@ pour voir les onglets ouverts dans les autres appareils."</string>
   <string name="miuishare_account_activate_ok">Activate</string>
   <string name="miuishare_account_login_cancel">Annuler</string>
   <string name="miuishare_account_login_confirmation">Sign in first</string>
-  <string name="miuishare_account_login_ok">Sign in</string>
+  <string name="miuishare_account_login_ok">Se connecter</string>
   <string name="miuishare_account_need_activate">Weibo account should be paired with your Mi Account. Sign in with your Mi Account?</string>
   <string name="miuishare_account_need_login">Weibo account should be paired with your current Mi Account. Sign in to share now?</string>
   <string name="miuishare_app_name">MiuiShare</string>
@@ -584,9 +584,9 @@ pour voir les onglets ouverts dans les autres appareils."</string>
   <string name="morning">Matin</string>
   <string name="movie_player_3g_tip_retry">Continuer</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
-  <string name="mw_accessibility_date_picker_month">Month</string>
-  <string name="mw_accessibility_date_picker_week">Week</string>
-  <string name="mw_accessibility_date_picker_year">Year</string>
+  <string name="mw_accessibility_date_picker_month">Mois</string>
+  <string name="mw_accessibility_date_picker_week">Semaine</string>
+  <string name="mw_accessibility_date_picker_year">Année</string>
   <string name="mw_accessibility_datetime_picker_date">Date</string>
   <string name="mw_accessibility_datetime_picker_time">Time</string>
   <string name="mw_accessibility_time_picker_ampm">AM/PM</string>
@@ -650,7 +650,7 @@ Are you sure you want to navigate away from this page ?"</string>
   <string name="mw_miui_content_web_search">Search</string>
   <string name="mw_miuichromium_error_page_airplane_mode">Airplane mode</string>
   <string name="mw_miuichromium_error_page_airplane_mode_on">Turn off Airplane mode to connect</string>
-  <string name="mw_miuichromium_error_page_btn_close">Close</string>
+  <string name="mw_miuichromium_error_page_btn_close">Fermer</string>
   <string name="mw_miuichromium_error_page_btn_refresh">Refresh</string>
   <string name="mw_miuichromium_error_page_btn_report_issue">Report issue</string>
   <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"Couldn't connect to the network due to weak signal or incorrect network configuration. Check your %s1network settings%s2 and try again."</string>
@@ -778,7 +778,7 @@ Are you sure you want to navigate away from this page ?"</string>
   <string name="no_content">No content yet</string>
   <string name="no_space_alert_cancel">Later</string>
   <string name="no_space_alert_clean">"Libérer de l'espace"</string>
-  <string name="no_space_alert_text">Not enough storage space</string>
+  <string name="no_space_alert_text">"Pas assez d'espace de stockage"</string>
   <string name="no_space_alert_title">Download paused</string>
   <string name="no_space_clean_failed">"Couldn't free up space on your device​"</string>
   <string name="noon">Midi</string>
@@ -1277,7 +1277,7 @@ Navigateur a besoin de se connecter à internet pour fonctionner normalement. Vo
   <string name="video_download_error">Erreur</string>
   <string name="video_download_error_http_gone">"Couldn't find file"</string>
   <string name="video_download_exists">Download already exists.</string>
-  <string name="video_download_failed">"Couldn't download"</string>
+  <string name="video_download_failed">Téléchargemenet impossible</string>
   <string name="video_download_finding_address">Getting download URL</string>
   <string name="video_download_pause">Pause</string>
   <string name="video_download_start">Téléchargement…</string>
@@ -1359,7 +1359,7 @@ interactionType:
   <string name="vo_wei_bo_publish_time_just">·Just now</string>
   <string name="vo_wei_bo_publish_time_yesterday">· Yesterday at %s</string>
   <string name="voice_check_network">Vérifiez vos paramètres réseau et réessayez.</string>
-  <string name="voice_close_description">Close</string>
+  <string name="voice_close_description">Fermer</string>
   <string name="voice_connect_network">"Couldn't connect to the network."</string>
   <string name="voice_description">Voice search</string>
   <string name="voice_network_connection">Voice search requires to connect to the internet to work normally.</string>

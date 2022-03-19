@@ -138,7 +138,7 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
     <string name="install_confirm_text_gms">This app is made by Google. Install Google Play services before installing this app. Without this framework, the app might not work properly.</string>
     <string name="install_continue">Installer</string>
     <string name="install_control_cancel_install">Ne pas installer</string>
-    <string name="install_control_cancel_vip_account_install">Exit</string>
+    <string name="install_control_cancel_vip_account_install">Quitter</string>
     <string name="install_control_continue_install">Installer quand même</string>
     <string name="install_control_lite_mode_explain_des">"Cette application provient d'une source inconnue et peut ne pas fonctionner en mode lite."</string>
     <string name="install_control_lite_mode_solution_des">"Vous pouvez choisir d'installer cette application de toute façon.

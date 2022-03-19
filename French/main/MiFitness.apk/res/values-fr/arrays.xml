@@ -1077,7 +1077,7 @@
     </string-array>
     <string-array name="device_settings_unlock_phone_distance_list">
         <item>Very close</item>
-        <item>Close</item>
+        <item>Fermer</item>
         <item>Less close</item>
     </string-array>
     <string-array name="face_fun">
@@ -1312,7 +1312,7 @@
     </string-array>
     <string-array name="userinfo_yes_no_array">
         <item>Not set</item>
-        <item>Yes</item>
+        <item>Oui</item>
         <item>No</item>
     </string-array>
 </resources>

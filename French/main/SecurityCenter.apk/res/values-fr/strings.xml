@@ -1942,7 +1942,7 @@ Enregistrez des séquences et utilisez-les à tout moment !"</string>
     <string name="gb_global_settings">Paramètres généraux</string>
     <string name="gb_gpu_driver_btn_update">Check for updates</string>
     <string name="gb_gpu_driver_update">GPU Driver Updater</string>
-    <string name="gb_gpu_driver_update_app">Update</string>
+    <string name="gb_gpu_driver_update_app">Mettre à jour</string>
     <string name="gb_gpu_driver_update_app_tips">La version actuelle est à jour</string>
     <string name="gb_have_signed">"S'enregistrer aujourd'hui"</string>
     <string name="gb_manual_record_dialog_del_video_message">Supprimer définitivement les vidéos sélectionnées ?</string>

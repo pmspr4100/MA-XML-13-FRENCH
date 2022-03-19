@@ -444,7 +444,7 @@ Customer service center：400-100-3399"</string>
     <string name="mibi_recharge_input_amount_hint">Please enter the amount</string>
     <string name="mibi_recharge_label">Top-up</string>
     <string name="mibi_recharge_mibi_title">Mi Coin</string>
-    <string name="mibi_recharge_more_channels_title">More</string>
+    <string name="mibi_recharge_more_channels_title">Plus</string>
     <string name="mibi_recharge_novalid_method">No valid top-up method.</string>
     <string name="mibi_recharge_other">View other methods</string>
     <string name="mibi_recharge_other_amount">Other amount</string>
@@ -616,7 +616,7 @@ Because the provision of MiCoin services relies on the collection of necessary p
     <string name="passport_can_not_receive_verification_code">"Can't receive verification code?"</string>
     <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Vérification du mot de passe…</string>
-    <string name="passport_close">Close</string>
+    <string name="passport_close">Fermer</string>
     <string name="passport_delete_account">Se déconnecter</string>
     <string name="passport_email">Adresse e-mail</string>
     <string name="passport_empty_password">Le mot de passe ne doit pas être vide</string>
@@ -669,7 +669,7 @@ Because the provision of MiCoin services relies on the collection of necessary p
     <string name="passport_sending_vcode">Envoi du code…</string>
     <string name="passport_set_password">Set password</string>
     <string name="passport_set_password_no_phone_msg">Ajouter votre numéro de téléphone pour protéger votre compte.</string>
-    <string name="passport_sign_in">Sign in</string>
+    <string name="passport_sign_in">Se connecter</string>
     <string name="passport_sign_in_or_sign_up">Sign in/Create account</string>
     <string name="passport_sms_phone_intro">Code envoyé au %1$s</string>
     <string name="passport_talkback_image_captcha">Image verification code</string>

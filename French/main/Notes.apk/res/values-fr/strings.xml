@@ -316,11 +316,11 @@
   <string name="miui_penengine_more_tool_insert_pic">Insert image</string>
   <string name="miui_penengine_more_tool_pencil_hotkey">Smart shortcuts</string>
   <string name="miui_penengine_note_title">Title</string>
-  <string name="miui_penengine_ppw_select_copy">Copy</string>
+  <string name="miui_penengine_ppw_select_copy">Copier</string>
   <string name="miui_penengine_ppw_select_copy_as_text">Copy as text</string>
   <string name="miui_penengine_ppw_select_copy_paste">Duplicate</string>
   <string name="miui_penengine_ppw_select_cut">Cut</string>
-  <string name="miui_penengine_ppw_select_delete">Delete</string>
+  <string name="miui_penengine_ppw_select_delete">Supprimer</string>
   <string name="miui_penengine_ppw_select_paste">Paste</string>
   <string name="miui_penengine_ppw_shortcut_long_click">Press &amp; hold</string>
   <string name="miui_penengine_ppw_shortcut_pk_long_click_tip">Switch to eraser. Hold to erase.</string>
@@ -351,7 +351,7 @@
   <string name="miui_penengine_tool_eraser_stroke4">Eraser</string>
   <string name="miui_penengine_tool_ink">Pen</string>
   <string name="miui_penengine_tool_mark">Marker</string>
-  <string name="miui_penengine_tool_more">More</string>
+  <string name="miui_penengine_tool_more">Plus</string>
   <string name="miui_penengine_tool_pencil">Pencil</string>
   <string name="miui_penengine_tool_rect_select">Selection tool</string>
   <string name="miui_penengine_tool_redo">Redo</string>

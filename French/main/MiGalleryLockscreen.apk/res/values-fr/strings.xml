@@ -373,7 +373,7 @@ Envoyez ce code au superviseur."</string>
     <string name="login_app_cancel">Annuler</string>
     <string name="login_app_confirm">"S'identifier"</string>
     <string name="login_by_local_phone_long_text">Sign in now</string>
-    <string name="login_by_local_phone_short_text">Sign in</string>
+    <string name="login_by_local_phone_short_text">Se connecter</string>
     <string name="login_other">Another Mi Account</string>
     <string name="login_register_by_local_phone_long_text">Create account</string>
     <string name="login_with_sns">Other ways to sign in</string>
@@ -699,7 +699,7 @@ Envoyez ce code au superviseur."</string>
     <string name="register_by_local_phone_short_text">Create account</string>
     <string name="remove">Supprimer</string>
     <string name="req_permission_dis_tip">Autorisations requises</string>
-    <string name="request_agree">Allow</string>
+    <string name="request_agree">Autoriser</string>
     <string name="request_camera_permission_message">"We shall protect your personal information in accordance with the relevant laws and regulations. This app needs the following permissions to work normally:&lt;br>&lt;br>&lt;b>Using camera (for setting your profile photo)&lt;/b>&lt;br>&lt;br>If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
     <string name="request_cancel">Annuler</string>
     <string name="request_error_invalid_token">"Couldn't verify"</string>

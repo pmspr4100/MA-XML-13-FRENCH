@@ -74,10 +74,10 @@
   <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
   <string name="miuix_appcompat_action_mode_select_all">Select all</string>
   <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
-  <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
   <string name="miuix_appcompat_cancel_description">Annuler</string>
   <string name="miuix_appcompat_confirm_description">Confirm</string>
-  <string name="miuix_appcompat_delete_description">Delete</string>
+  <string name="miuix_appcompat_delete_description">Supprimer</string>
   <string name="miuix_appcompat_deselect_all">Deselect</string>
   <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
@@ -89,7 +89,7 @@
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
@@ -132,7 +132,7 @@
   <string name="month_september">September</string>
   <string name="month_september_short">Sep</string>
   <string name="month_september_shortest">Sep</string>
-  <string name="more">More</string>
+  <string name="more">Plus</string>
   <string name="morning">Morning</string>
   <string name="multi_window_cvw">Fenêtre flottante</string>
   <string name="multi_window_cvw_summary">Faites glisser le coin pour basculer vers une fenêtre flottante et ajuster sa taille</string>

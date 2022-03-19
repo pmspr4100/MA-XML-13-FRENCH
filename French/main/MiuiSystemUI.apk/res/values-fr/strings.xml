@@ -2553,7 +2553,7 @@ Il peut surchauffer si vous :
 
 Vous serez averti lorsque vous pourrez à nouveau utiliser le port USB."</string>
     <string name="usb_contaminant_title">Port USB Désactivé</string>
-    <string name="usb_debugging_allow">Allow</string>
+    <string name="usb_debugging_allow">Autoriser</string>
     <string name="usb_debugging_always">Toujours autoriser depuis cet ordinateur</string>
     <string name="usb_debugging_message">"L'empreinte digitale de la clé RSA de cet ordinateur est :
 %1$s"</string>
@@ -3091,7 +3091,7 @@ If you have questions, contact %2$s."</string>
     <string name="quick_settings_camera_label">Camera access</string>
     <string name="quick_settings_camera_mic_available">Available</string>
     <string name="quick_settings_camera_mic_blocked">Blocked</string>
-    <string name="quick_settings_close_user_panel">Close</string>
+    <string name="quick_settings_close_user_panel">Fermer</string>
     <string name="quick_settings_disclosure_managed_profile_network_activity">Work profile network activity is visible to your IT admin</string>
     <string name="quick_settings_disclosure_parental_controls">This device is managed by your parent</string>
     <string name="quick_settings_financed_disclosure_named_management">This device is provided by %s</string>

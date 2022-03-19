@@ -423,7 +423,7 @@ Envoyer ce code au superviseur."</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
@@ -589,7 +589,7 @@ Envoyer ce code au superviseur."</string>
     <string name="passport_sending_vcode">Sending code…</string>
     <string name="passport_set_password">Set password</string>
     <string name="passport_set_password_no_phone_msg">Add your phone number to protect your account.</string>
-    <string name="passport_sign_in">Sign in</string>
+    <string name="passport_sign_in">Se connecter</string>
     <string name="passport_sign_in_or_sign_up">Sign in/Create account</string>
     <string name="passport_sms_phone_intro">Code envoyé au %1$s</string>
     <string name="passport_talkback_image_captcha">Image verification code</string>
