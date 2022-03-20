@@ -1381,7 +1381,7 @@ Dernière tentative : %s."</string>
     <string name="view_bookmark">Afficher le favori</string>
     <string name="view_message_details">Afficher les détails</string>
     <string name="voice_report_anytime">Always</string>
-    <string name="voice_report_off">Off</string>
+    <string name="voice_report_off">Désactivé</string>
     <string name="voice_report_wiredon">With earphones</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Envoyer à %ds</string>

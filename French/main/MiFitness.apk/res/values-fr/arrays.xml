@@ -1291,7 +1291,7 @@
         <item>Social worker</item>
         <item>School</item>
         <item>Daycare</item>
-        <item>Other</item>
+        <item>Autre</item>
     </string-array>
     <string-array name="userinfo_gender_array">
         <item>Not set</item>

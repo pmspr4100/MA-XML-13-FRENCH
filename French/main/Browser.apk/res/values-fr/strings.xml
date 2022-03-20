@@ -647,7 +647,7 @@ Are you sure you want to navigate away from this page ?"</string>
   <string name="mw_miui_content_select_all">Select all</string>
   <string name="mw_miui_content_share">Share</string>
   <string name="mw_miui_content_translate">Translate</string>
-  <string name="mw_miui_content_web_search">Search</string>
+  <string name="mw_miui_content_web_search">Rechercher</string>
   <string name="mw_miuichromium_error_page_airplane_mode">Airplane mode</string>
   <string name="mw_miuichromium_error_page_airplane_mode_on">Turn off Airplane mode to connect</string>
   <string name="mw_miuichromium_error_page_btn_close">Fermer</string>
@@ -766,7 +766,7 @@ Are you sure you want to navigate away from this page ?"</string>
   <string name="navigation_delete_all">Swipe left and right to close all tabs</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Annuler</string>
   <string name="navigationbar_rightbutton_actiontext_go">" Go"</string>
-  <string name="navigationbar_rightbutton_actiontext_search">Search</string>
+  <string name="navigationbar_rightbutton_actiontext_search">Rechercher</string>
   <string name="network_error_tips">A network error occurred. Try again.</string>
   <string name="network_not_available_comment">No internet connection, unable to comment</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Found a Wi-Fi hotspot nearby. Try to connect?</string>
@@ -1339,7 +1339,7 @@ interactionType:
   <string name="vo_info_flow_load_more_title">Try loading more items manually</string>
   <string name="vo_info_flow_refresh_empty">No updates for now. Check other channels!</string>
   <string name="vo_info_flow_refresh_error">"Couldn't connect to the network. Check your network settings and try again."</string>
-  <string name="vo_info_flow_rs_hint">Search</string>
+  <string name="vo_info_flow_rs_hint">Rechercher</string>
   <string name="vo_like_text">Like</string>
   <string name="vo_location_change_cancel">Not now</string>
   <string name="vo_location_change_content">Looks like your location changed. Switch to the current city?</string>

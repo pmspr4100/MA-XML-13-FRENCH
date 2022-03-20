@@ -9434,7 +9434,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_hotspot_off_subtext">"Ne partager ni la connexion, ni aucun contenu avec d'autres appareils"</string>
     <string name="wifi_hotspot_on_local_only_subtext">"L'application partage du contenu. Pour partager la connexion internet, désactivez le point d'accès, puis réactivez-le"</string>
     <string name="wifi_hotspot_password_title">"Mot de passe du point d'accès"</string>
-    <string name="wifi_hotspot_switch_off_text">Off</string>
+    <string name="wifi_hotspot_switch_off_text">Désactivé</string>
     <string name="wifi_hotspot_switch_on_text">On</string>
     <string name="wifi_hotspot_tethering_on_subtext">"Connexion internet de ce téléphone partagée via un point d'accès"</string>
     <string name="wifi_hotspot_title">"Se connecter au point d'accès pour la connexion ?"</string>
@@ -9830,7 +9830,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Disabled</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">IP configuration failure</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Authentication problem</string>
-    <string name="wifitrackerlib_wifi_disconnected">Disconnected</string>
+    <string name="wifitrackerlib_wifi_disconnected">Déconnecté</string>
     <string name="wifitrackerlib_wifi_limited_connection">Limited connection</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Can't connect. Try again later."</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Network is over capacity. Try again later.</string>

@@ -192,13 +192,13 @@
         <item>8M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>All log buffers</item>
         <item>All but radio log buffers</item>
         <item>kernel log buffer only</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>Tous</item>
         <item>All but radio</item>
         <item>kernel only</item>
@@ -210,7 +210,7 @@
         <item>kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
     </string-array>
@@ -234,7 +234,7 @@
         <item>3</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>On screen as bars</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>

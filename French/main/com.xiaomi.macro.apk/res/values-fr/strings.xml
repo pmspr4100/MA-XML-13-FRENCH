@@ -47,7 +47,7 @@
     <string name="gb_game_macro_create_macro">Créer</string>
     <string name="gb_game_macro_create_message">Appuyez sur le bouton ci-dessous pour commencer à enregistrer un combo.</string>
     <string name="gb_game_macro_delete">Supprimer</string>
-    <string name="gb_game_macro_enable">Off</string>
+    <string name="gb_game_macro_enable">Désactivé</string>
     <string name="gb_game_macro_guide_tips">Après avoir commencé, effectuez plusieurs actions pour les combiner dans un combo.</string>
     <string name="gb_game_macro_guide_tips_two">Appuyez pour attribuer un bouton</string>
     <string name="gb_game_macro_play_count">Nombre de rediffusions</string>

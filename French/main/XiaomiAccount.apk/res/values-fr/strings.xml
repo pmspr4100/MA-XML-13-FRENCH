@@ -121,7 +121,7 @@ Vous pouvez vous connecter à votre Compte Mi en utilisant %s maintenant."</stri
     <string name="cloud_description_normal">Occupé</string>
     <string name="cloud_service">Xiaomi Cloud</string>
     <string name="cloud_service_status_backup_not_open">Backup is off</string>
-    <string name="cloud_service_status_cloud_not_open">Off</string>
+    <string name="cloud_service_status_cloud_not_open">Désactivé</string>
     <string name="cloud_service_status_storage_full">Storage is full</string>
     <string name="cloud_service_status_storage_not_enough">Not enough space</string>
     <string name="collect_diagnosis_log">Collecter les journaux</string>
@@ -235,7 +235,7 @@ Envoyez ce code au superviseur."</string>
     <string name="find_device_request_error">"Une erreur serveur s'est produite, attendez une minute ou deux et réessayez"</string>
     <string name="find_device_request_prepare_error">"Impossible d'obtenir l'état, réessayez plus tard"</string>
     <string name="find_device_set_lost_model">Lost mode</string>
-    <string name="find_device_title">Find device</string>
+    <string name="find_device_title">Rechercher un appareil</string>
     <string name="find_device_unknown_error">"Impossible d'obtenir l'état du périphérique, attendez une minute ou deux et réessayez"</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>

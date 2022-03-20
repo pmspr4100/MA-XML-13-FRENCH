@@ -296,7 +296,7 @@ Send this code to the supervisor."</string>
     <string name="dialog_title_name_playlist">Playlist name</string>
     <string name="dialog_title_not_available">Téléchargemenet impossible</string>
     <string name="dialog_title_queued_body">File not yet available</string>
-    <string name="dialog_title_remove_tracks">Remove</string>
+    <string name="dialog_title_remove_tracks">Supprimer</string>
     <string name="disable_auto_payment_fail">"Couldn't turn off"</string>
     <string name="disable_auto_payment_fail_message">"Couldn't turn off automatic renewal"</string>
     <string name="disable_auto_payment_success">Turned off</string>
@@ -802,7 +802,7 @@ Send this code to the supervisor."</string>
     <string name="online_switch_message">Turning off online services will affect VIP services and recommendations. Turn off anyway?</string>
     <string name="online_switch_setting">Online content settings</string>
     <string name="online_tip_text">Allow the app to connect to the internet to be able to listen to online radio</string>
-    <string name="open_download">Open</string>
+    <string name="open_download">Ouvrir</string>
     <string name="open_online_service">You need to turn on online services to use this feature. Turn on now?</string>
     <string name="open_online_service_tip">Turned on online services successfully</string>
     <string name="open_service">Turn on</string>
@@ -810,7 +810,7 @@ Send this code to the supervisor."</string>
     <string name="optimize_all_until_optimized">Applying new cover and lyrics…</string>
     <string name="optimize_all_until_scanned">Wait until Music finishes checking storage for songs.</string>
     <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
-    <string name="other_filter">Other</string>
+    <string name="other_filter">Autre</string>
     <string name="other_song_in_album">Other songs from this album</string>
     <string name="package_filter">Packages</string>
     <string name="passport_access_denied">Access denied</string>
@@ -1008,8 +1008,8 @@ Send this code to the supervisor."</string>
     <string name="register_by_local_phone_short_text">Create account</string>
     <string name="remain_prefix">Remain%1$s</string>
     <string name="remaining">Remaining this month:</string>
-    <string name="remove">Remove</string>
-    <string name="remove_download">Remove</string>
+    <string name="remove">Supprimer</string>
+    <string name="remove_download">Supprimer</string>
     <string name="repeat_all_notif">Repeating all songs.</string>
     <string name="repeat_current_notif">Repeating current song.</string>
     <string name="reply_comment">Reply</string>
@@ -1056,7 +1056,7 @@ Send this code to the supervisor."</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_localsearch_hint">"Rechercher des chansons sur cet appareil"</string>
     <string name="search_menu_title">Recherche</string>
-    <string name="search_title">Search</string>
+    <string name="search_title">Rechercher</string>
     <string name="search_try_online">Search online</string>
     <string name="select_all">Select all</string>
     <string name="select_chapter">Select Chapter</string>
@@ -1244,7 +1244,7 @@ Send this code to the supervisor."</string>
     <string name="talkback_recording">Recording</string>
     <string name="talkback_remove_list">Remove from playlist</string>
     <string name="talkback_scan_channel">Search for channels</string>
-    <string name="talkback_search">Search</string>
+    <string name="talkback_search">Rechercher</string>
     <string name="talkback_search_delete">delete</string>
     <string name="talkback_search_radar_and_voice">Voice assistant and voice recognition</string>
     <string name="talkback_share">Share</string>

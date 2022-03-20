@@ -719,7 +719,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
     <string name="wifi_disabled_password_failure">Authentication problem</string>
     <string name="wifi_disabled_wifi_failure">Wi-Fi Connection Failure</string>
-    <string name="wifi_disconnected">Disconnected</string>
+    <string name="wifi_disconnected">Déconnecté</string>
     <string name="wifi_display_certification">Wireless display certification</string>
     <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
     <string name="wifi_dns1_hint">8.8.8.8</string>
@@ -729,7 +729,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI certificate</string>
-    <string name="wifi_hotspot_switch_off_text">Off</string>
+    <string name="wifi_hotspot_switch_off_text">Désactivé</string>
     <string name="wifi_hotspot_switch_on_text">On</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_limited_connection">Limited connection</string>
@@ -822,7 +822,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wifitrackerlib_wifi_disabled_generic">Disabled</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">IP configuration failure</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Authentication problem</string>
-    <string name="wifitrackerlib_wifi_disconnected">Disconnected</string>
+    <string name="wifitrackerlib_wifi_disconnected">Déconnecté</string>
     <string name="wifitrackerlib_wifi_limited_connection">Limited connection</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Can't connect. Try again later."</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Network is over capacity. Try again later.</string>

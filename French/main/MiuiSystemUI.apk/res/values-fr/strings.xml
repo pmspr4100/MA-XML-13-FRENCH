@@ -2857,7 +2857,7 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="camera_recording_announcement">Camera is recording</string>
     <string name="camera_stopped_recording_announcement">Camera stopped recording</string>
     <string name="carrier_network_change_mode">Carrier network changing</string>
-    <string name="cell_data_off">Off</string>
+    <string name="cell_data_off">Désactivé</string>
     <string name="connected_to_metered_access_point">Connected to metered network</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,screenshot,vibrate</string>
     <string name="controls_media_active_session">The current media session cannot be hidden.</string>
@@ -3231,7 +3231,7 @@ Any user can update apps for all other users. Accessibility settings and service
     <string name="wallet_secondary_label_updating">Updating</string>
     <string name="wallet_title">Wallet</string>
     <string name="wifi_connected_low_quality">Low quality</string>
-    <string name="wifi_hotspot_switch_off_text">Off</string>
+    <string name="wifi_hotspot_switch_off_text">Désactivé</string>
     <string name="wifi_hotspot_switch_on_text">On</string>
     <string name="wifitrackerlib_auto_connect_disable">Auto-connexion désactivée</string>
     <string name="wifitrackerlib_available_via_app">Available via %1$s</string>
@@ -3260,7 +3260,7 @@ Any user can update apps for all other users. Accessibility settings and service
     <string name="wifitrackerlib_wifi_disabled_generic">Disabled</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">IP configuration failure</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Authentication problem</string>
-    <string name="wifitrackerlib_wifi_disconnected">Disconnected</string>
+    <string name="wifitrackerlib_wifi_disconnected">Déconnecté</string>
     <string name="wifitrackerlib_wifi_limited_connection">Limited connection</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Can't connect. Try again later."</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Network is over capacity. Try again later.</string>

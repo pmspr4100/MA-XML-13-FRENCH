@@ -1290,7 +1290,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_camera_dynamic_frame_rate_summary">"La fréquence d'images sera automatiquement abaissée dans des conditions de faible éclairage ou de haute température pour améliorer la qualité vidéo"</string>
     <string name="pref_camera_dynamic_frame_rate_title">"Ajuster la fréquence d'images à une faible luminosité"</string>
     <string name="pref_camera_eis_entry_normal">EIS</string>
-    <string name="pref_camera_eis_entry_off">Off</string>
+    <string name="pref_camera_eis_entry_off">Désactivé</string>
     <string name="pref_camera_eis_entry_pro">EIS Pro</string>
     <string name="pref_camera_eis_title">EIS</string>
     <string name="pref_camera_esp">"Prévisualisation sur l'affichage arrière"</string>

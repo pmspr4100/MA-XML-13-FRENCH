@@ -56,7 +56,7 @@
   <string name="aboard_mail_body_content">The app is compatible with multiple doc formats, in small size and permanently free. Get it here:</string>
   <string name="app_unknownError">Exit caused by unknown error</string>
   <string name="chart_NotSupportedPic_bmw">This image cannot currently be displayed.</string>
-  <string name="chart_OtherCategoryName_bmw">Other</string>
+  <string name="chart_OtherCategoryName_bmw">Autre</string>
   <string name="chart_defaultAxisTitle_bmw">Axis Title</string>
   <string name="chart_defaultChartTitle_bmw">Chart Title</string>
   <string name="chart_exponential_bmw">Exponential</string>
@@ -165,7 +165,7 @@
   <string name="ppt_note_null">(Blank)</string>
   <string name="ppt_sharedplay_by_miracast">Miracast</string>
   <string name="ppt_sharedplay_device_searching">Searching for visible Miracast devices</string>
-  <string name="ppt_sharedplay_miracast_device_list_title">Devices</string>
+  <string name="ppt_sharedplay_miracast_device_list_title">Appareils</string>
   <string name="ppt_sharedplay_search_failed_toast">No visible Miracast devices were found</string>
   <string name="ppt_sharedplay_wireless_display">The Miracast device can be connected after you tick the Enable wireless display option</string>
   <string name="ppt_show_note">Show notes</string>
@@ -247,7 +247,7 @@
   <string name="public_pdf_converter_normal">Regular</string>
   <string name="public_pdf_converter_open_tip">Open this document?</string>
   <string name="public_pdf_converter_success">"Exported to "</string>
-  <string name="public_pdf_converter_success_open">Open</string>
+  <string name="public_pdf_converter_success_open">Ouvrir</string>
   <string name="public_pdf_converter_success_tip">Exported successfully</string>
   <string name="public_pdf_converter_title">Export</string>
   <string name="public_pdf_converter_water">Watermarked</string>

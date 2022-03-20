@@ -81,7 +81,7 @@
   <string name="miuix_appcompat_deselect_all">Deselect</string>
   <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
-  <string name="miuix_appcompat_search_input_description">Search</string>
+  <string name="miuix_appcompat_search_input_description">Rechercher</string>
   <string name="miuix_appcompat_select_all">Select all</string>
   <string name="miuix_appcompat_select_all_description">Select all</string>
   <string name="miuix_appcompat_select_item">Select items</string>

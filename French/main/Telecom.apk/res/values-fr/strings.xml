@@ -924,14 +924,14 @@ Any user can update apps for all other users."</string>
     <string name="wifi_disabled_network_failure">"Échec de configuration de l'adresse IP"</string>
     <string name="wifi_disabled_password_failure">"Problème d'authentification."</string>
     <string name="wifi_disabled_wifi_failure">Échec de la connexion Wi-Fi</string>
-    <string name="wifi_disconnected">Disconnected</string>
+    <string name="wifi_disconnected">Déconnecté</string>
     <string name="wifi_display_certification">Certification affichage sans fil</string>
     <string name="wifi_display_certification_summary">"Afficher les options de la certification de l'affichage sans fil"</string>
     <string name="wifi_enhanced_mac_randomization">Wi‑Fi non‑persistent MAC randomization</string>
     <string name="wifi_enhanced_mac_randomization_summary">When this mode is enabled, this device’s MAC address may change each time it connects to a network that has MAC randomization enabled.</string>
     <string name="wifi_fail_to_scan">Impossible de rechercher des réseaux.</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI certificate</string>
-    <string name="wifi_hotspot_switch_off_text">Off</string>
+    <string name="wifi_hotspot_switch_off_text">Désactivé</string>
     <string name="wifi_hotspot_switch_on_text">On</string>
     <string name="wifi_limited_connection">Limited connection</string>
     <string name="wifi_metered_label">"Facturé à l'usage"</string>
@@ -998,7 +998,7 @@ Credential storage might not enable"</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Disabled</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">IP configuration failure</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Authentication problem</string>
-    <string name="wifitrackerlib_wifi_disconnected">Disconnected</string>
+    <string name="wifitrackerlib_wifi_disconnected">Déconnecté</string>
     <string name="wifitrackerlib_wifi_limited_connection">Limited connection</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Can't connect. Try again later."</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Network is over capacity. Try again later.</string>
