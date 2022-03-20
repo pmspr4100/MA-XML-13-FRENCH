@@ -560,7 +560,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="app_predict_dialog_success">"Ajouté à l'écran d'accueil avec succès"</string>
     <string name="app_predict_folder_name">Rechercher</string>
     <string name="app_predict_go_shop_search_app">Chercher dans GetApps</string>
-    <string name="app_predict_guide_button">Add</string>
+    <string name="app_predict_guide_button">Ajouter</string>
     <string name="app_predict_guide_message">AI will suggest apps that you might need at the moment</string>
     <string name="app_predict_guide_title">Smart app suggestions</string>
     <string name="app_predict_loading_text">Un instant…</string>
@@ -2865,7 +2865,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="om_settings_notify_manage">Notifications</string>
     <string name="om_settings_speed_up_auto">Augmentation de la vitesse automatique</string>
     <string name="om_settings_title">Paramètres</string>
-    <string name="om_shortcut_added_toast_text">Added successfully</string>
+    <string name="om_shortcut_added_toast_text">Ajouté avec succès</string>
     <string name="om_shortcut_dialog_summary">"RAM Jet allows you to clear memory and boost your device's speed in a single tap. Add RAM Jet to your Home screen?"</string>
     <string name="om_shortcut_dialog_title">RAM Jet</string>
     <string name="once_settings_camera_ttile">Partager sans métadonnées</string>

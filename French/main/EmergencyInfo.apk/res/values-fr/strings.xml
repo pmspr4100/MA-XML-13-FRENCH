@@ -666,7 +666,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
 
         Any user can update apps for all other users."</string>
     <string name="user_add_user_title">Add new user?</string>
-    <string name="user_add_user_type_title">Add</string>
+    <string name="user_add_user_type_title">Ajouter</string>
     <string name="user_guest">Guest</string>
     <string name="user_image_choose_photo">Choose an image</string>
     <string name="user_image_photo_selector">Select photo</string>
@@ -697,7 +697,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wapi_cert_manage_error">Faild to setting the WAPI certificate.</string>
     <string name="wapi_cert_manage_summary">Add or delete the WAPI certificate</string>
     <string name="wapi_cert_manage_title">WAPI certificate management</string>
-    <string name="wapi_cert_roaming">Connecting…</string>
+    <string name="wapi_cert_roaming">Connexion…</string>
     <string name="wapi_no">no</string>
     <string name="wapi_no_vaild_cert">No available certificates, install it now?</string>
     <string name="wapi_password_hex_format_add">The count of hexadecimal characters can not be odd number</string>

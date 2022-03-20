@@ -890,7 +890,7 @@ Take a look at the recommended ones!"</string>
     <string name="rcs_chatdetail_name_unknow">Unknown vendor</string>
     <string name="rcs_chatdetail_save_chatbot">Add to my apps</string>
     <string name="rcs_chatdetail_save_fail">"Couldn't add. Try again."</string>
-    <string name="rcs_chatdetail_save_success">Added successfully</string>
+    <string name="rcs_chatdetail_save_success">Ajouté avec succès</string>
     <string name="rcs_chatdetail_send_messge">Send message</string>
     <string name="rcs_chatdetail_special_chabot_tip">"Can't block this mini app"</string>
     <string name="rcs_chatlist_scan_error">"Can't read this QR code"</string>

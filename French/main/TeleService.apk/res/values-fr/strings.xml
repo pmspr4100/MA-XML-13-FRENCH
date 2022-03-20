@@ -1019,7 +1019,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="guest_new_guest">Add guest</string>
     <string name="guest_nickname">Guest</string>
     <string name="guest_reset_guest">Reset guest</string>
-    <string name="guest_reset_guest_confirm_button">Reset</string>
+    <string name="guest_reset_guest_confirm_button">Réinitialiser</string>
     <string name="guest_reset_guest_dialog_title">Reset guest?</string>
     <string name="guest_resetting">Resetting guest…</string>
     <string name="hac_mode_summary">"Activer la compatibilité du service d'assistance auditive"</string>
@@ -2583,7 +2583,7 @@ Any user can update apps for all other users. Accessibility settings and service
 
 Any user can update apps for all other users."</string>
     <string name="user_add_user_title">Add new user?</string>
-    <string name="user_add_user_type_title">Add</string>
+    <string name="user_add_user_type_title">Ajouter</string>
     <string name="user_guest">Invité</string>
     <string name="user_image_choose_photo">Choose an image</string>
     <string name="user_image_photo_selector">Select photo</string>

@@ -263,7 +263,7 @@ Access storage in order to access and save cover art and downloaded files"</stri
     <string name="desktop_lyric_lock_toast">Locked. You can unlock Music in Notification shade.</string>
     <string name="desktop_lyric_setting_title">Home screen lyrics</string>
     <string name="detail">Details</string>
-    <string name="device_connected">Connected</string>
+    <string name="device_connected">Connecté</string>
     <string name="device_not_connected">Not connected</string>
     <string name="diagnosis_log_send_failed">"Couldn't send logs. Try again."</string>
     <string name="diagnosis_log_sent_format">"Sent logs successfully.
@@ -585,7 +585,7 @@ Send this code to the supervisor."</string>
     <string name="login_by_local_phone_short_text">Se connecter</string>
     <string name="login_other">Another Mi Account</string>
     <string name="login_register_by_local_phone_long_text">Create account</string>
-    <string name="login_tip">Not signed in</string>
+    <string name="login_tip">Non connecté</string>
     <string name="login_tips">Sign in to get relevant recommendations</string>
     <string name="login_with_sns">Autres façons de se connecter</string>
     <string name="logout_account">Sign out</string>
@@ -760,7 +760,7 @@ Send this code to the supervisor."</string>
     <string name="noon">Midi</string>
     <string name="normal_quality">Good</string>
     <string name="normal_question">Questions</string>
-    <string name="not_login">Not signed in</string>
+    <string name="not_login">Non connecté</string>
     <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
     <string name="notif_text_engine_on">Accelerating…</string>
     <string name="notif_title_file_size">%1$d total</string>
@@ -901,7 +901,7 @@ Send this code to the supervisor."</string>
     <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
     <string name="passport_vcode_prompt_long">Enter verification code</string>
     <string name="passport_vcode_sms_send_prompt">Sent code to %s</string>
-    <string name="passport_verification_failed">"Couldn't verify"</string>
+    <string name="passport_verification_failed">Impossible de vérifier</string>
     <string name="passport_verify">Verify</string>
     <string name="passport_wechat_not_install">"Installez d'abord WeChat"</string>
     <string name="passport_wrong_captcha">The code you entered is incorrect</string>

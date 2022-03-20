@@ -702,7 +702,7 @@ Envoyez ce code au superviseur."</string>
     <string name="request_agree">Autoriser</string>
     <string name="request_camera_permission_message">"We shall protect your personal information in accordance with the relevant laws and regulations. This app needs the following permissions to work normally:&lt;br>&lt;br>&lt;b>Using camera (for setting your profile photo)&lt;/b>&lt;br>&lt;br>If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
     <string name="request_cancel">Annuler</string>
-    <string name="request_error_invalid_token">"Couldn't verify"</string>
+    <string name="request_error_invalid_token">Impossible de vérifier</string>
     <string name="request_error_network">A network error occurred. Check your network settings and try again.</string>
     <string name="request_error_unknown">A system error occurred. Go back and try again.</string>
     <string name="request_gallery_permission_message">Allow access to Gallery:&lt;br />For setting profile photos</string>

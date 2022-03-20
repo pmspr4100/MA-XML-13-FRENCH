@@ -1048,8 +1048,8 @@
         <item>@string/device_settings_common_null</item>
         <item>Heart rate</item>
         <item>Stress</item>
-        <item>Sleep</item>
-        <item>Energy</item>
+        <item>Sommeil</item>
+        <item>Énergie</item>
         <item>Steps</item>
         <item>Calories</item>
         <item>Standing</item>
@@ -1084,8 +1084,8 @@
         <item>@string/face_common_null</item>
         <item>Heart rate</item>
         <item>Stress</item>
-        <item>Sleep</item>
-        <item>Energy</item>
+        <item>Sommeil</item>
+        <item>Énergie</item>
         <item>Steps</item>
         <item>Calories</item>
         <item>Standing</item>

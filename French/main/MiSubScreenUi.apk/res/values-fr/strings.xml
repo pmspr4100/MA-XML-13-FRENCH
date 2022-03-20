@@ -263,7 +263,7 @@ dd/MM"</string>
     <string name="subscreen_other">Autre</string>
     <string name="subscreen_other_dialog_cancel">Annuler</string>
     <string name="subscreen_other_dialog_confirm">Turn on</string>
-    <string name="subscreen_other_dialog_goto">Add</string>
+    <string name="subscreen_other_dialog_goto">Ajouter</string>
     <string name="subscreen_other_dialog_message">"Super power saver disables the main screen. You'll only be able to check the time, accept calls, and call your previously set emergency contact. Our tests show that your device might be able to work for up to %d days on a single charge when Super power saver is on. However, this time period might be shorter due to various factors. Turn on Super power saver now?"</string>
     <string name="subscreen_other_dialog_title">Super power saver</string>
     <string name="subscreen_other_next_dialog_message">You need to add an emergency contact before using Super power saver. Add now?</string>
@@ -343,7 +343,7 @@ dd/MM"</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
-    <string name="wilderness_dcalling">Connected</string>
+    <string name="wilderness_dcalling">Connecté</string>
     <string name="wilderness_dialing">Dialing</string>
     <string name="wilderness_is_starting">Turning on Super power saver…</string>
     <string name="wireless_change_to_ac_charging">Switch to wired charging</string>

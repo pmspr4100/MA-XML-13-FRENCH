@@ -609,7 +609,7 @@ Envoyer ce code au superviseur."</string>
     <string name="passport_vcode_notification_title">"La vérification n'est pas terminée"</string>
     <string name="passport_vcode_prompt_long">Entrez le code de vérification</string>
     <string name="passport_vcode_sms_send_prompt">Sent code to %s</string>
-    <string name="passport_verification_failed">"Couldn't verify"</string>
+    <string name="passport_verification_failed">Impossible de vérifier</string>
     <string name="passport_verify">Vérifier</string>
     <string name="passport_wechat_not_install">"Installez d'abord WeChat"</string>
     <string name="passport_wrong_captcha">Le code que vous avez entré est incorrect</string>

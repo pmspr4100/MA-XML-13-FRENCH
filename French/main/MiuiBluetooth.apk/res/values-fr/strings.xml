@@ -266,7 +266,7 @@ Appuyez sur \"Effacer et convertir…\" pour continuer."</string>
     <string name="debug_app">Select debugging app</string>
     <string name="debug_app_not_set">"Debugging app isn't set"</string>
     <string name="debug_app_set">Debugging app: %1$s</string>
-    <string name="debug_applications_category">Apps</string>
+    <string name="debug_applications_category">Applications</string>
     <string name="debug_debugging_category">Debugging</string>
     <string name="debug_drawing_category">Drawing</string>
     <string name="debug_hw_drawing_category">Hardware accelerated rendering</string>

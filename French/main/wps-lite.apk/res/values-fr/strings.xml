@@ -292,7 +292,7 @@
   <string name="public_share_no_network">"Couldn't connect to the network"</string>
   <string name="public_share_retry">Réessayer</string>
   <string name="public_shareplay_connect_fail">Vérifiez votre connexion réseau</string>
-  <string name="public_shareplay_connection">Connecting…</string>
+  <string name="public_shareplay_connection">Connexion…</string>
   <string name="public_shareplay_paly_bar">Projection</string>
   <string name="public_sheet_label">Mi Spreadsheet Viewer</string>
   <string name="public_sort">Sort by</string>

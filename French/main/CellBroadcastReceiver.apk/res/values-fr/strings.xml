@@ -264,7 +264,7 @@ Selection"</string>
   <string name="debug_app">Select debug app</string>
   <string name="debug_app_not_set">No debug application set</string>
   <string name="debug_app_set">Debugging application: %1$s</string>
-  <string name="debug_applications_category">Apps</string>
+  <string name="debug_applications_category">Applications</string>
   <string name="debug_debugging_category">Debugging</string>
   <string name="debug_drawing_category">Drawing</string>
   <string name="debug_hw_drawing_category">Hardware accelerated rendering</string>
@@ -496,7 +496,7 @@ Selection"</string>
   <string name="private_dns_mode_off">Désactiver</string>
   <string name="private_dns_mode_opportunistic">Automatic</string>
   <string name="private_dns_mode_provider">Private DNS provider hostname</string>
-  <string name="private_dns_mode_provider_failure">"Couldn't connect"</string>
+  <string name="private_dns_mode_provider_failure">Connexion impossible</string>
   <string name="private_dns_mode_provider_hostname_hint">Enter hostname of DNS provider</string>
   <string name="public_safety_message">Public safety message</string>
   <string name="pws_other_message_identifiers">Emergency alert</string>
