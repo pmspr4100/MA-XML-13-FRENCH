@@ -1014,7 +1014,7 @@ Credential storage might not enable"</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa3">WPA3-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Enterprise</string>
-    <string name="wifitrackerlib_wifi_security_none">None</string>
+    <string name="wifitrackerlib_wifi_security_none">Aucun</string>
     <string name="wifitrackerlib_wifi_security_owe">Enhanced Open</string>
     <string name="wifitrackerlib_wifi_security_passpoint">Passpoint</string>
     <string name="wifitrackerlib_wifi_security_sae">WPA3-Personal</string>

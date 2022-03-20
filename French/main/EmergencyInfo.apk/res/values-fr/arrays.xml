@@ -156,7 +156,7 @@
         <item>Toujours vérifier</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Aucun</item>
         <item>480p</item>
         <item>480p (sécurisé)</item>
         <item>720p</item>

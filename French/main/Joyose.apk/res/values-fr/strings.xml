@@ -126,7 +126,7 @@
   <string name="night">Soirée</string>
   <string name="noon">Midi</string>
   <string name="not_resurge_title">Résurrection</string>
-  <string name="not_set">Not set</string>
+  <string name="not_set">Non défini</string>
   <string name="not_support_forbidden_fakecell">"Votre appareil ne prend pas en charge la protection au niveau de la puce contre les fausses antennes-relais."</string>
   <string name="open_cta">"Autoriser cette application à se connecter à internet dans Sécurité."</string>
   <string name="package_name">"nom du paquet ："</string>
@@ -183,7 +183,7 @@
   <string name="thursday_short">Thu</string>
   <string name="thursday_shortest">Thu</string>
   <string name="time_picker_dialog_title">"Régler l'heure"</string>
-  <string name="today">Today</string>
+  <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Tomorrow</string>
   <string name="tuesday">Tuesday</string>
   <string name="tuesday_short">Tue</string>

@@ -2113,7 +2113,7 @@ Interface UT : %5$s"</string>
     <string name="replace_4g_template">4G</string>
     <string name="report_method_entries_item1">Only when earphones are connected</string>
     <string name="report_method_entries_item2">Always</string>
-    <string name="report_method_entries_item3">Turn off</string>
+    <string name="report_method_entries_item3">Désactiver</string>
     <string name="requesting_unlock">Demande de déblocage du réseau…</string>
     <string name="reset_roaming_message">Your device will reboot to reset roaming.</string>
     <string name="reset_roaming_not_support">"This SIM card can't initialize roaming."</string>
@@ -2493,7 +2493,7 @@ Prochaine période dans %2$d jours (%3$s)"</string>
     <string name="thursday_short">Jeu</string>
     <string name="thursday_shortest">Jeu</string>
     <string name="time_picker_dialog_title">"Régler l'heure"</string>
-    <string name="today">Today</string>
+    <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="time_end">" À "</string>
     <string name="time_end_hour">time end hour</string>
@@ -2849,7 +2849,7 @@ Le stockage des justificatifs pourrait ne pas permettre"</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa3">WPA3-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Enterprise</string>
-    <string name="wifitrackerlib_wifi_security_none">None</string>
+    <string name="wifitrackerlib_wifi_security_none">Aucun</string>
     <string name="wifitrackerlib_wifi_security_owe">Enhanced Open</string>
     <string name="wifitrackerlib_wifi_security_passpoint">Passpoint</string>
     <string name="wifitrackerlib_wifi_security_sae">WPA3-Personal</string>

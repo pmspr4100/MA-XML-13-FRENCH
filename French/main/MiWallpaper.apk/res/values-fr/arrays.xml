@@ -26,7 +26,7 @@
         <item>Super wallpapers;Wallpaper;Dynamic wallpaper;3D wallpaper</item>
     </string-array>
     <string-array name="settings_search_weather">
-        <item>Weather</item>
+        <item>Météo</item>
         <item>Wallpaper/Super wallpapers/Weather</item>
         <item>Weather;Weather info;Super wallpaper;Wallpaper</item>
     </string-array>

@@ -9489,7 +9489,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_no_domain_warning">Vous devez spécifier un domaine.</string>
     <string name="wifi_no_internet">Impossible de se connecter à internet</string>
     <string name="wifi_no_internet_no_reconnect">Impossible de se connecter à internet</string>
-    <string name="wifi_no_related_sim_card">None</string>
+    <string name="wifi_no_related_sim_card">Aucun</string>
     <string name="wifi_no_sim_card">No SIM</string>
     <string name="wifi_no_user_cert_warning">Certificat requis.</string>
     <string name="wifi_not_in_range">Hors de portée</string>
@@ -9846,7 +9846,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa3">WPA3-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Enterprise</string>
-    <string name="wifitrackerlib_wifi_security_none">None</string>
+    <string name="wifitrackerlib_wifi_security_none">Aucun</string>
     <string name="wifitrackerlib_wifi_security_owe">Enhanced Open</string>
     <string name="wifitrackerlib_wifi_security_passpoint">Passpoint</string>
     <string name="wifitrackerlib_wifi_security_sae">WPA3-Personal</string>
@@ -10177,7 +10177,7 @@ Les notifications nécessaires pour l'activité du téléphone et son état sont
     <string name="zen_mode_starred_callers">contacts favoris</string>
     <string name="zen_mode_starred_contacts_empty_name">(No name)</string>
     <string name="zen_mode_starred_contacts_summary_contacts">{count, plural, offset:2 =0 {None} =1 {{contact_1}} =2 {{contact_1} and {contact_2}} =3 {{contact_1}, {contact_2}, and {contact_3}} other {{contact_1}, {contact_2}, and # others} }</string>
-    <string name="zen_mode_starred_contacts_summary_none">None</string>
+    <string name="zen_mode_starred_contacts_summary_none">Aucun</string>
     <string name="zen_mode_starred_contacts_title">Contacts favoris</string>
     <string name="zen_mode_start_time">Heure de début</string>
     <string name="zen_mode_summary">Rend silencieux les appels entrants, les notifications, les médias et désactive les vibrations</string>

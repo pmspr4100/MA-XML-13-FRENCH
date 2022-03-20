@@ -3225,7 +3225,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_center_speed_mode_dialog_text">Speed mode boosts the performance of your device by increasing power consumption and allowing it to heat up. Avoid using Speed mode for extended periods of time.</string>
     <string name="power_center_speed_mode_dialog_title">Speed mode</string>
     <string name="power_center_speed_mode_dialog_warning">Speed mode will be turned off automatically when the battery goes below %s.</string>
-    <string name="power_center_speed_mode_enter_noti_btn_text">Turn off</string>
+    <string name="power_center_speed_mode_enter_noti_btn_text">Désactiver</string>
     <string name="power_center_speed_mode_enter_noti_summary">Your device will heat up and consume more power</string>
     <string name="power_center_speed_mode_enter_noti_title">Switched to Speed mode</string>
     <string name="power_center_speed_mode_exit_noti_summary">Less than %s of battery remaining</string>

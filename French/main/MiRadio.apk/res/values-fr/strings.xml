@@ -495,7 +495,7 @@ Send this code to the supervisor."</string>
     <string name="global_search_title_cantonese">Cantonese songs</string>
     <string name="global_search_title_child">"Children's songs"</string>
     <string name="global_search_title_classics">Classical music</string>
-    <string name="global_search_title_entry">Music</string>
+    <string name="global_search_title_entry">Musique</string>
     <string name="global_search_title_fm">Online FM</string>
     <string name="global_search_title_hot">Hot song list</string>
     <string name="global_search_title_internet">Web charts</string>
@@ -711,7 +711,7 @@ Send this code to the supervisor."</string>
     <string name="msg_try_plug_headset">Connectez un casque et réessayez.</string>
     <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
     <string name="multiple_select">Select</string>
-    <string name="music">Music</string>
+    <string name="music">Musique</string>
     <string name="music_filter">Filter audio files</string>
     <string name="my_account">Mi Account</string>
     <string name="my_balance_discount">Discount</string>
@@ -1097,7 +1097,7 @@ Send this code to the supervisor."</string>
     <string name="settings_search_title_desktop_lyric">Home screen lyrics</string>
     <string name="settings_search_title_download_quality">Download quality</string>
     <string name="settings_search_title_download_when_favorite">Download favorites</string>
-    <string name="settings_search_title_main">Music</string>
+    <string name="settings_search_title_main">Musique</string>
     <string name="settings_search_title_notification">Music notifications</string>
     <string name="settings_search_title_vip_service">Premium songs</string>
     <string name="share_append_text">From @MIUI</string>
@@ -1120,7 +1120,7 @@ Send this code to the supervisor."</string>
     <string name="sign_in_title">Se connecter avec votre Compte Mi</string>
     <string name="skip_query_account">Ignorer</string>
     <string name="sleep_close">Fermer</string>
-    <string name="sleep_custom">Custom</string>
+    <string name="sleep_custom">Personnalisé</string>
     <string name="sleep_mode">Sleep timer</string>
     <string name="sleep_mode_cancel">Annuler</string>
     <string name="sleep_mode_canceled">Sleep mode turned off</string>
@@ -1168,7 +1168,7 @@ Send this code to the supervisor."</string>
     <string name="song_offline">This song is no longer available.</string>
     <string name="song_playing">Playing</string>
     <string name="sort">Sort</string>
-    <string name="sort_by_name">Name</string>
+    <string name="sort_by_name">Nom</string>
     <string name="sort_by_time">Date</string>
     <string name="spammy_contents">Spam</string>
     <string name="speed">"Speed "</string>
@@ -1297,7 +1297,7 @@ Send this code to the supervisor."</string>
     <string name="toast_sleep_mode_exit">Mode veille annulé</string>
     <string name="toast_uhd_songs_for_download">Downloading quality set to High</string>
     <string name="toast_uhd_songs_for_stream">Streaming quality set to High</string>
-    <string name="today">Today</string>
+    <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="topnews_refresh">Refresh</string>
     <string name="total_chapter_count">%1$d shows</string>

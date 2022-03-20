@@ -1055,25 +1055,25 @@
         <item>Standing</item>
         <item>Battery</item>
         <item>Date</item>
-        <item>Weather</item>
+        <item>Météo</item>
         <item>Air pressure</item>
         <item>Elevation</item>
-        <item>Timer</item>
+        <item>Minuteur</item>
         <item>Alarm</item>
         <item>AQI</item>
         <item>Humidity</item>
-        <item>Workout</item>
+        <item>Entraînement</item>
         <item>UV Index</item>
         <item>Sunrise &amp; sunset</item>
         <item>Wind</item>
     </string-array>
     <string-array name="device_settings_reminder_period_array">
         <item>One-time event</item>
-        <item>Daily</item>
-        <item>Weekly</item>
-        <item>Monthly</item>
-        <item>Yearly</item>
-        <item>Custom</item>
+        <item>Quotidien</item>
+        <item>Hebdomadaire</item>
+        <item>Mensuel</item>
+        <item>Annuel</item>
+        <item>Personnalisé</item>
     </string-array>
     <string-array name="device_settings_unlock_phone_distance_list">
         <item>Very close</item>
@@ -1091,14 +1091,14 @@
         <item>Standing</item>
         <item>Battery</item>
         <item>Date</item>
-        <item>Weather</item>
+        <item>Météo</item>
         <item>Air pressure</item>
         <item>Elevation</item>
-        <item>Timer</item>
+        <item>Minuteur</item>
         <item>Alarm</item>
         <item>AQI</item>
         <item>Humidity</item>
-        <item>Workout</item>
+        <item>Entraînement</item>
         <item>UV Index</item>
         <item>Sunrise &amp; sunset</item>
         <item>Wind</item>
@@ -1269,7 +1269,7 @@
         <item>O+</item>
     </string-array>
     <string-array name="userinfo_contact_relation_array">
-        <item>Not set</item>
+        <item>Non défini</item>
         <item>Parent</item>
         <item>Sister</item>
         <item>Brother</item>
@@ -1294,24 +1294,24 @@
         <item>Autre</item>
     </string-array>
     <string-array name="userinfo_gender_array">
-        <item>Not set</item>
+        <item>Non défini</item>
         <item>Male</item>
         <item>Female</item>
     </string-array>
     <string-array name="userinfo_normal_blood_array">
-        <item>Not set</item>
+        <item>Non défini</item>
         <item>A</item>
         <item>B</item>
         <item>AB</item>
         <item>O</item>
     </string-array>
     <string-array name="userinfo_rh_blood_array">
-        <item>Not set</item>
+        <item>Non défini</item>
         <item>Negative</item>
         <item>Positive</item>
     </string-array>
     <string-array name="userinfo_yes_no_array">
-        <item>Not set</item>
+        <item>Non défini</item>
         <item>Oui</item>
         <item>No</item>
     </string-array>

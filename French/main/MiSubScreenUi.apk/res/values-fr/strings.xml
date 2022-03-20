@@ -216,7 +216,7 @@ dd/MM"</string>
     <string name="night">Evening</string>
     <string name="noon">Midday</string>
     <string name="not_add_contact">Not added</string>
-    <string name="not_set">Not set</string>
+    <string name="not_set">Non défini</string>
     <string name="notification_new_message">New message</string>
     <string name="page_detail_preview_tip">Turn the phone around to preview</string>
     <string name="page_detail_publish_time_gallery_label">"Added: "</string>
@@ -333,7 +333,7 @@ dd/MM"</string>
     <string name="thursday_shortest">Jeu</string>
     <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="time_style">Clock style</string>
-    <string name="today">Today</string>
+    <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="tuesday">Mardi</string>
     <string name="tuesday_short">Mar</string>

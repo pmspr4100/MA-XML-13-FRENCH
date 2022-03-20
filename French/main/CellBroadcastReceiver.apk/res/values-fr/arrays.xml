@@ -130,7 +130,7 @@
         <item>Show areas for Deuteranomaly</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Aucun</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>

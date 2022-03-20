@@ -384,7 +384,7 @@ Envoyez ce code au superviseur."</string>
     <string name="notify_network_restricted_content_mobile_network">"Le Compte Mi est restreint d'accéder à internet. Appuyer pour autoriser."</string>
     <string name="notify_network_restricted_title">"Le Compte Mi n'arrive pas à se connecter au réseau"</string>
     <string name="notify_verify_again_security_phone">Confirm</string>
-    <string name="notify_verify_security_phone">Phone</string>
+    <string name="notify_verify_security_phone">Téléphone</string>
     <string name="oauth_get_scopes_failed">"Impossible d'obtenir les infos du compte"</string>
     <string name="oauth_getting_scopes">Vérification du compte…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les permissions suivantes :&lt;br> &lt;br> %3$s ;</string>

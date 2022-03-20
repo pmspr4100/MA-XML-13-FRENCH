@@ -384,7 +384,7 @@ pour voir les onglets ouverts dans les autres appareils."</string>
   <string name="enter_the_user_name">Enter username</string>
   <string name="error_forbidden">Sync has been turned off due to problems with your Mi Account.</string>
   <string name="error_not_acceptable">Sync is off.</string>
-  <string name="error_title">"Couldn't sync"</string>
+  <string name="error_title">Synchronisation impossible</string>
   <string name="error_unauthorized">Syncing with your Mi Account has been turned off due to too many sign-in attempts.</string>
   <string name="evening">Après-midi</string>
   <string name="exit">Quitter</string>
@@ -417,7 +417,7 @@ pour voir les onglets ouverts dans les autres appareils."</string>
   <string name="exo_track_role_commentary">Commentary</string>
   <string name="exo_track_role_supplementary">Supplementary</string>
   <string name="exo_track_selection_auto">Auto</string>
-  <string name="exo_track_selection_none">None</string>
+  <string name="exo_track_selection_none">Aucun</string>
   <string name="exo_track_selection_title_audio">Audio</string>
   <string name="exo_track_selection_title_text">Text</string>
   <string name="exo_track_selection_title_video">Video</string>
@@ -933,7 +933,7 @@ Are you sure you want to navigate away from this page ?"</string>
   <string name="qr_code_title">QR Code</string>
   <string name="qr_description">Scan QR code</string>
   <string name="quicklink_add_last7day">Past 7 days</string>
-  <string name="quicklink_add_today">Today</string>
+  <string name="quicklink_add_today">"Aujourd'hui"</string>
   <string name="quicklink_add_yesterday">Yesterday</string>
   <string name="quicklink_bookmark_save">Save to</string>
   <string name="quicklink_cannot_save_url">"This URL can't be added."</string>

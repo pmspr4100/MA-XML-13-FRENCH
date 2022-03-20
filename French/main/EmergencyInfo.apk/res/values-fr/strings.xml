@@ -748,7 +748,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-Enterprise</string>
     <string name="wifi_security_eap_wpa3">WPA3-Enterprise</string>
     <string name="wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
-    <string name="wifi_security_none">None</string>
+    <string name="wifi_security_none">Aucun</string>
     <string name="wifi_security_none_owe">None/Enhanced Open</string>
     <string name="wifi_security_owe">Enhanced Open</string>
     <string name="wifi_security_passpoint">Passpoint</string>
@@ -838,7 +838,7 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="wifitrackerlib_wifi_security_eap_wpa3">WPA3-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Enterprise</string>
-    <string name="wifitrackerlib_wifi_security_none">None</string>
+    <string name="wifitrackerlib_wifi_security_none">Aucun</string>
     <string name="wifitrackerlib_wifi_security_owe">Enhanced Open</string>
     <string name="wifitrackerlib_wifi_security_passpoint">Passpoint</string>
     <string name="wifitrackerlib_wifi_security_sae">WPA3-Personal</string>

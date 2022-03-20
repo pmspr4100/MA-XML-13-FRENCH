@@ -1033,7 +1033,7 @@ The value of CS0 ranges from 3000 to 30000 , the pass button is highlight"</stri
 Click the Start Calibrate button
 After calibrate success, control the fixture close and away from the phone"</string>
   <string name="sar_sensor_test_timeout">Sar Sensor test timeout</string>
-  <string name="screen_cancel">Turn off</string>
+  <string name="screen_cancel">Désactiver</string>
   <string name="screen_confirm">Turn on</string>
   <string name="search_menu_title">Recherche</string>
   <string name="select">Select</string>

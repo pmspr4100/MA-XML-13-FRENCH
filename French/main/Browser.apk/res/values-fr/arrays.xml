@@ -97,7 +97,7 @@
         <item>Severe haze</item>
         <item>Dense fog</item>
         <item>Strong dense fog</item>
-        <item>None</item>
+        <item>Aucun</item>
         <item>Rain</item>
         <item>Snow</item>
     </string-array>
