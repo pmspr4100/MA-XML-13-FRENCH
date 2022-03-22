@@ -1211,7 +1211,7 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="preference_privacy_settings_title">Vie privée</string>
     <string name="preference_remove_duplicate">Fusionner les contacts dupliqués</string>
     <string name="preference_show_firewall_calllog">"Afficher les appels bloqués dans l'historique des appels"</string>
-    <string name="preference_show_yellowpage_tab_description">Pages jaunes pourrait ne pas fonctionner correctement lorsque cette fonctionnalité est désactivée.</string>
+    <string name="preference_show_yellowpage_tab_description">Les pages jaunes et ses services ne seront pas affichés si vous désactivez cette fonctionnalité</string>
     <string name="preference_show_yellowpage_tab_title">Afficher les Pages jaunes</string>
     <string name="preference_simple_mode_description">Afficher photos et autres informations de contact dans la liste</string>
     <string name="preference_simple_mode_title">Afficher les photos et infos</string>
@@ -1228,9 +1228,8 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="preference_telocation_summary_teloc_on">Afficher la localisation du contact</string>
     <string name="preference_telocation_title">Localisation</string>
     <string name="preference_tone_title">Tonalités</string>
+    <string name="preference_yellowpage_function_setting">Paramètres des pages jaunes</string>
     <string name="prepare_import">Importer les contacts</string>
-    <string name="preview_contact_card_title">Importer une carte de contact</string>
-    <string name="preview_incall_show_entry">Aperçu vidéo</string>
     <string name="previous">Précédent</string>
     <string name="privacy_password_message1">Le mot de passe de protection de la confidentialité fonctionne pour les photos, les notes et les dossiers cachés.</string>
     <string name="privacy_password_message2">Utilisez le Mot de passe de protection de la vie privée. Il fonctionne pour les photos, les notes et les dossiers cachés.</string>

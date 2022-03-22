@@ -380,6 +380,9 @@
     <item quantity="other">Selected %d items</item>
     <item quantity="one">Selected %d item</item>
   </plurals>
+  <plurals name="search_application_count">
+    <item quantity="other">Rechercher des applications</item>
+  </plurals>
   <plurals name="seconds">
     <item quantity="other">%s secondes</item>
     <item quantity="one">%s seconde</item>

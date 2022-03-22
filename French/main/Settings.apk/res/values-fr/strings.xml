@@ -376,6 +376,7 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
     <string name="activity_picker_label">Sélectionner une activité</string>
     <string name="activity_title_power_manager">Économiseur de batterie;Économiser la batterie</string>
     <string name="ad_service">Services publicitaires</string>
+    <string name="adapt_embedded">Des fenêtres parallèles sont disponibles</string>
     <string name="adaptive_battery_main_switch_title">Utiliser la batterie adaptative</string>
     <string name="adaptive_brightness_main_switch_title">Utiliser la luminosité adaptative</string>
     <string name="adaptive_connectivity_summary">"Prolonge la durée de vie de la batterie et améliore les performances de l'appareil en gérant automatiquement vos connexions réseau"</string>
@@ -747,6 +748,8 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="application_item_permission">Autoriser</string>
     <string name="application_lock_name">"Verrouillage des applications"</string>
     <string name="application_manager_section_title">Applications</string>
+    <string name="application_mode_empty_text">Aucune application ici pour le moment</string>
+    <string name="application_mode_name">"Mode d'affichage de l'application"</string>
     <string name="application_permission_manager">Autorisations des applications</string>
     <string name="application_permissions">Autorisations des applications</string>
     <string name="application_restrictions">Autoriser des applications et des contenus</string>
@@ -4520,10 +4523,6 @@ pour le Deuxième espace"</string>
     <string name="low_label">Faible</string>
     <string name="low_storage_summary">Stockage faible. %1$s utilisé - %2$s disponible</string>
     <string name="macaddr_label">Adresse MAC :</string>
-    <string name="magic_list_empty_text">No apps compatible with this feature now</string>
-    <string name="magic_list_empty_text_pad">No apps compatible with this feature now</string>
-    <string name="magic_window_name">Fenêtres parallèles</string>
-    <string name="magic_window_name_pad">Optimize apps for landscape view</string>
     <string name="mah">%d mAh</string>
     <string name="main_netcheck_summary">Tester la connexion pour des problèmes de réseau</string>
     <string name="main_running_process_description">"Processus principal en cours d'utilisation."</string>
@@ -6416,6 +6415,8 @@ Interface UT : %5$s"</string>
     <string name="remove_device_admin">Désactiver</string>
     <string name="remove_from_frequently_fragment">Supprimer %s des paramètres rapides ?</string>
     <string name="remove_managed_profile_label">Supprimer le profil professionnel</string>
+    <string name="remove_sourceinfo_btn_txt">Supprimer les informations sur la source</string>
+    <string name="rename_words_reached_limit">Le nouveau nom ne peut pas être plus long</string>
     <string name="repeat">Répéter</string>
     <string name="repeat_call">Notifier les appels répétés</string>
     <string name="repeat_call_info">"Fait sonner ou vibrer lors de la réception d'un deuxième appel du même numéro de téléphone dans les %d minutes"</string>
@@ -7422,13 +7423,17 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
     <string name="sim_slot_empty">Carte SIM vide</string>
     <string name="sim_status_title">Statut SIM</string>
-    <string name="sim_status_title_sim_slot">État de la carte SIM (SIM %1$d)</string>
+    <string name="sim_status_title_sim_slot">État de la carte SIM (SIM %1$d)</string>
     <string name="sim_status_title_sim_softbank">Statut carte SIM %1$d</string>
     <string name="simulate_color_space">Simuler un espace de couleur</string>
     <string name="single_key_use">Bouton unique</string>
     <string name="single_key_use_summary">"Utilisez le bouton d'accueil pour les fonctions exécutées par les 2 autres boutons"</string>
     <string name="single_press_AI_button">Appuyer sur le bouton IA</string>
     <string name="size_byte">" o"</string>
+    <string name="size_compat1">%1$d :%2$d</string>
+    <string name="size_compat2">%1$d :%2$d</string>
+    <string name="size_embedded">Fenêtres parallèles</string>
+    <string name="size_full">Plein écran</string>
     <string name="size_giga_byte">" Go"</string>
     <string name="size_kilo_byte">" ko"</string>
     <string name="size_mega_byte">" Mo"</string>
@@ -8428,6 +8433,8 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="twohours">1 heure</string>
     <string name="tx_link_speed_label">Vitesse de connexion en transmission :</string>
     <string name="tx_wifi_speed">Vitesse de connexion en transmission</string>
+    <string name="ucar_screen_projection_title">CarWith</string>
+    <string name="unadapt_embedded">Les fenêtres parallèles ne sont pas disponibles</string>
     <string name="under_keyguard">Écran éteint</string>
     <string name="unimportant">Sans importance</string>
     <string name="uninstall_all_users_text">Désinstaller pour tous les utilisateurs</string>

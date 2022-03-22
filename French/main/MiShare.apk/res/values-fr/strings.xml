@@ -158,6 +158,7 @@ Cette fonctionnalité est prise en charge par OPPO, vivo, realme et d'autres fab
   <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
   <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+  <string name="miuix_indexer_collect">Collections</string>
   <string name="miuix_indexer_selected">%s sélectionné</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
@@ -217,7 +218,9 @@ Cette fonctionnalité est prise en charge par OPPO, vivo, realme et d'autres fab
   <string name="notification_channel_name">Notifications de transfert</string>
   <string name="operate_too_fast">Trop vite ! Attendez que les opérations en cours soient terminées.</string>
   <string name="pc_device_model_name">Ordinateur</string>
-  <string name="permission_denied_hint">Grant the required permissions to be able to use Mi Share</string>
+  <string name="pc_redmi_device_model_name">Laptop Redmi</string>
+  <string name="pc_xiaomi_device_model_name">Laptop Xiaomi</string>
+  <string name="permission_denied_hint">Accordez les autorisations requises pour pouvoir utiliser Mi Share</string>
   <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="purpose">"Bienvenue sur Mi Share ! Vous pouvez utiliser cette application pour transférer des fichiers entre appareils. Nous protégeons vos informations personnelles conformément aux lois, réglementations et politiques en vigueur.
@@ -237,11 +240,13 @@ Avant d'utiliser Mi Share, vous devez accorder les autorisations suivantes, ains
   <string name="scanning_device_tips">"Recherche d'appareils à proximité… Assurez-vous que l'autre appareil est en mode détectable."</string>
   <string name="scanning_only_xiaomi_device">"Vous ne pouvez envoyer cet élément qu'à un appareil Xiaomi"</string>
   <string name="search_menu_title">Recherche</string>
+  <string name="seize_content">Arrêtez de partager votre écran pour pouvoir transférer des éléments. Arrêter de partager maintenant ?</string>
+  <string name="seize_title">"Arrêter le partage de l'écran"</string>
   <string name="send">Envoyer</string>
-  <string name="send_file">SEND FILE</string>
+  <string name="send_file">ENVOYER LE FICHIER</string>
   <string name="send_files_by">Partager des fichiers via</string>
   <string name="send_files_to">Envoyer des éléments à</string>
-  <string name="send_files_to_remote_success">Éléménets envoyés à %1$s avec succès</string>
+  <string name="send_files_to_remote_success">Éléments envoyés à %1$s avec succès</string>
   <string name="send_files_to_remote_success_title">Envoyé avec succès</string>
   <string name="send_successfully">Envoyé avec succès</string>
   <string name="sender_error">"Impossible d'envoyer. Attendez une minute ou deux et réessayez."</string>
