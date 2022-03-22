@@ -44,6 +44,7 @@
     <string name="back">Retour</string>
     <string name="backup_introduction">Vous pouvez utiliser cette application pour sauvegarder et restaurer des éléments sur votre appareil.</string>
     <string name="bluetooth_introduction">Bluetooth est utilisé par le système pour la communication sans fil. Pour pouvoir fonctionner normalement, Bluetooth a besoin des autorisations suivantes :</string>
+    <string name="bluetooth_usage_desc">La configuration initiale vous permet de définir vos préférences de base pour cet appareil. Pour configurer votre appareil avec succès, les services du système Bluetooth utiliseront les autorisations suivantes :</string>
     <string name="boot_video_desc">Voir le monde en 2K</string>
     <string name="boot_video_replay">Rejouer</string>
     <string name="boot_video_skip">Ignorer</string>
@@ -98,6 +99,7 @@
     <string name="enable_accessibility_dialog_message">"Vous avez activé TalkBack en appuyant sur l'écran avec 2 doigts pendant plus de 10 secondes. TalkBack offre un commentaire vocal aux personnes malvoyantes. Si vous l'avez activé par accident, appuyez sur le bouton Annuler et puis appuyez rapidement deux fois sur l'écran."</string>
     <string name="enable_accessibility_dialog_negative_btn">Annuler</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
+    <string name="enable_or_disable_bluetooth">Activer et désactiver le Bluetooth</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
     <string name="evening">Après-midi</string>
@@ -149,6 +151,7 @@
     <string name="mint_keyboard_oobe_checkbox">"J'ai lu et accepté la Politique de confidentialité de Mint Keyboard"</string>
     <string name="mint_keyboard_oobe_terms">Politique de confidentialité du clavier Mint</string>
     <string name="miui_privacy_policy_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir la Politique de confidentialité sur %s."</string>
+    <string name="miui_provision">Configuration initiale</string>
     <string name="miui_terms_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir les Conditions générales d'utilisation sur %s."</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
     <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
@@ -289,6 +292,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="permission_direct_call">Passer des appels</string>
     <string name="permission_direct_call_introduction">Pour ajouter des éléments à la liste de blocage</string>
     <string name="permission_download_introduction">Pour mettre en cache les éléments téléchargés et les enregistrer sur votre appareil</string>
+    <string name="permission_enable_disable_bluetooth_summary">Pour trouver des appareils à proximité afin de se connecter et de transférer des données</string>
     <string name="permission_fast_pairing">Pour pouvoir trouver des appareils à proximité, Mi Link doit se connecter à Internet et nécessite les autorisations suivantes :</string>
     <string name="permission_imei_service">"Pour accéder à l'IMEI afin de fournir des services associés à votre appareil"</string>
     <string name="permission_interaction_introduction">"Pour l'enregistrement de photos et de vidéos sur l'appareil"</string>
