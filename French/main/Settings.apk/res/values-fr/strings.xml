@@ -1669,7 +1669,8 @@ Vous pouvez désactiver cette fonctionnalité dans Paramètres > Bluetooth > Pé
     <string name="bt_lhdc_dialog_title">Le périphérique actuel prend en charge LHDC, qui a été connecté par défaut :</string>
     <string name="bt_lhdc_open_dialog_summary">"LHDC permet de lire un son de haute qualité et réduit la latence pendant le jeu, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir pendant la lecture en raison des limitations matérielles Bluetooth."</string>
     <string name="bt_lhdc_open_dialog_title">Activer LHDC ?</string>
-    <string name="bt_lhdc_property">Attributs</string>
+    <string name="bt_lhdc_property">Propriétés</string>
+    <string name="bt_plugin_current_version">Version actuelle</string>
     <string name="bt_plugin_new_version">Mettre à jour</string>
     <string name="bt_plugin_preference_button">Mettre à jour</string>
     <string name="bt_plugin_preference_msg">Actuel : %1$s | Nouveau : %2$s</string>
@@ -3143,6 +3144,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="external_source_untrusted">Pas autorisé</string>
     <string name="extreme_threats_summary">Recevoir alertes menaces extrêmes biens et personnes</string>
     <string name="extreme_threats_title">Menaces extrêmes</string>
+    <string name="eye_gaze_summary">"L'appareil ne se verrouille pas lorsqu'il détecte que vous regardez l'écran"</string>
+    <string name="eye_gaze_title">Détection du regard</string>
     <string name="face_add_max">"Vous pouvez ajouter jusqu'à %d visages"</string>
     <string name="face_data_apply_for_category_title">Déverrouillage par reconnaissance faciale</string>
     <string name="face_data_apply_for_keyguard_title">"Verrouillage d'écran"</string>
@@ -3388,7 +3391,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="font_size_preview_text_title">"Le Magicien d'Oz"</string>
     <string name="font_size_save">OK</string>
     <string name="font_size_small">Très petite</string>
-    <string name="font_size_summary">"Changer la taille du texte pour l'écran d'accueil, Panneau de notification, composeur et menus systèmes.
+    <string name="font_size_summary">"Changer la taille du texte pour l'écran d'accueil, Panneau des notifications, composeur et menus systèmes.
 
 "</string>
     <string name="font_size_summary1">"Si votre police système est trop petite, essayez "</string>
@@ -3711,8 +3714,8 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="headset_find_voice_warning">Avertissement de volume élevé</string>
     <string name="headset_head_tracking_desc">Ajustez le son immersif en fonction du mouvement de la tête</string>
     <string name="headset_head_tracking_title">Suivre le mouvement de la tête</string>
-    <string name="headset_notification_switch_summary">"Afficher l'état sur le widget Panneau de notification lorsque les écouteurs sont connectés"</string>
-    <string name="headset_notification_switch_title">Widget Panneau de notification</string>
+    <string name="headset_notification_switch_summary">"Afficher l'état sur le widget Panneau des notifications lorsque les écouteurs sont connectés"</string>
+    <string name="headset_notification_switch_title">Widget Panneau des notifications</string>
     <string name="headset_remove_message">Souhaitez-vous supprimer cet appareil de votre compte ?</string>
     <string name="headset_remove_message_indicate">Tous les périphériques associés avec le compte Xiaomi seront supprimés</string>
     <string name="headset_sbc">SBC</string>
@@ -4833,8 +4836,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_multi_connect_mode_summary">Connectez-vous à plusieurs appareils en même temps</string>
     <string name="miheadset_network_not_available">Vérifiez vos paramètres réseau et réessayez</string>
     <string name="miheadset_next">Piste suivante</string>
-    <string name="miheadset_notification_summary">Afficher le widget du panneau de notification lorsque les écouteurs sont connectés</string>
-    <string name="miheadset_notification_title">Afficher sur le panneau de notification</string>
+    <string name="miheadset_notification_summary">Afficher le widget du panneau des notifications lorsque les écouteurs sont connectés</string>
+    <string name="miheadset_notification_title">Afficher sur le panneau des notifications</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Réduction du bruit</string>
     <string name="miheadset_play_pause">Lecture/Pause</string>
@@ -5541,7 +5544,7 @@ Cela donnera aussi la possibilité à l'application d'activer ou désactiver le 
     <string name="notification_conversation_add_to_home">"Ajouter à l'accueil"</string>
     <string name="notification_conversation_important">Priorité</string>
     <string name="notification_conversation_summary_low">Aucun son ou vibration. Apparaît plus bas dans la section de conversation</string>
-    <string name="notification_display_settings">Panneau de notification</string>
+    <string name="notification_display_settings">Panneau des notifications</string>
     <string name="notification_fold_summary">Toutes les notifications sans importance apparaîtront dans un dossier séparé</string>
     <string name="notification_fold_title">Dossier des notifications</string>
     <string name="notification_group_title">Groupe de notifications</string>
@@ -5616,7 +5619,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="notification_ringtone_title">Son notif. par défaut</string>
     <string name="notification_settings">Notifications</string>
     <string name="notification_settings_work_profile">"L'accès aux notifications est interdit aux applications dans le profile de travail."</string>
-    <string name="notification_shade_shortcut_title">Raccourci du Panneau de notification</string>
+    <string name="notification_shade_shortcut_title">Raccourci du Panneau des notifications</string>
     <string name="notification_show_lights_title">Clignotement</string>
     <string name="notification_silence_title">Mode silence</string>
     <string name="notification_sound_default">Son notif. par défaut</string>
@@ -7659,7 +7662,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_settings_all_app_display_loading">Chargement…</string>
     <string name="status_bar_settings_carrier_sim">"SIM %1$s : "</string>
     <string name="status_bar_settings_manage_notification">"Notifications d'applications"</string>
-    <string name="status_bar_settings_notification_bar">Panneau de notification</string>
+    <string name="status_bar_settings_notification_bar">Panneau des notifications</string>
     <string name="status_bar_settings_notification_use_app_icon">Utiliser les icônes des applications</string>
     <string name="status_bar_settings_qs_layout">Configuration rapide des paramètres</string>
     <string name="status_bar_settings_show_lte_for_4g">"Afficher l'icône LTE pour la 4G"</string>

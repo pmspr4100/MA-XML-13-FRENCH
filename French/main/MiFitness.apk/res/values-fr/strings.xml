@@ -535,7 +535,7 @@ Si vous changez d'avis, avant d'utiliser nos services, vous devez accepter notre
     <string name="device_bind_connect_failure"><Data>"Connexion impossible. &lt;a href=\"%1$s\">Voir l'aide&lt;/a>."</Data></string>
     <string name="device_bind_connect_success">Connecté</string>
     <string name="device_bind_connecting">Connexion…</string>
-    <string name="device_bind_des">"Vous n'avez pas reçu de code ? Vérifiez le panneau de notification."</string>
+    <string name="device_bind_des">"Vous n'avez pas reçu de code ? Vérifiez le panneau des notifications."</string>
     <string name="device_bind_failure">"Impossible d'ajouter"</string>
     <string name="device_bind_hm_verify">"Vérifier l'ID de l'appareil"</string>
     <string name="device_bind_hm_verify_failure">Impossible de vérifier</string>
@@ -2882,7 +2882,7 @@ Earn this award"</string>
     <string name="nfc_card_issue_dialog_milock_support_title">Supported</string>
     <string name="nfc_card_issue_fail">"Impossible d'ajouter"</string>
     <string name="nfc_card_issue_hint_connect">Keep the wearable device close to your phone</string>
-    <string name="nfc_card_issue_hint_mutl_device_dialog_title">Select device</string>
+    <string name="nfc_card_issue_hint_mutl_device_dialog_title">Choisir un appareil</string>
     <string name="nfc_card_issue_hint_no_device">No device is associated with current account.</string>
     <string name="nfc_card_issue_hint_no_login">Sign in to your Mi Account</string>
     <string name="nfc_card_issue_hint_param_error">Invalid parameters</string>

@@ -217,7 +217,7 @@
   <string name="clear_app_data">Nettoyer</string>
   <string name="clear_bigfiles">"Supprimer les fichiers volumineux, les photos en double et d'autres éléments obsolètes"</string>
   <string name="clear_immediately">Procéder</string>
-  <string name="clear_safe_notify">Widget du Panneau de notification</string>
+  <string name="clear_safe_notify">Widget du Panneau des notifications</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="clip_board_history_desc">Contenus copiés/coupés</string>
   <string name="clipboard">Presse-papiers</string>
@@ -623,7 +623,7 @@
   <string name="msg_update_error_code_unknown_error">Les serveurs sont actuellement occupés. Patientez une minute ou deux puis réessayez.</string>
   <string name="name_debuglog_dir">Journal de débogage BSP</string>
   <string name="name_optimizer">Politique de confidentialité</string>
-  <string name="nb_clear_set">Nettoyer le cache, afficher les informations de la batterie et de liste noire dans le Panneau de notification</string>
+  <string name="nb_clear_set">Nettoyer le cache, afficher les informations de la batterie et de liste noire dans le Panneau des notifications</string>
   <string name="network_not_available">Impossible de se connecter au réseau</string>
   <string name="news_change">Changer</string>
   <string name="next_step">Suivante</string>
@@ -928,7 +928,7 @@
   <string name="tips_of_network_speed_set">"Voir la vitesse du réseau dans la barre d'état"</string>
   <string name="tips_of_operators_set">"Ajuster les statistiques d'utilisation de données automatiquement"</string>
   <string name="tips_of_package_set">Régler votre forfait de données et contrôler la quantité de trafic que vous utilisez</string>
-  <string name="tips_of_traffic_notification">Voir les statistiques de données mobiles dans le Panneau de notification</string>
+  <string name="tips_of_traffic_notification">Voir les statistiques de données mobiles dans le Panneau des notifications</string>
   <string name="tips_of_traffic_pack_threshold">"Acheter plus de données lorsque vous êtes sur le point d'atteindre votre limite de trafic"</string>
   <string name="tips_of_virus_scan">Analysez votre appareil régulièrement pour conserver votre sécurité</string>
   <string name="tips_reset_page">"Essayez de réinitialiser les applications pour effacer toutes leurs données et libérer de l'espace de stockage"</string>

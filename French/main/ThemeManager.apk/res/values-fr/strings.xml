@@ -582,7 +582,7 @@ Appuyez pour désactiver."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
     <string name="mix_global_option">Général</string>
-    <string name="mix_global_option_des">Panneau de notification, Téléphone, Messages et autres éléments du système. Décochez cette case pour utiliser les options par défaut.</string>
+    <string name="mix_global_option_des">Panneau des notifications, Téléphone, Messages et autres éléments du système. Décochez cette case pour utiliser les options par défaut.</string>
     <string name="mix_home_option_des">"Fond d'écran et horloge. Décochez cette case pour utiliser les options par défaut."</string>
     <string name="mix_icons_option_des">"Icônes de l'écran daccueil. Décochez cette case pour utiliser les options par défaut."</string>
     <string name="mix_lockscreen_option_des">"Fond d'écran et horloge. Décochez cette case pour utiliser les options par défaut."</string>

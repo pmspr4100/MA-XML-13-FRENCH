@@ -31,10 +31,10 @@
     <string name="antispam_local_marked">Marqué localement</string>
     <string name="antispam_notification_title">Numéro inconnu</string>
     <string name="antispam_provider">Identifié par %s</string>
-    <string name="bluetooth_permission_content">"En raison de la mise à jour de l'autorisation du système, votre autorisation est requise pour obtenir votre liste d'appareils Bluetooth"</string>
-    <string name="bluetooth_permission_grant_immediately">Autorisation immédiate</string>
+    <string name="bluetooth_permission_content">Les autorisations système ont été mises à jour. Autorisez cette application à accéder aux noms de vos appareils Bluetooth pour pouvoir les afficher.</string>
+    <string name="bluetooth_permission_grant_immediately">Autoriser</string>
     <string name="bluetooth_permission_later">Plus tard</string>
-    <string name="bluetooth_permission_title">"Autorise l'accès aux appareils Bluetooth"</string>
+    <string name="bluetooth_permission_title">Autorisations requises</string>
     <string name="callFailed_cb_enabled">"Vous ne pouvez pas effectuer d'appels sortants si l'interdiction d'appel est activée."</string>
     <string name="callFailed_congestion">Le réseau est occupé</string>
     <string name="callFailed_dialToDial">Requête DIAL modifiée en DIAL avec un autre numéro.</string>

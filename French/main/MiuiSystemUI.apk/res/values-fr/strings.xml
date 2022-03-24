@@ -103,7 +103,7 @@
     <string name="accessibility_desc_connecting">Connexion.</string>
     <string name="accessibility_desc_lock_screen">Écran de verrouillage.</string>
     <string name="accessibility_desc_notification_icon">Notification de %1$s : %2$s</string>
-    <string name="accessibility_desc_notification_shade">Panneau de notification.</string>
+    <string name="accessibility_desc_notification_shade">Panneau des notifications.</string>
     <string name="accessibility_desc_off">Désactivé.</string>
     <string name="accessibility_desc_on">Activé.</string>
     <string name="accessibility_desc_quick_settings">Paramètres rapides.</string>
@@ -680,7 +680,7 @@ Réessayez dans %d secondes."</string>
     <string name="connected_via_network_scorer_default">Automatiquement connecté via fournisseur de notation de réseau</string>
     <string name="connected_via_passpoint">Connecté via %1$s</string>
     <string name="content_description_menu_button">Menu</string>
-    <string name="control_center_notification_switch_guide">Faites glisser pour basculer entre le Centre de contrôle et le Panneau de notification</string>
+    <string name="control_center_notification_switch_guide">Faites glisser pour basculer entre le Centre de contrôle et le Panneau des notifications</string>
     <string name="controls_added_tooltip">"Maintenez le bouton d'alimentation enfoncé pour voir les nouveaux contrôles"</string>
     <string name="controls_confirmation_confirming">Confirmation…</string>
     <string name="controls_confirmation_message">Confirmer le changement pour %s</string>
@@ -1100,7 +1100,7 @@ Une fois le téléphone refroidi, il fonctionnera normalement."</string>
     <string name="ime_security_warning_title_global">Activer le clavier</string>
     <string name="immediately_destroy_activities">Ne pas conserver les activités</string>
     <string name="immediately_destroy_activities_summary">"Détruit chaque activité dès que l'utilisateur la quitte"</string>
-    <string name="important_desc">Toutes les notifications importantes appaîtront sur le Panneau de notification.</string>
+    <string name="important_desc">Toutes les notifications importantes appaîtront sur le Panneau des notifications.</string>
     <string name="ims_reg_status_not_registered">Non enregisté</string>
     <string name="ims_reg_status_registered">Enregistré</string>
     <string name="ims_reg_title">"État d'enregistrement IMS"</string>
@@ -1720,7 +1720,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="notification_menu_filter_secondary_text">Toutes les notifications de %s apparaîtront dans un dossier séparé.</string>
     <string name="notification_menu_filter_title">Sans importance</string>
     <string name="notification_menu_gear_description">Contrôles de notifications</string>
-    <string name="notification_menu_remove_from_filter_secondary_text">Toutes les notifications importantes de %s apparaîtront sur le Panneau de notification.</string>
+    <string name="notification_menu_remove_from_filter_secondary_text">Toutes les notifications importantes de %s apparaîtront sur le Panneau des notifications.</string>
     <string name="notification_menu_remove_from_filter_title">Important</string>
     <string name="notification_menu_snooze_description">Options de répétition des notifications</string>
     <string name="notification_more_settings">Plus de paramètres</string>
@@ -2601,7 +2601,7 @@ Vous serez averti lorsque vous pourrez à nouveau utiliser le port USB."</string
 N'importe quel utilisateur peut mettre à jour les applications pour tous les autres utilisateurs."</string>
     <string name="user_add_user_title">Ajouter un nouvel utilisateur ?</string>
     <string name="user_guest">Invité</string>
-    <string name="user_guide_for_notification">Balayez vers le bas pour ouvrir le Panneau de notification</string>
+    <string name="user_guide_for_notification">Balayez vers le bas pour ouvrir le Panneau des notifications</string>
     <string name="user_guide_for_toggle">Faites défiler les réglages en accès rapide horizontalement</string>
     <string name="user_guide_for_toggle_list">Gérer les raccourcis</string>
     <string name="user_logout_notification_action">"DÉCONNECTER L'UTILISATEUR"</string>
@@ -2812,7 +2812,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
 "<annotation id="link">View settings</annotation></string>
     <string name="accessibility_floating_button_switch_migration_tooltip">"You can switch from the accessibility gesture to a button
 
-"<annotation id="link">Settings</annotation></string>
+"<annotation id="link">Réglages</annotation></string>
     <string name="accessibility_lock_icon">Device locked</string>
     <string name="accessibility_no_calling">No calling.</string>
     <string name="accessibility_qs_edit_position">Position %1$d</string>
@@ -3012,7 +3012,7 @@ If you have questions, contact %2$s."</string>
     <string name="notif_inline_reply_remove_attachment_description">Remove attachment</string>
     <string name="notification_alert_title">Default</string>
     <string name="notification_appops_ok">OK</string>
-    <string name="notification_appops_settings">Settings</string>
+    <string name="notification_appops_settings">Réglages</string>
     <string name="notification_automatic_title">Automatic</string>
     <string name="notification_bubble_title">Bubble</string>
     <string name="notification_channel_dialog_title">All %1$s notifications</string>
@@ -3036,7 +3036,7 @@ If you have questions, contact %2$s."</string>
     <string name="notification_content_gesture_nav_available">Go to Settings to update system navigation</string>
     <string name="notification_content_system_nav_changed">System navigation updated. To make changes, go to Settings.</string>
     <string name="notification_conversation_bubble">Show bubble</string>
-    <string name="notification_conversation_channel_settings">Settings</string>
+    <string name="notification_conversation_channel_settings">Réglages</string>
     <string name="notification_conversation_favorite">Important conversation</string>
     <string name="notification_conversation_home_screen">Add to home screen</string>
     <string name="notification_conversation_mute">Silenced</string>
@@ -3045,7 +3045,7 @@ If you have questions, contact %2$s."</string>
     <string name="notification_conversation_unfavorite">Not an important conversation</string>
     <string name="notification_conversation_unmute">Alerting</string>
     <string name="notification_delegate_header">Proxied notification</string>
-    <string name="notification_menu_settings_action">Settings</string>
+    <string name="notification_menu_settings_action">Réglages</string>
     <string name="notification_menu_snooze_action">Remind me</string>
     <string name="notification_multichannel_desc">This group of notifications cannot be configured here</string>
     <string name="notification_priority_title">Priority</string>
@@ -3164,7 +3164,7 @@ If you have questions, contact %2$s."</string>
     <string name="sensor_privacy_start_use_mic_camera_dialog_title">Unblock device camera and microphone?</string>
     <string name="sensor_privacy_start_use_mic_dialog_content">This unblocks access for all apps and services allowed to use your microphone.</string>
     <string name="sensor_privacy_start_use_mic_dialog_title">Unblock device microphone?</string>
-    <string name="settings_label">Settings</string>
+    <string name="settings_label">Réglages</string>
     <string name="settings_package">com.android.settings</string>
     <string name="settingslib_learn_more_text">Learn more</string>
     <string name="status_before_loading">Content will show up soon</string>

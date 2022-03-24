@@ -166,7 +166,7 @@
     <string name="click_to_reload_more">Appuyer pour charger plus</string>
     <string name="click_to_retry">Veuillez réessayer</string>
     <string name="close">Fermer</string>
-    <string name="close_notify_panel_tips">"Le mini lecteur s'affichera dans le panneau de notification lorsque la lecture en arrière-plan est activée"</string>
+    <string name="close_notify_panel_tips">"Le mini lecteur s'affichera dans le panneau des notifications lorsque la lecture en arrière-plan est activée"</string>
     <string name="cloud_auto_pip_play_switch">Utiliser le picture-in-picture automatiquement</string>
     <string name="cloud_online_player">Lecteur</string>
     <string name="cloud_online_switch">Recommandations personnalisées</string>

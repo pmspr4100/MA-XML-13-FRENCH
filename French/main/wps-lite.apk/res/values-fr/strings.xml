@@ -82,7 +82,7 @@
   <string name="documentmanager_loginView_toastpassword">Entrez le mot de passe</string>
   <string name="documentmanager_noEmailApp">"Can't find any available email app, make sure you've installed it and signed in."</string>
   <string name="documentmanager_nocall_app">"Can't find any available dialer app, install one now."</string>
-  <string name="documentmanager_phone_setting">Settings</string>
+  <string name="documentmanager_phone_setting">Réglages</string>
   <string name="documentmanager_searchbof">Reach the last result</string>
   <string name="documentmanager_searcheof">Reach the first result</string>
   <string name="documentmanager_send">Send</string>

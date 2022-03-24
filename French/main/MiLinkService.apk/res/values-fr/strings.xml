@@ -20,6 +20,7 @@
     <string name="account_other">Autre</string>
     <string name="actionbar_button_up_description">Retour</string>
     <string name="afternoon">Après-midi</string>
+    <string name="audio_record_des">Pour transmettre le son de votre appareil mobile vers des moniteurs externes</string>
     <string name="casting_tips">Diffusion…</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="close">Fermer</string>
@@ -34,7 +35,10 @@
     <string name="console_guide_subtitle_private">"Ne pas afficher de notifications flottantes, d'appels entrants, ou d'autres éléments privés sur les écrans externes"</string>
     <string name="console_guide_subtitle_small_window">"Minimiser la fenêtre en cours de diffusion afin de pouvoir accéder aux autres fonctionnalités de votre téléphone"</string>
     <string name="copy">Copier</string>
+    <string name="current_wifi_tv">Réseau actuel</string>
+    <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
+    <string name="device_desc_trust">Appareils de confiance</string>
     <string name="dialog_can_not_find_device">Aucun appareil trouvé à proximité</string>
     <string name="dialog_cancle">Annuler</string>
     <string name="dialog_connect_fail">"Impossible de se connecter"</string>
@@ -43,6 +47,8 @@
     <string name="dialog_connect_verify_perssion_fail">"Impossible d'autoriser la diffusion sur votre TV. Attendez une minute ou deux avant de réessayer."</string>
     <string name="dialog_connected">Connecté</string>
     <string name="dialog_connecting">Connexion…</string>
+    <string name="dialog_location_permission_message">"Cette application doit accéder à votre emplacement pour pouvoir trouver des moniteurs externes à proximité. Sélectionnez \"Toujours autoriser\" tout en accordant cette autorisation pour éviter d'éventuelles erreurs."</string>
+    <string name="dialog_location_permission_title">Autorisations requises</string>
     <string name="dialog_miplay_permission_message">"Autoriser Diffusion à enregistrer l'audio, accéder aux fichiers de l'espace de stockage interne, et accéder à votre localisation pour pouvoir utiliser cette fonctionnalité normalement. Appuyez sur \"Paramètres\" et sélectionnez \"Gestion des applications\" puis \"Gérer les permissions\" pour continuer."</string>
     <string name="dialog_miplay_permission_positive">Paramètres</string>
     <string name="dialog_miplay_permission_title">Autorisations requises</string>
@@ -56,12 +62,12 @@
 Voir l'aide si vous avez des problèmes de connexion."</string>
     <string name="dialog_recent_connected">Récent</string>
     <string name="dialog_retry">Réessayer</string>
-    <string name="dialog_scan_message">"1. Connect both your phone and TV to the same Wi-Fi network.
+    <string name="dialog_scan_message">"%1$d. Connectez votre appareil mobile et votre téléviseur au même réseau Wi-Fi.
 
-2. On some TV models, this feature is only available when screen mirroring is on. View \"Help\" to learn more."</string>
-    <string name="dialog_scan_message_china">"1. Connect both your phone and TV to the same WLAN network.
+%2$d. Consultez \"Aide\" pour en savoir plus."</string>
+    <string name="dialog_scan_message_china">"%1$d. Connectez votre appareil mobile et votre téléviseur au même réseau Wi-Fi.
 
-2. On some TV models, this feature is only available when screen mirroring is on. View \"Help\" to learn more."</string>
+%2$d. Consultez \"Aide\" pour en savoir plus."</string>
     <string name="dialog_scanning_device">"Recherche d'appareils à proximité…"</string>
     <string name="dialog_scanning_precondition">"Activer le Wi-Fi et le Bluetooth sur votre téléphone pour utiliser l'affichage sans fil."</string>
     <string name="dialog_scanning_precondition_new_china">Activez les services Wi-Fi, Bluetooth et de localisation pour pouvoir utiliser la diffusion. Allumer maintenant ?</string>
@@ -73,8 +79,11 @@ Voir l'aide si vous avez des problèmes de connexion."</string>
     <string name="dual_wifi_warning_global">Désactivez le double Wi-Fi et réessayez</string>
     <string name="early_morning">Matin</string>
     <string name="enable_screen_projection_summary">"Diffuser le contenu de l'écran sur un écran externe"</string>
+    <string name="eras_ad">Apr. J.-C.</string>
+    <string name="eras_bc">Av. J.-C.</string>
     <string name="evening">Après-midi</string>
     <string name="expand_button_title">Avancé</string>
+    <string name="file_read_des">"Pour afficher des photos et d'autres fichiers sur des moniteurs externes"</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -111,6 +120,7 @@ Note: les anciennes Mi TVs ne supportent peut-être pas la diffusion sur différ
 Si les deux appareils ne peuvent pas être connectés sur le même réseau, activez Miracast sur votre moniteur externe. Le nom désignant la fonctionnalité Miracast peut varier."</string>
     <string name="help_page_text_08">Étape 2 :</string>
     <string name="help_page_text_09">"Appuyez sur \"Diffusion\" depuis le panneau des notifications de votre téléphone. Activez à la fois le Wi-Fi et le Bluetooth pour une connexion plus stable ."</string>
+    <string name="help_page_text_09_global">"Tap the \"Cast\" toggle on your device's Notification shade. Turn on both Wi-Fi and Bluetooth for a more stable connection."</string>
     <string name="help_page_text_10">Si vous souhaitez diffuser des images de Galerie ou Mi Video, vous pouvez utiliser la fonction de diffusion intégrée dans ces applications.</string>
     <string name="help_page_text_11">Étape 3 :</string>
     <string name="help_page_text_12">Sélectionnez un appareil externe depuis la liste des appareils disponibles pour commencer la diffusion.</string>
@@ -125,58 +135,58 @@ Connectez à la fois votre téléphone et le moniteur externe (par exemple votre
 2. Si vous diffusez sur un appareil Xiaomi pour la première fois, vous devez terminer la vérification.
 3. Si vous souhaitez utiliser un appareil non Xiaomi, mais ne le trouvez pas dans la liste des appareils disponibles, essayez ce qui suit:
 Connectez à la fois votre téléphone et le moniteur externe (par exemple votre téléviseur) au même réseau Wi-Fi, ou connectez le moniteur externe au point d'accès de votre téléphone."</string>
-    <string name="help_page_text_15">Miracast functionality on different devices</string>
-    <string name="help_page_text_16">Mi TV/Mi Projector</string>
-    <string name="help_page_text_17">"Xiaomi mobile phone can directly connect to most of the Xiaomi TV with Bluetooth tooth function, instead of manually opening the Miracast function.
-If you need to manually open the Miracast function, you can press the [Menu] button of the TV remote control to select me on the TV screen. Applications > Wireless Screening > Millet / Android Miracas."</string>
+    <string name="help_page_text_15">Fonctionnalité Miracast sur différents appareils</string>
+    <string name="help_page_text_16">Projecteur Mi TV/Mi</string>
+    <string name="help_page_text_17">"Le téléphone mobile Xiaomi peut se connecter directement à la plupart des téléviseurs Xiaomi avec la fonction Bluetooth, au lieu d'ouvrir manuellement la fonction Miracast.
+Si vous devez ouvrir manuellement la fonction Miracast, vous pouvez appuyer sur le bouton [Menu] de la télécommande du téléviseur pour me sélectionner sur l'écran du téléviseur. Applications > Wireless Screening > Mi / Android Miracast."</string>
     <string name="help_page_text_17_1">Service clients Xiaomi (France): 0805 370 916</string>
     <string name="help_page_text_18">Samsung TV</string>
-    <string name="help_page_text_19">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SOURCE] button on the remote control and then select \"Screen Mirroring\". This feature is turned on by default on various models.</string>
+    <string name="help_page_text_19">"Tout d'abord, assurez-vous que la fonctionnalité Miracast est prise en charge sur votre appareil. Sur certains modèles, vous pouvez appuyer sur le bouton [SOURCE] de la télécommande, puis sélectionner \"Screen Mirroring\". Cette fonction est activée par défaut sur divers modèles."</string>
     <string name="help_page_text_20">Service clients Samsung (France): 0825 022 062</string>
     <string name="help_page_text_21">LG TV</string>
-    <string name="help_page_text_22">First, make sure that Miracast functionality is supported on your device. This feature is turned on by default on various models.</string>
+    <string name="help_page_text_22">"Tout d'abord, assurez-vous que la fonctionnalité Miracast est prise en charge sur votre appareil. Cette fonction est activée par défaut sur divers modèles."</string>
     <string name="help_page_text_23">Service clients LG (France): 3220 dites \"LG\" ou tapez \"54\"</string>
     <string name="help_page_text_24">Philips TV</string>
-    <string name="help_page_text_25">First, make sure that Miracast functionality is supported on your device. This feature is turned on by default on various models.</string>
+    <string name="help_page_text_25">"Tout d'abord, assurez-vous que la fonctionnalité Miracast est prise en charge sur votre appareil. Cette fonction est activée par défaut sur divers modèles."</string>
     <string name="help_page_text_26">Service clients Philips (France): +33 (0)1 57 32 40 50</string>
     <string name="help_page_text_27">TPV</string>
-    <string name="help_page_text_28">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [MENU] button on the remote control and then select Settings > Connection > Network > Multiple screens.</string>
+    <string name="help_page_text_28">"Tout d'abord, assurez-vous que la fonctionnalité Miracast est prise en charge sur votre appareil. Sur certains modèles, vous pouvez appuyer sur le bouton [MENU] de la télécommande, puis sélectionner Paramètres > Connexion > Réseau > Écrans multiples."</string>
     <string name="help_page_text_29">TPV customer support: 400-887-8007</string>
     <string name="help_page_text_30">Hisense</string>
     <string name="help_page_text_31">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SMART] button on the remote control and then select Casting > Wireless Display;Some models can click Hi Screen > Game Screening > Android.</string>
     <string name="help_page_text_32">Service clients Hisense (France): +33 (0)1 76 49 05 05</string>
     <string name="help_page_text_33">Skyworth</string>
-    <string name="help_page_text_34">First, make sure that Miracast functionality is supported on your device. On some of the models, you can select Apps > Casting > Android device > Miracast.</string>
+    <string name="help_page_text_34">"Tout d'abord, assurez-vous que la fonctionnalité Miracast est prise en charge sur votre appareil. Sur certains modèles, vous pouvez sélectionner Applications > Diffusion > Appareil Android > Miracast."</string>
     <string name="help_page_text_35">Skyworth customer support: 95105555</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SOURCE] button on the remote control and then select \"Screen Mirroring\". On some other models, you can turn this feature on in Networks > Wi-Fi Direct. This feature is turned on by default on various models.</string>
+    <string name="help_page_text_37">"Tout d'abord, assurez-vous que la fonctionnalité Miracast est prise en charge sur votre appareil. Sur certains modèles, vous pouvez appuyer sur le bouton [SOURCE] de la télécommande, puis sélectionner \"Screen Mirroring\". Sur certains autres modèles, vous pouvez activer cette fonctionnalité dans Réseaux > Wi-Fi Direct. Cette fonction est activée par défaut sur divers modèles."</string>
     <string name="help_page_text_38">SService clients Sony Electronics (France): +33 (0)1 55 69 51 27</string>
     <string name="help_page_text_39">Panasonic</string>
-    <string name="help_page_text_40">First, make sure that Miracast functionality is supported on your device. On some of the models, you can select Apps > Screen Mirroring.</string>
+    <string name="help_page_text_40">"Tout d'abord, assurez-vous que la fonctionnalité Miracast est prise en charge sur votre appareil. Sur certains modèles, vous pouvez sélectionner Applications > Screen Mirroring."</string>
     <string name="help_page_text_41">Service clients Panasonic (France): +33 (0)1 70 48 91 73</string>
     <string name="help_page_text_42">Changhong</string>
-    <string name="help_page_text_43">Check the settings of your TV to make sure that your external monitor supports Miracast functionality.</string>
+    <string name="help_page_text_43">Vérifiez les paramètres de votre téléviseur pour vous assurer que votre moniteur externe prend en charge la fonctionnalité Miracast.</string>
     <string name="help_page_text_44">Changhong customer support: 400-811-1666</string>
     <string name="help_page_text_45">TCL</string>
-    <string name="help_page_text_46">First, make sure that Miracast functionality is supported on your device. On some of the models, you can select Apps > Wireless Display.</string>
+    <string name="help_page_text_46">"Tout d'abord, assurez-vous que la fonctionnalité Miracast est prise en charge sur votre appareil. Sur certains modèles, vous pouvez sélectionner Applications > Affichage sans fil."</string>
     <string name="help_page_text_47">Service clients TCL (France): +33 (0)1 87 16 13 99</string>
     <string name="help_page_text_48">AODIN</string>
-    <string name="help_page_text_49">First, make sure that Miracast functionality is supported on your device. To turn this feature on, go to My Apps > Wi-Fi Display.</string>
+    <string name="help_page_text_49">"Tout d'abord, assurez-vous que la fonctionnalité Miracast est prise en charge sur votre appareil. Pour activer cette fonctionnalité, accédez à Mes applications > Affichage Wi-Fi."</string>
     <string name="help_page_text_50">AODIN customer support: 400-810-5858</string>
     <string name="help_page_text_51">LeTV</string>
-    <string name="help_page_text_52">Please make sure that your large screen device model supports the Miracast protocol. On some models, select Settings > Network > Multi-screen Interactive > Wireless Display.</string>
+    <string name="help_page_text_52">"Veuillez vous assurer que votre modèle d'appareil à grand écran prend en charge le protocole Miracast. Sur certains modèles, sélectionnez Paramètres > Réseau > Interactif multi-écran > Affichage sans fil."</string>
     <string name="help_page_text_53">LeTV customer service phone: 10109000</string>
     <string name="help_page_text_55">"Si vous ne pouvez pas vous connecter au réseau, vérifiez que votre écran externe supporte la fonctionnalité Miracast et qu'elle est activée. Sur certains modèles, cette fonctionnalité est appelée Wireless Display (affichage sans fil), Screen Mirroring (écran miroir), ou Multiple screens (écrans multiples). Lisez les informations ci-dessous pour apprendre comment activer Miracast.
-4. Si vous rencontrez un problème, vous pouvez le signaler en utilisant notre application \"Services &amp; feedback\"."</string>
+%1$d. Si vous rencontrez un problème, vous pouvez le signaler en utilisant notre application \"Services &amp; feedback\"."</string>
     <string name="help_page_text_55_global">"Si vous ne pouvez pas vous connecter au réseau, vérifiez que votre écran externe supporte la fonctionnalité Miracast et qu'elle est activée. Sur certains modèles, cette fonctionnalité est appelée Wireless Display (affichage sans fil), Screen Mirroring (écran miroir), ou Multiple screens (écrans multiples).
-4. Si vous rencontrez un problème, vous pouvez le signaler en utilisant notre application \"Services &amp; feedback\"."</string>
-    <string name="help_page_text_end">"If the brand of your device isn't listed here, contact the manufacturer to learn more about casting functionality."</string>
+%1$d. Si vous rencontrez un problème, vous pouvez le signaler en utilisant notre application \"Services &amp; feedback\"."</string>
+    <string name="help_page_text_end">"Si la marque de votre appareil n'est pas répertoriée ici, contactez le fabricant pour en savoir plus sur la fonctionnalité de diffusion."</string>
     <string name="invisible_mode_dialog_content">"Impossible d'utiliser la diffusion en navigation privée. Désactivez d'abord la navigation privée."</string>
     <string name="invisible_mode_dialog_content_audio_relay">"Impossible de transférer la lecture en navigation privée. Désactivez d'abord la navigation privée."</string>
     <string name="invisible_mode_dialog_pos">Désactiver</string>
     <string name="invisible_mode_dialog_title">Vous êtes en navigation privée</string>
     <string name="keyguard_security_setting_privacy_policy">Politique de confidentialité</string>
-    <string name="midnight">Night</string>
+    <string name="midnight">Nuit</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
     <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
@@ -184,14 +194,13 @@ If you need to manually open the Miracast function, you can press the [Menu] but
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
     <string name="miuix_appcompat_cancel_description">Annuler</string>
+    <string name="miuix_appcompat_confirm_description">Confirmer</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchronisation avec le cloud est désactivée</string>
     <string name="miuix_appcompat_cloud_state_finished">Synchronisé avec le cloud avec succès</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronisation avec le cloud…</string>
     <string name="miuix_appcompat_confirm_description">Confirmer</string>
     <string name="miuix_appcompat_delete_description">Supprimer</string>
-    <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
-    <string name="miuix_appcompat_search_input_description">Recherche</string>
+    <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
     <string name="miuix_indexer_collect">Collections</string>
@@ -249,9 +258,19 @@ If you need to manually open the Miracast function, you can press the [Menu] but
     <string name="nfc_connect_failed_toast">Impossible de diffuser. Réessayer.</string>
     <string name="night">Soirée</string>
     <string name="noon">Midi</string>
+    <string name="normal_device_desc">"Les appareils auxquels vous êtes connecté, mais qui n'ont pas été marqués comme fiables"</string>
+    <string name="normal_device_desc_limit">"Les appareils auxquels vous êtes connecté, mais qui n'ont pas été marqués comme fiables"</string>
+    <string name="normal_device_none">Aucun appareil précédemment connecté ici</string>
+    <string name="normal_device_title">Appareils non fiables</string>
     <string name="not_set">Non défini</string>
+    <string name="notification_cast_desc">Diffusion…</string>
+    <string name="notification_desc_scanning">"Recherche d'appareils à proximité…"</string>
     <string name="notification_rc_title">Assistant XiaoMi TV</string>
     <string name="notification_show_more">Appuyez pour afficher plus de fonctionnalités</string>
+    <string name="notify">La diffusion fonctionne en arrière-plan</string>
+    <string name="notify_wifiap_dialog_msg">"Pour scanner le code et configurer le réseau, désactivez d'abord le point d'accès portable."</string>
+    <string name="notify_wifiap_dialog_negative">Compris</string>
+    <string name="notify_wifiap_dialog_title">Configurer le réseau</string>
     <string name="open_game_accelerate">Activer Game Turbo</string>
     <string name="p2p_location_des">Pour connecter votre appareil mobile à des moniteurs externes</string>
     <string name="paipai_connect_btn_text">Terminé</string>
@@ -282,6 +301,7 @@ If you need to manually open the Miracast function, you can press the [Menu] but
     <string name="privacy_permission_location_desc">Pour trouver des appareils disponibles à proximité</string>
     <string name="privacy_permission_necessary">Autorisations obligatoires</string>
     <string name="privacy_permission_necessary_desc">Ces autorisations sont nécessaires pour rendre disponibles les fonctionnalités et services de base de cette application.</string>
+    <string name="privacy_permission_nfc">NFC</string>
     <string name="privacy_permission_nfc_desc">"Pour jumeler des appareils à l'aide du NFC"</string>
     <string name="privacy_permission_optional">Autorisations facultatives</string>
     <string name="privacy_permission_optional_desc">"Utilisé pour des fonctionnalités supplémentaires pendant que vous les utilisez"</string>
@@ -353,7 +373,7 @@ Lisez et acceptez notre &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et notre &l
     <string name="send">Envoyer</string>
     <string name="show_result_on_tv">Afficher les résultats sur le téléviseur</string>
     <string name="small_window">Réduire la fenêtre</string>
-    <string name="small_window_not_supported">"Can't minimize this app while it's being cast"</string>
+    <string name="small_window_not_supported">"Impossible de réduire cette application pendant sa diffusion"</string>
     <string name="solar_term_autumn_begins">"Début de l'automne"</string>
     <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
     <string name="solar_term_clear_and_bright">Pure lumière</string>
@@ -383,6 +403,7 @@ Lisez et acceptez notre &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et notre &l
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
+    <string name="synergy_casting">"Impossible d'utiliser la diffusion pendant que Screen Combo fonctionne"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -428,8 +449,8 @@ Lisez et acceptez notre &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et notre &l
     <string name="thursday_shortest">Jeu</string>
     <string name="tile_label">Diffusion</string>
     <string name="time_picker_dialog_title">"Régler l'heure"</string>
-    <string name="toast_guide_show_more">Learn more</string>
-    <string name="toast_guide_title">Explore our new features here</string>
+    <string name="toast_guide_show_more">En savoir plus</string>
+    <string name="toast_guide_title">Découvrez nos nouvelles fonctionnalités ici</string>
     <string name="toast_invisible_mode">Vous êtes en navigation privée. Impossible de diffuser maintenant.</string>
     <string name="toast_invisible_mode1">La diffusion ne fonctionnera pas lorsque vous êtes en navigation privée</string>
     <string name="toast_msg_for_multi_window">"Impossible d'utiliser cette fonctionnalité avec l'Écran divisé"</string>
@@ -439,6 +460,13 @@ Lisez et acceptez notre &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et notre &l
     <string name="toast_turn_off_hotspot_before_cast">"Désactiver le point d'accès portable avant de diffuser"</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
+    <string name="trust_device_desc">"Ces appareils apparaîtront ici en premier lorsqu'ils seront à proximité"</string>
+    <string name="trust_device_dialog_desc"><Data>"%s apparaîtra parmi les appareils disponibles en premier lorsqu'il sera à proximité si vous le marquez comme fiable.&lt;br>&lt;br>Vous pouvez &lt;a href=milink://com.milink.service/trust>gérer les appareils de confiance&lt;/a> dans les paramètres."</Data></string>
+    <string name="trust_device_dialog_pos">Confiance</string>
+    <string name="trust_device_dialog_title">Faire confiance à cet appareil ?</string>
+    <string name="trust_device_manager">Gérer les appareils de confiance</string>
+    <string name="trust_device_none">Aucun appareil de confiance ici</string>
+    <string name="trust_device_title">Appareils de confiance</string>
     <string name="tuesday">Mardi</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>

@@ -927,7 +927,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="beauty_fun_screen_light">Screen fill light</string>
     <string name="beauty_fun_settings_light">Fill light brightness</string>
     <string name="beauty_fun_video_effect">Beautify for video</string>
-    <string name="beauty_settings">Settings</string>
+    <string name="beauty_settings">Réglages</string>
     <string name="begin_date">"Date de réinitialisation d'utilisation"</string>
     <string name="behavior_widget_get_installed_apps">Accessed apps</string>
     <string name="behavior_widget_get_location">Accessed location</string>
@@ -1574,7 +1574,7 @@ des tremblements de terre"</string>
     <string name="exo_controls_repeat_one_description">Lire un titre en boucle</string>
     <string name="exo_controls_rewind_description">Retour arrière</string>
     <string name="exo_controls_seek_bar_description">Playback progress</string>
-    <string name="exo_controls_settings_description">Settings</string>
+    <string name="exo_controls_settings_description">Réglages</string>
     <string name="exo_controls_show">Show player controls</string>
     <string name="exo_controls_shuffle_off_description">Shuffle off</string>
     <string name="exo_controls_shuffle_on_description">Shuffle on</string>
@@ -4060,8 +4060,8 @@ Retirer le consentement maintenant ?"</string>
     <string name="shortcut_title_scan">Scan</string>
     <string name="shortcut_title_whatsapp_clean">WhatsApp cleaner</string>
     <string name="show_system_app">Afficher les applications système</string>
-    <string name="show_traffic_dialog_message">"Vos informations d'utilisation des données apparaîtront dans le Panneau de notification. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans Utilisation des données &gt; Paramètres."</string>
-    <string name="show_traffic_dialog_title">"Afficher l'utilisation dans le Panneau de notification"</string>
+    <string name="show_traffic_dialog_message">"Vos informations d'utilisation des données apparaîtront dans le Panneau des notifications. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans Utilisation des données &gt; Paramètres."</string>
+    <string name="show_traffic_dialog_title">"Afficher l'utilisation dans le Panneau des notifications"</string>
     <string name="showpattern">Afficher le schéma</string>
     <string name="shut_down_password_content">If you lose your device, shutdown confirmation will protect it from being powered off by whoever finds it.</string>
     <string name="shutdown_cancel_reminder">"Impossible d'éteindre l'appareil"</string>
@@ -4652,7 +4652,7 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="summary_restrict_data_usage">"Vous avez restreint l'utilisation des données pour cette application."</string>
     <string name="summary_result_screen_brightness_format">"Régler la luminosité de l'écran sur %s"</string>
     <string name="summary_safe_mode">"Neutraliser les risques lors de l'installation"</string>
-    <string name="summary_show_notification">"Nettoyer le cache, voir l'état de la batterie, et bloquer les éléments dans le Panneau de notification"</string>
+    <string name="summary_show_notification">"Nettoyer le cache, voir l'état de la batterie, et bloquer les éléments dans le Panneau des notifications"</string>
     <string name="summary_telecom_operator">"Obtenir vos statistiques d'utilisation mensuelle de données de votre opérateur"</string>
     <string name="summary_usb">Prévenir les malwares depuis les données transmises par USB</string>
     <string name="summary_virus">Supprimer les virus pour garder votre appareil sécurisé</string>
@@ -5002,7 +5002,7 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="title_result_wlan">Wi-Fi</string>
     <string name="title_result_zen_mode">Mode NPD</string>
     <string name="title_safe_mode">Activer le mode sécurisé</string>
-    <string name="title_show_notification">Widget du Panneau de notification</string>
+    <string name="title_show_notification">Widget du Panneau des notifications</string>
     <string name="title_system_auto_download">Les mises à jour se téléchargeront automatiquement</string>
     <string name="title_telecom_operator">Ajustement automatique</string>
     <string name="title_usb_no">Débug USB activé</string>
@@ -5030,7 +5030,7 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="toast_root_apply_accept">"L'accès ROOT de %s a été autorisé"</string>
     <string name="toast_root_apply_reject">"L'accès ROOT de %s a été refusé"</string>
     <string name="toast_set_success">Activé avec succès</string>
-    <string name="toast_show_notification">Épinglé au Panneau de notification</string>
+    <string name="toast_show_notification">Épinglé au Panneau des notifications</string>
     <string name="toast_update_fail">Impossible de mettre à jour</string>
     <string name="toast_update_nonetwork">Impossible de se connecter au réseau</string>
     <string name="toast_update_notneed">À jour</string>

@@ -347,8 +347,8 @@ Vous pouvez aussi les télécharger séparément."</string>
     <string name="not_support_multiple_users">Plusieurs utilisateurs ne sont pas pris en charge</string>
     <string name="notificationSetPassword">Définir un mot de passe</string>
     <string name="notificationSetPasswordDes">Protéger les données du Deuxième espace</string>
-    <string name="notificationSummary">Basculer entre les deux espaces à partir du Panneau de notification</string>
-    <string name="notificationTitle">Raccourci du Panneau de notification</string>
+    <string name="notificationSummary">Basculer entre les deux espaces à partir du Panneau des notifications</string>
+    <string name="notificationTitle">Raccourci du Panneau des notifications</string>
     <string name="notification_from_owner_user">Afficher les notifications du premier espace</string>
     <string name="notification_from_second_user">Afficher les notifications du second espace</string>
     <string name="notification_recommend_title">Top 12 des applications du Deuxième espace</string>
@@ -394,7 +394,7 @@ Dans le cas contraire vous pourrez ne plus avoir accès au Deuxième espace depu
     <string name="retain_src_file">Garder des fichiers</string>
     <string name="retain_src_photo">Garder des photos</string>
     <string name="same_qr_code_create_space">En créer un autre</string>
-    <string name="same_qr_code_des">"Il se peut que cet espace de travail existe déjà. Vous pouvez utiliser les raccourcis de l'Écran d'accueil et du Panneau de notification pour y aller. Aller maintenant ?"</string>
+    <string name="same_qr_code_des">"Il se peut que cet espace de travail existe déjà. Vous pouvez utiliser les raccourcis de l'Écran d'accueil et du Panneau des notifications pour y aller. Aller maintenant ?"</string>
     <string name="same_qr_code_enter_space">"Aller à l'espace de travail"</string>
     <string name="same_qr_code_title">%s existe déjà</string>
     <string name="saturday">Samedi</string>
@@ -462,8 +462,8 @@ Séparez et sécurisez vos données."</string>
     <string name="show_normal_content">Ne pas afficher les éléments privés</string>
     <string name="show_noti_from_owner">"Les notifications de l'autre espace"</string>
     <string name="show_noti_from_owner_detail">"Recevez les notifications dans l'espace actuel lorsqu'elles arrivent pour l'autre espace"</string>
-    <string name="show_noti_quick_switch_icon">Raccourci du Panneau de notification</string>
-    <string name="show_noti_quick_switch_icon_detail">Afficher un raccourci pour basculer entre les espaces dans le Panneau de notification</string>
+    <string name="show_noti_quick_switch_icon">Raccourci du Panneau des notifications</string>
+    <string name="show_noti_quick_switch_icon_detail">Afficher un raccourci pour basculer entre les espaces dans le Panneau des notifications</string>
     <string name="show_private_content">Afficher les éléments privés</string>
     <string name="show_private_msg">Afficher les messages privés</string>
     <string name="show_private_msg_summary">Afficher les messages privés dans le Deuxième espace</string>

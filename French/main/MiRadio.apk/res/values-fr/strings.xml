@@ -806,7 +806,7 @@ Send this code to the supervisor."</string>
     <string name="open_online_service">You need to turn on online services to use this feature. Turn on now?</string>
     <string name="open_online_service_tip">Turned on online services successfully</string>
     <string name="open_service">Turn on</string>
-    <string name="open_settings">Settings</string>
+    <string name="open_settings">Réglages</string>
     <string name="optimize_all_until_optimized">Applying new cover and lyrics…</string>
     <string name="optimize_all_until_scanned">Wait until Music finishes checking storage for songs.</string>
     <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
@@ -1060,7 +1060,7 @@ Send this code to the supervisor."</string>
     <string name="search_try_online">Search online</string>
     <string name="select_all">Select all</string>
     <string name="select_chapter">Select Chapter</string>
-    <string name="select_device">Select device</string>
+    <string name="select_device">Choisir un appareil</string>
     <string name="select_displayed_folders">Choose folders to display</string>
     <string name="select_none">Deselect all</string>
     <string name="select_operation_items">Choose items</string>

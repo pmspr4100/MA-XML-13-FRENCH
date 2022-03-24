@@ -827,8 +827,8 @@ Envoyez ce code au superviseur."</string>
     <string name="miui_facebook_open_dialog_close">Désactiver</string>
     <string name="miui_facebook_open_dialog_msg">Activez pour gérer les notifications Facebook plus facilement</string>
     <string name="miui_facebook_open_dialog_open">Activer</string>
-    <string name="miui_quicksearch_enable_pref_summary">Afficher le lien vers la barre de recherche dans le Panneau de notification</string>
-    <string name="miui_quicksearch_enable_pref_title">Barre de recherche dans le Panneau de notification</string>
+    <string name="miui_quicksearch_enable_pref_summary">Afficher le lien vers la barre de recherche dans le Panneau des notifications</string>
+    <string name="miui_quicksearch_enable_pref_title">Barre de recherche dans le Panneau des notifications</string>
     <string name="miui_search_notification_message">Touchez pour ouvrir la barre de recherche.</string>
     <string name="miui_search_notification_title">Recherche</string>
     <string name="miui_startpage">Page de démarrage</string>

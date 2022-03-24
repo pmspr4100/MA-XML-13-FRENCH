@@ -122,7 +122,7 @@
   <string name="global_pc">Mon laptop</string>
   <string name="global_phone">Mon téléphone</string>
   <string name="go_to_settings">Paramètres</string>
-  <string name="guide_summary_1">"L'autre personne peut appuyer sur l'interrupteur dans le Panneau de notification"</string>
+  <string name="guide_summary_1">"L'autre personne peut appuyer sur l'interrupteur dans le Panneau des notifications"</string>
   <string name="guide_summary_2">"Sélectionnez l'appareil auquel vous souhaitez envoyer des éléments et appuyez sur son icône"</string>
   <string name="guide_title_1">Activez Mi Share sur les deux appareils</string>
   <string name="guide_title_2">"Sélectionnez l'appareil à partager"</string>
@@ -344,7 +344,7 @@ Avant d'utiliser Mi Share, vous devez accorder les autorisations suivantes, ains
   <string name="transfer_to_pc_summary">"La dernière version du logiciel AIoT installée sur les Mi Notebooks est compatible avec Mi Share. Vous pouvez consulter la liste des modèles d'ordinateurs portables pris en charge sur le site Web de MIUI. Si votre ordinateur portable figure dans la liste, mais que AIoT n'y est pas installé, mettez à jour le BIOS et le pilote de l'adaptateur réseau de votre ordinateur portable et téléchargez AIoT."</string>
   <string name="transfer_to_pc_summary_new"><Data>"La dernière version de MIUI+ installée sur Mi Notebooks est compatible avec Mi Share. Vous pouvez consulter la liste des modèles d'ordinateurs portables pris en charge sur le site Web MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Si votre ordinateur portable figure sur la liste, mais que MIUI+ n'y est pas installé, mettez à jour le BIOS et le pilote de la carte réseau de votre ordinateur portable et téléchargez MIUI+."</Data></string>
   <string name="transfer_to_pc_title">Envoyer des fichiers aux ordinateurs</string>
-  <string name="transfer_to_phone_summary">"Activez Mi Share à l'aide de l'interrupteur dans le Panneau de notification. Après cela, vous pourrez voir les appareils à proximité lorsque vous commencerez à partager une photo ou un fichier. Appuyez sur l'appareil du destinataire pour envoyer l'élément que vous partagez."</string>
+  <string name="transfer_to_phone_summary">"Activez Mi Share à l'aide de l'interrupteur dans le Panneau des notifications. Après cela, vous pourrez voir les appareils à proximité lorsque vous commencerez à partager une photo ou un fichier. Appuyez sur l'appareil du destinataire pour envoyer l'élément que vous partagez."</string>
   <string name="transfer_to_phone_title">Envoyer des fichiers aux téléphones</string>
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>

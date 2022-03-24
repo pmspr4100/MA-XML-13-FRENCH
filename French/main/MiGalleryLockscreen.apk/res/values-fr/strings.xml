@@ -545,7 +545,7 @@ Envoyez ce code au superviseur."</string>
     <string name="open_gallery">"Diaporama de fonds d'écran"</string>
     <string name="open_gallery_tips">"Appuyez ici pour activer le Diaporama de fonds d'écran"</string>
     <string name="open_guid_des">"Allez dans Paramètres &gt; Autorisations &gt; Autres autorisations &gt; Diaporama de fonds d'écran et donnez à l'application toutes les autorisations requises."</string>
-    <string name="open_settings">Settings</string>
+    <string name="open_settings">Réglages</string>
     <string name="open_sub_title">Sélectionnez les catégories</string>
     <string name="open_title">Wallpaper Carousel</string>
     <string name="open_unable">"Wallpaper Carousel only works with MIUI's default Lock screen."</string>
