@@ -194,7 +194,6 @@ Si vous devez ouvrir manuellement la fonction Miracast, vous pouvez appuyer sur 
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
     <string name="miuix_appcompat_cancel_description">Annuler</string>
-    <string name="miuix_appcompat_confirm_description">Confirmer</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchronisation avec le cloud est désactivée</string>
     <string name="miuix_appcompat_cloud_state_finished">Synchronisé avec le cloud avec succès</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronisation avec le cloud…</string>
