@@ -3600,6 +3600,25 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="graphics_driver_dashboard_title">Préférences du pilote graphique</string>
     <string name="graphics_driver_footer_text">"Lorsqu'il existe plusieurs pilotes graphiques, vous pouvez choisir d'utiliser le pilote graphique mis à jour pour les applications installées sur l'appareil."</string>
     <string name="gsm_to_wifi_connect_type_title">Cellulaire par Wi-Fi</string>
+    <string name="gsm_umts_network_preferences_dialogtitle">Mode réseau</string>
+    <string name="gsm_umts_network_preferences_title">Mode réseau</string>
+    <string name="guest_exit_guest">"Supprimer l'invité"</string>
+    <string name="guest_new_guest">Ajouter un invité</string>
+    <string name="guest_nickname">Invité</string>
+    <string name="guest_reset_guest">"Réinitialiser l'invité"</string>
+    <string name="guest_reset_guest_confirm_button">Réinitialiser</string>
+    <string name="guest_reset_guest_dialog_title">"Réinitialiser l'invité maintenant ?"</string>
+    <string name="guest_resetting">"Réinitialisation de l'invité…"</string>
+    <string name="guide_button_text">Compris</string>
+    <string name="guide_text_center">"Balayer vers le haut au milieu de l'écran.
+La zone où vous pouvez confirmer le verrouillage de votre écran sera alignée au centre."</string>
+    <string name="guide_text_left">"Balayer vers le haut depuis le coin inférieur gauche.
+La zone où vous pouvez confirmer le verrouillage de votre écran se déplacera vers la gauche."</string>
+    <string name="guide_text_right">"Balayer vers le haut depuis le coin inférieur droit.
+La zone où vous pouvez confirmer le verrouillage de votre écran se déplacera vers la droite."</string>
+    <string name="guide_title_center">Balayer vers le haut au milieu</string>
+    <string name="guide_title_left">Balayer vers le haut à gauche</string>
+    <string name="guide_title_right">Balayer vers le haut à droite</string>
     <string name="gxzw_add_fingerprint_area">"Lecteur d'empreintes digitales"</string>
     <string name="gxzw_add_fingerprint_continue">Continuer</string>
     <string name="gxzw_add_fingerprint_edge_message">Déplacez vos doigts pour que le capteur enregistre les bords de vos empreintes digitales</string>
@@ -6853,6 +6872,7 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="search_apn_settings">"APN;Noms des points d'accès"</string>
     <string name="search_app_invisible">Application invisible;Applications invisibles</string>
     <string name="search_app_switch_key">Récents;Récent;Menu;Bouton Menu;Gestionnaire de tâche</string>
+    <string name="search_application_count">Rechercher des applications</string>
     <string name="search_application_lock_name">"Verrouillage des applications"</string>
     <string name="search_applications_settings">Applications installées</string>
     <string name="search_back_key">Retour;Bouton de retour;Touche de retour</string>

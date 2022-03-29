@@ -143,8 +143,8 @@
   <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">%s sélectionné.</string>
   <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s sélectionné.</string>
   <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s sélectionné.</string>
-  <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">"Appuyez deux fois pour ajouter cet élément à l'écran d'accueil."</string>
-  <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">"Appuyez deux fois pour ajouter cet élément au coffre d'applications."</string>
+  <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">"Ajoutez cet élément à l'écran d'accueil."</string>
+  <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">"Ajoutez cet élément au coffre d'applications."</string>
   <string name="pa_accessibility_picker_widget_detail_edit">Modifier</string>
   <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">"Widget sélectionné. Faites glisser pour ajouter cet élément à l'écran d'accueil."</string>
   <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">"Widget sélectionné. Faites glisser pour ajouter cet élément au coffre d'applications."</string>

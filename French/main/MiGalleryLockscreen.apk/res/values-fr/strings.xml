@@ -360,7 +360,7 @@ Cela peut générer des frais supplémentaires."</string>
     <string name="lks_set_as_lks_wallpaper">Définir comme écran de verrouillage</string>
     <string name="lks_subscription_toast">"Fond d'écran changé avec succès"</string>
     <string name="lks_to_history">Historique</string>
-    <string name="lks_to_setting">Paramètres du diaporama de fonds d'écran</string>
+    <string name="lks_to_setting">"Paramètres du diaporama de fonds d'écran"</string>
     <string name="llks_add_cate">"S'abonner à %s"</string>
     <string name="llks_auto_switch_wp">Abonnez-vous aux catégories que vous aimez</string>
     <string name="llks_display_error">Autorisations requises</string>
