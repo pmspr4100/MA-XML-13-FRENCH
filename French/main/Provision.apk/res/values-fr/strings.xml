@@ -131,6 +131,7 @@
     <string name="input_method_category">"Choisissez le clavier par défaut que vous utiliserez lors de la rédaction des Emails, notes et partout ailleurs. Notez que vous pourrez installer d'autres claviers plus tard."</string>
     <string name="input_method_setting">Choisir un clavier</string>
     <string name="install_preinstall_app">Chargement des applications…</string>
+    <string name="intent_filter_verification_service">"Service de vérification du filtre d'intention"</string>
     <string name="interconnection_communication_introduction">"Xiaomi Internet Communication Services vous permet de découvrir, de vous connecter et de communiquer avec d'autres appareils Xiaomi."</string>
     <string name="item_contents_wwarning">"Si votre appareil disparaît, vous ne pourrez pas empêcher d'autres personnes de l'utiliser et d'accéder à vos données à moins que vous ne définissiez un verrouillage d'écran. Ignorer quand même ?"</string>
     <string name="item_fingerprint">Empreinte digitale</string>
@@ -255,6 +256,8 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">"Conditions générales d'utilisation"</string>
     <string name="other_settings_location">Localisation</string>
     <string name="other_settings_location_summary">"Permettre aux applications et aux sites web d'accéder à vos informations de localisation pour fournir des services basés sur la localisation"</string>
+    <string name="other_settings_quality_service">Autorisations du démon MIUI</string>
+    <string name="other_settings_quality_service_summary">"Le démon MIUI est utilisé pour améliorer la stabilité et les performances du système. Pour pouvoir fonctionner normalement, ce service a besoin d'autorisations pour accéder et enregistrer des éléments dans le stockage de l'appareil."</string>
     <string name="other_settings_upload_debug_log_detail">"Aidez à améliorer l'expérience de votre appareil MIUI en envoyant automatiquement les données de diagnostic, d'utilisation de l'appareil et des applications à Xiaomi. Cela aidera à améliorer la durée de vie de la batterie, la stabilité du système MIUI et des applications, etc.
 Les données que vous enverrez contiendront des informations générales sur votre appareil et la manière dont vous l'utilisez (par exemple, le niveau de la batterie, l'activité du système et des applications, et les erreurs). Les données seront utilisées pour améliorer les appareils MIUI.
 La désactivation de cette fonction n'affecte pas la capacité de votre appareil à envoyer les informations nécessaires aux services essentiels tels que les mises à jour du système et la sécurité.

@@ -176,6 +176,7 @@
   <string name="ks_screenshot">"Capture d'écran (écran entier)"</string>
   <string name="kungfu">Kung fu</string>
   <string name="leisure">Loisirs</string>
+  <string name="lenovo_phone">Téléphone Lenovo</string>
   <string name="livetalk_not_enable">Recharge épuisé</string>
   <string name="location_usage_restricted_body">Appuyez pour autoriser.</string>
   <string name="location_usage_restricted_title">Localisation en tache de fond limitée</string>
@@ -291,6 +292,7 @@
   <string name="set_password_action">Définir un mot de passe</string>
   <string name="set_password_message">Définir un mot de passe pour utiliser cette fonction.</string>
   <string name="set_password_title">Définir un mot de passe</string>
+  <string name="shortcut_no_support_on_pc_mode">"Ce geste n'est pas pris en charge en mode PC"</string>
   <string name="shutdown_confirm_title">"Éteindre l'appareil maintenant ?"</string>
   <string name="shutdown_progress">Extinction…</string>
   <string name="silence_mode">Mode Silencieux</string>

@@ -1239,7 +1239,7 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="privacy_password_title2">Utiliser le Mot de passe de protection de la vie privée</string>
     <string name="privacy_password_title3">Mettez à jour votre mot de passe</string>
     <string name="privacy_password_title4">Mot de passe mis à jour</string>
-    <string name="privacy_policy_and_user_agreement">"Politique de confidentialité et Accord d'utilisation"</string>
+    <string name="privacy_settings_blue_scan_connect">Connectez-vous aux appareils à proximité</string>
     <string name="privacy_settings_call_phone">Passer des appels</string>
     <string name="privacy_settings_call_phone_description">"Pour passer des appels via les raccourcis de l'écran d'accueil"</string>
     <string name="privacy_settings_call_phone_description_for_pad">Pour passer des appels dans des applications tierces</string>
@@ -1625,6 +1625,7 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="toast_for_failed_saving_nickname">Impossible de sauvegarder le pseudo</string>
     <string name="toast_for_saving_nickname">Pseudo sauvegardé</string>
     <string name="toast_join_with_empty_contact">Donnez un nom au contact avant de le fusionner avec un autre contact</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">"Autorisez cette fonctionnalité à se connecter aux appareils à proximité via Bluetooth pour pouvoir importer des contacts depuis d'autres appareils."</string>
     <string name="toast_not_show_camera_perm_req">"Pour pouvoir utiliser l'appareil photo pour prendre des photos de profil, autorisez d'abord cette application à prendre des photos et à enregistrer des vidéos."</string>
     <string name="toast_not_show_location_perm_req">"Pour pouvoir importer des contacts depuis d'autres appareils via Bluetooth, autorisez d'abord cette application à accéder à votre position."</string>
     <string name="toast_not_show_read_calllogs_perm_req">"Pour pouvoir afficher l'historique des appels, autorisez d'abord cette application à accéder à l'historique des appels."</string>

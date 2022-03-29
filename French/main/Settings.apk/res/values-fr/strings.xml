@@ -3110,7 +3110,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="error_mcc_not3">Le champ MCC doit contenir 3 chiffres.</string>
     <string name="error_mnc_not23">Le champ MNC doit contenir 2 ou 3 chiffres.</string>
     <string name="error_name_empty">Le champ \"Nom\" est obligatoire.</string>
-    <string name="error_xcap_not_add">"Le type d'APN ne peut pas être XCAP."</string>
+    <string name="error_xcap_not_add">"Impossible d'utiliser XCAP comme type de nom de point d'accès."</string>
     <string name="estimated_charging_time_left">"Jusqu'à la charge complète"</string>
     <string name="estimated_time_description">"L'estimation peut changer en fonction de l'utilisation"</string>
     <string name="estimated_time_left">Temps restant estimé</string>
@@ -3335,6 +3335,9 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="firmware_version">"Version d'Android"</string>
     <string name="fiveg_sa_switch_summary">Utiliser le réseau SA sur la SIM secondaire (uniquement pour les tests)</string>
     <string name="fiveg_sa_vice_switch_title">SA sur la SIM secondaire</string>
+    <string name="fiveg_vonr_switch_summary">"Utilisez VoNR dans les environnements de réseau 5G pour améliorer l'expérience d'appel. Cette fonctionnalité est fournie à des fins de test uniquement."</string>
+    <string name="fiveg_vonr_switch_title">Paramètres VoNR</string>
+    <string name="fix_connectivity">Corriger la connectivité</string>
     <string name="flash_drive_backup_disable">"Branchez d'abord un lecteur USB"</string>
     <string name="flash_drive_backup_enable">Utiliser un lecteur USB pour sauvegarder ou restaurer des éléments</string>
     <string name="flash_drive_backup_restore">Lecteur USB</string>
@@ -3368,6 +3371,10 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fold_rule_important">Important</string>
     <string name="fold_rule_unimportant">Non important</string>
     <string name="fold_title">Règles pour les notifications groupées</string>
+    <string name="font_cta_alert_btn_negative">Annuler</string>
+    <string name="font_cta_alert_btn_positive">"D'accord"</string>
+    <string name="font_cta_alert_message">Lisez et acceptez les termes et conditions des thèmes pour continuer.</string>
+    <string name="font_cta_alert_title">Termes et conditions</string>
     <string name="font_setting_weight_toast">"La police actuelle ne prend pas en charge l'ajustement de l'épaisseur de la police"</string>
     <string name="font_settings_jump">Accessibilité > Afficher la taille</string>
     <string name="font_settings_recommend_title">"La taille du texte n'est pas assez grande ?"</string>
@@ -8980,6 +8987,7 @@ Pendant un appel vocal, vous ne pouvez pas utiliser internet et certaines applic
     <string name="volume_ring_mute">Couper la sonnerie et le son des notifications</string>
     <string name="volume_system_description">"Appareil photo, verrouillage de l'écran et d'autres notifications système"</string>
     <string name="volume_voice_description">"Volume lors d'appel"</string>
+    <string name="vonr_switch_title">Utiliser VoNR</string>
     <string name="vpn_always_on_invalid_reason_dns">Les adresses de serveur DNS pour le VPN permanent doivent être composées de chiffres</string>
     <string name="vpn_always_on_invalid_reason_no_dns">Vous devez spécifier un serveur DNS pour le VPN permanent</string>
     <string name="vpn_always_on_invalid_reason_other">Les informations saisies ne sont pas acceptées avec le VPN permanent</string>
