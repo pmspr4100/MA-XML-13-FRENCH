@@ -3120,6 +3120,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="evening">Après-midi</string>
     <string name="every_day">Tous les jours</string>
     <string name="expand_button_title">Options avancées</string>
+    <string name="expand_card_action">Cartes additionnelles</string>
     <string name="expandable_under_keyguard_title">"Afficher sur l'écran de verrouillage"</string>
     <string name="experimental_category_title">Expérimental</string>
     <string name="experimental_preference">(Expérimental)</string>
@@ -4747,6 +4748,8 @@ D'autres personnes utilisent cet appareil.
     <string name="mi_service">Service Mi</string>
     <string name="mi_service_app_detail">"Détails de l'utilisation des données"</string>
     <string name="mi_shopping_mall">Mi Store</string>
+    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_play_entry_title">Mi Smart Play</string>
     <string name="mi_transfer">Mi Transfert</string>
     <string name="mi_upi_settings">Compte Mi Pay</string>
     <string name="micloud_service_summary">"Synchronisez la liste des applications, sauvegardez les paramètres système et la disposition de l'écran d'accueil"</string>
@@ -5268,6 +5271,8 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="music_dolby_mode_music">Musique</string>
     <string name="music_dolby_mode_off">Désactiver</string>
     <string name="music_equalizer">Égaliseur</string>
+    <string name="music_playback_control_cross_device_flow">Transférer la lecture audio entre appareils</string>
+    <string name="music_video_flow_across_device">Contrôlez et transférez la lecture audio sur plusieurs appareils</string>
     <string name="music_equalizer_summary">Ajustez les niveaux individuels pour différents types de musique</string>
     <string name="music_hd_title">Son HD</string>
     <string name="music_headphone_settings">Choisissez le type de casque</string>
@@ -7599,7 +7604,20 @@ Pour partager votre position avec des contacts d'urgence
 Pour envoyer des enregistrements de son ambiant aux contacts d'urgence
 • Utilisation de l'appareil photo
 Pour envoyer des photos aux contacts d'urgence
-Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez choisir de désactiver ou de ne pas utiliser SOS d'urgence dans de tels cas.
+Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez choisir de désactiver ou de ne pas utiliser le SOS d'urgence dans de tels cas.
+Avant d'utiliser nos services, lisez et acceptez nos %s."</string>
+    <string name="sos_privacy_dialog_message_old_version">"SOS d'urgence vous permet de partager votre position en temps réel et d'envoyer des SMS à vos contacts d'urgence.
+Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables.
+Notez que cette application doit se connecter à Internet et requiert les autorisations suivantes pour collecter vos informations personnelles :
+• Accéder au stockage
+Pour enregistrer les contacts d'urgence
+• Accéder aux contacts
+Pour marquer les contacts comme contacts d'urgence
+• Envoi de SMS
+Pour envoyer des messages texte aux contacts d'urgence
+• Accéder à l'emplacement
+Pour partager votre position avec des contacts d'urgence
+Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez choisir de désactiver ou de ne pas utiliser le SOS d'urgence dans de tels cas.
 Avant d'utiliser nos services, lisez et acceptez nos %s."</string>
     <string name="sos_privacy_dialog_title">"Conditions générales d'utilisation"</string>
     <string name="sos_privacy_policy">Politique de confidentialité</string>
