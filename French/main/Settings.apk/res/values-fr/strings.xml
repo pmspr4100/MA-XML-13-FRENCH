@@ -207,7 +207,6 @@ Activez cette fonction et appuyez sur le bouton Accessibilité en bas de votre �
 
 Il est impossible de faire un zoom avant sur le clavier ou la barre de navigation."</string>
     <string name="accessibility_screen_magnification_navbar_title">Agrandir avec un bouton</string>
-    <string name="accessibility_screen_magnification_short_summary">Appuyer trois fois pour zoomer</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">Agrandir avec un bouton et en appuyant trois fois</string>
     <string name="accessibility_screen_magnification_summary">"&lt;b>Pour zoomer&lt;/b>", appuyez rapidement sur l'écran 3 fois.
 "&lt;ul>&lt;li>Faites glisser 2 doigts ou plus pour faire défiler&lt;/li>"
@@ -218,10 +217,7 @@ Il est impossible de faire un zoom avant sur le clavier ou la barre de navigatio
 "&lt;li>Soulevez le doigt pour effectuer un zoom arrière&lt;/li>&lt;/ul>"
 
 Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
-    <string name="accessibility_screen_magnification_navbar_title">Agrandir avec raccourci</string>
     <string name="accessibility_screen_magnification_short_summary">Appuyez 3 fois pour zoomer</string>
-    <string name="accessibility_screen_magnification_state_navbar_gesture">Agrandir avec raccourci et appuyer trois fois</string>
-    <string name="accessibility_screen_magnification_summary">"Zoomez rapidement sur l'écran pour agrandir le contenu.&lt;br/>&lt;br/> &lt;b>Pour zoomer :&lt;/b>&lt;br/> {0,number,integer}. Utilisez le raccourci pour démarrer l'agrandissement&lt;br/> {1,number,integer}. Appuyez sur l'écran&lt;br/> {2,number,integer}. Faites glisser 2 doigts pour vous déplacer sur l'écran&lt;br/> {3,number,integer}. Pincez avec 2 doigts pour régler le zoom&lt;br/> {4,number,integer}. Utilisez le raccourci pour arrêter l'agrandissement&lt;br/>&lt;br/> &lt;b>Pour zoomer temporairement :&lt;/b>&lt;br/> {0,number,integer}. Utilisez le raccourci pour démarrer l'agrandissement&lt;br/> {1,number,integer}. Touchez &amp; maintenez n'importe où sur l'écran&lt;br/> {2,number,integer}. Faites glisser le doigt pour vous déplacer sur l'écran&lt;br/> {3,number,integer}. Levez le doigt pour arrêter le grossissement"</string>
     <string name="accessibility_screen_magnification_title">Agrandissement</string>
     <string name="accessibility_screen_option">Options</string>
     <string name="accessibility_screen_reader_haptic_title">"Lecteur d'écran"</string>
@@ -8214,7 +8210,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="tether_password_illegal_character">Le mot de passe contient des caractères non autorisés. Réessayez.</string>
     <string name="tether_settings_disabled">"Point d'accès désactivé"</string>
     <string name="tether_settings_disabled_on_data_saver">"Impossible de partager la connexion ou d'utiliser des points d'accès mobiles lorsque la sauvegarde des données est activée"</string>
-    <string name="tether_settings_summary_all">Point d'accès, USB, Bluetooth, Ethernet</string>
+    <string name="tether_settings_summary_all">"Point d'accès, USB, Bluetooth, Ethernet"</string>
     <string name="tether_settings_summary_bluetooth_and_ethernet">Bluetooth, Ethernet</string>
     <string name="tether_settings_summary_bluetooth_tethering_only">Bluetooth uniquement</string>
     <string name="tether_settings_summary_ethernet_tethering_only">Ethernet uniquement</string>
@@ -8227,7 +8223,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="tether_settings_summary_hotspot_off_tether_on">Partage de connexion</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">"Point d'accès activé"</string>
     <string name="tether_settings_summary_hotspot_on_tether_on">"Point d'accès activé, partage de connexion"</string>
-    <string name="tether_settings_summary_hotspot_only">Point d'accès uniquement</string>
+    <string name="tether_settings_summary_hotspot_only">"Point d'accès uniquement"</string>
     <string name="tether_settings_summary_off">"Ne pas partager Internet avec d'autres appareils"</string>
     <string name="tether_settings_summary_usb_and_bluetooth">USB, Bluetooth</string>
     <string name="tether_settings_summary_usb_and_bluetooth_and_ethernet">USB, Bluetooth, Ethernet</string>
@@ -9845,7 +9841,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Connecté à l'appareil. Impossible de fournir Internet."</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Désactivé</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">Échec de la configuration IP</string>
-    <string name="wifitrackerlib_wifi_disabled_password_failure">Problème d'authentification</string>
+    <string name="wifitrackerlib_wifi_disabled_password_failure">"Problème d'authentification"</string>
     <string name="wifitrackerlib_wifi_disconnected">Déconnecté</string>
     <string name="wifitrackerlib_wifi_limited_connection">Connexion limitée</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">Impossible de se connecter. Réessayez plus tard.</string>
@@ -10114,7 +10110,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="zen_mode_other_options">Autres options</string>
     <string name="zen_mode_other_sounds_list_count">%d de plus</string>
     <string name="zen_mode_other_sounds_none">Rien ne peut interrompre</string>
-    <string name="zen_mode_other_sounds_summary">{count, plural, offset :2 =0 {Rien ne peut interrompre} =1 {{sound_category_1} peut interrompre} =2 {{sound_category_1} et {sound_category_2} peuvent interrompre} =3 {{sound_category_1}, {sound_category_2} et {sound_category_3} peuvent interrompre} d'autres {{sound_category_1}, {sound_category_2} et # autres peuvent interrompre} }</string>
+    <string name="zen_mode_other_sounds_summary">"{count, plural, offset:2 =0 {Rien ne peut interrompre} =1 {{sound_category_1} peut interrompre} =2 {{sound_category_1} et {sound_category_2} peuvent interrompre} =3 {{sound_category_1}, {sound_category_2} et {sound_category_3} peuvent interrompre} d'autres {{sound_category_1}, {sound_category_2} et # autres peuvent interrompre} }"</string>
     <string name="zen_mode_people_all">Toutes les personnes peuvent interrompre</string>
     <string name="zen_mode_people_calls_messages_section_title">Qui peut interrompre</string>
     <string name="zen_mode_people_none">Personne ne peut interrompre</string>
