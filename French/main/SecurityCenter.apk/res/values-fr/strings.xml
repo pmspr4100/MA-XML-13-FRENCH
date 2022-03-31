@@ -3663,7 +3663,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="privacy_empty_record">"Aucun enregistrement audio aujourd'hui"</string>
     <string name="privacy_empty_storage">"Aucun accès au stockage aujourd'hui"</string>
     <string name="privacy_global_guide_permission_guide_text">"Vous recevrez une alerte de barre d'état lorsque les applications enregistrent de l'audio ou utilisent le capteur photo. Pour savoir quelle application fait cela, appuyez sur l'alerte."</string>
-    <string name="privacy_guide_permission_guide_text">"Vous pouvez recevoir une alerte dans la barre de notification lorsque des applications accèdent à votre position, enregistrent du son ou accès à l'appareil photo."</string>
+    <string name="privacy_guide_permission_guide_text">"Vous pouvez recevoir une alerte dans la barre de notification lorsque des applications accèdent à votre position, enregistrent du son ou accèdent à l'appareil photo."</string>
     <string name="privacy_guide_permission_use_text">"MIUI comptera et affichera le nombre de fois qu'une application utilise des permissions sensibles, y compris l'emplacement, les contacts, l'historique des appels et l'accès au stockage, ainsi que l'enregistrement audio. Vous pouvez savoir combien de fois chaque application utilise ces autorisations et déterminer si vous devez ajuster vos paramètres d'autorisation."</string>
     <string name="privacy_hide_other_permissions">Masquer les autres permissions</string>
     <string name="privacy_informed_title">Statistiques</string>
