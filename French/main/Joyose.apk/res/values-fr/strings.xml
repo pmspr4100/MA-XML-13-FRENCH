@@ -133,7 +133,7 @@
   <string name="permstep_description">"Autoriser cette application à accéder à votre nombre de pas"</string>
   <string name="permstep_label">Accès au nombre de pas</string>
   <string name="pm">PM</string>
-  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="restart_details">Pour activer ou désactiver cette fonctionnalité, vous devez redémarrer votre appareil. Redémarrer maintenant ?</string>
   <string name="restart_later">Plus tard</string>
   <string name="restart_now">Redémarrer maintenant</string>

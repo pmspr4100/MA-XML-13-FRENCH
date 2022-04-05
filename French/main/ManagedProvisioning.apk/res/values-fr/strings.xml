@@ -125,7 +125,7 @@
   <string name="fully_managed_device_provisioning_step_2_header">"Ce périphérique n'est pas privé"</string>
   <string name="fully_managed_device_provisioning_step_2_subheader">Votre administrateur informatique peut voir vos données et votre activité sur cet appareil.</string>
   <string name="fully_managed_device_provisioning_summary">"Utilisez cet appareil pour accéder facilement à vos applications professionnelles. Cet appareil n'est pas privé, votre administrateur informatique peut donc voir vos données et votre activité. Pour en savoir plus, contactez votre administrateur informatique."</string>
-  <string name="icon_content_description">Icône Dialogue</string>
+  <string name="icon_content_description">Icône de dialogue</string>
   <string name="if_questions_contact_admin">Contacter votre administrateur en cas de questions</string>
   <string name="info_anim_title_0">Une nouvelle manière de travailler</string>
   <string name="info_anim_title_1">Séparez vos données professionnelles de vos données personnelles</string>

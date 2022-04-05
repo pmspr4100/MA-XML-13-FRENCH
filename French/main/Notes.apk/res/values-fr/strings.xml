@@ -446,7 +446,7 @@
   <string name="mtrl_picker_invalid_range">Intervalle invalide.</string>
   <string name="mtrl_picker_navigate_to_year_description">"Aller à l'année %1$s"</string>
   <string name="mtrl_picker_out_of_range">"En dehors de l'intervalle : %1$s"</string>
-  <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$svv</string>
+  <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
   <string name="mtrl_picker_range_header_title">Sélectionner un intervalle de dates</string>
   <string name="mtrl_picker_range_header_unselected">Date de début - Date de fin</string>

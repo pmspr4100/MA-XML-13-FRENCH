@@ -431,7 +431,7 @@
     <string name="home_apply_success">"Fond d'écran de l'écran d'accueil appliqué"</string>
     <string name="home_daily">En avant quotidiennement</string>
     <string name="i_know">Compris</string>
-    <string name="icon_content_description">Icône de la boîte de dialogue</string>
+    <string name="icon_content_description">Icône de dialogue</string>
     <string name="icon_pad_setting_find_more_title">"Plus d'icônes"</string>
     <string name="icon_pad_setting_local_icon">Icônes locales</string>
     <string name="icon_pad_setting_title">Icônes</string>
@@ -491,9 +491,9 @@ Appuyez pour désactiver."</string>
     <string name="lockstyle_personal_settings">Personnaliser</string>
     <string name="login_theme">Connectez-vous à Thèmes</string>
     <string name="long_click_can_hide_resource">Appuyez longuement pour masquer les éléments</string>
-    <string name="material_clock_toggle_content_description">Sélectionnez AM ou PM</string>
-    <string name="material_hour_selection">Sélectionnez une heure</string>
-    <string name="material_minute_selection">Select les minutes</string>
+    <string name="material_clock_toggle_content_description">Sélectionner AM ou PM</string>
+    <string name="material_hour_selection">"Sélectionner l'heure"</string>
+    <string name="material_minute_selection">Sélectionner les minutes</string>
     <string name="material_minute_suffix">%1$s minutes</string>
     <string name="material_slider_range_end">"Fin d'intervalle,"</string>
     <string name="material_slider_range_start">"Début d'intervalle,"</string>
@@ -633,7 +633,7 @@ Appuyez pour désactiver."</string>
     <string name="morning">Matin</string>
     <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
     <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>
     <string name="mtrl_picker_a11y_next_month">Aller au mois suivant</string>
     <string name="mtrl_picker_a11y_prev_month">Aller au mois précédent</string>
     <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
@@ -641,7 +641,7 @@ Appuyez pour désactiver."</string>
     <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
     <string name="mtrl_picker_day_of_week_column_header">Colonne des jours : %1$s</string>
     <string name="mtrl_picker_invalid_format">Format invalide.</string>
-    <string name="mtrl_picker_invalid_format_example">Example : %1$s</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple : %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Utilisation : %1$s</string>
     <string name="mtrl_picker_invalid_range">Intervalle invalide.</string>
     <string name="mtrl_picker_navigate_to_year_description">"Aller à l'année %1$s"</string>

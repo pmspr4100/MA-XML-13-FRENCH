@@ -635,9 +635,9 @@
     <string name="lyric_label">Paroles</string>
     <string name="lyric_open_other_connect">Télécharger les paroles en utilisant le réseau mobile</string>
     <string name="lyric_setting">Paramètres des paroles</string>
-    <string name="material_clock_toggle_content_description">Sélectionne matin ou après-midi</string>
-    <string name="material_hour_selection">"Sélectionnez l'heure"</string>
-    <string name="material_minute_selection">Sélectionnez les minutes</string>
+    <string name="material_clock_toggle_content_description">Sélectionner AM ou PM</string>
+    <string name="material_hour_selection">"Sélectionner l'heure"</string>
+    <string name="material_minute_selection">Sélectionner les minutes</string>
     <string name="material_minute_suffix">%1$s minutes</string>
     <string name="material_slider_range_end">"Fin d'intervalle,"</string>
     <string name="material_slider_range_start">"Début d'intervalle,"</string>

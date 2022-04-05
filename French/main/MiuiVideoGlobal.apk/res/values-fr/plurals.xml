@@ -108,6 +108,10 @@
         <item quantity="other">%d éléments sélectionnés</item>
         <item quantity="one">%d élément sélectionné</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">"Votre contenu contient des éléments (%1$s) qui enfreignent les normes de notre communauté. Votre compte est suspendu pendant %2$d jours jusqu'au %3$s."</item>
         <item quantity="one">"Votre contenu contient des éléments (%1$s) qui enfreignent les normes de notre communauté. Votre compte est suspendu pendant %2$d jour jusqu'au %3$s."</item>

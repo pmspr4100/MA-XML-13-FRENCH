@@ -270,7 +270,7 @@
   <string name="morning">Matin</string>
   <string name="night">Soirée</string>
   <string name="noon">Midi</string>
-  <string name="not_set">Non paramétré</string>
+  <string name="not_set">Non défini</string>
   <string name="permission_agree">Accepter</string>
   <string name="permission_china_version_msg"><Data>"Avant d'utiliser \"Services &amp; commentaires\", vous devez lire et accepter notre &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt; /a>. Cette application doit également se connecter à Internet pour fonctionner normalement."</Data></string>
   <string name="permission_complete">Terminé</string>

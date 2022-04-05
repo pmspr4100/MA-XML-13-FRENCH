@@ -66,7 +66,7 @@
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="function_description">À propos de cette fonctionnalité</string>
-    <string name="icon_content_description">Dialog Icon</string>
+    <string name="icon_content_description">Icône de dialogue</string>
     <string name="menu_setting_aggregatation_feedback">Options de regroupement</string>
     <string name="menu_setting_feedback_donot_classify">Ne pas regrouper</string>
     <string name="menu_setting_more_settings">Plus de paramètres</string>

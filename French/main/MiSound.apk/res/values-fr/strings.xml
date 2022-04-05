@@ -225,7 +225,7 @@
     <string name="mtrl_picker_invalid_range">Intervalle invalide.</string>
     <string name="mtrl_picker_navigate_to_year_description">"Aller à l'année %1$s"</string>
     <string name="mtrl_picker_out_of_range">"En dehors de l'intervalle : %1$s"</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$svv</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
     <string name="mtrl_picker_range_header_title">Sélectionner un intervalle de dates</string>
     <string name="mtrl_picker_range_header_unselected">Date de début - Date de fin</string>
@@ -360,7 +360,7 @@
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="personal_sound">Lire avec le préréglage appliqué</string>
     <string name="pm">PM</string>
-    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
     <string name="retry_test">Recommencer</string>
     <string name="ringtone_output_device_summary">"Lorsqu'un périphérique (casque filaire ou périphérique Bluetooth) est connecté, le haut-parleur aura également une sonnerie de téléphone ou un son de notification"</string>
     <string name="ringtone_output_device_title">Autoriser le haut-parleur à sonner</string>
