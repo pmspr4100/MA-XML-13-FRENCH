@@ -101,7 +101,7 @@
     <string name="auto_play_next_on">Lecture automatique activée</string>
     <string name="back_to_mainpage">Découvrir</string>
     <string name="background_playback_enabled">La lecture en arrière-plan est activée</string>
-    <string name="before_yestoday">Il y a %d jours</string>
+    <string name="before_yestoday_new">Il y a %d jours</string>
     <string name="bind_sign_in_title">Ajouter un Compte Mi</string>
     <string name="bottomsheet_action_expand_halfway">Déplier à moitié</string>
     <string name="box_title_gallery">Boîte à outils vidéo</string>
@@ -177,6 +177,7 @@
     <string name="cloud_online_switch">Recommandations personnalisées</string>
     <string name="cloud_online_switch_open_time">Montrer les recommandations de contenu personnalisées</string>
     <string name="collect_diagnosis_log">Collecter les journaux</string>
+    <string name="columbus_ad_flag_text">PUB</string>
     <string name="columbus_player_close_desc">Vous perdrez votre récompense</string>
     <string name="columbus_player_close_resume">REPRENDRE LA VIDÉO</string>
     <string name="columbus_player_close_title">Fermer la vidéo ?</string>
@@ -185,6 +186,7 @@
     <string name="columbus_player_learn_more">En savoir plus</string>
     <string name="columbus_player_speed_title">Ignorer la vidéo ?</string>
     <string name="columbus_player_speed_video">Ignorer VIDÉO</string>
+    <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Ignorer</string>
     <string name="com_facebook_device_auth_instructions">Consultez &lt;b>facebook.com/device&lt;/b> et entrez le code affiché ci-dessus.</string>
     <string name="com_facebook_image_download_unknown_error">"Une erreur inattendue s'est produite lors du téléchargement d'une image."</string>
@@ -264,6 +266,8 @@
     <string name="controller_bar_edit">Modifier</string>
     <string name="copy">Copier</string>
     <string name="data_empty">Aucun élément ici</string>
+    <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
+    <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="day">jour</string>
     <string name="description">Description</string>
     <string name="detail_select_source">Sélectionnez la source de lecture</string>
@@ -309,7 +313,7 @@ Envoyez ce code au superviseur."</string>
     <string name="dialog_privacy_revoke_fail">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
     <string name="dialog_privacy_revoke_ok">Retrait</string>
     <string name="dialog_privacy_revoke_success">Retiré avec succès</string>
-    <string name="dialog_privacy_revoke_title">Withdrawal of consent</string>
+    <string name="dialog_privacy_revoke_title">Retrait du consentement</string>
     <string name="dialog_privacy_revoking">Retrait du consentement…</string>
     <string name="dialog_privacy_title">Termes et conditions</string>
     <string name="dialog_revoke_privacy_info_new2">"Une fois l'autorisation révoquée, l'application cessera de collecter des données et toutes les données associées seront supprimées de nos serveurs. Cela pourrait rendre l'application pratiquement inutilisable. Révoquer l'autorisation de toute façon ?"</string>
@@ -507,10 +511,6 @@ Envoyez ce code au superviseur."</string>
     <string name="galleryplus_orientation_lock">Orientation verrouillée avec succès</string>
     <string name="galleryplus_orientation_unlock">"L'orientation de l'écran est déverrouillée"</string>
     <string name="galleryplus_permission_content">Donner à Mi Vidéo les autorisations requises pour pouvoir utiliser cette fonctionnalité.</string>
-    <string name="galleryplus_permission_content2">"Pour pouvoir utiliser cette fonctionnalité, allez dans Paramètres > Gestion des applications > Applications installées > Mi Vidéo > Autorisations, et autorisez Mi Vidéo à faire les choses suivantes:
-
-1. Accéder au stockage
-2. Accéder à l'ID de l'appareil"</string>
     <string name="galleryplus_permission_content_opt">"Mi Vidéo a besoin d'autorisations pour fonctionner normalement. Effacez toutes les données de l'application dans les paramètres et ouvrez à nouveau l'application."</string>
     <string name="galleryplus_permission_content_opt2">"Mi Vidéo a besoin d'autorisations pour fonctionner normalement. Effacez toutes les données de l'application dans les paramètres et ouvrez à nouveau l'application.
 Cette opération n'affectera pas les photos de votre galerie."</string>
@@ -594,7 +594,6 @@ Cette opération n'affectera pas les photos de votre galerie."</string>
     <string name="hot">Populaire</string>
     <string name="i_know">Compris</string>
     <string name="icon_content_description">Icône de dialogue</string>
-    <string name="id_namespace">hungama</string>
     <string name="identity">Identification</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
     <string name="init_channels">Remettre par défaut</string>
@@ -640,6 +639,7 @@ pour les vidéos"</string>
     <string name="local_hide_folder_setting_goto">Paramètres</string>
     <string name="local_hide_folder_setting_tip">Vous pouvez gérer vos vidéos masquées dans Profil > Paramètres > Gérer les vidéos masquées.</string>
     <string name="local_play_tip">Lecture vidéo locale</string>
+    <string name="local_push_setting_power_tag">Notifications sur les vidéos locales</string>
     <string name="local_push_title">"Populaire aujourd'hui"</string>
     <string name="local_push_video_title">Rechercher de nouvelles vidéos locales</string>
     <string name="local_video_create_a_new_playlist">Nouvelle liste de lecture</string>
@@ -682,6 +682,11 @@ pour les vidéos"</string>
     <string name="lp_videoView_error_button">Compris</string>
     <string name="lp_videoView_error_text_unknown">Impossible de lire cette vidéo.</string>
     <string name="lp_videoView_error_title">Lecture impossible</string>
+    <string name="lp_video_info_title">Informations</string>
+    <string name="lp_video_zoom_crop">Recadrer</string>
+    <string name="lp_video_zoom_fit_screen">Adapter</string>
+    <string name="lp_video_zoom_stretch">Étirer</string>
+    <string name="lp_video_zoom_title">Zoomer</string>
     <string name="lv_advance_sound">"Améliorer l'audio"</string>
     <string name="lv_airkan_control_device_des">Pour contrôler la lecture, appuyez sur la barre dans la partie inférieure.</string>
     <string name="lv_airkan_device_xiaomi_phone">Mon téléphone Mi</string>
@@ -807,6 +812,7 @@ pour les vidéos"</string>
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">"Sélectionnez l'heure"</string>
     <string name="material_timepicker_text_input_mode_description">"Passez en mode de saisie de texte pour la saisie de l'heure."</string>
+    <string name="mediation_ad">PUB</string>
     <string name="mediation_ad_can_not_share">Impossible de partager cette vidéo</string>
     <string name="mi_video">Mi Vidéo</string>
     <string name="midnight">Nuit</string>
@@ -843,12 +849,19 @@ pour les vidéos"</string>
     <string name="mnc_subscribe_push_title">Le flux démarre</string>
     <string name="moment_guide_desc">Utilisez les gestes pour zoomer et dézoomer</string>
     <string name="moment_tab_all">Tout</string>
+    <string name="moment_tab_facebook">Facebook</string>
     <string name="moment_tab_image">Images</string>
+    <string name="moment_tab_instagram">Instagram</string>
+    <string name="moment_tab_qq">QQ</string>
+    <string name="moment_tab_sina_weibo">Weibo</string>
     <string name="moment_tab_video">Enregistré</string>
+    <string name="moment_tab_wechat">WeChat</string>
+    <string name="moment_tab_whatsapp">WhatsApp</string>
     <string name="moment_title_my_videos">Mes vidéos</string>
     <string name="monday">Lundi</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
+    <string name="month">mois</string>
     <string name="month_april">Avril</string>
     <string name="month_april_short">Avr</string>
     <string name="month_april_shortest">Avr</string>
@@ -953,7 +966,9 @@ pour les vidéos"</string>
     <string name="neverthink_player_loading">Chargement vidéo Neverthink…</string>
     <string name="new_channel_tip">Jetez un œil aux nouvelles chaînes !</string>
     <string name="next">Suivant</string>
+    <string name="next_step">Suivante</string>
     <string name="nick_name">Surnom</string>
+    <string name="night">Soirée</string>
     <string name="no_account">Non connecté</string>
     <string name="no_history">Aucun élément ici</string>
     <string name="no_longer_prompt">Ne plus afficher</string>
@@ -976,6 +991,7 @@ pour les vidéos"</string>
     <string name="notification_bar">Panneau des notifications</string>
     <string name="notification_bar_player_subtitle">Afficher le lecteur réduit dans le panneau des notifications</string>
     <string name="notification_bar_player_title">Minimiser le lecteur</string>
+    <string name="notification_last_played_status">Historique de lecture</string>
     <string name="notification_open_tip">Recevez des notifications lorsque de nouvelles vidéos locales sont trouvées</string>
     <string name="notification_promotion">Recommandé</string>
     <string name="notification_recall_action">Activer</string>
@@ -984,6 +1000,13 @@ pour les vidéos"</string>
     <string name="notification_tool">Boîte à outils</string>
     <string name="notify_apk_installed">Téléchargé avec succès</string>
     <string name="off_tip_firework_recommend">Vous ne recevrez pas de recommandations de contenu personnalisées de Firework</string>
+    <string name="offline_notification_text">"Appuyer pour ouvrir l'annonce"</string>
+    <string name="offline_notification_title">"Afficher l'annonce que vous avez enregistrée lorsque vous étiez hors ligne"</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Vous recevrez une notification avec le lien lorsque vous serez de nouveau en ligne</string>
+    <string name="offline_opt_in_decline">Non merci</string>
+    <string name="offline_opt_in_message">"Nous vous enverrons une notification avec un lien vers le site de l'annonceur."</string>
+    <string name="offline_opt_in_title">"Ouvrir l'annonce lorsque vous êtes de nouveau en ligne."</string>
     <string name="ok">OK</string>
     <string name="on_tip_firework_recommend">Vous recevrez des recommandations de contenu personnalisées de Firework</string>
     <string name="online_play_hint">Par exemple : http://www.example.com/video.mp4</string>
@@ -991,6 +1014,7 @@ pour les vidéos"</string>
     <string name="open_settings">Paramètres</string>
     <string name="order_recently_subscribe">Abonnements récents</string>
     <string name="order_recently_updated">Mis à jour récemment</string>
+    <string name="out_of_memory_background_playback_is_suspended">"Lecture en arrière-plan interrompue en raison d'une mémoire insuffisante"</string>
     <string name="ovp_alert_dialog_download_install_task">Téléchargement du plugin HD…</string>
     <string name="ovp_buffering_video_netplay_label_v5">Chargement…</string>
     <string name="ovp_category">Catégories</string>
@@ -1050,7 +1074,7 @@ pour les vidéos"</string>
     <string name="ovp_navigation_language">Langue</string>
     <string name="ovp_navigation_localvideo">Local</string>
     <string name="ovp_navigation_notice">Notifications</string>
-    <string name="ovp_navigation_playlist">Playlists</string>
+    <string name="ovp_navigation_playlist">Listes de lecture</string>
     <string name="ovp_navigation_score">Notez notre application</string>
     <string name="ovp_navigation_setting">Paramètres</string>
     <string name="ovp_navigation_subscribe">Abonnement</string>
@@ -1228,15 +1252,16 @@ Augmenter la sécurité de votre compte."</string>
     <string name="plus_deleting_wait">Suppression</string>
     <string name="plus_fallback">"Retour d'information"</string>
     <string name="plus_gallery_allvideos">Toutes les vidéos</string>
+    <string name="plus_gallery_files">Fichiers</string>
     <string name="plus_gallery_folder_switch_guid">Appuyez pour passer à la vue de liste</string>
     <string name="plus_gallery_mediatype_aimusic">Bandes son</string>
     <string name="plus_gallery_mediatype_changtu">Images allongées</string>
     <string name="plus_gallery_mediatype_fangtu">Images carrées</string>
-    <string name="plus_gallery_mediatype_fastslowvideo">Time-lapse &amp; slo-mo</string>
+    <string name="plus_gallery_mediatype_fastslowvideo">Time-lapse et slow-motion</string>
     <string name="plus_gallery_mediatype_gif">GIF</string>
     <string name="plus_gallery_mediatype_hidded">Éléments cachés</string>
     <string name="plus_gallery_mediatype_longvideo">Vidéos longues</string>
-    <string name="plus_gallery_mediatype_quanjing">Panoramas</string>
+    <string name="plus_gallery_mediatype_quanjing">Panoramiques</string>
     <string name="plus_gallery_nocontents">Aucun élément ici pour le moment.</string>
     <string name="plus_gallery_title_mediatype">Type de fichier</string>
     <string name="plus_gallery_title_othergallery">Autres albums</string>
@@ -1249,7 +1274,7 @@ Augmenter la sécurité de votre compte."</string>
     <string name="plus_menu_rename">Renommer</string>
     <string name="plus_menu_rename_cant_empty">Le nom de fichier ne peut pas être vide</string>
     <string name="plus_menu_rename_fail">Le nom de fichier ne peut pas contenir \"/\"</string>
-    <string name="plus_menu_share">Share</string>
+    <string name="plus_menu_share">Partager</string>
     <string name="plus_mine_gallery">Mes albums</string>
     <string name="plus_mine_videos">Mes vidéos</string>
     <string name="plus_player_8k_video_not_support">Impossible de lire des vidéos 8K sur cet appareil</string>
@@ -1262,7 +1287,7 @@ Augmenter la sécurité de votre compte."</string>
     <string name="plus_player_hide">Masquer</string>
     <string name="plus_player_pip">PiP</string>
     <string name="plus_player_pip_unsupport">"PiP (image dans l'image) n'est pas supporté dans cette version sur votre système."</string>
-    <string name="plus_player_play_mode_auto">Autoplay</string>
+    <string name="plus_player_play_mode_auto">Lecture automatique</string>
     <string name="plus_player_play_mode_list">Tout répéter</string>
     <string name="plus_player_play_mode_single_circle">Répéter une fois</string>
     <string name="plus_player_play_mode_stop">Lecture</string>
@@ -1461,6 +1486,9 @@ Augmenter la sécurité de votre compte."</string>
     <string name="share_ugc_waitting">Générer un lien en cours…</string>
     <string name="show_the_location">Types de notifications</string>
     <string name="sign_in">Connexion</string>
+    <string name="sign_in_google_account">Se connecter avec Google</string>
+    <string name="sign_in_google_account_hint">Connectez-vous à votre compte Google pour voir plus de vidéos que vous aimerez</string>
+    <string name="sign_in_mi_account">Se connecter avec votre Compte Mi</string>
     <string name="sign_in_progress">Connexion…</string>
     <string name="sign_in_title">Se connecter avec votre Compte Mi</string>
     <string name="slid_fail_message">"Impossible d'enregistrer"</string>
@@ -1567,6 +1595,7 @@ Il ne montre rien."</string>
     <string name="t_password_null">Le mot de passe ne peut pas être vide</string>
     <string name="t_password_wrong">Le mot de passe que vous avez entré est incorrect. Réessayer.</string>
     <string name="t_start_download">Démarrage du téléchargement:</string>
+    <string name="tab_name_download">Téléchargements</string>
     <string name="tab_name_local">Local</string>
     <string name="tab_name_me">Profil</string>
     <string name="tab_name_moment">Moments</string>
@@ -1597,6 +1626,7 @@ Il ne montre rien."</string>
     <string name="the_forth_day">Fourth day of Chinese New Year</string>
     <string name="the_hksar_establishment_day">Hong Kong SAR Establishment Day</string>
     <string name="the_international_womens_day">"Women's Day"</string>
+    <string name="the_item_choosed_tint">%s sélectionné</string>
     <string name="the_laba_festival">Laba Festival</string>
     <string name="the_labour_day">Labor Day</string>
     <string name="the_lantern_festival">Lantern Festival</string>
@@ -1716,7 +1746,6 @@ Il ne montre rien."</string>
     <string name="v_selectall">Tout sélectionner</string>
     <string name="v_selectnull">Tout désélectionner</string>
     <string name="v_set_password">Régler le mot de passe</string>
-    <string name="v_symbol_rmb">¥</string>
     <string name="v_txt_login">Connectez-vous pour synchroniser vos favoris</string>
     <string name="v_update">Mettre à jour</string>
     <string name="video_already_download_tip">Vous avez déjà téléchargé ce contenu</string>
@@ -1756,7 +1785,7 @@ Il ne montre rien."</string>
     <string name="vp_hardware_unsported">Cette vidéo ne peut pas être lue sur votre appareil.</string>
     <string name="vp_notify_apk_installed">Téléchargé avec succès</string>
     <string name="vp_replay">Rejouer</string>
-    <string name="vp_upcoming_auto_play">Autoplay</string>
+    <string name="vp_upcoming_auto_play">Lecture automatique</string>
     <string name="vp_upcoming_title">À suivre</string>
     <string name="website_button_add_bookmarks">Ajouter un favori</string>
     <string name="wednesday">Mercredi</string>

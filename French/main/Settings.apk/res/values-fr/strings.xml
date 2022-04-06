@@ -3497,8 +3497,12 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="freeform_guide_slide_to_small_freeform_title">Glisser vers des fenêtres flottantes</string>
     <string name="freeform_guide_slide_up_to_close_summary">"Glissez vers le haut depuis la barre d'action d'une fenêtre flottante"</string>
     <string name="freeform_guide_slide_up_to_close_title">Fermer les fenêtres flottantes</string>
+    <string name="freeform_guide_to_sidehide_summary">"Faites glisser rapidement l'application sur le côté de l'écran pour la masquer"</string>
+    <string name="freeform_guide_to_sidehide_title">Masquer les fenêtres flottantes</string>
     <string name="freeform_vedio_description">"· Maintenez enfoncée, puis tirez vers le bas une notification pour l'ouvrir dans une fenêtre flottante.
 · Appuyez sur \"Fenêtres flottantes\" dans Récents pour sélectionner des applications."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Appuyez sur une application dans la barre latérale pour l'ouvrir dans une fenêtre flottante.
+· Faites glisser une application au centre de l'écran pour l'ouvrir dans une fenêtre flottante ou sur le côté pour utiliser l'écran partagé."</string>
     <string name="freeform_vedio_description_pad">Faites glisser les éléments hors du dock pour ouvrir les fenêtres flottantes</string>
     <string name="frequently_fragment_delete">Supprimer</string>
     <string name="frequently_fragment_tempty">Les catégories les plus utilisées sont affichées ici.</string>
@@ -7385,6 +7389,7 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="shut_down_find_device_network_failure_content">"Impossible de désactiver Localiser l'appareil. Assurez-vous que votre appareil est connecté à internet."</string>
     <string name="shut_down_find_device_network_failure_title">Impossible de se connecter au réseau</string>
     <string name="shuting_down_find_device">"Désactivation de Localiser l'appareil…"</string>
+    <string name="sidebar_setting">Paramètres de la barre latérale</string>
     <string name="silent_duration">Duration</string>
     <string name="silent_mode">Mode silencieux</string>
     <string name="silent_mode_disable_media">Tout silencieux</string>

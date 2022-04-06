@@ -72,6 +72,11 @@
   <string name="copy">Copier</string>
   <string name="customer_location_judgment">Chine</string>
   <string name="cut">Couper</string>
+  <string name="dance">Danse</string>
+  <string name="dark_mode_enable">Activer</string>
+  <string name="dark_mode_suggest_message">Vous pouvez passer automatiquement en mode sombre au coucher du soleil pour obtenir une expérience visuelle plus confortable</string>
+  <string name="dark_mode_suggest_title">Il commence à faire nuit</string>
+  <string name="dark_mode_suggest_toast">Le mode sombre sera activé automatiquement au coucher du soleil et désactivé au lever du soleil à partir de maintenant</string>
   <string name="data_usage_context">"Si le réseau local sans fil n'est pas activé, votre appareil se connectera à un réseau mobile, ce qui peut entraîner des frais supplémentaires en fonction de votre forfait. Merci !"</string>
   <string name="default_device_name">Appareil inconnu</string>
   <string name="default_name">Par défaut</string>
