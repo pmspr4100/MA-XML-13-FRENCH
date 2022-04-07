@@ -368,6 +368,7 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="pa_picker_detail_small_widget">Widgets</string>
   <string name="pa_picker_detail_theme_app_cta">Paramètres</string>
   <string name="pa_picker_detail_theme_app_cta_pre">"Pour pouvoir utiliser ce widget, autorisez d'abord les thèmes à se connecter à Internet."</string>
+  <string name="pa_picker_detail_vp2_indicator">Page %1$d sur %2$d sélectionnée</string>
   <string name="pa_picker_detail_wait_wifi_download_maml">Cet élément sera téléchargé via Wi-Fi</string>
   <string name="pa_picker_home_app_group_title">Applications avec widgets</string>
   <string name="pa_picker_home_group_more">Tous</string>

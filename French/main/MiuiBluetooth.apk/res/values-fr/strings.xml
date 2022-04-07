@@ -91,7 +91,8 @@
     <string name="battery_info_status_unknown">Inconnu</string>
     <string name="ble_device_address">Adresse MAC du périphérique Bluetooth</string>
     <string name="ble_device_profile">Profil de périphérique Bluetooth</string>
-    <string name="ble_device_profile_header_title">Paramètres</string>
+    <string name="ble_device_profile_header_title">Plus</string>
+    <string name="ble_device_profile_summary">Gérer cet appareil</string>
     <string name="ble_device_profile_title">Périphérique Bluetooth associé</string>
     <string name="ble_device_rename">Renommer</string>
     <string name="blob_expires_text">Expire le %s</string>

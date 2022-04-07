@@ -37,6 +37,7 @@
     <string name="add_clock">Ajouter une horloge</string>
     <string name="add_common_timer">Ajouter un minuteur</string>
     <string name="add_timer">Minuteur fréquent</string>
+    <string name="add_timer_dialog_title">Ajouter un minuteur</string>
     <string name="add_timezone_title">Ajouter un fuseau horaire</string>
     <string name="afternoon">Après-midi</string>
     <string name="agree">Accepter</string>
@@ -552,6 +553,7 @@
     <string name="timer_alert_type_beach">Plage</string>
     <string name="timer_alert_type_forest">Forêt</string>
     <string name="timer_alert_type_mute">Défaut</string>
+    <string name="timer_alert_type_no">Aucune</string>
     <string name="timer_alert_type_rain">Bruine</string>
     <string name="timer_alert_type_spring_rain">"Pluie d'été"</string>
     <string name="timer_alert_type_stove_fire">Feu de cuisinière</string>
@@ -563,6 +565,9 @@
     <string name="timer_continue">Continuer</string>
     <string name="timer_continue_timer">Continuer</string>
     <string name="timer_created">Minuteur ajouté avec succès</string>
+    <string name="timer_desc_use_brush_teeth">Se brosser les dents</string>
+    <string name="timer_desc_use_facial_mask">Masque facial</string>
+    <string name="timer_desc_use_sleep">Sieste</string>
     <string name="timer_end_time">"La minuterie s'arrêtera à %s"</string>
     <string name="timer_end_time_format">HH:mm d MMMM</string>
     <string name="timer_got_it">OK</string>
@@ -570,6 +575,7 @@
     <string name="timer_is_paused">La minuterie est en pause</string>
     <string name="timer_item_delete">Supprimer</string>
     <string name="timer_item_duration_display">%1$d m %2$d s</string>
+    <string name="timer_item_edit">Modifier</string>
     <string name="timer_item_label_hint">Nom de la minuterie</string>
     <string name="timer_new_item">Ajouter une minuterie</string>
     <string name="timer_notify_text">Répéter ou annuler la minuterie.</string>
@@ -622,6 +628,7 @@
     <string name="wednesday_shortest">Mer</string>
     <string name="week_ringtone_recommend_desc">"L'alarme de la nature émet différents sons en fonction de la date. La définir comme alarme par défaut ?"</string>
     <string name="white_noise">Bruit ambiant</string>
+    <string name="white_noise_guide_desc">Ajoutez un fond sonore pour rester concentré</string>
     <string name="white_noise_selector">"Sélectionner l'audio"</string>
     <string name="workday_alarm_clock">Alarme pour les jours de travail</string>
     <string name="worldclock_edit_label">Horloge mondiale</string>

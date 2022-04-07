@@ -167,6 +167,8 @@
     <string name="bh_not_contact">"Ce numéro n'est pas dans vos contacts"</string>
     <string name="bh_notice">Attention</string>
     <string name="bh_online_service">Support en ligne</string>
+    <string name="bh_open_carrier_services_short">Services Mi Carrier</string>
+    <string name="bh_open_carrier_services_short_reason">Activez les Services Mi Carrier pour pouvoir utiliser cette fonctionnalité.</string>
     <string name="bh_option_agree_dec">"Autoriser les Services Mi Carrier à se connecter à internet et accorder les autorisations demandées avant d'utiliser l'application."</string>
     <string name="bh_order_detail">Détails de la commande</string>
     <string name="bh_order_id">ID de la commande</string>
@@ -198,6 +200,7 @@
     <string name="bh_please_fill_total_limit_title">Renseignez la limite du forfait</string>
     <string name="bh_please_set_pkg">Paramétrez votre forfait pour pouvoir consulter votre solde.</string>
     <string name="bh_privacy_policy">Politique de confidentialité</string>
+    <string name="bh_qualification_and_certificate">Licences et certification</string>
     <string name="bh_receive_zero_card">Free SIM</string>
     <string name="bh_recharge_money">Montant</string>
     <string name="bh_recharge_record">Enregistrer la recharge</string>
@@ -215,7 +218,7 @@
     <string name="bh_stop_carrier_services_short">Désactiver les services Mi Carrier</string>
     <string name="bh_stop_result">"Vous ne pourrez pas gérer votre forfait opérateur ou acheter des données et des minutes d'appel si vous désactivez les services Mi Carrier. Désactiver quand même ?"</string>
     <string name="bh_system_recommend">Recommandations système</string>
-    <string name="bh_system_recommend_des">"Nous permettre d'analyser votre trafic et de recommander des produits numériques basés sur les résultats"</string>
+    <string name="bh_system_recommend_des">"Lorsque les recommandations personnalisées sont désactivées, vous verrez toujours la même quantité d'annonces que lorsque la fonctionnalité est activée, mais elles ne seront pas aussi pertinentes pour vous"</string>
     <string name="bh_tag">*%1$s</string>
     <string name="bh_tag_phones">Numéros de téléphone fréquemment utilisés</string>
     <string name="bh_tags_number_exceed">"Impossible d'enregistrer de nouveaux numéros de téléphone"</string>

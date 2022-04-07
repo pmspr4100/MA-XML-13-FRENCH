@@ -58,12 +58,10 @@
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
   <string name="game_view_content_description">Game view</string>
-  <string name="geometry_id">geometry</string>
   <string name="geometry_summary">Formes, lumières et couleurs</string>
   <string name="geometry_super_wallpaper_label">Géométrie</string>
   <string name="geometry_title">Géométrie</string>
   <string name="install_failed">Installation impossible</string>
-  <string name="mars_id">mars</string>
   <string name="mars_position_content_0">"Cette région contient des falaises, des mesas et de larges vallées plates, qui auraient été causées par des glaciers recouverts de débris. Des minéraux argileux ont également été détectés ici, ce qui est d'un grand intérêt dans la recherche de preuves de la vie sur l'ancien Mars.
 
 NASA/JPL/Université de l'Arizona"</string>
@@ -169,13 +167,11 @@ dd/MM"</string>
   <string name="saturday">Samedi</string>
   <string name="saturday_short">Sam</string>
   <string name="saturday_shortest">Sam</string>
-  <string name="saturn_id">saturn</string>
   <string name="saturn_summary">Les anneaux de Saturne sont un des spectacles les plus remarquables du Système solaire</string>
   <string name="saturn_super_wallpaper_label">Anneaux lointains</string>
   <string name="saturn_title">Anneaux lointains</string>
   <string name="search_menu_title">Recherche</string>
   <string name="send">Envoyer</string>
-  <string name="snowmountain_id">snowmountain</string>
   <string name="snowmountain_summary">Pentes ensoleillées du mont Siguniang</string>
   <string name="snowmountain_super_wallpaper_label">Sommets enneigés</string>
   <string name="snowmountain_title">Sommets enneigés</string>

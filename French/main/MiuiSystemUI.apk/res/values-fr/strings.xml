@@ -2859,7 +2859,6 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="carrier_network_change_mode">Carrier network changing</string>
     <string name="cell_data_off">Désactivé</string>
     <string name="connected_to_metered_access_point">Connected to metered network</string>
-    <string name="control_quick_settings_tiles_super_save">gps,nfc,screenshot,vibrate</string>
     <string name="controls_media_active_session">The current media session cannot be hidden.</string>
     <string name="controls_media_playing_item_description">%1$s by %2$s is playing from %3$s</string>
     <string name="controls_media_smartspace_rec_description">Open %1$s</string>
@@ -3100,7 +3099,6 @@ If you have questions, contact %2$s."</string>
     <string name="quick_settings_more_user_settings">User settings</string>
     <string name="quick_settings_networks_available">Networks available</string>
     <string name="quick_settings_networks_unavailable">Networks unavailable</string>
-    <string name="quick_settings_tiles">default</string>
     <string name="reboot_info_auto_boot_global">Upcoming alarm: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Shutdown alarm: %s</string>
     <string name="recent_conversations">Conversations récentes</string>
@@ -3206,7 +3204,6 @@ Any user can update apps for all other users. Accessibility settings and service
     <string name="user_limit_reached_title">User limit reached</string>
     <string name="user_nickname">Nickname</string>
     <string name="user_set_lock_button">Set lock</string>
-    <string name="velocity_tracker_impl">platform</string>
     <string name="video_status">Watching</string>
     <string name="volume_dialog_ringer_guidance_ring">Calls and notifications will ring (%1$s)</string>
     <string name="volume_dialog_title">%s volume controls</string>
