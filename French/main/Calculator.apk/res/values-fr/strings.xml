@@ -840,8 +840,6 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
     <string name="withdraw_network_error">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
     <string name="word_figure_guide_text">Appuyez et maintenez le texte pour convertir entre les cas.</string>
     <string name="xiaomi_bytes_unit">%1$s o</string>
-    <string name="xiaomi_kilobytes_unit">%1$s Ko</string>
-    <string name="xiaomi_megabytes_unit">%1$s Mo</string>
     <string name="xiaomi_calculator_delete_description">"Calculatrice est une application système. Vous ne pourrez pas utiliser plusieurs convertisseurs et fonctionnalités supplémentaires après avoir désinstallé l'application."</string>
     <string name="xiaomi_calculator_delete_title">Désinstaller Calculatrice ?</string>
     <string name="xiaomi_calculator_remove_icon_description">"Calculatrice est une application système. Vous ne pourrez pas utiliser plusieurs convertisseurs et fonctionnalités supplémentaires après avoir supprimé le raccourci de l'écran d'accueil."</string>

@@ -1131,7 +1131,7 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
     <string name="battery_saver_schedule_settings_title">Programmer</string>
     <string name="battery_saver_seekbar_title">À %1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Activer</string>
-    <string name="battery_saver_sticky_description_new">"L'économiseur de batterie est désactivé quand votre téléphone est chargé à %1$s"</string>
+    <string name="battery_saver_sticky_description_new">"L'économiseur de batterie est désactivé quand votre téléphone est chargé à ^1%"</string>
     <string name="battery_saver_sticky_title_new">Désactiver après une charge complète</string>
     <string name="battery_saver_turn_on_automatically_never">Jamais</string>
     <string name="battery_saver_turn_on_automatically_pct">à %1$s batterie</string>
@@ -2062,7 +2062,6 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="condition_zen_summary_phone_muted">Téléphone muet</string>
     <string name="condition_zen_summary_with_exceptions">Avec exceptions</string>
     <string name="condition_zen_title">Mode \"Ne pas déranger\" activé</string>
-    <string name="config_charging_function_name">mise en charge</string>
     <string name="config_list_label">Réseaux configurés</string>
     <string name="configure">Configurer</string>
     <string name="configure_apps">Configurer les applis</string>
@@ -3590,8 +3589,6 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="global_actions_panel_title">Afficher les actions globales</string>
     <string name="global_change_warning">Ce paramètre affecte tous les utilisateurs sur ce téléphone.</string>
     <string name="global_locale_change_title">Changer de langue</string>
-    <string name="global_stylus_summary">"Convertissez la saisie manuscrite en texte dans n'importe quelle zone où elle est prise en charge"</string>
-    <string name="global_stylus_title">Saisie manuscrite</string>
     <string name="gmscore_settings_title">Services de base de Google</string>
     <string name="go_back_button_label">Retour</string>
     <string name="go_to_sleep">"Éteindre l'écran"</string>
@@ -3671,7 +3668,6 @@ La zone où vous pouvez confirmer le verrouillage de votre écran se déplacera 
     <string name="gxzw_quick_open_fast_title">Balayage rapide (avancé)</string>
     <string name="gxzw_quick_open_slow_summary">"Appuyez et maintenez l'icône d'empreinte digitale pour ouvrir le menu de raccourcis. Faites glisser pour utiliser un raccourci."</string>
     <string name="gxzw_quick_open_slow_title">Appuyez et maintenez</string>
-    <string name="gxzw_quick_open_title">Raccourcis</string>
     <string name="gxzw_vibrate_summary">"Vibrer pendant la lecture de l'animation de déverrouillage par empreinte digitale"</string>
     <string name="gxzw_vibrate_title">Vibrer lors du déverrouillage</string>
     <string name="handy_mode">Mode une main</string>
@@ -3998,8 +3994,6 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="key_gesture_function_optional">Boutons et gestes facultatifs</string>
     <string name="key_gesture_function_preview">Aperçus des boutons et gestes</string>
     <string name="key_gesture_function_shortcut">Raccourcis fonctionnels</string>
-    <string name="key_handwriting_input_summary">"Modifier le texte à l'aide d'un stylet. Les actions que vous pouvez effectuer incluent la suppression, la sélection, le collage et le démarrage d'un nouveau paragraphe."</string>
-    <string name="key_handwriting_input_title">Saisie manuscrite</string>
     <string name="key_none">Aucun</string>
     <string name="key_operation_diagram">"Diagramme d'opérations"</string>
     <string name="key_position_cat">Emplacement des boutons</string>
@@ -4796,7 +4790,6 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_auto_ack_mode">Répondez automatiquement aux appels lorsque vous portez les écouteurs</string>
     <string name="miheadset_auto_ack_mode_summary">Répondre automatiquement aux appels</string>
     <string name="miheadset_auto_answer_call">Répondre aux appels automatiquement</string>
-    <string name="miheadset_bluetooth_audio_title">"Taux d'échantillonnage audio Bluetooth LC3plus"</string>
     <string name="miheadset_Box">Boîtier</string>
     <string name="miheadset_bright">Brillant</string>
     <string name="miheadset_call_assist">Appel AI</string>
@@ -4904,7 +4897,6 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_triple_press_right">"Tapotez 3 fois sur l'écouteur de droite"</string>
     <string name="miheadset_unpair_device_text">%1$s sera dissocié de tous les périphériques associés à ce Compte Mi.</string>
     <string name="miheadset_virtual_surround">Son immersif virtuel</string>
-    <string name="miheadset_virtual_surround_summary">"Augmentez la profondeur sonore lors d'une lecture audio ou vidéo dans les écouteurs. Cette fonctionnalité ne fonctionnera pas lorsqu'un flux audio %s sera lu."</string>
     <string name="miheadset_voice_control_summary">"Lorsque cette fonctionnalité est activée, vous pouvez dire à Mi AI de naviguer sur votre appareil ou de contrôler la lecture audio à l'aide de commandes vocales"</string>
     <string name="miheadset_windnoise">Vent</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
@@ -5561,9 +5553,6 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="notification_alert_title">Alerte</string>
     <string name="notification_animation_style">Effets spéciaux</string>
     <string name="notification_app_settings_button">Paramètres de notification</string>
-    <string name="notification_assistant_security_warning_summary">"%1$s pourra lire toutes les notifications, y compris les données personnelles telles que les noms des contacts les messages que vous recevez. Il pourra aussi modifier ou masquer des notifications, ou encore activer les boutons d'action qu'elles contiennent.
-
-Cela donnera aussi la possibilité à l'application d'activer ou désactiver le mode Ne pas déranger et de modifier les réglages associés."</string>
     <string name="notification_assistant_security_warning_title">"Autoriser l'accès aux notifications pour %1$s ?"</string>
     <string name="notification_assistant_title">Notifications adaptatives</string>
     <string name="notification_badge_title">Autoriser la pastille de notification</string>
@@ -10067,7 +10056,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="zen_mode_duration_summary_always_prompt">"Toujours demander (sauf en cas d'activation automatique)"</string>
     <string name="zen_mode_duration_summary_forever">"Jusqu'à la désactivation (sauf en cas d'activation automatique)"</string>
     <string name="zen_mode_duration_summary_time_hours">{count, plural, =1 {1 hour} autres {# hours} }</string>
-    <string name="zen_mode_duration_summary_time_minutes">"%d minutes (sauf en cas d'activation automatique)"</string>
+    <string name="zen_mode_duration_summary_time_minutes">{count, plural, =1 {1 minute} autre {# minutes} }</string>
     <string name="zen_mode_effected_always">Toujours</string>
     <string name="zen_mode_enable_dialog_turn_on">Activer</string>
     <string name="zen_mode_end_time">Heure de fin</string>

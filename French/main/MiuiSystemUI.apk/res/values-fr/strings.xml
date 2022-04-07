@@ -416,7 +416,7 @@
     <string name="battery_info_status_unknown">Inconnu</string>
     <string name="battery_low_button_not_open_power_save">Pas maintenant</string>
     <string name="battery_low_button_open_power_save">Activé</string>
-    <string name="battery_low_percent_format">%d%% restant</string>
+    <string name="battery_low_percent_format">%s restant</string>
     <string name="battery_low_percent_format_save_mode_closed">Moins de %d%% de la batterie restante. Chargez votre appareil.</string>
     <string name="battery_low_percent_format_save_mode_open">"Moins de %d%% de la batterie restante. Activer l'économiseur de batterie pour économiser de l'énergie."</string>
     <string name="battery_low_percent_format_saver_started">%s restant. Économiseur de batterie activé.</string>

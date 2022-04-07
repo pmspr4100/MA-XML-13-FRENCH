@@ -76,7 +76,7 @@ certaines fonctionnalités de sécurité de votre appareil Android."</string>
     <string name="account_settings_incoming_summary">"Nom d'utilisateur, mot de passe et autres paramètres du serveur"</string>
     <string name="account_settings_login_dialog_content_fmt">"Le nom d'utilisateur ou le mot de passe du compte %s est incorrect.
 Mettre à jour maintenant ?"</string>
-    <string name="account_settings_login_dialog_reason_fmt">"Impossible de se connecter à %1$s. Le serveur dit: %2$s. Mettre à jour votre nom d'utilisateur ou votre mot de passe ?"</string>
+    <string name="account_settings_login_dialog_reason_fmt">"Impossible de se connecter à %1$s. Le serveur dit  %2$s. Mettre à jour votre nom d'utilisateur ou votre mot de passe ?"</string>
     <string name="account_settings_login_dialog_title">Impossible de se connecter</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Vous devez actualiser E-mail manuellement pour synchroniser vos e-mails</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">Vous devrez synchroniser Mail manuellement pour être en mesure de synchroniser les messages et les événements du calendrier.</string>
@@ -140,7 +140,7 @@ Mettre à jour maintenant ?"</string>
 (%s)"</string>
     <string name="account_setup_failed_dlg_device_locked">"Votre compte est protégé. Vérifiez cet appareil à l'aide de QQ Security ou supprimer la protection."</string>
     <string name="account_setup_failed_dlg_edit_details_action">Modifier les détails</string>
-    <string name="account_setup_failed_dlg_error_code">"Code d'erreur: %s"</string>
+    <string name="account_setup_failed_dlg_error_code">"Code d'erreur : %s"</string>
     <string name="account_setup_failed_dlg_server_message">Impossible de se connecter au serveur.</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Impossible de se connecter au serveur.
 (%s)"</string>
@@ -480,7 +480,7 @@ Mettre à jour maintenant ?"</string>
     <string name="dialog_insufficient_space_on_internal">Espace disque insuffisant sur le stockage interne.</string>
     <string name="dialog_system_auto_sync_account_no_open">Activer la synchronisation du compte pour recevoir automatiquement les e-mails</string>
     <string name="dialog_system_auto_sync_master_no_open">Activer la synchronisation pour recevoir automatiquement les e-mails</string>
-    <string name="disable_admin_warning">"AVERTISSEMENT: désactiver les permissions de l'application e-mail pour administrer votre appareil supprimera tous les comptes e-mail qui l'exigent, tout avec leurs e-mails, contacts, évènements d'agenda et autres données."</string>
+    <string name="disable_admin_warning">"AVERTISSEMENT : désactiver les permissions de l'application e-mail pour administrer votre appareil supprimera tous les comptes e-mail qui l'exigent, tout avec leurs e-mails, contacts, évènements d'agenda et autres données."</string>
     <string name="disallow_qq_auth_how_get_auth_code">"Comment obtenir un code d'autorisation ?"</string>
     <string name="discard_drafts">Effacer les brouillons</string>
     <string name="dismiss_tip_hover_text">"Désactiver l'astuce"</string>
@@ -552,10 +552,10 @@ Mettre à jour maintenant ?"</string>
     <string name="evening">Après-midi</string>
     <string name="exception_cancel">"
 Cet événement a été annulé
-pour le:
+pour le :
 %s
 "</string>
-    <string name="exception_updated">Les détails de cet évènement ont été modifiés pour:%s</string>
+    <string name="exception_updated">Les détails de cet évènement ont été modifiés pour :%s</string>
     <string name="exchange_login_hint">Appuyez pour vous connecter à un compte Exchange</string>
     <string name="exchange_name">Entreprise</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -646,7 +646,7 @@ pour le:
     <string name="forget_app_password">"Mot de passe de l'application oublié"</string>
     <string name="forward">Transférer</string>
     <string name="forward_attachment">Transférer</string>
-    <string name="forward_attribution">---------- Message transféré ----------&lt;br>De: %1$s&lt;br>Date: %2$s&lt;br>Objet: %3$s&lt;br>À: %4$s&lt;br></string>
+    <string name="forward_attribution">---------- Message transféré ----------&lt;br>De  %1$s&lt;br>Date: %2$s&lt;br>Objet : %3$s&lt;br>À : %4$s&lt;br></string>
     <string name="forward_attribution_no_headers">---------- Message transféré ----------</string>
     <string name="forward_download_failed_ticker">Impossible de transférer une ou plusieurs pièces jointes.</string>
     <string name="forward_download_failed_title">Pièce jointe non transférée</string>
@@ -654,7 +654,7 @@ pour le:
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
-    <string name="from_heading">"De: "</string>
+    <string name="from_heading">"De : "</string>
     <string name="general_preference_confirm_delete_label">Confirmer avant suppression</string>
     <string name="general_preference_confirm_send_label">Confirmer avant envoi</string>
     <string name="general_preference_delete_message_prompt_title">Demander avant de supprimer</string>
@@ -730,7 +730,6 @@ pour le:
     <string name="invoice_card_title">Facture électronique</string>
     <string name="item_view_role_description">Onglet</string>
     <string name="kilobytes">%s ko</string>
-    <string name="label_notification_ticker">%1$s : %2$s</string>
     <string name="list_empty_to_fresh">"Pas encore d'e-mails."</string>
     <string name="load_from_remote">Rechercher les e-mails sur le serveur</string>
     <string name="load_more">Charger plus</string>
@@ -762,7 +761,7 @@ Ce problème peut être causé par l'authentification à deux facteurs du compte
     <string name="login_err_sina_message">Utilisez des codes autorisés pour vous authentifier sur %1$s si vous avez choisi cette option précédemment. Allez sur https://mail.sina.com.cn/ pour réinitialiser votre mot de passe ou votre code.</string>
     <string name="login_failed">Impossible de se connecter</string>
     <string name="login_failed_ticker">Impossible de se connecter à %s.</string>
-    <string name="login_failed_tip">"Contactez-nous sur WeChat pour obtenir de l'aide: "</string>
+    <string name="login_failed_tip">"Contactez-nous sur WeChat pour obtenir de l'aide : "</string>
     <string name="login_failed_title">Impossible de se connecter</string>
     <string name="login_mail">Se connecter</string>
     <string name="login_manual">paramètre manuel</string>
@@ -789,16 +788,8 @@ Ce problème peut être causé par l'authentification à deux facteurs du compte
     <string name="mailbox_name_display_starred">Favoris</string>
     <string name="mailbox_name_display_trash">Corbeille</string>
     <string name="mailbox_name_display_unread">Non lu</string>
-    <string name="mailbox_name_server_all_unread">Non lus</string>
-    <string name="mailbox_name_server_drafts">Brouillons</string>
-    <string name="mailbox_name_server_inbox">Boîte de réception</string>
-    <string name="mailbox_name_server_junk">Corbeille</string>
-    <string name="mailbox_name_server_outbox">"Boîte d'envoi"</string>
-    <string name="mailbox_name_server_sent">Envoyé</string>
-    <string name="mailbox_name_server_starred">Favoris</string>
-    <string name="mailbox_name_server_trash">Poubelle</string>
-    <string name="mailbox_setting_preference_sync_summary_close">Sync: Off</string>
-    <string name="mailbox_setting_preference_sync_summary_open">Sync: On</string>
+    <string name="mailbox_setting_preference_sync_summary_close">Synchro : désactivée</string>
+    <string name="mailbox_setting_preference_sync_summary_open">Synchro : activée</string>
     <string name="mailbox_settings_activity_title">Paramètres de synchronisation</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Options de synchronisation (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Synchroniser les e-mails à partir de</string>
@@ -815,50 +806,50 @@ Ce problème peut être causé par l'authentification à deux facteurs du compte
     <string name="me_object_pronun">moi</string>
     <string name="me_subject_pronun">moi</string>
     <string name="meeting_accepted">"
-        Accepté:
+        Accepté :
         %s
 "</string>
     <string name="meeting_allday">"
-        Quand:
+        Quand :
         %s
         (toute la journée)
 "</string>
     <string name="meeting_allday_recurring">"
-        Quand:
+        Quand :
         %s
         (toute la journée, récurrent)
 "</string>
     <string name="meeting_canceled">"
-        Annulé:
+        Annulé :
         %s
 "</string>
     <string name="meeting_declined">"
-        Refusé:
+        Refusé :
 %s
 "</string>
     <string name="meeting_recurring">"
-        Quand:
+        Quand :
         %s
         (récurrent)
 "</string>
     <string name="meeting_responded_failed">Pas de réponse</string>
     <string name="meeting_tentative">"
-        Tentative:
+        Tentative :
         %s
 "</string>
     <string name="meeting_updated">"
-        Mis à jour:
+        Mis à jour :
         %s
 "</string>
     <string name="meeting_when">"
-        Quand:
+        Quand :
         %s
 "</string>
     <string name="meeting_where">"
-        Où:
+        Où :
         %s
 "</string>
-    <string name="megabytes">%s Mo</string>
+    <string name="megabytes">%s Mo</string>
     <string name="menu_att_mgr">Pièces jointes</string>
     <string name="menu_att_mgr_order_default">Récemment vu</string>
     <string name="menu_att_mgr_order_mime">Format</string>
@@ -892,8 +883,8 @@ Ce problème peut être causé par l'authentification à deux facteurs du compte
     <string name="message_invite_tentative">Peut-être</string>
     <string name="message_saved">Le message a été sauvegardé comme brouillon.</string>
     <string name="message_view_attachment_background_load">Les pièces jointes dans votre message transmis seront téléchargées avant de les envoyer.</string>
-    <string name="mi_sync_erroe_toast">"Une erreur de réseau s'est produite: "</string>
-    <string name="mi_sync_erroe_toast_other">"Une erreur de serveur s'est produite: "</string>
+    <string name="mi_sync_erroe_toast">"Une erreur de réseau s'est produite : "</string>
+    <string name="mi_sync_erroe_toast_other">"Une erreur de serveur s'est produite : "</string>
     <string name="mi_slide_menu">Barre latérale</string>
     <string name="mibill_privacy_policy_button1">Plus tard</string>
     <string name="mibill_privacy_policy_button2">Accepter</string>
@@ -1501,7 +1492,7 @@ respectées"</string>
     <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="title_activity_about">À propos</string>
     <string name="to">À</string>
-    <string name="to_heading">"À: "</string>
+    <string name="to_heading">"À : "</string>
     <string name="toast_bar_fail_synchronization">"Impossible d'accéder au serveur. Attendez une minute ou deux et réessayez."</string>
     <string name="toast_bar_insufficient_memory_space">Impossible de recevoir des e-mails. Espace de stockage insuffisant.</string>
     <string name="toast_bar_invalid_account">Les informations du compte ont expiré. Appuyez pour vous reconnecter.</string>

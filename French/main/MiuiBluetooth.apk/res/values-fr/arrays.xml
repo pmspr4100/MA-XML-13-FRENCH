@@ -95,13 +95,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC V3/V4</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>Activer les codecs optionnels</item>
-        <item>Désactiver les codecs optionnels</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>

@@ -9,15 +9,6 @@
         <item>"Échelle d'animation ×5"</item>
         <item>"Échelle d'animation ×10"</item>
     </string-array>
-    <string-array name="animator_duration_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite standard</item>
         <item>Aucun processus en arrière-plan</item>
@@ -25,18 +16,6 @@
         <item>Deux processus maximum</item>
         <item>Trois processus maximum</item>
         <item>Quatre processus maximum</item>
-    </string-array>
-    <string-array name="blood_type_values">
-        <item>0+</item>
-        <item>O-</item>
-        <item>A+</item>
-        <item>A-</item>
-        <item>B+</item>
-        <item>B-</item>
-        <item>AB+</item>
-        <item>AB-</item>
-        <item>H/H</item>
-        <item></item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Utiliser la sélection du système (par défaut)</item>
@@ -193,73 +172,34 @@
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Désactivé</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>Tous les tampons de journal</item>
+        <item>Tous sauf les tampons de journal radio</item>
+        <item>tampon du journal du kernel uniquement</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Désactivé</item>
         <item>Tous</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
-    </string-array>
-    <string-array name="select_logpersist_values">
-        <item></item>
-        <item>all</item>
-        <item>default,security,kernel</item>
-        <item>kernel</item>
+        <item>Tous sauf la radio</item>
+        <item>kernel uniquement</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Désactivé</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
-    </string-array>
-    <string-array name="simulate_color_space_entries">
-        <item>@string/daltonizer_mode_disabled</item>
-        <item>@string/daltonizer_mode_monochromacy</item>
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
-    </string-array>
-    <string-array name="simulate_color_space_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-        <item>3</item>
+        <item>Dessiner une zone de clip non rectangulaire en bleu</item>
+        <item>Surligner les commandes de dessin testées en vert</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Désactivé</item>
-        <item>On screen as bars</item>
-        <item>In adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>true</item>
+        <item>"À l'écran sous forme de barres"</item>
+        <item>Dans adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
+        <item>Animation désactivée</item>
+        <item>"Échelle d'animation 0,5×"</item>
+        <item>"Échelle d'animation 1×"</item>
+        <item>"Échelle d'animation 1,5×"</item>
+        <item>"Échelle d'animation 2×"</item>
+        <item>"Échelle d'animation 5×"</item>
+        <item>"Échelle d'animation 10×"</item>
     </string-array>
     <string-array name="tts_demo_string_langs">
         <item>eng</item>
@@ -278,26 +218,15 @@
         <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
+        <item>Très lent</item>
+        <item>Lent</item>
         <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
+        <item>Rapide</item>
+        <item>Plus rapide</item>
+        <item>Très rapide</item>
+        <item>Rapide</item>
+        <item>Très rapide</item>
+        <item>Le plus rapide</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Charging</item>
@@ -306,14 +235,6 @@
         <item>RNDIS (USB Ethernet)</item>
         <item>Audio Source</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="usb_configuration_values">
-        <item>none</item>
-        <item>mtp</item>
-        <item>ptp</item>
-        <item>rndis</item>
-        <item>audio_source</item>
-        <item>midi</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
@@ -358,21 +279,12 @@
         <item>Mauvaise connexion évitée temporairement</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
-    </string-array>
-    <string-array name="window_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
+        <item>Animation désactivée</item>
+        <item>"Échelle d'animation 0,5×"</item>
+        <item>"Échelle d'animation 1×"</item>
+        <item>"Échelle d'animation 1,5×"</item>
+        <item>"Échelle d'animation 2×"</item>
+        <item>"Échelle d'animation 5×"</item>
+        <item>"Échelle d'animation 10×"</item>
     </string-array>
 </resources>

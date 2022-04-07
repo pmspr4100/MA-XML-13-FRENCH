@@ -45,7 +45,6 @@
     <string name="backup_introduction">Vous pouvez utiliser cette application pour sauvegarder et restaurer des éléments sur votre appareil.</string>
     <string name="bluetooth_introduction">Bluetooth est utilisé par le système pour la communication sans fil. Pour pouvoir fonctionner normalement, Bluetooth a besoin des autorisations suivantes :</string>
     <string name="bluetooth_usage_desc">La configuration initiale vous permet de définir vos préférences de base pour cet appareil. Pour configurer votre appareil avec succès, les services du système Bluetooth utiliseront les autorisations suivantes :</string>
-    <string name="boot_video_desc">Voir le monde en 2K</string>
     <string name="boot_video_replay">Rejouer</string>
     <string name="boot_video_skip">Ignorer</string>
     <string name="calculator_introduction">"Vous pouvez utiliser cette application pour les calculs, la conversion des unités et des devises, et l'estimation de vos remboursements hypothécaires."</string>
