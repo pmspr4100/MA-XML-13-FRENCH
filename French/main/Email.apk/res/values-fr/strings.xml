@@ -449,7 +449,7 @@ Mettre à jour maintenant ?"</string>
     <string name="db_error">"Une erreur s'est produite. Connectez-vous à nouveau."</string>
     <string name="debug_mode_preferencecategory">Définir une sortie de journal</string>
     <string name="debug_mode_settings">Paramètres du mode Débogage</string>
-    <string name="default_">DEFAULT</string>
+    <string name="default_">Par défaut</string>
     <string name="default_exchange">EXCHANGE</string>
     <string name="default_imap">IMAP</string>
     <string name="default_opening_attchemnt_mode">"Ouvrir des pièces jointes à l'aide d'applications par défaut"</string>

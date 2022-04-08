@@ -3009,7 +3009,7 @@ If you have questions, contact %2$s."</string>
     <string name="no_shortcut">%1$s doesn’t support conversation features</string>
     <string name="not_default_data_content_description">Not set to use data</string>
     <string name="notif_inline_reply_remove_attachment_description">Remove attachment</string>
-    <string name="notification_alert_title">Default</string>
+    <string name="notification_alert_title">Par défaut</string>
     <string name="notification_appops_ok">OK</string>
     <string name="notification_appops_settings">Réglages</string>
     <string name="notification_automatic_title">Automatic</string>
