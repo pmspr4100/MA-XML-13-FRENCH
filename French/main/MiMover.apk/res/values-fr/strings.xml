@@ -31,6 +31,12 @@
     <string name="apple_calendar">Événements du calendrier</string>
     <string name="apple_contacts">Contacts</string>
     <string name="apple_image">Photos</string>
+    <string name="apple_install_background_downloading">Télécharger des applications en arrière-plan…</string>
+    <string name="apple_install_get_data_faild">"Une erreur s'est produite"</string>
+    <string name="apple_install_install_immediately_default">Installer</string>
+    <string name="apple_install_skip">Ignorer</string>
+    <string name="apple_install_sub_title">Les applications sélectionnées seront téléchargées à partir de GetApps</string>
+    <string name="apple_install_title">Applications de votre ancien appareil</string>
     <string name="apple_video">Vidéos</string>
     <string name="appname_app_data_suffix">"%1$s données d'application"</string>
     <string name="apps_cannot_be_transfered_confirm_button">Démarrer</string>
@@ -123,6 +129,7 @@ Visitez https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
     <string name="data_read_white_permission_desc">"Pour transférer des éléments vers d'autres appareils"</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
+    <string name="deselect_all">Tout désélectionner</string>
     <string name="dialog_airplane_mode_button">Paramètres</string>
     <string name="dialog_airplane_mode_content">"Mi Mover ne peut pas fonctionner lorsque le mode Avion est activé. Désactivez-le d'abord dans les paramètres."</string>
     <string name="dialog_airplane_mode_title">Désactiver le mode Avion</string>
@@ -164,9 +171,9 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="err_no_gms">"Version d'application incompatible. Installez cette application séparément."</string>
     <string name="err_not_allow">Non géré</string>
     <string name="err_pkg_not_exist">Application introuvable.</string>
-    <string name="err_remote_no_space">Not enough storage on the new device</string>
-    <string name="err_remote_timeout">Transfer timed out</string>
-    <string name="err_send_error">"Couldn't send"</string>
+    <string name="err_remote_no_space">Espace de stockage insuffisant sur le nouvel appareil</string>
+    <string name="err_remote_timeout">Le transfert a expiré</string>
+    <string name="err_send_error">"Impossible d'envoyer"</string>
     <string name="err_unknown">Erreur inconnue</string>
     <string name="err_user_abort">"Annulé par l'utilisateur."</string>
     <string name="err_version_too_old">Le fichier de sauvegarde est trop ancien.</string>
@@ -174,8 +181,7 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="error_permissions">"Cette application n'a pas les autorisations requises pour accéder au Calendrier. Allez dans Paramètres et vérifiez les autorisations pour continuer."</string>
     <string name="evening">Après-midi</string>
     <string name="expand_button_title">Avancé</string>
-    <string name="error_title">Synchronisation impossible</string>
-    <string name="error_unauthorized">"La synchronisation a été désactivée à cause d'un trop grand nombre de tentatives d'identification."</string>
+    <string name="fail_list_tips">"Les éléments suivants n'ont pas pu être transférés vers le nouvel appareil."</string>
     <string name="failed_description">Échec</string>
     <string name="faq">F.A.Q</string>
     <string name="finished">Terminé</string>
@@ -190,10 +196,13 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="friday_shortest">Ven</string>
     <string name="get_known_tip">Réessayer</string>
     <string name="group_info_scanning">Calcul…</string>
+    <string name="guest_connect_dialog_ensure_text">Se connecter</string>
+    <string name="guest_connect_dialog_fail_message">Impossible de se connecter. Réessayez.</string>
     <string name="guest_hint_connect_new_device">Appuyez sur le nouvel appareil pour le connecter.</string>
     <string name="guest_install_app_hint_ensure">Téécharger</string>
     <string name="guest_install_app_hint_summary">"La nouvelle version de Mi Mover n'est pas compatible avec celle installée sur cet appareil. Téléchargez et installez la nouvelle version."</string>
     <string name="guest_install_app_hint_title">Télécharger la nouvelle version de Mi Mover</string>
+    <string name="guest_manual_connect_link_text">Se connecter manuellement au nouvel appareil</string>
     <string name="guest_unfinished_task_alert_btn_negative">Recommencer</string>
     <string name="guest_unfinished_task_alert_btn_positive">Continuer</string>
     <string name="guest_unfinished_task_alert_message">Il semble que vous ayez des tâches de transfert non terminées. Continuer avec le transfert ?</string>
@@ -252,6 +261,7 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="icloud_need_traffic_title">Utilisation des données mobiles</string>
     <string name="icloud_need_wifi_message">"Vous n'êtes pas connecté au Wi-Fi. Pour importer les données depuis iCloud, connectez-vous au Wi-Fi."</string>
     <string name="icloud_need_wifi_new_message">Connectez-vous au Wi-Fi pour pouvoir importer des éléments depuis un iPhone.</string>
+    <string name="icloud_need_wifi_new_title">Se connecter au Wi-Fi</string>
     <string name="icloud_need_wifi_title">Se connecter au Wi-Fi</string>
     <string name="icloud_new_connect_wifi">Se connecter</string>
     <string name="icloud_signin_fail">Identification impossible</string>
@@ -275,8 +285,8 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="install_app_old_title">"Scannez le QR code pour installer Mi Mover sur l'ancien appareil"</string>
     <string name="install_app_to_another_phone_content">Installez Mi Mover sur votre nouvel appareil</string>
     <string name="install_complete_count_down_time">Installé avec succès. Démarrage du transfert (%1$d)</string>
-    <string name="install_mi_cloud_app_summary">Scan this QR code with your iPhone to download and install the app.</string>
-    <string name="install_mi_cloud_app_title">Install Xiaomi Cloud</string>
+    <string name="install_mi_cloud_app_summary">"Scannez ce QR code avec votre iPhone pour télécharger et installer l'application."</string>
+    <string name="install_mi_cloud_app_title">Installer Xiaomi Cloud</string>
     <string name="install_new_app_link_text">Installez Mi Mover sur votre nouvel appareil pour pouvoir vous connecter. Appuyez pour installer.</string>
     <string name="international_new_trans_intro_desc_8">"Les messages texte ne peuvent pas être transférés à cause de problèmes de compatibilité. Des applications tierces peuvent empêcher le transfert de leur données pour des raisons de sécurité."</string>
     <string name="international_new_trans_intro_question_8">"8. Pourquoi les messages texte et les données applicatives de certaines applications tierces ne peuvent-elles transférées ?"</string>
@@ -424,7 +434,6 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="new_wait_link_message_2">"\"I'm a sender\" button is right on the start page of Mi Mover."</string>
     <string name="new_wait_link_title_1">1. Go to Settings on your old device.</string>
     <string name="new_wait_link_title_2">2. Enter \"Mi Mover\" in the search bar.</string>
-    <string name="new_wait_link_title_3">3. Tap \"Mi Mover\" in the search results.</string>
     <string name="next">Suivant</string>
     <string name="night">Soirée</string>
     <string name="no_more_memory_title">"Mi Mover doit créer une sauvegarde locale sur cet appareil. Il n'y a actuellement pas assez d'espace de stockage pour créer une sauvegarde. Libérez d'abord de l'espace de stockage."</string>
@@ -468,6 +477,11 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="old_task_cleared">Suppression réussie des anciennes tâches</string>
     <string name="old_wait_link">"Sélectionnez les éléments à transférer sur l'ancien appareil"</string>
     <string name="old_wait_link_extra">Appuyez sur \"Transfert\"</string>
+    <string name="open_photo_and_contacts_cloud_sync_complete">Démarrer</string>
+    <string name="open_photo_and_contacts_cloud_sync_content1">%d. Activez la synchronisation pour les contacts et les éléments de la galerie.</string>
+    <string name="open_photo_and_contacts_cloud_sync_content2">%d. Appuyez sur \"Synchroniser maintenant\".</string>
+    <string name="open_photo_and_contacts_cloud_sync_summary">Activez la synchronisation pour faire apparaître les contacts et les éléments de la galerie sur cet appareil.</string>
+    <string name="open_photo_and_contacts_cloud_sync_title">Synchroniser les contacts et les éléments de la galerie</string>
     <string name="option_feedback_title">"Retour d'information"</string>
     <string name="option_privacy_policy">Politique de confidentialité</string>
     <string name="other_system_data">"Données d'application système"</string>
@@ -494,9 +508,9 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="permission_calender_summary">Pour transférer des événements de calendrier depuis iCloud</string>
     <string name="permission_calender_title">Accéder aux événements du calendrier</string>
     <string name="permission_call_log_summary">"Pour transférer l'historique des appels vers votre nouvel appareil"</string>
-    <string name="permission_call_log_title">Accessing call history</string>
-    <string name="permission_contacts_summary">For transferring contacts to your new device</string>
-    <string name="permission_contacts_title">Accessing contacts</string>
+    <string name="permission_call_log_title">"Accéder à l'historique des appels"</string>
+    <string name="permission_contacts_summary">Pour transférer des contacts vers votre nouvel appareil</string>
+    <string name="permission_contacts_title">Accéder aux contacts</string>
     <string name="permission_grant_request">"Pour pouvoir transférer cet élément, Mi Mover a besoin de l'autorisation \"%1$s\"."</string>
     <string name="permission_locale_summary">Pour connecter des appareils à proximité</string>
     <string name="permission_locale_title">"Accéder à l'emplacement"</string>
@@ -528,6 +542,7 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="provision_receiver_finish_button">Suivant</string>
     <string name="provision_select_data_null">Sélectionnez les éléments à transférer</string>
     <string name="provision_set_new_phone">Utiliser comme nouvel appareil</string>
+    <string name="qq_app">QQ</string>
     <string name="qq_app_receive_fail">Impossible de recevoir QQ</string>
     <string name="qq_app_send_fail">"Impossible d'envoyer QQ"</string>
     <string name="qq_data_external">Données carte SD QQ</string>
@@ -577,14 +592,18 @@ Libérez au moins %s."</string>
     <string name="scanner_quit_alert_title">Quitter maintenant ?</string>
     <string name="scanner_send_dialog_btn">Compris</string>
     <string name="scanner_send_dialog_message">"Ne désactivez-pas le Wi-Fi et ne changez pas de réseau durant le transfert."</string>
-    <string name="scanner_size_selected">Selectionné : %s</string>
+    <string name="scanner_size_selected">Sélectionné : %s</string>
     <string name="scanner_time_remained">Durée estimée : %s</string>
-    <string name="scanner_title_tip">Selectionnez les données à transférer</string>
+    <string name="scanner_title_tip">Sélectionnez les données à transférer</string>
     <string name="scanner_wechat_overwrite_hit">"À cause de restrictions dans les applications tierces, les historiques de chat et d'autres données sur votre nouvel appareil seront remplacés par ceux de l'ancien appareil une fois transfert terminé."</string>
     <string name="search_menu_title">Rechercher</string>
     <string name="searching_for_new_device">"Recherches d'appareils aux alentours…"</string>
+    <string name="select_all">Tout sélectionner</string>
     <string name="select_android_summary">Huawei, OPPO, vivo et autres</string>
-    <string name="select_empty">"Selectionnez d'abord les données à importer"</string>
+    <string name="select_android_title">Android</string>
+    <string name="select_apple_summary">iPhone</string>
+    <string name="select_apple_title">Apple</string>
+    <string name="select_empty">"Sélectionnez d'abord les données à importer"</string>
     <string name="select_item_calendar">Calendrier</string>
     <string name="select_item_contacts">Contacts</string>
     <string name="select_item_empty_summary">Aucun élément ici</string>
@@ -757,7 +776,7 @@ sur votre iPhone"</string>
     <string name="trans_time_format_second">"Moins d'une minute"</string>
     <string name="trans_time_spent">Temps passé : %s</string>
     <string name="transfer_bottom_tip">Vous ne pourrez pas utiliser le Wi-Fi ni le Bluetooth durant le transfert. Ne quittez pas cette page.</string>
-    <string name="transfer_connect_fail_summary">Tap the button below to connect manually</string>
+    <string name="transfer_connect_fail_summary">Appuyez sur le bouton ci-dessous pour vous connecter manuellement</string>
     <string name="transfer_finish_bottom_tip">"Si vous ne comptez utiliser encore votre ancien appareil, vous pouvez effacer toutes les données qu'il contient après avoir confirmé que toutes les données importantes ont bien été transférées."</string>
     <string name="transfer_finish_summary">%1$s transféré (%2$s)</string>
     <string name="transfer_long_pause_in_progress">Transfert…</string>
@@ -820,15 +839,8 @@ sur votre iPhone"</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
-    <string name="xiaomi_update_sdk_bytes_unit">"%1$s o"</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">"Connect Download Manager a échoué. Vérifiez l'état de Download Manager dans le gestionnaire d'applications."</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
-Taille : %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
-Taille de mise à jour : %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s mises à jour !</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Stockage indisponible, veuillez vérifier votre carte SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s Ko"</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">"%1$s Mo"</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Pas maintenant</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
     <string name="yesterday">Hier</string>
 </resources>

@@ -266,6 +266,7 @@
   <string name="sc_notification_warning_content">"La mise en page peut être anormale en mode plein écran. Vous pouvez revenir à l'état avant le basculement ou accéder aux paramètres."</string>
   <string name="sc_notification_warning_restore">Récupérer</string>
   <string name="sc_notification_warning_settings">Aller dans les paramètres</string>
+  <string name="sc_notification_warning_title">"Changer de mode d'affichage"</string>
   <string name="sc_relaunch_dialog_message">"Ne peut pas être adapté pour plier l'appareil pendant que vous utilisez l'application. Vous pouvez redémarrer l'application pour passer en mode plein écran. Redémarrer quand même ?"</string>
   <string name="scanning_device_tips">"Recherche d'appareils à proximité… Vérifiez que l'autre appareil est en mode découverte."</string>
   <string name="screen_button_notification_text">Pour les activer, appuyez simultanément sur les boutons Accueil et Power.</string>
