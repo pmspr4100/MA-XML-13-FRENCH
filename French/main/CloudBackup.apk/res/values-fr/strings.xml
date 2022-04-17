@@ -27,7 +27,8 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
-  <string name="about_to_recover">Chargement…</string>
+  <string name="about_to_recover">Un instant…</string>
+  <string name="access_denied_info">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
   <string name="actionbar_button_up_description">Retour</string>
   <string name="afternoon">Après-midi</string>
   <string name="am">AM</string>
@@ -150,10 +151,17 @@ Note : Les données des applications que vous avez installées ne seront pas sa
   <string name="cloud_backup_have_data">Trouvé une sauvegarde dans Xiaomi Cloud</string>
   <string name="cloud_backup_in_cancel">Annuler</string>
   <string name="cloud_backup_in_process">Sauvegarde en cours</string>
+  <string name="cloud_backup_permission_allow">Accordé</string>
+  <string name="cloud_backup_permission_not_allow">Non accordé</string>
+  <string name="cloud_backup_phone_state_summary">"Accéder au numéro de téléphone et à l'état de l'appareil"</string>
+  <string name="cloud_backup_phone_state_title">"Accéder aux informations sur l'appareil"</string>
+  <string name="cloud_backup_rw_storage_summary">"Pour la sauvegarde dans le cloud de la disposition de l'écran d'accueil, des données d'application et des paramètres d'application"</string>
+  <string name="cloud_backup_rw_storage_title">Accéder au stockage</string>
   <string name="cloud_backup_select_recover">Choisir une sauvegarde à partir de Xiaomi Cloud</string>
   <string name="cloud_restore_from_other_device">Arrêter la restauration depuis %s et supprimer cette sauvegarde ? Vous ne pourrez pas annuler cette action.</string>
   <string name="cloud_restore_task">Restauration…</string>
   <string name="cloud_task_in_process">Arrêter %s et supprimer cette sauvegarde ? Vous ne pourrez pas annuler cette action.</string>
+  <string name="collect_diagnosis_log">Collecter le journal de diagnostic</string>
   <string name="confirm_restore">Restaurer</string>
   <string name="confirm_restore_summary">"L'écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement."</string>
   <string name="confirm_restore_title">Restaurer</string>
@@ -169,6 +177,10 @@ Note : Les données des applications que vous avez installées ne seront pas sa
   <string name="desktop_wait_network">Patienter…</string>
   <string name="desktop_waiting">En attente</string>
   <string name="device_delete_prompt">Supprimer la sauvegarde de %s ?</string>
+  <string name="diagnosis_log_send_failed">"L'envoi du journal de diagnostic a échoué."</string>
+  <string name="diagnosis_log_sent_format">"Le journal de diagnostic a été envoyé.
+ID : %s
+Veuillez envoyer ce code au technicien."</string>
   <string name="dialog_app_usage_denied">"Donnez l'autorisation de sauvegarde \"Accès à l'utilisation\" dans les paramètres pour pouvoir sauvegarder les éléments."</string>
   <string name="dialog_backup_failed">Impossible de sauvegarder</string>
   <string name="dialog_btn_cancel_backup">Annuler</string>
@@ -214,6 +226,7 @@ Note : Les données des applications que vous avez installées ne seront pas sa
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+  <string name="for_diagnosis_usage_only">Utilisez ces informations uniquement pour le diagnostic.</string>
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
@@ -225,8 +238,10 @@ Note : Les données des applications que vous avez installées ne seront pas sa
   <string name="home_restore_error">"Impossible de restaurer l'écran d'accueil"</string>
   <string name="lack_of_storage">Espace de stockage insuffisant</string>
   <string name="latest_backup_time_loading">Chargement…</string>
+  <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+  <string name="library_android_database_sqlcipher_libraryDescription">API Android SQLite basée sur SQLCipher</string>
+  <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
   <string name="load_backup_failed">Impossible de charger les sauvegardes</string>
-  <string name="loading_progress_num">(%s%%)</string>
   <string name="loading_user_backup">"Chargement des sauvegardes d'utilisateur…"</string>
   <string name="managespace_delete_backup">Supprimer</string>
   <string name="menu_item_managespace">"Gérer l'espace de stockage"</string>
@@ -305,6 +320,8 @@ Note : Les données des applications que vous avez installées ne seront pas sa
   <string name="msg_restore_with_metered_network_hint">Si vous procédez à la restauration de ces éléments, les données mobiles seront utilisées pour le téléchargement..</string>
   <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> des fichiers seront téléchargés."</string>
   <string name="network_error">Se connecter au réseau</string>
+  <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
+  <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
   <string name="night">Soirée</string>
   <string name="no_account">"Vous n'êtes pas connecté au Compte Mi."</string>
   <string name="no_backup">Aucune sauvegarde dans Xiaomi Cloud.</string>
@@ -312,13 +329,16 @@ Note : Les données des applications que vous avez installées ne seront pas sa
   <string name="not_set">Non défini</string>
   <string name="notification_channel_remind">Rappel</string>
   <string name="notification_channel_service">Service</string>
+  <string name="ok">OK</string>
   <string name="open_backup_switch">Basculer le bouton de sauvegarde</string>
   <string name="other_device_main_space">Premier espace</string>
   <string name="other_device_second_space">Deuxième espace</string>
   <string name="pc_mode_not_support_restore_warning">Impossible de restaurer les éléments en mode PC. Désactivez le mode PC et réessayez.</string>
+  <string name="permission_to_use">Détails des permissions</string>
   <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="process_whole_recovery">Restauration de \"%s\"</string>
+  <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
   <string name="provision_back">Retour</string>
   <string name="provision_background_restore_more_data">Restaurer plusieurs éléments en arrière-plan</string>
   <string name="provision_error_connect_msg">"Testez le réseau et réessayez. Les sauvegardes ne sont pas disponibles lorsque votre appareil est hors ligne."</string>
@@ -386,6 +406,8 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="self_device_main_space">Premier espace de ce téléphone</string>
   <string name="self_device_second_space">Second espace de ce téléphone</string>
   <string name="send">Envoyer</string>
+  <string name="send_diagnosis_log">Envoyer le journal de diagnostic</string>
+  <string name="sending">Envoi…</string>
   <string name="session_action_btn_text_return_home">"Écran d'accueil"</string>
   <string name="session_backup_apk_data_text">Sauvegarde des données WeChat…</string>
   <string name="session_backup_apk_text">"Sauvegarde de la disposition de l'écran d'accueil et des paramètres système…"</string>
@@ -452,9 +474,11 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="storage_unit_gb">%s Go</string>
   <string name="storage_unit_mb">%s Mo</string>
   <string name="success_open_cloudbackup">Sauvegarde des applications activée</string>
-  <string name="sunday">Sunday</string>
-  <string name="sunday_short">Sun</string>
-  <string name="sunday_shortest">Sun</string>
+  <string name="sunday">Dimanche</string>
+  <string name="sunday_short">Dim</string>
+  <string name="sunday_shortest">Dim</string>
+  <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
+  <string name="temporary_not_available">temporairement non disponible</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
   <string name="the_anti_aggression_day">Anti-Aggression Day</string>
   <string name="the_arbor_day">Arbor Day</string>
@@ -510,6 +534,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">Mar</string>
+  <string name="unknown_error_info">Erreur inconnue</string>
   <string name="unselected">Non sélectionné</string>
   <string name="unsupported_home">Mettez à jour MIUI avec la dernière version.</string>
   <string name="v7_preference_off">Désactiver</string>

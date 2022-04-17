@@ -8026,7 +8026,6 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="stylus_connecting">Connexion…</string>
     <string name="stylus_function_and_action">Fonctionnalités</string>
     <string name="stylus_keyboard_settings_title">Stylet &amp; clavier</string>
-    <string name="stylus_language_summary">Reconnaître les chiffres et le texte manuscrit en anglais et dans une autre langue sélectionnée</string>
     <string name="stylus_not_connect_message">"Le stylet n'est pas connecté"</string>
     <string name="stylus_ota_check_failed_battery">Impossible de vérifier. La batterie de votre stylet est faible.</string>
     <string name="stylus_ota_check_failed_info">Impossible de vérifier la version du micrologiciel. Attachez à nouveau votre stylet.</string>
