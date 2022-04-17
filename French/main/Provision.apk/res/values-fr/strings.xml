@@ -448,7 +448,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="sim_card_detecting_title">Vérifier la carte SIM</string>
     <string name="sim_card_detection">Insérez une carte SIM</string>
     <string name="sim_card_detection_info">"Pour insérez la carte SIM, veuillez consulter le manuel fourni avec l'appareil."</string>
-    <string name="sim_card_detection_info_sb">"Insérez une carte SIM avant de continuer. Trouver un appareil et les fonctionnalités liées à la synchronisation ne seront pas entièrement disponibles si vous créez un compte sans carte SIM. Cet appareil prend en charge eSIM. "</ chaîne>
+    <string name="sim_card_detection_info_sb">"Insérez une carte SIM avant de continuer. Trouver un appareil et les fonctionnalités liées à la synchronisation ne seront pas entièrement disponibles si vous créez un compte sans carte SIM. Cet appareil prend en charge eSIM. "</string>
     <string name="sim_card_detection_info_sb_esim">Appuyez pour activer eSIM.</string>
     <string name="sim_card_detection_mobile_not_available">"La carte SIM n'arrive pas à se connecter au réseau"</string>
     <string name="sim_card_detection_sb_esim">Activer eSIM</string>
