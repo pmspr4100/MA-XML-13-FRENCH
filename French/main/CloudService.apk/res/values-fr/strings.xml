@@ -37,6 +37,7 @@
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Compte ou mot de passe non valide</string>
     <string name="btn_return">Retour</string>
+    <string name="btn_revoke_permission">Retirer le consentement</string>
     <string name="button_agree">Autoriser</string>
     <string name="button_cancel">Annuler</string>
     <string name="button_quit">Quitter</string>

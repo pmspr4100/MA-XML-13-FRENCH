@@ -407,6 +407,10 @@ Protocole de connexion plus rapide."</string>
     <string name="headset_fw_error_failed">Impossible de mettre à jour. Les informations du micrologiciel sont incorrectes.</string>
     <string name="headset_fw_file_position_failed">"Impossible d'accéder au fichier"</string>
     <string name="headset_fw_file_readfailed">"Impossible d'obtenir les informations de mise à jour"</string>
+    <string name="headset_incall_answer">Répondre</string>
+    <string name="headset_incall_reject">Annuler</string>
+    <string name="headset_incall_summary">"Répondre à un appel sur %1$s avec vos écouteurs ? Vos écouteurs resteront connectés à cet appareil après la fin de l'appel."</string>
+    <string name="headset_incall_title">"Répondre à l'appel avec des écouteurs"</string>
     <string name="headset_loss_notify_summary">"Il semble qu'au moins un de vos écouteurs ne soit pas dans l'étui de chargement. Jetez un œil !"</string>
     <string name="headset_loss_notify_summary1">"Il semble que vos écouteurs ne sont pas dans l'étui. Remettez-les pour les laisser charger."</string>
     <string name="headset_loss_notify_title">"Alerte d'écouteur manquant"</string>

@@ -229,6 +229,7 @@
     <string name="msim_setting_default_data">Données SIM</string>
     <string name="msim_setting_default_voice">SIM par défaut pour les appels</string>
     <string name="multisim_settings_category">Paramètres de la carte SIM</string>
+    <string name="multisim_settings_sb_title">Carte SIM %d détectée</string>
     <string name="multisim_settings_title">2 cartes SIM détectées</string>
     <string name="navigation_picker_gesture_guide">Guide de gestes</string>
     <string name="navigation_picker_radio_text_full_screen">Gestes en plein écran</string>
@@ -447,7 +448,11 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="sim_card_detecting_title">Vérifier la carte SIM</string>
     <string name="sim_card_detection">Insérez une carte SIM</string>
     <string name="sim_card_detection_info">"Pour insérez la carte SIM, veuillez consulter le manuel fourni avec l'appareil."</string>
+    <string name="sim_card_detection_info_sb">"Insérez une carte SIM avant de continuer. Trouver un appareil et les fonctionnalités liées à la synchronisation ne seront pas entièrement disponibles si vous créez un compte sans carte SIM. Cet appareil prend en charge eSIM. "</ chaîne>
+    <string name="sim_card_detection_info_sb_esim">Appuyez pour activer eSIM.</string>
     <string name="sim_card_detection_mobile_not_available">"La carte SIM n'arrive pas à se connecter au réseau"</string>
+    <string name="sim_card_detection_sb_esim">Activer eSIM</string>
+    <string name="sim_card_detection_sb_nonactivated">Non activé</string>
     <string name="sim_card_dial_card">SIM %d pour les appels</string>
     <string name="sim_card_do_not_select_dial_card">Sélectionnez la carte SIM lors de la composition du numéro</string>
     <string name="sim_card_network_card">Données SIM %d</string>

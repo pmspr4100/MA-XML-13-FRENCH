@@ -1221,7 +1221,7 @@ Applications :
     <string name="block_list_dialog_title">Déconnecter maintenant ?</string>
     <string name="block_list_no_device">Aucun appareil connecté dans la liste noire</string>
     <string name="block_list_remove_dialog_content">"L'appareil \"%s\" sera en mesure de se connecter à ce point d'accès"</string>
-    <string name="block_list_remove_dialog_title">Retirer “%s” de la liste noire</string>
+    <string name="block_list_remove_dialog_title">Attention</string>
     <string name="block_list_summary">"Afficher les appareils qui ne sont pas autorisés à se connecter à ce point d'accès"</string>
     <string name="block_list_title">Liste noire</string>
     <string name="block_title">Afficher les notifications</string>
@@ -4204,6 +4204,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="layout_size_medium_text">Moyenne</string>
     <string name="layout_size_normal_text">Petite</string>
     <string name="layout_size_small_text">Très petite</string>
+    <string name="le_audio_title">LE Audio</string>
     <string name="learn_more">En savoir plus</string>
     <string name="led_colors_summary">Couleur de la LED de notification</string>
     <string name="led_frequence_summary">Définir un intervalle de fréquence</string>
