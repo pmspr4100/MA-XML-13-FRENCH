@@ -178,9 +178,9 @@ Note : Les données des applications que vous avez installées ne seront pas sa
   <string name="desktop_waiting">En attente</string>
   <string name="device_delete_prompt">Supprimer la sauvegarde de %s ?</string>
   <string name="diagnosis_log_send_failed">"L'envoi du journal de diagnostic a échoué."</string>
-  <string name="diagnosis_log_sent_format">"Le journal de diagnostic a été envoyé.
+  <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
 ID : %s
-Veuillez envoyer ce code au technicien."</string>
+Envoyez ce code au superviseur."</string>
   <string name="dialog_app_usage_denied">"Donnez l'autorisation de sauvegarde \"Accès à l'utilisation\" dans les paramètres pour pouvoir sauvegarder les éléments."</string>
   <string name="dialog_backup_failed">Impossible de sauvegarder</string>
   <string name="dialog_btn_cancel_backup">Annuler</string>

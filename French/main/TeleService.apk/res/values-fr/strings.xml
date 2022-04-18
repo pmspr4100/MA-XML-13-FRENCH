@@ -811,7 +811,7 @@ Bluetooth"</string>
     <string name="dual_4g_switch_summary">Autoriser la connectivité 4G pour les deux tiroirs SIM</string>
     <string name="dual_4g_switch_title">Dual 4G</string>
     <string name="eab_provisioned_switch_string">EAB/Presence Provisioned</string>
-    <string name="early_morning">Morning</string>
+    <string name="early_morning">Matin</string>
     <string name="ecm_exit_dialog">EcmExitDialog</string>
     <string name="edit_fdn_contact">Modifier le numéro autorisé</string>
     <string name="emergencyDialerIconLabel">"Composeur d'urgence"</string>

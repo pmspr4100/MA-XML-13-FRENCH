@@ -417,7 +417,7 @@ Les pages que vous consultez n'apparaîtront pas dans l'historique."</string>
     <string name="delete_task_dialog_msg">Supprimer la tâche sélectionnée ?</string>
     <string name="detail_guide_tips">"Faites glisser vers le haut pour plus d'articles connexes"</string>
     <string name="diagnosis_log_send_failed">"Impossible d'envoyer les journaux. Réessayer."</string>
-    <string name="diagnosis_log_sent_format">"Les journaux ont été envoyés avec succès.
+    <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
 ID : %s
 Envoyez ce code au superviseur."</string>
     <string name="dialog_channel_cancel">Annuler</string>

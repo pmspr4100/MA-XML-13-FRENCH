@@ -192,7 +192,7 @@ Vous pouvez vous connecter à votre Compte Mi en utilisant %s maintenant."</stri
     <string name="device_list_title">Mes appareils</string>
     <string name="device_name">"Nom de l'appareil"</string>
     <string name="diagnosis_log_send_failed">"Impossible d'envoyer le journal."</string>
-    <string name="diagnosis_log_sent_format">"Journal envoyé avec succès.
+    <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
 ID : %s
 Envoyez ce code au superviseur."</string>
     <string name="download_file">Téléchargement de %s…</string>

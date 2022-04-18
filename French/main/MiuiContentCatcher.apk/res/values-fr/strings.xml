@@ -47,7 +47,7 @@
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="delete">Supprimer</string>
-    <string name="early_morning">Morning</string>
+    <string name="early_morning">Matin</string>
     <string name="invalid_package_signature">"Signature d'application non valide"</string>
     <string name="login_mi_account_alert">Attention</string>
     <string name="login_mi_account_summary">"Le gestionnaire de mots de passe synchronise les mots de passe avec votre Compte Mi. Se connecter maintenant ?"</string>

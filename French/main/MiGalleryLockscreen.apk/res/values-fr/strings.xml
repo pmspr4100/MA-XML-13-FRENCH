@@ -639,7 +639,7 @@ Cela peut générer des frais supplémentaires."</string>
     <string name="passport_quick_login_step2_title">2-step verification</string>
     <string name="passport_quick_login_title">Enter your password</string>
     <string name="passport_re_get_verify_code">Get code again</string>
-    <string name="passport_reging">Creating account…</string>
+    <string name="passport_reging">Création du compte…</string>
     <string name="passport_register_restricted">Too many accounts have been associated with this number. Try a different one.</string>
     <string name="passport_reload_ph_ticket">Renvoyer</string>
     <string name="passport_relogin_notice">You need to sign in again</string>

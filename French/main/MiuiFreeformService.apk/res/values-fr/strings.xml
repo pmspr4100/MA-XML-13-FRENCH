@@ -26,7 +26,7 @@
   <string name="contentDescription">Déplacer la fenêtre</string>
   <string name="date_picker_lunar">Chinese Traditional Calendar</string>
   <string name="date_time_picker_dialog_title">Set date and time</string>
-  <string name="early_morning">Morning</string>
+  <string name="early_morning">Matin</string>
   <string name="eras_ad">Apr. J.-C.</string>
   <string name="eras_bc">Av. J.-C.</string>
   <string name="evening">Après-midi</string>
@@ -133,7 +133,7 @@
   <string name="month_september_short">Sep</string>
   <string name="month_september_shortest">Sep</string>
   <string name="more">Plus</string>
-  <string name="morning">Morning</string>
+  <string name="morning">Matin</string>
   <string name="multi_window_cvw">Fenêtre flottante</string>
   <string name="multi_window_cvw_summary">Faites glisser le coin pour basculer vers une fenêtre flottante et ajuster sa taille</string>
   <string name="multi_window_cvw_summary_global">Faites glisser le coin pour basculer vers une fenêtre flottante et ajuster sa taille</string>

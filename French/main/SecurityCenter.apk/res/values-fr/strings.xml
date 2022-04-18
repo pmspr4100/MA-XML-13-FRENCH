@@ -919,7 +919,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="beauty_fun_privacy">Privacy camera</string>
     <string name="beauty_fun_privacy_dialog_message">When you use the camera for face recognition features, your face will be detected automatically and other captured areas will be masked.</string>
     <string name="beauty_fun_privacy_dialog_tips">This feature may lower the success rate of face recognition</string>
-    <string name="beauty_fun_privacy_ingnore">No thanks</string>
+    <string name="beauty_fun_privacy_ingnore">Non merci</string>
     <string name="beauty_fun_privacy_message">Detect faces and mask other captured areas when the camera is used with face recognition features</string>
     <string name="beauty_fun_privacy_open">Turn on</string>
     <string name="beauty_fun_privacy_open_tips">Privacy camera is on</string>
@@ -1117,7 +1117,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Adding Mi Account</string>
     <string name="confirm_fingerprint_msg">Verify your fingerprint</string>
-    <string name="confirm_leave">No thanks</string>
+    <string name="confirm_leave">Non merci</string>
     <string name="confirm_open">Turn on</string>
     <string name="confirm_open_shut_down_password_content">Set a screen lock before turning on shutdown confirmation.</string>
     <string name="confirm_open_shut_down_password_title">Set screen lock</string>

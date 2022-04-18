@@ -3004,7 +3004,7 @@ If you have questions, contact %2$s."</string>
     <string name="new_status_content_description">%1$s has a status update: %2$s</string>
     <string name="new_story_status">New story</string>
     <string name="new_story_status_content_description">%1$s shared a new story</string>
-    <string name="no_auto_saver_action">No thanks</string>
+    <string name="no_auto_saver_action">Non merci</string>
     <string name="no_conversations_text">Your recent conversations will show up here</string>
     <string name="no_shortcut">%1$s doesn’t support conversation features</string>
     <string name="not_default_data_content_description">Not set to use data</string>

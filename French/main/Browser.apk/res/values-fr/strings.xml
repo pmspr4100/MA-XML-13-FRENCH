@@ -305,7 +305,7 @@
   <string name="dialog_insufficient_space_on_cache">"Impossible de télécharger"</string>
   <string name="dialog_insufficient_space_on_external">"Pas assez d'espace sur le stockage amovible"</string>
   <string name="dialog_media_not_found">"Impossible de télécharger: aucun stockage amovible détecté"</string>
-  <string name="dialog_nps_comment_cancel_text">No thanks</string>
+  <string name="dialog_nps_comment_cancel_text">Non merci</string>
   <string name="dialog_nps_comment_confirm_text">Rate</string>
   <string name="dialog_nps_comment_slogan_text">"Rate our app
 to support our work"</string>

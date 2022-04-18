@@ -68,7 +68,7 @@ dd/MM"</string>
     <string name="copy">Copier</string>
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
-    <string name="early_morning">Morning</string>
+    <string name="early_morning">Matin</string>
     <string name="error_icon_content_description">Error</string>
     <string name="evening">Après midi</string>
     <string name="expand_button_title">Advanced</string>
@@ -182,7 +182,7 @@ dd/MM"</string>
     <string name="month_september_short">Sept</string>
     <string name="month_september_shortest">Sept</string>
     <string name="more">Plus</string>
-    <string name="morning">Morning</string>
+    <string name="morning">Matin</string>
     <string name="mtrl_badge_numberless_content_description">New notification</string>
     <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>

@@ -340,7 +340,7 @@ Appuyez sur \"Effacer et convertir\" pour continuer."</string>
     <string name="disabled_by_admin_summary_text">"Contrôlé par l'administrateur"</string>
     <string name="do_not_show_again">Ne plus afficher</string>
     <string name="duplicate_video_call_not_allowed">"Impossible d'ajouter plus d'appels"</string>
-    <string name="early_morning">Morning</string>
+    <string name="early_morning">Matin</string>
     <string name="enable_account_preference_title">Comptes des appels</string>
     <string name="enable_adb">Débogage USB</string>
     <string name="enable_adb_summary">Activer le Mode débogage lorsque le support USB est connecté</string>
