@@ -537,7 +537,7 @@ En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aa
 Itinérance Mi nécessite une connexion à internet et doit accéder à vos informations de localisation pour fonctionner normalement. De plus, Itinérance Mi est suceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales."</string>
     <string name="cta_dialog_cancel">Quitter</string>
     <string name="cta_dialog_ok">"J'accepte"</string>
-    <string name="cta_dialog_title">Termes et conditions</string>
+    <string name="cta_dialog_title">Conditions générales</string>
     <string name="customLabelPickerTitle">Nom personnalisé</string>
     <string name="custom_list_filter">Définir une vue personnalisée</string>
     <string name="custom_nickname_hint">Entrez le pseudo</string>
@@ -1313,7 +1313,7 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="recent_contacts_label">Récents</string>
     <string name="recent_number">Récent</string>
     <string name="recent_updates">Mises à jour récentes</string>
-    <string name="redirect_calls_to_vm_confirm_message">Avant de paramétrer votre boite mail, vérifiez les Termes et conditions de votre contrat avec votre opérateur mobile.</string>
+    <string name="redirect_calls_to_vm_confirm_message">Avant de paramétrer votre boite mail, vérifiez les Conditions générales de votre contrat avec votre opérateur mobile.</string>
     <string name="redirect_calls_to_vm_confirm_text">OK</string>
     <string name="refresh">Actualiser</string>
     <string name="relationLabelsGroup">Relation</string>

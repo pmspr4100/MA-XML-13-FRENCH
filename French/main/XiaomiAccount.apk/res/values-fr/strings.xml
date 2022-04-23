@@ -91,7 +91,7 @@ L'ID de votre compte : %s"</string>
     <string name="activity_not_found_notice">Application introuvable</string>
     <string name="add_account">Ajouter un compte</string>
     <string name="afternoon">Après-midi</string>
-    <string name="agreement_and_privacy">Termes et conditions</string>
+    <string name="agreement_and_privacy">Conditions générales</string>
     <string name="am">AM</string>
     <string name="app_name">Compte Mi</string>
     <string name="area_code_no_search_result">Impossible de trouver des résultats</string>
@@ -452,7 +452,7 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_error_sim_not_ready">Carte SIM introuvable</string>
     <string name="passport_error_ssl_hand_shake">Impossible de se connecter au serveur</string>
     <string name="passport_error_unknown">Erreur inconnue</string>
-    <string name="passport_error_user_agreement_error">"Acceptez d'abord les termes et conditions"</string>
+    <string name="passport_error_user_agreement_error">"Acceptez d'abord les conditions générales"</string>
     <string name="passport_error_user_name">"L'identifiant saisi n'est pas valide"</string>
     <string name="passport_error_verify_activator_phone_message">"Assurez-vous que le service de la carte SIM est activé et que l'appareil est connecté au réseau."</string>
     <string name="passport_error_verify_activator_phone_title">Impossible de vérifier le numéro de téléphone</string>
@@ -828,7 +828,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>
     <string name="user_instruction_all_purpose">"Bienvenue sur le Compte Mi ! Vous pouvez utiliser votre compte pour accéder aux services fournis par Xiaomi et ses sociétés affiliées, telles que Mi.com, Xiaomi Cloud et GetApps. Vous pouvez obtenir des Mi Coins, acheter des biens virtuels et profiter de services à valeur ajoutée, notamment des jeux, des thèmes et des livres électroniques."</string>
-    <string name="user_instruction_tip">Pour pouvoir vous connecter, lisez et acceptez les termes et conditions.</string>
+    <string name="user_instruction_tip">Pour pouvoir vous connecter, lisez et acceptez les conditions générales.</string>
     <string name="user_license_with_3rd_app"><Data>"En me connectant avec mon Compte Mi, je confirme avoir lu et accepté le &lt;a href=%1$s>Contrat d'utilisation&lt;/a>, la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, le  &lt;a href=%3$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
     <string name="user_license_without_3rd_app"><Data>"J'ai lu et j'accepte le &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>

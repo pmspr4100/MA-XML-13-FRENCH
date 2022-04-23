@@ -256,7 +256,7 @@ dd/MM"</string>
   <string name="standard_style">Standard</string>
   <string name="step_component_info_active_tip">Le nombre de pas est fourni par Mi Santé. Acceptez les Conditions générales de Mi Santé pour continuer.</string>
   <string name="step_component_info_desc">Le nombre de pas se transforme en trophée lorsque votre objectif est atteint. Le nombre de pas est fourni par Mi Santé.</string>
-  <string name="step_component_info_tip">Le nombre de pas est fourni par Mi Santé. Installez ou mettez à jour Xiaomi Health et acceptez ses Termes et conditions pour continuer.</string>
+  <string name="step_component_info_tip">Le nombre de pas est fourni par Mi Santé. Installez ou mettez à jour Xiaomi Health et acceptez ses Conditions générales pour continuer.</string>
   <string name="summary">"Pour réduire la consommation d'énergie, les éléments ne s'afficheront plus lorsque votre appareil restera longtemps dans l'obscurité."</string>
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>

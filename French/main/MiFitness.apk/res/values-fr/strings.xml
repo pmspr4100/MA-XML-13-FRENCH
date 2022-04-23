@@ -538,7 +538,7 @@ Si vous changez d'avis, avant d'utiliser nos services, vous devez accepter notre
     <string name="device_add_failed">"Impossible d'ajouter"</string>
     <string name="device_add_new">Ajouter un appareil</string>
     <string name="device_agree_all">Tout accepter</string>
-    <string name="device_agree_to_terms">Termes et conditions</string>
+    <string name="device_agree_to_terms">Conditions générales</string>
     <string name="device_alarm_notify">Synchroniser les alarmes du téléphone</string>
     <string name="device_all_skills">Toutes les fonctionnalités</string>
     <string name="device_amazon_alexa">Amazon Alexa</string>
@@ -3638,7 +3638,7 @@ This step is required to pay with your device."</string>
     <string name="sport_common_download_succeed">Downloaded successfully</string>
     <string name="sport_common_error">"Une erreur système s'est produite. Réessayez plus tard."</string>
     <string name="sport_common_goto_set">Paramètres</string>
-    <string name="sport_common_law_info">Termes et conditions</string>
+    <string name="sport_common_law_info">Conditions générales</string>
     <string name="sport_common_loading">Un instant…</string>
     <string name="sport_common_personal_settings">Personalization</string>
     <string name="sport_common_set_title">General</string>

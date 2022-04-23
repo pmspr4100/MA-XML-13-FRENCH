@@ -542,7 +542,7 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
     <string name="pref_title_sync_display_photo_on_wifi_only">Synchro des photos uniquement en Wi-Fi</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Synchro des photos uniquement sur WLAN</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
-    <string name="privacy_and_agreement">Termes et conditions</string>
+    <string name="privacy_and_agreement">Conditions générales</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">"Bienvenue dans Localiser l'appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte."</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">"Bienvenue dans Localiser l'appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte."</string>
     <string name="privacy_dialog_sync_all_purpose_china">"Bienvenue dans les services Xiaomi Cloud ! Vous pouvez utiliser Xiaomi Cloud pour synchroniser vos messages, l'historique des appels, les contacts, les notes, les paramètres du navigateur, les musiques, les photos et les vidéos, les paramètres WLAN settings, les enregistrements, la disposition de l'écran d'accueil, les applications, les événements de calendrier, les éléments de la liste de blocage et le coffre-fort d'applications dans tous les des appareils connectés."</string>

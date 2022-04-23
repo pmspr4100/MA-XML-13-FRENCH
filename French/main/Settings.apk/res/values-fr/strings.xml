@@ -3383,8 +3383,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fold_title">Règles pour les notifications groupées</string>
     <string name="font_cta_alert_btn_negative">Annuler</string>
     <string name="font_cta_alert_btn_positive">"D'accord"</string>
-    <string name="font_cta_alert_message">Lisez et acceptez les termes et conditions des thèmes pour continuer.</string>
-    <string name="font_cta_alert_title">Termes et conditions</string>
+    <string name="font_cta_alert_message">Lisez et acceptez les conditions générales des thèmes pour continuer.</string>
+    <string name="font_cta_alert_title">Conditions générales</string>
     <string name="font_setting_weight_toast">"La police actuelle ne prend pas en charge l'ajustement de l'épaisseur de la police"</string>
     <string name="font_settings_jump">Accessibilité > Afficher la taille</string>
     <string name="font_settings_recommend_title">"La taille du texte n'est pas assez grande ?"</string>
@@ -3979,6 +3979,10 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="kddi_nfc_secure_toggle_summary">"Autoriser la fonctionnalité NFC/Osaifu-keitai uniquement lorsque l'appareil est déverrouillé"</string>
     <string name="keep_legacy_fingerprint">Garder</string>
     <string name="keep_screen_on">Laisser allumé</string>
+    <string name="keep_screen_on_after_folding_off_summary">"Gardez l'écran extérieur allumé après le pliage pendant les appels ou lorsque l'appareil photo est utilisé"</string>
+    <string name="keep_screen_on_after_folding_on_summary">"Gardez l'écran extérieur allumé après le pliage pour continuer vos tâches en cours"</string>
+    <string name="keep_screen_on_after_folding_text">"Gardez l'écran extérieur allumé après le pliage pour continuer vos tâches en cours"</string>
+    <string name="keep_screen_on_after_folding_title">"Garder l'écran allumé après le pliage"</string>
     <string name="keep_screen_on_summary">"L'écran ne se mettra pas en veille pendant le chargement"</string>
     <string name="kernel_version">Version du noyau</string>
     <string name="key_combination_power_back">Boutons Alimentation + Retour</string>
@@ -8852,7 +8856,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="user_exit_guest_title">"Supprimer l'invité"</string>
     <string name="user_experience_open_url">"En savoir plus sur le programme d'expérience utilisateur"</string>
     <string name="user_experience_program">"Programme d'expérience utilisateur"</string>
-    <string name="user_experience_program_summary">"Permettre à Xiaomi de collecter et d'analyser les données des utilisateurs afin d'améliorer nos produits et services. Lisez les Termes et conditions de notre Programme d'expérience utilisateur pour en savoir plus."</string>
+    <string name="user_experience_program_summary">"Permettre à Xiaomi de collecter et d'analyser les données des utilisateurs afin d'améliorer nos produits et services. Lisez les Conditions générales de notre Programme d'expérience utilisateur pour en savoir plus."</string>
     <string name="user_experience_program_title">"Programme d'expérience utilisateur"</string>
     <string name="user_guest">Invité</string>
     <string name="user_image_choose_photo">En sélectionner une dans la galerie</string>
@@ -8925,7 +8929,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="virtual_sim_global_title">Service de données mobiles</string>
     <string name="virtual_sim_title">"Réseau d'itinérance de données"</string>
     <string name="virtual_surround_sound_switch_summary">"Augmentez la profondeur du son lors d'une lecture audio ou vidéo dans les écouteurs (cette fonctionnalité ne fonctionnera pas lorsqu'un flux audio %.1f sera lu)"</string>
-    <string name="virtual_surround_sound_switch_title">Son immersif virtuel</string>
+    <string name="virtual_surround_sound_switch_title">Son immersif</string>
     <string name="virus_scan">Recherche de virus</string>
     <string name="virus_scan_app_continue">"Continuer l'analyse"</string>
     <string name="virus_scan_app_finish">Analyse terminée</string>

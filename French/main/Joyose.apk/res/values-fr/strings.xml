@@ -20,7 +20,6 @@
   <string name="action_settings">Paramètres</string>
   <string name="actionbar_button_up_description">Retour</string>
   <string name="activity_title_fakecell">Protection contre les fausses antennes-relais</string>
-  <string name="add_Ovrride_Config">Ajouter des données</string>
   <string name="afternoon">Après-midi</string>
   <string name="am">AM</string>
   <string name="app_name">StepsProvider</string>
@@ -31,18 +30,13 @@
   <string name="copy">Copier</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
-  <string name="delDialog">Avertissement : opération de suppression</string>
-  <string name="delDialog_msg">Supprimer ce paramètre de jeu</string>
   <string name="detect_fakecell">Reconnaître les SMS de fausses antennes-relais</string>
-  <string name="dynamic_fps">Mode performance mode ：</string>
-  <string name="dynamic_fps_M">Modèle Equilibrium ：</string>
   <string name="early_morning">Matin</string>
   <string name="end_title">Partie terminée</string>
   <string name="eras_ad">Apr. J.-C.</string>
   <string name="eras_bc">Av. J.-C.</string>
   <string name="evening">Après-midi</string>
   <string name="expand_button_title">Avancé</string>
-  <string name="exportJson">Exporter le fichier JSON</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -56,9 +50,6 @@
   <string name="hello_world">Bienvenue !</string>
   <string name="joyose_name">Joyose</string>
   <string name="lab_switch_server">Changer de serveur</string>
-  <string name="local_ctrl">Débogage local</string>
-  <string name="local_ctrl_dialog_cancle">Annuler</string>
-  <string name="local_ctrl_dialog_confirm">Confirmer</string>
   <string name="midnight">Nuit</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
@@ -129,7 +120,6 @@
   <string name="not_set">Non défini</string>
   <string name="not_support_forbidden_fakecell">"Votre appareil ne prend pas en charge la protection au niveau de la puce contre les fausses antennes-relais."</string>
   <string name="open_cta">"Autoriser cette application à se connecter à internet dans Sécurité."</string>
-  <string name="package_name">"nom du paquet ："</string>
   <string name="permstep_description">"Autoriser cette application à accéder à votre nombre de pas"</string>
   <string name="permstep_label">Accès au nombre de pas</string>
   <string name="pm">PM</string>
@@ -143,7 +133,6 @@
   <string name="saturday_short">Sam</string>
   <string name="saturday_shortest">Sam</string>
   <string name="search_menu_title">Recherche</string>
-  <string name="selectJson">Sélectionnez le fichier JSON local</string>
   <string name="send">Envoyer</string>
   <string name="solar_term_autumn_begins">"Début de l'automne"</string>
   <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
@@ -170,7 +159,6 @@
   <string name="solar_term_winter_begins">"Début de l'hiver"</string>
   <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
   <string name="stop_sync">Arrêter la synchronisation automatiquement ?</string>
-  <string name="submit_data">Modifier les données locales</string>
   <string name="sunday">Sunday</string>
   <string name="sunday_short">Sun</string>
   <string name="sunday_shortest">Sun</string>

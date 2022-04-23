@@ -249,9 +249,9 @@
   <string name="relaunch_dialog_button_confirm">OK</string>
   <string name="relaunch_dialog_message">"Impossible d'ajuster la taille de la fenêtre lorsque vous utilisez l'application. Vous pouvez redémarrer l'application pour ajuster la taille de la fenêtre, mais les données d'application générées au cours de cette session seront perdues. Redémarrer quand même ?"</string>
   <string name="relaunch_dialog_title">Redémarrer \"%s\" ?</string>
-  <string name="relaunch_fold_notification_content">"L'application \"%s\" peut s'afficher anormalement après le pliage du téléphone et il doit être redémarré pour revenir à la normale."</string>
+  <string name="relaunch_fold_notification_content">"Cette application peut s'afficher anormalement après le pliage du téléphone et il doit être redémarré pour revenir à la normale."</string>
   <string name="relaunch_notification_title">"Redémarrer l'application \"%s\""</string>
-  <string name="relaunch_unfold_notification_content">"L'application \"%s\" peut s'afficher anormalement après l'ouverture du téléphone et il doit être redémarré pour revenir à la normale."</string>
+  <string name="relaunch_unfold_notification_content">"Cette application peut s'afficher anormalement après l'ouverture du téléphone et il doit être redémarré pour revenir à la normale."</string>
   <string name="remain">Restant : %s</string>
   <string name="replace">Remplacer</string>
   <string name="resolver_app_recommend_flag">Recommander</string>

@@ -612,7 +612,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="privacy_policy_dialog_agree">Accepter</string>
     <string name="privacy_policy_dialog_dont_agree">Refuser</string>
     <string name="privacy_policy_dialog_message"><Data>"Bienvenue dans Calendrier !&lt;br/&gt;Vous pouvez utiliser cette application pour créer et gérer des événements, définir des rappels et recevoir des informations supplémentaires spécifiques à votre emplacement.&lt;br/&gt;Calendrier doit collecter les informations personnelles nécessaires pour vous fournir des services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=\"%1$s\"&gt;Politique de confidentialité&lt;/a&gt;.&lt;br/&gt;Lisez et acceptez notre &lt;a href=\"%2$s\"&gt;Contrat d'utilisation&lt;/a&gt; et notre &lt;a href=\"%3$s\"&gt;Politique de confidentialité&lt;/a&gt; avant d'utiliser Calendrier. Vous pouvez retirer votre consentement à la Politique de confidentialité de Calendrier dans les paramètres à tout moment.&lt;br/&gt;Si vous n'acceptez pas notre politique de confidentialité, vous ne pourrez pas utiliser certaines fonctionnalités de cette application ; cependant, ses fonctionnalités de base seront toujours disponibles."</Data></string>
-    <string name="privacy_policy_dialog_title">Termes et conditions</string>
+    <string name="privacy_policy_dialog_title">Conditions générales</string>
     <string name="privacy_revoke_switch_text">Retrait du consentement</string>
     <string name="pull_to_refresh_hint">Faites glisser vers le bas pour actualiser les événements de %1$d</string>
     <string name="receive_net_mock_success">Net mock receive success</string>

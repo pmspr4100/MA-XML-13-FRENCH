@@ -834,7 +834,7 @@ Tous les éléments de personnalisation actuellement utilisés sur cet appareil.
     <string name="privacy_phone_revoke_agree_detail_title">Lisez et acceptez la \"Déclaration sur le retrait du consentement à la Politique de confidentialité de Thèmes\" avant de retirer votre consentement.</string>
     <string name="privacy_phone_revoke_agree_introduce">"Si vous continuez, vous retirerez votre consentement à la Politique de confidentialité de Thèmes. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire. Étant donné que Thèmes fournit ses services sur la base de la collecte des informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter les services de Thèmes."</string>
     <string name="privacy_phone_update_content">La Politique de confidentialité de Thèmes a été mise à jour :</string>
-    <string name="privacy_read_statement">"Acceptez d'abord les termes et conditions"</string>
+    <string name="privacy_read_statement">"Acceptez d'abord les conditions générales"</string>
     <string name="privacy_read_the_updated_privacy_policy_content">"Lisez et acceptez la nouvelle version de la &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Politique de confidentialité&lt;/font>&lt;/a> avant de continuer."</string>
     <string name="privacy_reading_the_application_list">Accéder à la liste des applications installées sur cet appareil</string>
     <string name="privacy_remind_user_mode_agree">Accepter</string>

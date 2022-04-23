@@ -1245,7 +1245,7 @@ Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et tél
     <string name="system_permission_perm_write_mms">Autoriser la Messagerie à écrire des MMS</string>
     <string name="system_permission_perm_write_sms">Autoriser la Messagerie à écrire des SMS</string>
     <string name="system_permission_requested">Demander</string>
-    <string name="system_permission_user_privacy">Avant de continuer, lisez et acceptez les termes et conditions suivants.</string>
+    <string name="system_permission_user_privacy">Avant de continuer, lisez et acceptez les conditions générales suivants.</string>
     <string name="tab_finance">Finance</string>
     <string name="tab_message">Messages</string>
     <string name="tab_promotions">Promotions</string>

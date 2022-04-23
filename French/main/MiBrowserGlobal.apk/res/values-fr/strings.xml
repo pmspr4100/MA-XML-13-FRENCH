@@ -1256,7 +1256,7 @@ Quitter cette page maintenant ?"</string>
     <string name="passport_error_phone_error">Numéro de téléphone invalide</string>
     <string name="passport_error_server">Erreur du serveur</string>
     <string name="passport_error_unknown">Erreur inconnue</string>
-    <string name="passport_error_user_agreement_error">"Acceptez d'abord les termes et conditions"</string>
+    <string name="passport_error_user_agreement_error">"Acceptez d'abord les conditions générales"</string>
     <string name="passport_error_user_name">"L'identifiant saisi n'est pas valide"</string>
     <string name="passport_forget_password">&lt;u>Mot de passe oublié&lt;/u></string>
     <string name="passport_get_verify_code">Obtenir le code</string>
@@ -1341,7 +1341,7 @@ Quitter cette page maintenant ?"</string>
     <string name="permission_open_location">"Autorisez d'abord Mi Browser à accéder à votre emplacement dans les Paramètres"</string>
     <string name="permission_open_mic">"Autorisez d'abord Mi Browser à accéder à votre microphone dans les Paramètres"</string>
     <string name="permission_open_storage">"Autorisez d'abord Mi Browser à accéder au stockage interne dans les Paramètres"</string>
-    <string name="permission_service">Termes et conditions</string>
+    <string name="permission_service">Conditions générales</string>
     <string name="permission_storage">Stockage</string>
     <string name="permission_use">Autorisations</string>
     <string name="personalized_content_services">Services de contenu personnalisé</string>
@@ -1557,7 +1557,7 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="privacy_message_welcome_tip_second">"- Le téléchargement d'images et de vidéos à partir de plateformes de médias sociaux"</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="privacy_reset_fail">Impossible de réinitialiser. Réessayer.</string>
-    <string name="privacy_sub_title">Termes et conditions</string>
+    <string name="privacy_sub_title">Conditions générales</string>
     <string name="privacy_title">Bienvenue dans Mi Browser</string>
     <string name="private_title">Fichiers cachés</string>
     <string name="progress_dialog_setting_wallpaper">"Réglage du fond d'écran…"</string>
