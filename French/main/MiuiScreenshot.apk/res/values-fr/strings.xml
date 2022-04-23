@@ -87,7 +87,6 @@
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="functions_are_being_developed">"Cette fonctionnalité sera bientôt disponible. Restez à l'écoute !"</string>
-    <string name="garbage_count">Il y a %1$s anciennes instances</string>
     <string name="global_main_purpose">"Bienvenue dans l'Éditeur de captures d'écran ! Vous pouvez utiliser cette application pour recadrer et modifier vos captures d'écran. Cette application doit se connecter à Internet pour pouvoir fonctionner normalement."</string>
     <string name="help">"Vous ne trouvez pas d'appareils ?"</string>
     <string name="help_content">"Si vous ne trouvez pas l'appareil dont vous avez besoin, demandez à l'autre personne d'activer Mi Share."</string>
@@ -106,7 +105,6 @@ une capture d'écran défilante"</string>
     <string name="long_screenshot_top_msg_description_accessibility">"Création de la capture d'écran"</string>
     <string name="long_screenshot_top_msg_manual">"Rognez la capture d'écran et appuyez sur le bouton pour terminer"</string>
     <string name="main_save_error_msg">"Impossible d'enregistrer les modifications en raison d'une erreur"</string>
-    <string name="memory_leak">Fuite mémoire</string>
     <string name="midnight">Nuit</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
     <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
@@ -179,7 +177,6 @@ une capture d'écran défilante"</string>
     <string name="night">Soirée</string>
     <string name="noon">Midi</string>
     <string name="not_set">Non défini</string>
-    <string name="notification_channel_alerts">Alertes</string>
     <string name="operation_send">Envoyer</string>
     <string name="partial_screenshot_edit">Modifier</string>
     <string name="partial_screenshot_failed_to_capture_title">"Cette application ne permet pas de prendre des captures d'écran"</string>
