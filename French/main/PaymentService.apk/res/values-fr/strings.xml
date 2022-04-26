@@ -224,7 +224,7 @@ Please check your local date and try again."</string>
     <string name="mibi_error_invalid_device">Invalid device.</string>
     <string name="mibi_error_mili_summary">Insufficient funds.</string>
     <string name="mibi_error_mipay_no_installed">"Mi Wallet isn't installed on your device."</string>
-    <string name="mibi_error_network_summary">"Couldn't connect to network."</string>
+    <string name="mibi_error_network_summary">Impossible de se connecter au réseau.</string>
     <string name="mibi_error_no_available_channels">Sorry,no available channels currently.</string>
     <string name="mibi_error_pay_result_uncertain">Pay result uncertain.</string>
     <string name="mibi_error_privacy_summary">You revoked authorization.</string>
@@ -279,7 +279,7 @@ Please check your local date and try again."</string>
     <string name="mibi_giftcard_valid_time_last">Expires in %1$s days</string>
     <string name="mibi_giftcard_will_expire">Expires on %1$s</string>
     <string name="mibi_giftcard_with_num"><Data>&lt;font color=#FF7700>&lt;xliff:g id=value>%1$d&lt;/xliff:g> Mi Coin coupon available&lt;/font></Data></string>
-    <string name="mibi_header_network_error">"Couldn't connect to network."</string>
+    <string name="mibi_header_network_error">Impossible de se connecter au réseau.</string>
     <string name="mibi_illegal_intent">Illegal intent request</string>
     <string name="mibi_incognito_mode_dialog_cancel">Annuler</string>
     <string name="mibi_incognito_mode_dialog_summary_camera">"Can't use camera now. Turn off Incognito mode in the Settings to be able to use camera."</string>
@@ -459,7 +459,7 @@ Customer service center：400-100-3399"</string>
     <string name="mibi_review_model_icon_1">Theme</string>
     <string name="mibi_review_model_icon_2">Cloud Service</string>
     <string name="mibi_review_model_icon_3">Read</string>
-    <string name="mibi_review_model_icon_4">Video</string>
+    <string name="mibi_review_model_icon_4">Vidéo</string>
     <string name="mibi_review_model_icon_5">Musique</string>
     <string name="mibi_review_model_icon_6">Game</string>
     <string name="mibi_review_model_introduction_description">"If you do not agree to the Privacy Policy, we will provide a browse-only mode. In this mode, we will show you the introduction of Micoin related services.

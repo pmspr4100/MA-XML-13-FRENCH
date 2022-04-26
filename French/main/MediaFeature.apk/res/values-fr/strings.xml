@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="copy">Copier</string>
-    <string name="expand_button_title">Advanced</string>
+    <string name="expand_button_title">Avancé</string>
     <string name="not_set">Non défini</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
     <string name="search_menu_title">Rechercher</string>

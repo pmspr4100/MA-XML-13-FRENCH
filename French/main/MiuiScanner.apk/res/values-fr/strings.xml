@@ -454,7 +454,7 @@
   <string name="picture_photo_pictures">Prendre un cliché</string>
   <string name="picture_photo_recording">Long Press Camera</string>
   <string name="picture_photograph">Photograph</string>
-  <string name="picture_play_audio">Play</string>
+  <string name="picture_play_audio">Lecture</string>
   <string name="picture_please">Please later…</string>
   <string name="picture_please_select">Veuillez sélectionner</string>
   <string name="picture_preview">Aperçu</string>
@@ -470,7 +470,7 @@
   <string name="picture_select">Choisir</string>
   <string name="picture_send">Terminer</string>
   <string name="picture_send_num">Terminer(%1$d/%2$d)</string>
-  <string name="picture_stop_audio">Stop</string>
+  <string name="picture_stop_audio">Arrêter</string>
   <string name="picture_take_picture">Shot</string>
   <string name="picture_tape">Tape</string>
   <string name="picture_video_error">La vidéo est corrompue</string>

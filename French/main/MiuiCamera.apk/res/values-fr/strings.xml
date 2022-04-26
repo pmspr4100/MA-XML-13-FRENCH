@@ -175,7 +175,7 @@
     <string name="accessibility_shutter_button">Bouton de déclenchement</string>
     <string name="accessibility_shutter_capture_button">"Prendre une photo durant l'enregistrement d'une vidéo"</string>
     <string name="accessibility_shutter_complete_button">Photographié avec succès</string>
-    <string name="accessibility_shutter_end_button">Stop</string>
+    <string name="accessibility_shutter_end_button">Arrêter</string>
     <string name="accessibility_shutter_next_button">Suivant</string>
     <string name="accessibility_shutter_pause_button">Pause</string>
     <string name="accessibility_shutter_process_button">Capture</string>
@@ -290,7 +290,7 @@
     <string name="ai_scene_mode_temple">Temple</string>
     <string name="ai_scene_mode_tower">Tower</string>
     <string name="ai_scene_mode_tutuk">Three-wheeler</string>
-    <string name="ai_scene_mode_unknown">Unknown</string>
+    <string name="ai_scene_mode_unknown">Inconnu</string>
     <string name="ai_scene_mode_use_hint_text">"Reconnaître des scènes à l'aide de l'IA
 et ajustez les préférences automatiquement"</string>
     <string name="ai_scene_top_moon_off">Mode faible luminosité</string>

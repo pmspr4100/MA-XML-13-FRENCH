@@ -362,7 +362,7 @@ Appuyez sur \"Effacer et convertir\" pour continuer."</string>
     <string name="error_icon_content_description">Error</string>
     <string name="evening">Après midi</string>
     <string name="expand_button_title">Options avancées</string>
-    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="external_source_trusted">Autorisé</string>
     <string name="external_source_untrusted">Non autorisé</string>
     <string name="failed_to_open_app_settings_toast">"Échec de l'ouverture des paramètres de l'application %1$s."</string>

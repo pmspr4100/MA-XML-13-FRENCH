@@ -2864,7 +2864,7 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="controls_media_smartspace_rec_description">Open %1$s</string>
     <string name="controls_media_smartspace_rec_item_description">Play %1$s by %2$s from %3$s</string>
     <string name="controls_media_smartspace_rec_item_no_artist_description">Play %1$s from %2$s</string>
-    <string name="controls_media_smartspace_rec_title">Play</string>
+    <string name="controls_media_smartspace_rec_title">Lecture</string>
     <string name="controls_tile_locked">Device locked</string>
     <string name="creating_new_user_dialog_message">Creating new user…</string>
     <string name="days_timestamp">%1$s days ago</string>
@@ -2875,7 +2875,7 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="empty_status">Let’s chat tonight!</string>
     <string name="empty_user_name">Friends</string>
     <string name="error_icon_content_description">Error</string>
-    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="feedback_alerted">This notification was automatically &lt;b>promoted to Default&lt;/b> by the system.</string>
     <string name="feedback_demoted">This notification was automatically &lt;b>ranked lower&lt;/b> in your shade.</string>
     <string name="feedback_ok">OK</string>
@@ -3142,7 +3142,7 @@ If you have questions, contact %2$s."</string>
     <string name="screenrecord_start">Start</string>
     <string name="screenrecord_start_error">Error starting screen recording</string>
     <string name="screenrecord_start_label">Start Recording?</string>
-    <string name="screenrecord_stop_label">Stop</string>
+    <string name="screenrecord_stop_label">Arrêter</string>
     <string name="screenrecord_stop_text">Tap to stop</string>
     <string name="screenrecord_taps_label">Show touches on screen</string>
     <string name="screenshot_bottom_boundary_pct">Bottom boundary %1$d percent</string>

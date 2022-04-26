@@ -144,7 +144,7 @@ Turn the phone so that the headphone input is facing downward. Speak into the re
   <string name="cit_audio_loopback_check_two_title">Secondary microphone speaker feedback test</string>
   <string name="cit_audio_loopback_dualmic_earpiece_title">Ambient noise reduction test</string>
   <string name="cit_audio_loopback_next">Next</string>
-  <string name="cit_audio_loopback_previous">Previous</string>
+  <string name="cit_audio_loopback_previous">Précédent</string>
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Ambient noise reduction test
 
 Hold the phone as if you're answering a call, speak in to the microphone. You should hear your voice with reduced noise in the background played through the receiver."</string>
@@ -330,15 +330,15 @@ Touch the screen to start GPS…"</string>
   <string name="cit_headset_button_check_title">Headphone buttons</string>
   <string name="cit_headset_button_click">Press the buttons on the headphones</string>
   <string name="cit_headset_button_current">Current button: %s</string>
-  <string name="cit_headset_button_fast_forward">Fast forward</string>
+  <string name="cit_headset_button_fast_forward">Avance rapide</string>
   <string name="cit_headset_button_next">Next</string>
   <string name="cit_headset_button_pass">Pass</string>
   <string name="cit_headset_button_play_pause">Play/Pause</string>
-  <string name="cit_headset_button_previous">Previous</string>
+  <string name="cit_headset_button_previous">Précédent</string>
   <string name="cit_headset_button_reverse">Please reversely insert usb headset</string>
-  <string name="cit_headset_button_rewind">Rewind</string>
-  <string name="cit_headset_button_stop">Stop</string>
-  <string name="cit_headset_button_unknown">Unknown</string>
+  <string name="cit_headset_button_rewind">Retour arrière</string>
+  <string name="cit_headset_button_stop">Arrêter</string>
+  <string name="cit_headset_button_unknown">Inconnu</string>
   <string name="cit_headset_loopback_check_summary">"While wearing the headphones, connect them to the device. Speak into the headphone microphone (often located on the cord). You should hear your voice in the headphone's speakers."</string>
   <string name="cit_headset_loopback_check_title">Headphone mic feedback test</string>
   <string name="cit_headset_plug_detect_summary">When headphones are connected, the text \"Headphones detected\" should be displayed below.</string>
@@ -464,7 +464,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_signature_check_label">signature check:</string>
   <string name="cit_sim_check_summary">Confirm that correct the status and info of the SIM card is displayed below, if has two sim slots, only two SIM cards simultaneously exist and has correct status can pass</string>
   <string name="cit_sim_check_title">SIM card</string>
-  <string name="cit_sim_error_unknown">Unknown</string>
+  <string name="cit_sim_error_unknown">Inconnu</string>
   <string name="cit_sim_network_operator">Network service provider:</string>
   <string name="cit_sim_network_operator_name">Network service provider name:</string>
   <string name="cit_sim_network_type">Network type:</string>
@@ -477,7 +477,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_sim_state_pin_required">PIN required</string>
   <string name="cit_sim_state_puk_required">PUK required</string>
   <string name="cit_sim_state_ready">SIM card ready</string>
-  <string name="cit_sim_state_unkown">Unknown</string>
+  <string name="cit_sim_state_unkown">Inconnu</string>
   <string name="cit_slider_hall_miui_test_summary">Execute a complete phone slide up and slide down operate.</string>
   <string name="cit_slider_hall_test_summary">Execute a complete phone slide up and slide down operate.</string>
   <string name="cit_slider_hall_test_title">Slider Hall</string>
@@ -677,7 +677,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_modem_test_will_set">will open test mode and reboot the dut</string>
   <string name="cit_tool_nfc">NFC test tools</string>
   <string name="cit_tool_nfc_st_run">Run</string>
-  <string name="cit_tool_nfc_st_stop">Stop</string>
+  <string name="cit_tool_nfc_st_stop">Arrêter</string>
   <string name="cit_tool_no_repeat">No repetition!</string>
   <string name="cit_tool_not_support">Not Supported</string>
   <string name="cit_tool_opt_fail_info_notify">Opt failed, need to reboot the phone for Non online mode.</string>
@@ -702,7 +702,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_wifi_rx_error">An error occurred while running the program</string>
   <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
   <string name="cit_tool_wifi_rx_run">Run</string>
-  <string name="cit_tool_wifi_rx_stop">Stop</string>
+  <string name="cit_tool_wifi_rx_stop">Arrêter</string>
   <string name="cit_tool_wifi_rxbg_test_channel">channel:</string>
   <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
   <string name="cit_tool_wifi_rxn_test_channel">channel:</string>

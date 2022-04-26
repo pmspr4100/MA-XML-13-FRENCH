@@ -39,12 +39,12 @@
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Utiliser la sélection du système (par défaut)</item>
         <item>Mono</item>
-        <item>Stereo</item>
+        <item>Stéréo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
         <item>Utiliser la sélection du système (par défaut))</item>
         <item>Mono</item>
-        <item>Stereo</item>
+        <item>Stéréo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Optimized for Audio Quality</item>

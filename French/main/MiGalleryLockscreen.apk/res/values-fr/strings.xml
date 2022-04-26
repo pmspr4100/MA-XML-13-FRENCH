@@ -961,7 +961,7 @@ Envoyez ce code au superviseur."</string>
     <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="theme_apply_failured">"Impossible d'appliquer, réessayez plus tard"</string>
     <string name="theme_apply_lockscreen_apply">Turning on Wallpaper Carousel…</string>
-    <string name="theme_apply_lockscreen_failed">"Couldn't apply"</string>
+    <string name="theme_apply_lockscreen_failed">Impossible de postuler</string>
     <string name="theme_apply_lockscreen_success">Appliqué avec succès</string>
     <string name="theme_apply_success">Appliqué avec succès</string>
     <string name="theme_applying">Appliquer…</string>

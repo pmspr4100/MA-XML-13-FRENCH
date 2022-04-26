@@ -200,7 +200,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="exo_controls_show">Afficher les contrôles du lecteur</string>
   <string name="exo_controls_shuffle_off_description">Aléatoire désactivé</string>
   <string name="exo_controls_shuffle_on_description">Aléatoire activé</string>
-  <string name="exo_controls_stop_description">Stop</string>
+  <string name="exo_controls_stop_description">Arrêter</string>
   <string name="exo_controls_vr_description">Mode VR</string>
   <string name="exo_download_completed">Téléchargement terminé</string>
   <string name="exo_download_description">Télécharger</string>

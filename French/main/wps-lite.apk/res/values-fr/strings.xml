@@ -258,7 +258,7 @@
   <string name="public_pdf_print_title">Print</string>
   <string name="public_permission_request">Grant the required permissions in the Settings to be able to work with documents.</string>
   <string name="public_permission_storage_disallow_msg">"You won't be able to work with documents after you revoke authorization."</string>
-  <string name="public_play">Play</string>
+  <string name="public_play">Lecture</string>
   <string name="public_ppt_label">Mi Presentation Viewer</string>
   <string name="public_re_licensing">Grant authorization</string>
   <string name="public_readOnlyMode">Read only</string>
@@ -321,7 +321,7 @@
   <string name="reader_public_cancel">cancel</string>
   <string name="reader_public_close">close</string>
   <string name="reader_public_next">next</string>
-  <string name="reader_public_previous">previous</string>
+  <string name="reader_public_previous">Précédent</string>
   <string name="reader_public_textcontextmenu">showing %1$s element%2$s</string>
   <string name="reader_writer_accept_revision">accept the revision</string>
   <string name="reader_writer_delete_comment">delete the comment</string>
@@ -351,7 +351,7 @@
   <string name="writer_html_editor_not_supported">"The HTML file editor isn't supported yet"</string>
   <string name="writer_hyperlink_document_bottom">The end of the document</string>
   <string name="writer_mi_search_next">Next</string>
-  <string name="writer_mi_search_prev">Previous</string>
+  <string name="writer_mi_search_prev">Précédent</string>
   <string name="writer_mi_server_support">WPS Office Document Service</string>
   <string name="writer_page_break">Page break</string>
   <string name="writer_page_setting_units"> cm</string>

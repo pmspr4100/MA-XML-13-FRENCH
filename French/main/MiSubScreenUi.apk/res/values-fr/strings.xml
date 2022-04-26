@@ -33,7 +33,7 @@
     <string name="alarm_close">Slide up to turn off</string>
     <string name="alarm_later">Snooze</string>
     <string name="align_type">Alignment</string>
-    <string name="aod_component">Always-on display</string>
+    <string name="aod_component">Affichage ambiant</string>
     <string name="aod_lock_screen_date">EEE dd/MM</string>
     <string name="aod_lock_screen_date_signature">dd/MM</string>
     <string name="aod_lock_screen_date_v">"EEE
@@ -71,8 +71,8 @@ dd/MM"</string>
     <string name="early_morning">Matin</string>
     <string name="error_icon_content_description">Error</string>
     <string name="evening">Après midi</string>
-    <string name="expand_button_title">Advanced</string>
-    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="expand_button_title">Avancé</string>
+    <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -272,7 +272,7 @@ dd/MM"</string>
     <string name="subscreen_settings_fail">"Couldn't complete action"</string>
     <string name="subscreen_settings_mode">Turn off after</string>
     <string name="subscreen_settings_style">Rear display theme</string>
-    <string name="subscreen_settings_title">Always-on display</string>
+    <string name="subscreen_settings_title">Affichage ambiant</string>
     <string name="subscreen_switch_content">Show notification contents</string>
     <string name="subscreen_switch_content_summary">Show notification contents on the rear display</string>
     <string name="subscreen_switch_summary">"Show items on the rear display when it's facing up"</string>
