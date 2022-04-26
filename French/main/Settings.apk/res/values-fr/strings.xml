@@ -9218,6 +9218,7 @@ Merci de prendre connaissance de la politique de données personnells de votre f
     <string name="wifi_ap_5G">5.0 GHz</string>
     <string name="wifi_ap_band_config">"Sélectionner la bande du point d'accès"</string>
     <string name="wifi_ap_band_select_one">"Sélectionnez au moins une bande pour le point d'accès Wi-Fi :"</string>
+    <string name="wifi_ap_choose">%1$s GHz</string>
     <string name="wifi_ap_choose_2G">Bande 2.4 GHz</string>
     <string name="wifi_ap_choose_5G">Bande 5.0 GHz</string>
     <string name="wifi_ap_choose_auto">Automatique</string>

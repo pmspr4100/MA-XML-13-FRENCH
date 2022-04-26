@@ -60,10 +60,10 @@
     <string name="accessibility_camera_switch_capture_recording">Basculer entre les modes photo et vidéo</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">Mode corps complet est désactivé</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">Mode corps complet est activé</string>
-    <string name="accessibility_camera_video_960fps_120">120 ips</string>
-    <string name="accessibility_camera_video_960fps_240">240 ips</string>
-    <string name="accessibility_camera_video_960fps_480">480 FPS</string>
-    <string name="accessibility_camera_video_960fps_960">960 ips</string>
+    <string name="accessibility_camera_video_960fps_120">%d ips</string>
+    <string name="accessibility_camera_video_960fps_240">%d ips</string>
+    <string name="accessibility_camera_video_960fps_480">%d FPS</string>
+    <string name="accessibility_camera_video_960fps_960">%d ips</string>
     <string name="accessibility_camera_video_fps_120">120 ips</string>
     <string name="accessibility_camera_video_fps_30">30 ips</string>
     <string name="accessibility_camera_video_slow_motion_fps">%d ips</string>
@@ -369,12 +369,21 @@ et ajustez les préférences automatiquement"</string>
     <string name="beauty_fragment_tab_name_makeup">Avancé</string>
     <string name="beauty_fragment_tab_name_makeups">Maquillage</string>
     <string name="beauty_makeups_bluefemale">Gel</string>
+    <string name="beauty_makeups_danyan">Nu</string>
     <string name="beauty_makeups_gentleman">Argent</string>
     <string name="beauty_makeups_nude">À nu</string>
     <string name="beauty_makeups_pinkfemale">Pétale</string>
+    <string name="beauty_makeups_qianjin">Auburn</string>
+    <string name="beauty_makeups_ruanmei">Ado</string>
     <string name="beauty_makeups_solid">Contour</string>
+    <string name="beauty_makeups_subeffect_filter">Filtres</string>
+    <string name="beauty_makeups_subeffect_makeup">Maquillage</string>
     <string name="beauty_makeups_toughman">Bronze</string>
+    <string name="beauty_makeups_xiazhi">Fard paupière inférieure</string>
+    <string name="beauty_makeups_yanku">Reine des glaces</string>
+    <string name="beauty_makeups_yuanqi">Frais</string>
     <string name="beauty_mode_reset_toast">Effet de remodelage effacé avec succès</string>
+    <string name="beauty_mutex_toast_tip">"&lt;a href=>Désactiver&lt;/a> d'abord les effets de maquillage"</string>
     <string name="beauty_ne">Original</string>
     <string name="beauty_no_t">Embellissement désactivé</string>
     <string name="beauty_origin_skincolor">Original</string>
@@ -398,6 +407,7 @@ et ajustez les préférences automatiquement"</string>
     <string name="button_normal_video_title">Enregistrer une vidéo</string>
     <string name="camcorder_tip_8k_max_video_duration">"Vous pouvez enregistrer jusqu'à %1$d minutes en 8K"</string>
     <string name="camcorder_tip_current_max_video_duration">"Vous pouvez enregistrer jusqu'à %d minutes de vidéo dans la définition actuelle"</string>
+    <string name="camcorder_tip_super_night_video_4k_max_video_duration">"Vous pouvez enregistrer jusqu'à %d minutes en 4K"</string>
     <string name="camera_disabled">"L'appareil photo a été désactivé"</string>
     <string name="camera_error_title">"Erreur de l'appareil photo"</string>
     <string name="camera_facedetection_sub_option_hint">Caractéristique expérimentale</string>
@@ -545,9 +555,8 @@ et ajustez les préférences automatiquement"</string>
     <string name="cta_perm_type">"Autorisations facultatives (utilisées pour des fonctionnalités supplémentaires pendant que vous les utilisez)"</string>
     <string name="cta_perm_voice">Utiliser le microphone</string>
     <string name="cta_perm_voice_desc">"Pour enregistrer de l'audio lors de l'enregistrement de vidéos"</string>
-    <string name="cta_user_tips">
-    <Data>"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>."</Data>
-  </string>
+    <string name="cta_user_tips"><Data>"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>."</Data></string>
+    <string name="custom_content_unavailable_alert">"Impossible d'utiliser le texte que vous avez saisi. Essayez autre chose à la place."</string>
     <string name="custom_sound_art">Rétro</string>
     <string name="custom_sound_default">Défaut</string>
     <string name="custom_sound_modern">Moderne</string>
@@ -638,6 +647,7 @@ Scannez des documents en un clic"</string>
     <string name="dual_video_user_guide_standalone_content">Enregistrez avec deux caméras simultanément et sauvegardez les deux enregistrements dans des vidéos séparées.</string>
     <string name="early_morning">Matin</string>
     <string name="edit_blusher">Rouge</string>
+    <string name="edit_cheekbone">Pommettes</string>
     <string name="edit_chin">Menton</string>
     <string name="edit_color_skin">Teint</string>
     <string name="edit_eye_large">Gros yeux</string>
@@ -645,11 +655,14 @@ Scannez des documents en un clic"</string>
     <string name="edit_face_ruddy">Rouge</string>
     <string name="edit_face_slender">Mince</string>
     <string name="edit_hairline">Naissance des cheveux</string>
+    <string name="edit_head_narrow">Taille de la tête</string>
+    <string name="edit_jaw">Mâchoire inférieure</string>
     <string name="edit_jelly_lips">Brillant à lèvres</string>
     <string name="edit_lips">Lèvres</string>
     <string name="edit_makeup">Makeup</string>
     <string name="edit_neck">Cou</string>
     <string name="edit_nose">Nez</string>
+    <string name="edit_nose_tip">Pointe du nez</string>
     <string name="edit_pupil_line">Eyeliner</string>
     <string name="edit_risorius">Risorius</string>
     <string name="edit_skin_smooth">Lisse</string>
@@ -657,6 +670,8 @@ Scannez des documents en un clic"</string>
     <string name="edit_slim_nose">Nez</string>
     <string name="edit_smile">Sourire</string>
     <string name="edit_solid">Contour</string>
+    <string name="edit_temple">Temples</string>
+    <string name="edit_touch_up">Maquillage</string>
     <string name="emoticon">Émoticône</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
@@ -1220,6 +1235,10 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_audio_focus_title">Focus audio</string>
     <string name="pref_auto_boot">Démarrage automatique</string>
     <string name="pref_auto_boot_summary">"Rendez la caméra plus réactive en lui permettant de démarrer automatiquement. Vous pouvez gérer les autorisations de démarrage automatique dans les détails de l'application."</string>
+    <string name="pref_beauty_me_mp_switch_desc">Ajuster les effets de maquillage pour les hommes sur les photos de groupe</string>
+    <string name="pref_beauty_me_mp_switch_title">Ajuster les effets de maquillage pour les hommes</string>
+    <string name="pref_beauty_nvs_wp_desc">Supprimer les grains de beauté lorsque des effets de lissage de la peau sont utilisés</string>
+    <string name="pref_beauty_nvs_wp_title">Enlever les grains de beauté</string>
     <string name="pref_burst_shoot_title">Prise en rafale</string>
     <string name="pref_camcorder_settings">Vidéo</string>
     <string name="pref_camcorder_settings_category">"Paramètres de l'appareil photo"</string>
@@ -1508,8 +1527,9 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_e_p_s_n">"Enregistrez le son via un microphone externe lorsque des écouteurs Bluetooth équipés d'un micro sont connectés"</string>
     <string name="pref_face_beauty_title">Beauté</string>
     <string name="pref_fingerprint_capture_title">"Capteur d'empreinte comme déclencheur"</string>
-    <string name="pref_front_denoise_summary">Reduce noises generated behind the front camera</string>
-    <string name="pref_front_denoise_title">Selfie noise filter</string>
+    <string name="pref_focus_view_bg_tip">AE/AF verrouillé</string>
+    <string name="pref_front_denoise_summary">Réduire les bruits générés derrière la caméra frontale</string>
+    <string name="pref_front_denoise_title">Filtre de bruit selfie</string>
     <string name="pref_front_mirror_entry_auto">Quand des personnes sont identifiées</string>
     <string name="pref_front_mirror_entry_off">Désactivé</string>
     <string name="pref_front_mirror_entry_on">Activé</string>
@@ -1596,17 +1616,17 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_video_encoder_title">Encodage vidéo</string>
     <string name="pref_video_focusmode_title">Mode de mise au point</string>
     <string name="pref_video_hfr_title">Vidéo HFR</string>
-    <string name="pref_video_quality_entry_1080p">1080p FHD, 30 ips</string>
-    <string name="pref_video_quality_entry_1080p_24fps">1080p FHD, 24 ips</string>
-    <string name="pref_video_quality_entry_1080p_60fps">1080p FHD, 60 ips</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080p, %d ips</string>
+    <string name="pref_video_quality_entry_1080p_24fps">Full HD, 1080p, 24 images par seconde</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, %d ips</string>
     <string name="pref_video_quality_entry_480p">480p SD, 30 ips</string>
-    <string name="pref_video_quality_entry_4kuhd">4K UHD, 30 ips</string>
-    <string name="pref_video_quality_entry_4kuhd_24fps">4K UHD, 24 ips</string>
-    <string name="pref_video_quality_entry_4kuhd_60fps">4K UHD, 60 ips</string>
-    <string name="pref_video_quality_entry_720p">720p HD, 30 ips</string>
-    <string name="pref_video_quality_entry_720p_60fps">720p HD, 60 ips</string>
-    <string name="pref_video_quality_entry_8k_24fps_uhd">8K UHD, 24 ips</string>
-    <string name="pref_video_quality_entry_8kuhd">8K UHD, 30 ips</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, %d ips</string>
+    <string name="pref_video_quality_entry_4kuhd_24fps">Ultra haute définition, 4K, 24 images par seconde</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, %d ips</string>
+    <string name="pref_video_quality_entry_720p">HD 720p, %d ips</string>
+    <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60 ips</string>
+    <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24 ips</string>
+    <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30 ips</string>
     <string name="pref_video_quality_sub_120fps">120 ips</string>
     <string name="pref_video_quality_sub_24fps">24 ips</string>
     <string name="pref_video_quality_sub_30fps">30 ips</string>
