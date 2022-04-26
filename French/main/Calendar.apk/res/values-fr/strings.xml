@@ -341,7 +341,6 @@
     <string name="holidays_title">Jours fériés</string>
     <string name="horoscope">Horoscope</string>
     <string name="horoscope_card_title">Horoscope du jour</string>
-    <string name="horoscope_partner">alimenté par Staqu</string>
     <string name="horoscope_select_activity_label">Sélectionner un signe du zodiaque</string>
     <string name="hotel_detail_title">"Détails de l'hôtel"</string>
     <string name="hotel_event_delete_successfully">"Réservation d'hôtel supprimée avec succès"</string>

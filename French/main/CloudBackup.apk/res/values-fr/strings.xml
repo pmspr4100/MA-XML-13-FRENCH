@@ -45,6 +45,8 @@
   <string name="backup_action_buy_cloud_space">"Obtenez plus d'espace de stockage"</string>
   <string name="backup_action_check_network">Vérifiez les paramètres du réseau</string>
   <string name="backup_action_clean_disk_space">"Libérer de l'espace"</string>
+  <string name="backup_action_long_time_not_backup_action">Sauvegarder</string>
+  <string name="backup_action_long_time_not_backup_title">Aucune sauvegarde récente</string>
   <string name="backup_action_no_space_with_wechat_off_content">Espace de stockage cloud insuffisant pour sauvegarder les éléments de cet appareil. Appuyez pour afficher les options de stockage cloud disponibles.</string>
   <string name="backup_action_no_space_with_wechat_off_title">Impossible de sauvegarder les éléments</string>
   <string name="backup_action_no_space_with_wechat_on_content">Espace de stockage cloud insuffisant pour sauvegarder les données WeChat. Mettez à niveau votre plan de stockage pour sauvegarder des éléments.</string>
@@ -195,10 +197,18 @@ Envoyez ce code au superviseur."</string>
   <string name="dialog_cancel_backup_msg">"Modifier l'état du bouton mettra fin aux sauvegardes en cours."</string>
   <string name="dialog_cancel_backup_title">Annuler les sauvegardes en cours ?</string>
   <string name="dialog_cloud_space_not_enough">"Cette sauvegarde nécessite %1$s d'espace de stockage cloud gratuit. Mettez à niveau votre forfait de stockage pour sauvegarder les éléments."</string>
+  <string name="dialog_content_cancel_backup">Les données déjà téléchargées seront perdues si vous annulez la sauvegarde. Annuler quand même ?</string>
+  <string name="dialog_content_cancel_restore">Les données déjà restaurées seront conservées si vous arrêtez la restauration. Arrêter la restauration maintenant ?</string>
   <string name="dialog_msg_overwrite_backup">La sauvegarde locale est différente de celle de Xiaomi Cloud. Si vous continuez, la sauvegarde actuelle écrasera la précédente.</string>
   <string name="dialog_msg_restore_require_wlan">La restauration des sauvegardes nécessite la connexion au Wi-Fi.</string>
   <string name="dialog_msg_restore_require_wlan_china">La restauration des sauvegardes requiert une connexion au WLAN.</string>
   <string name="dialog_need_permission">Autorisations requises</string>
+  <string name="dialog_negative_btn_cancel_backup">Annuler la sauvegarde</string>
+  <string name="dialog_negative_btn_cancel_restore">Arrêter la restauration</string>
+  <string name="dialog_positive_btn_cancel_backup">Ne pas annuler</string>
+  <string name="dialog_positive_btn_cancel_restore">"N'arrêtez pas"</string>
+  <string name="dialog_title_cancel_backup">Annuler la sauvegarde</string>
+  <string name="dialog_title_cancel_restore">Arrêter la restauration</string>
   <string name="dialog_title_require_wlan">Se connecter au Wi-Fi</string>
   <string name="dialog_title_require_wlan_china">Se connecter au Wi-Fi</string>
   <string name="dialog_wechat_data_close_agree">Continuer</string>
