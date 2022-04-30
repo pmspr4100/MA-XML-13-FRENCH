@@ -1660,9 +1660,9 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="multi_face_input_enroll">Ajouter des données de visage</string>
     <string name="multi_face_input_enrolling">Ajout de données de visage…</string>
     <string name="multi_face_input_reach_upper_limit">"Impossible d'ajouter des données de visage. Attendez une minute ou deux et réessayez."</string>
-    <string name="multi_face_input_success_msg_lift">"Balayez l'écran de verrouillage pour utiliser le déverrouillage du visage"</string>
-    <string name="multi_face_input_success_msg_normal">"Utiliser le déverrouillage du visage lorsque l'écran de verrouillage s'allume"</string>
-    <string name="multi_face_input_success_msg_slide">"Balayez l'écran de verrouillage vers le bas pour utiliser le déverrouillage du visage"</string>
+    <string name="multi_face_input_success_msg_lift">"Balayez l'écran de verrouillage pour utiliser le déverrouillage par le visage"</string>
+    <string name="multi_face_input_success_msg_normal">"Utiliser le déverrouillage par le visage lorsque l'écran de verrouillage s'allume"</string>
+    <string name="multi_face_input_success_msg_slide">"Balayez l'écran de verrouillage vers le bas pour utiliser le déverrouillage par le visage"</string>
     <string name="multi_face_input_success_name_title">Nom</string>
     <string name="multi_face_list">Données de visage</string>
     <string name="multi_face_name_prefix">"Visage "</string>

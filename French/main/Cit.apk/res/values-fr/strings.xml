@@ -923,7 +923,7 @@ the specified position"</string>
   <string name="mic_volume_low_tip">MIC the volume test did not pass. Please make a larger sound when recording</string>
   <string name="micphone_test">MIC ＆ SPK</string>
   <string name="motor_calibration">Motor Calibration</string>
-  <string name="mtb_tool_modem_cdma_manager">CDMA Cap Manager</string>
+  <string name="mtb_tool_modem_cdma_manager">User Panel</string>
   <string name="navigation_drawer_close">Close navigation drawer</string>
   <string name="navigation_drawer_open">Open navigation drawer</string>
   <string name="next">Next</string>

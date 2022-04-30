@@ -2084,7 +2084,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="confirm_frp_credential_message">"Votre appareil a été réinitialisé aux paramètres d'usine, vous pouvez le déverrouiller avec votre ancien mot de passe."</string>
     <string name="confirm_frp_credential_skip_txt">Utiliser plutôt un compte Google</string>
     <string name="confirm_frp_credential_title">"Déverrouiller après réinitialisation aux paramètres d'usine"</string>
-    <string name="confirm_lock_pattern_header_text">Dessine ton schéma</string>
+    <string name="confirm_lock_pattern_header_text">Dessinez votre schéma</string>
     <string name="confirm_new_backup_pw_prompt">Confirmez ici votre nouveau mot de passe de sauvegarde complète.</string>
     <string name="confirm_password_with_fingerprint">Utiliser les empreintes digitales</string>
     <string name="confirm_password_with_password">Entrer le mot de passe</string>
@@ -2586,7 +2586,8 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="device_info_label">"Informations sur l'appareil"</string>
     <string name="device_info_not_available">Non disponible</string>
     <string name="device_info_settings">État du téléphone</string>
-    <string name="device_internal_memory">"Stockage interne "</string>
+    <string name="device_internal_memory">Stockage interne</string>
+    <string name="device_mall_card_title">Vérifiez les avantages disponibles</string>
     <string name="device_memory">Mémoire vive</string>
     <string name="device_miui_more">Afficher plus</string>
     <string name="device_miui_version">Version MIUI</string>
@@ -3176,16 +3177,18 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="face_data_manage_delete_sure">"Vous ne pourrez pas déverrouiller l'appareil à l'aide de vos données de visage après l'avoir supprimé."</string>
     <string name="face_data_manage_unlock_liftcamera_msg">"Une fois l'écran allumé, faites glisser votre doigt vers le haut pour déverrouiller l'appareil à l'aide des données de visage."</string>
     <string name="face_data_manage_unlock_msg">"Déverrouille l'appareil en utilisant les données de votre visage"</string>
-    <string name="face_data_manage_unlock_slide_msg">Remplacer les raccourcis du curseur par le déverrouillage du visage</string>
+    <string name="face_data_manage_unlock_slide_msg">Remplacer les raccourcis du curseur par le déverrouillage par le visage</string>
     <string name="face_data_manage_unlock_title">Déverrouillage par reconnaissance faciale</string>
     <string name="face_data_siggesstion_next">Suivant</string>
     <string name="face_data_siggesstion_next_time">Suivant (%ds)</string>
-    <string name="face_data_suggesstion_first">"Problèmes de sécurité : le déverrouillage du visage est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
+    <string name="face_data_suggesstion_first">"Problèmes de sécurité : le déverrouillage par le visage est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
+    <string name="face_data_suggesstion_first_cn">Pour que vous puissiez utiliser le déverrouillage par le visage, nous devons collecter vos données faciales qui seront ensuite stockées localement sur cet appareil. Pour les supprimer, recherchez Déverrouillage par le visage dans les paramètres, puis sélectionnez Déverrouillage par le visage > Données du visage et choisissez le profil à supprimer.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">"Le déverrouillage par reconnaissance faciale est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
     <string name="face_data_suggesstion_second">"Assurez-vous que toutes les parties de votre visage sont clairement visibles. Ne portez pas d'accessoires qui pourraient couvrir votre visage. Gardez votre visage uniformément éclairé et évitez la lumière directe."</string>
     <string name="face_intro_error_max">Vous avez ajouté le nombre maximum de visages</string>
     <string name="face_intro_error_unknown">"Impossible d'ajouter plus de visages"</string>
     <string name="face_lock_screen_setup_skip_dialog_text">"Protégez votre téléphone avec une option de verrouillage d'écran afin que personne ne puisse l'utiliser s'il est perdu ou volé. Vous avez également besoin d'une option de verrouillage d'écran pour configurer l'authentification faciale. Appuyez sur Annuler, puis définissez un code PIN, un modèle ou un mot de passe."</string>
-    <string name="face_unlock">Déverrouillage du visage</string>
+    <string name="face_unlock">Déverrouillage par le visage</string>
     <string name="face_unlock_be_on_the_screen">Hold the device in front of your face</string>
     <string name="face_unlock_by_notification_screen_on_msg">"Vous pouvez déverrouiller l'appareil par reconnaissance faciale à n'importe quel moment lorsque l'écran s'allume pour afficher les nouvelles notifications. Cela peut décharger plus rapidement la batterie."</string>
     <string name="face_unlock_by_notification_screen_on_title">"Autoriser le déverrouillage par reconnaissance faciale lorsque l'écran s'allume"</string>
@@ -5411,6 +5414,8 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="networks_title">Réseaux mobiles</string>
     <string name="never">Jamais</string>
     <string name="new_backup_pw_prompt">Saisissez votre nouveau mot de passe de sauvegarde complète.</string>
+    <string name="new_fingerprint_to_new_face_dialog_msg">"Pour pouvoir utiliser le déverrouillage par le visage, ajoutez d'abord les données du visage. Ajouter maintenant ?"</string>
+    <string name="new_fingerprint_to_new_face_dialog_tittle">Ajouter des données de visage</string>
     <string name="new_device_suggestion_summary">Découvrez votre nouveau téléphone</string>
     <string name="new_device_suggestion_title">Nouveautés à découvrir</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">Ajoutez votre empreinte digitale pour déverrouiller votre appareil.</string>
@@ -7111,7 +7116,7 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="security_settings_face_enroll_dialog_ok">OK</string>
     <string name="security_settings_face_enroll_done">Terminé</string>
     <string name="security_settings_face_enroll_education_start">Démarrer</string>
-    <string name="security_settings_face_enroll_education_title">Comment configurer le déverrouillage du visage</string>
+    <string name="security_settings_face_enroll_education_title">Comment configurer le déverrouillage par le visage</string>
     <string name="security_settings_face_enroll_education_title_accessibility">Configurer le déverrouillage par reconnaissance faciale</string>
     <string name="security_settings_face_enroll_education_title_unlock_disabled">Utilisez votre visage pour vous authentifier</string>
     <string name="security_settings_face_enroll_enrolling_skip">Suivant</string>
@@ -7153,15 +7158,15 @@ En regardant le téléphone, vous pouvez le déverrouiller lorsque vous n'avez p
 Votre téléphone peut être déverrouillé par quelqu'un d'autre s'il est tenu contre votre visage, même si vos yeux sont fermés.
 
 Votre téléphone peut être déverrouillé par quelqu'un qui vous ressemble beaucoup, par exemple un jumeau."</string>
-    <string name="security_settings_face_settings_remove_dialog_details">Les données enregistrées par déverrouillage du visage seront supprimées de manière permanente et sécurisée. Après la suppression, vous aurez besoin de votre code PIN, de votre modèle ou de votre mot de passe pour déverrouiller votre téléphone, vous connecter aux applications et confirmer les paiements.</string>
+    <string name="security_settings_face_settings_remove_dialog_details">Les données enregistrées par le déverrouillage par le visage seront supprimées de manière permanente et sécurisée. Après la suppression, vous aurez besoin de votre code PIN, de votre modèle ou de votre mot de passe pour déverrouiller votre téléphone, vous connecter aux applications et confirmer les paiements.</string>
     <string name="security_settings_face_settings_remove_dialog_title">Supprimer les données du visage ?</string>
     <string name="security_settings_face_settings_remove_face_data">Supprimer les données du visage</string>
     <string name="security_settings_face_settings_require_attention">"Ouvrez les yeux en regardant l'écran"</string>
     <string name="security_settings_face_settings_require_attention_details">"Pour déverrouiller le téléphone, il faut toujours regarder l'écran les yeux ouverts"</string>
-    <string name="security_settings_face_settings_require_category">Exiger un déverrouillage du visage</string>
+    <string name="security_settings_face_settings_require_category">Exiger un déverrouillage par le visage</string>
     <string name="security_settings_face_settings_require_confirmation">Bouton de confirmation</string>
     <string name="security_settings_face_settings_require_confirmation_details">"Lors de l'authentification pour les applications, demandez toujours une confirmation"</string>
-    <string name="security_settings_face_settings_use_face_category">Utilisez le déverrouillage du visage pour</string>
+    <string name="security_settings_face_settings_use_face_category">Utilisez le déverrouillage par le visage pour</string>
     <string name="security_settings_face_settings_use_face_for_apps">"Connexion à l'application et paiements"</string>
     <string name="security_settings_face_settings_use_face_unlock_phone">Déverrouiller votre téléphone</string>
     <string name="security_settings_fingerprint_enroll_dialog_delete">Supprimer</string>

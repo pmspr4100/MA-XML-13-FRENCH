@@ -397,12 +397,12 @@ en utilisant %s"</string>
   <string name="face_error_hw_not_available">On ne peut pas vérifier le visage. Matériel non disponible.</string>
   <string name="face_error_hw_not_present">"Le déverrouillage par reconnaissance faciale n'est pas pris en charge sur cet appareil."</string>
   <string name="face_error_lockout">Trop de tentatives. Essayez encore plus tard.</string>
-  <string name="face_error_lockout_permanent">"Trop d'essais. Déverrouillage du visage désactivé."</string>
+  <string name="face_error_lockout_permanent">"Trop d'essais. Déverrouillage par le visage désactivé."</string>
   <string name="face_error_no_space">"On ne peut pas stocker les données des nouveaux visages. Effacez d'abord l'ancienne."</string>
   <string name="face_error_not_enrolled">"Vous n'avez pas configuré le déverrouillage par reconnaissance faciale."</string>
   <string name="face_error_timeout">"Essayez à nouveau le déverrouillage par reconnaissance faciale."</string>
   <string name="face_error_unable_to_process">On ne peut pas vérifier le visage. Essayez encore.</string>
-  <string name="face_error_user_canceled">"Déverrouillage du visage annulé par l'utilisateur."</string>
+  <string name="face_error_user_canceled">"Déverrouillage par le visage annulé par l'utilisateur."</string>
   <string name="face_error_vendor_unknown">"Quelque chose s'est mal passé. Essayer à nouveau."</string>
   <string name="face_icon_content_description">Icône de visage</string>
   <string name="face_name_template">Visage %d</string>
@@ -1124,7 +1124,7 @@ pour le compte %s"</string>
   <string name="permlab_install_shortcut">Installer des raccourcis</string>
   <string name="permlab_invokeCarrierSetup">"Faire appel à l'application de configuration fournie par l'opérateur"</string>
   <string name="permlab_killBackgroundProcesses">Fermer les autres applications</string>
-  <string name="permlab_manageFace">Gérer le matériel de déverrouillage du visage</string>
+  <string name="permlab_manageFace">Gérer le matériel du déverrouillage par le visage</string>
   <string name="permlab_manageFingerprint">"Gérer le matériel d'empreintes digitales"</string>
   <string name="permlab_manageNetworkPolicy">Gérer les règles du réseau</string>
   <string name="permlab_manageOwnCalls">Acheminer les appels via le système</string>
