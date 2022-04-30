@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="HomePageTabTitle">
-        <item>Health</item>
-        <item>Workouts</item>
+        <item>Santé</item>
+        <item>Entraînements</item>
     </string-array>
     <string-array name="MediaControlView_playback_speeds">
         <item>0,25×</item>
@@ -18,30 +18,30 @@
         <item>Carte</item>
     </string-array>
     <string-array name="SportTabTitle">
-        <item>Running</item>
-        <item>Walking</item>
-        <item>Cycling</item>
-        <item>Jump rope</item>
-        <item>Workout</item>
+        <item>Course à pied</item>
+        <item>Marche</item>
+        <item>Vélo</item>
+        <item>Saut à la corde</item>
+        <item>Entraînement</item>
     </string-array>
     <string-array name="arr_prompt_label">
-        <item>Reasonable</item>
+        <item>Raisonnable</item>
         <item>Long</item>
-        <item>Too long</item>
+        <item>Trop long</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
-        <item>Time to move!</item>
-        <item>Learn more</item>
-        <item>Drink some water and take a walk.</item>
-        <item>Learn more</item>
-        <item>Climb a flight of stairs</item>
-        <item>Learn more</item>
-        <item>"Don't sit for too long"</item>
-        <item>Learn more</item>
+        <item>"C'est le moment de partir !"</item>
+        <item>Apprendre encore plus</item>
+        <item>"Buvez de l'eau et promenez-vous."</item>
+        <item>Apprendre encore plus</item>
+        <item>Monter un escalier</item>
+        <item>Apprendre encore plus</item>
+        <item>"Ne restez pas assis trop longtemps"</item>
+        <item>Apprendre encore plus</item>
     </string-array>
     <string-array name="arr_time_label">
-        <item>1 hour</item>
-        <item>2 hours</item>
+        <item>1 heure</item>
+        <item>2 heures</item>
     </string-array>
     <string-array name="blood_types">
         <item>A</item>
@@ -58,158 +58,122 @@
         <item>O(+)</item>
     </string-array>
     <string-array name="contact_relation_array">
-        <item>Not set</item>
+        <item>Non défini</item>
         <item>Parent</item>
-        <item>Sister</item>
-        <item>Brother</item>
-        <item>Spouse</item>
-        <item>Partner</item>
-        <item>Friend</item>
-        <item>Colleague</item>
-        <item>Classmate</item>
+        <item>Soeur</item>
+        <item>Frère</item>
+        <item>Époux</item>
+        <item>Partenaire</item>
+        <item>Ami</item>
+        <item>Collègue</item>
+        <item>Camarade de classe</item>
     </string-array>
     <string-array name="energy_unit">
         <item>" kcal"</item>
         <item>" kJ"</item>
     </string-array>
     <string-array name="gender_array">
-        <item>Not set</item>
-        <item>Male</item>
-        <item>Female</item>
+        <item>Non défini</item>
+        <item>Homme</item>
+        <item>Femme</item>
     </string-array>
-    <string-array name="hearing_reference">
-        <item>ISO 1999:2013 Standard</item>
-        <item>ISO 8253-1</item>
-        <item>环境噪声标准体系设计与相互关系研究[J]. 环境监测管理与技术, 2007, 19(6):18-21.</item>
-        <item>制订铁路环境噪声标准的基本方法[J]. 铁路节能环保与安全卫生, 2005, 32(3):108-111.</item>
-        <item>《声环境质量标准》．北京：中国环境科学出版社，2008：全文</item>
-        <item>《社会生活噪声排放标准》．北京：中国环境科学出版社，2008：全文</item>
+    <string-array name="HomePageTabTitle">
+        <item>Santé</item>
+        <item>Entraînements</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" cm"</item>
+        <item>" m"</item>
+        <item>" km"</item>
     </string-array>
     <string-array name="normal_blood_array">
-        <item>Not set</item>
+        <item>Non défini</item>
         <item>A</item>
         <item>B</item>
         <item>AB</item>
         <item>O</item>
     </string-array>
     <string-array name="pager_titles">
-        <item>Day</item>
-        <item>Week</item>
-        <item>Month</item>
-    </string-array>
-    <integer-array name="protein_rate_line_chart_default_y">
-        <item>20</item>
-        <item>15</item>
-        <item>10</item>
-    </integer-array>
-    <string-array name="references">
-        <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
-        <item>Ito H, Ohshima A, Ohto N, Ogasawara M, Tsuzuki M, Takao K, Hijii C, Tanaka H, Nishioka K. Relation between body composition and age in healthy Japanese subjects. Eur J Clin Nutr. 55(6):462-70, 2001</item>
-        <item>Lee RD and Nieman DC. Nutritional Assessment(second edition), pp.264</item>
-        <item>Lohman TG. Advanced in body composition assessment - Currenet issues in exercise science series. Champaign-IL: Human Kinetics. pp 80. 1992</item>
-        <item>"Mahan LK and Escott-stump S. Krause's Food, nutrition &amp; diet therapy 9th edition. WB Saunders Co. pp 455"</item>
-        <item>《神经病学》第9版 第二十二章 睡眠障碍 人民卫生出版社</item>
-        <item>《生理学》第9版 第十章 神经系统的功能 人民卫生出版社</item>
-        <item>《睡眠医学：理论与实践》第4版 第一章 正常睡眠和睡眠变异 人民卫生出版社</item>
-        <item>《中国居民膳食指南2016》第一部分 一般人群膳食指南 中国营养学会 编著</item>
-        <item>Advanced fitness assessment and exercise prescription. Heyward VH. Human Kinetics. pp. 162</item>
-        <item>"American College of Sports Medicine. ACSM's Guidelines for Exercise Testing Prescription[M]. Wolters Kluwer/Lippincott Williams &amp; Wilkins Health, 2014."</item>
-        <item>Bray GA. Contemporary Diagnosis and Management of Obesity. pp.13, 1998</item>
-        <item>Brown JE. Nutrition Now 2nd edition. Wadsworth Publishing Company. pp 9-3. 1999</item>
-        <item>Brozek J. Grande F, Anderson JT, Keys A. Densitometric analysis of body composition: Revision of some quantitative assumptions. Ann N Y Acad Sci. 1963 Sep 26;110:113-40</item>
-        <item>Heymsfield SB, Smith R, Aulet M, Bensen B, Lichtman S, Wang J, Pierson RN Jr. Appendicular skeletal muscle mass: measurement by dual-photon absorptiometry. Am J Clin Nutr. 52(2):214-8, 1990</item>
-        <item>Pollock, Michael L, Gaesser, Glenn A, Butcher, Janus D,等. ACSM Position Stand: The, Recommended Quantity and Quality of Exercise for Developing and Maintaining Cardiorespiratory, and Muscular Fitness, and Flexibility in Healthy Adults[J]. Medicine &amp; Science, in Sports &amp; Exercise, 30(6):975-991.</item>
-        <item>Tahara Y, Moji K, Aoyagi K, Tsunawake N, Muraki S, Mascie-Taylor CG. Age-related pattern of body density and body composition of Japanese men and women 18-59 years of age. Am J Hum Biol. 14(6):743-52, 2002</item>
-        <item>Wang ZM, Pierson RN Jr, Heymsfield SB. The five-level model: a new approach to organizing body-composition research. Am J Clin Nutr. 1992 Jul;56(1):19-28.</item>
-        <item>WHO guidelines for BMI</item>
-        <item>儿科学辞典. 北京科学技术出版社. 2003</item>
-        <item>临床医学概要 第2版 第二章 体格检查人民卫生出版社</item>
-        <item>苏亮，陆峥. 2017 年中国失眠症诊断和治疗指南解读[J]. 世界临床药物, 2018, 39(4).</item>
-        <item>卫生部“十二五”规划教材【诊断学】 第8版 第三篇 体格检查</item>
-        <item>营养与食品卫生学（第八版）第一章 第五节 孙长颢主编 人民卫生出版社</item>
-        <item>中国超重肥胖医学营养治疗专家共识编写委员会. 中国超重/肥胖医学营养治疗专家共识(2016年版)[J].</item>
-        <item>中国高血压防治指南-2005年修订版 中国高血压防治指南2010年修订版</item>
-        <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
-        <item>Amato M C, Giordano C, Galia M, et al. Visceral Adiposity Index[J]. 2010, 33(4):920-922.</item>
-        <item>章振林. 骨质疏松诊断与骨密度检查报告的解读[J]. 中国全科医学, 2010, 13(2):117-117.</item>
-        <item>谢幸.妇产科学（第9版）[M].北京:人民卫生出版社.2018.</item>
-        <item>窗敲雨. 安全期真的安全吗[J]. 康复, 2013(1):16-16.</item>
-        <item>肖玮, 阿丹. 安全期避孕安全吗?[J]. 健康必读, 2002(4).</item>
-        <item>2018 Physical Activity Guidelines Advisory Committee Submits Scientific Report</item>
+        <item>Jour</item>
+        <item>Semaine</item>
+        <item>Mois</item>
     </string-array>
     <string-array name="repeat_mode_mild_abnormal_array">
-        <item>Mon, Wed, Fri</item>
-        <item>Tue, Thu, Sat</item>
-        <item>Wed, Fri, Sun</item>
+        <item>Lun, Mer, Ven</item>
+        <item>Mar, Jeu, Sam</item>
+        <item>Mer, Ven, Dim</item>
     </string-array>
     <string-array name="repeat_mode_week_array">
-        <item>Every Monday</item>
-        <item>Every Tuesday</item>
-        <item>Every Wednesday</item>
-        <item>Every Thursday</item>
-        <item>Every Friday</item>
-        <item>Every Saturday</item>
-        <item>Every Sunday</item>
+        <item>Tous les lundi</item>
+        <item>Tous les mardi</item>
+        <item>Tous les mercredi</item>
+        <item>Tous les jeudi</item>
+        <item>Tous les vendredi</item>
+        <item>Tous les samedi</item>
+        <item>Tous les dimanche</item>
     </string-array>
     <string-array name="rh_blood_array">
-        <item>Not set</item>
-        <item>Negative</item>
-        <item>Positive</item>
+        <item>Non défini</item>
+        <item>Négatif</item>
+        <item>Positif</item>
     </string-array>
     <string-array name="run_in_background_state">
-        <item>No restrictions</item>
-        <item>Limit background activity</item>
-        <item>Stop after 10 minutes</item>
-        <item>Never</item>
+        <item>Pas de restrictions</item>
+        <item>"Limiter l'activité en arrière-plan"</item>
+        <item>Arrêtez-vous après 10 minutes</item>
+        <item>Jamais</item>
     </string-array>
     <string-array name="speed_unit">
         <item>" km/h"</item>
         <item>" m/s"</item>
     </string-array>
+    <string-array name="splash_loading">
+        <item>"Calcul de l'objectif d'activité…"</item>
+        <item>"Objectif d'activité : %1$d pas"</item>
+        <item>"Vous avez parcouru %1$d pas aujourd'hui"</item>
+        <item>"Calcul de l'objectif de sommeil…"</item>
+        <item>Objectif de sommeil : %1$d heures</item>
+        <item>"Pas de données de sommeil pour l'instant"</item>
+        <item>Ouverture de Mi Santé</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Image</item>
+        <item>Route</item>
+        <item>Carte</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Course</item>
+        <item>Marche</item>
+        <item>Vélo</item>
+        <item>Saut à la corde</item>
+        <item>Tapis roulant</item>
+    </string-array>
     <string-array name="stand_guide_page_content1">
-        <item>"Sitting down doesn't benefit your health. Even if you can't reduce the time you spend sitting, standing up every once in a while is a good idea."</item>
-        <item>This feature will remind you to spend at least 1 minute of every hour standing up. 12 hours with stand-up breaks every day will help you avoid the risks of a sedentary lifestyle.</item>
-        <item>Tap \"Continue\" to learn more and turn this feature on.</item>
+        <item>"S'asseoir ne profite pas à votre santé. Même si vous ne pouvez pas réduire le temps que vous passez assis, vous levez de temps en temps est une bonne idée."</item>
+        <item>"Cette fonction vous rappellera de passer au moins 1 minute de chaque heure debout. 12 heures avec des pauses debout tous les jours vous aideront à éviter les risques d'un mode de vie sédentaire."</item>
+        <item>Appuyez sur \"Continuer\" pour en savoir plus et activer cette fonctionnalité.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>Xiaomi Health can detect and record when you stand up. You can also receive reminders to stand up after 1 hour of inactivity.</item>
-        <item>This feature tracks your movement and sends reminders based on the results.</item>
+        <item>"Mi Santé peut détecter et enregistrer lorsque vous vous levez. Vous pouvez également recevoir des rappels pour vous lever après 1 heure d'inactivité."</item>
+        <item>Cette fonction suit votre mouvement et envoie des rappels en fonction des résultats.</item>
     </string-array>
-    <string-array name="temperature_unit">
-        <item>℃</item>
-        <item>°F</item>
-    </string-array>
-    <integer-array name="visceral_rate_line_chart_default_y">
-        <item>20</item>
-        <item>10</item>
-        <item>0</item>
-    </integer-array>
     <string-array name="week">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>Dimanche</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
     </string-array>
     <string-array name="week_label">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-    </string-array>
-    <string-array name="week_short">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Dim</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
     </string-array>
     <string-array name="weight_unit">
         <item>" g"</item>
@@ -220,8 +184,8 @@
         <item>" lb"</item>
     </string-array>
     <string-array name="yes_no_array">
-        <item>Not set</item>
-        <item>Yes</item>
-        <item>No</item>
+        <item>Non défini</item>
+        <item>Oui</item>
+        <item>Non</item>
     </string-array>
 </resources>
