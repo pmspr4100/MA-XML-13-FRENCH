@@ -4775,6 +4775,9 @@ D'autres personnes utilisent cet appareil.
     <string name="midnight">Nuit</string>
     <string name="miheadet_up_music">Piste précédente</string>
     <string name="miheadset_Intelligentpickfree_summary">"Lorsque la suppression du bruit est activée, vos écouteurs passent automatiquement en transparence pendant une courte période lorsqu'ils détectent des voix"</string>
+    <string name="miheadset_LEAudio_summary">Certaines fonctionnalités ne seront pas disponibles lorsque le protocole LE Audio est activé.</string>
+    <string name="miheadset_LEAudio_title">Activer le protocole LE Audio ?</string>
+    <string name="miheadset_LE_on_toast">"Assurez-vous que les deux écouteurs sont chargés et sortez-les de l'étui avant d'activer cette fonctionnalité"</string>
     <string name="miheadset_LeftEar">Gauche</string>
     <string name="miheadset_RightEar">Droite</string>
     <string name="miheadset_active">Énergétique</string>
@@ -4825,6 +4828,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_enhence_low">Améliorer les basses</string>
     <string name="miheadset_equalizer">Égaliseur</string>
     <string name="miheadset_feedback">Feedback</string>
+    <string name="miheadset_feedback_summary">"Pour pouvoir envoyer des journaux, placez les deux écouteurs dans l'étui de chargement et laissez le couvercle ouvert."</string>
+    <string name="miheadset_feedback_title">Envoyer les journaux</string>
     <string name="miheadset_fitness_check">"Test d'ajustement des embouts auriculaires"</string>
     <string name="miheadset_fitness_check_checking">Test…</string>
     <string name="miheadset_fitness_check_continue">Suivant</string>
@@ -4893,6 +4898,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_rename_device">Renommer</string>
     <string name="miheadset_shared_contacts">Partage de contacts</string>
     <string name="miheadset_shared_contacts_summary">Pour partager des contacts</string>
+    <string name="miheadset_single_ear_indicate">Portez les deux écouteurs pour utiliser la suppression du bruit</string>
+    <string name="miheadset_singleear_toast">Non pris en charge pour un seul écouteur</string>
     <string name="miheadset_soft">Doux</string>
     <string name="miheadset_sound_settings">Audio</string>
     <string name="miheadset_spatial_audio_off">Désactivé</string>

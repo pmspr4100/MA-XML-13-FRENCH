@@ -459,6 +459,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="cloud_full_space_tip_negative">Pas maintenant</string>
     <string name="cloud_full_space_tip_positive">Mettre à niveau</string>
     <string name="cloud_full_space_tip_title">Stockage cloud insuffisant</string>
+    <string name="cloud_full_space_tip_title_completely">Le stockage cloud est plein</string>
     <string name="cloud_guide_auto_backup_title">Choisissez des albums à synchroniser</string>
     <string name="cloud_guide_login_title">Sauvegarder automatiquement vos photos et vidéos</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
@@ -538,6 +539,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="correct_photo_time">"Corriger la date et l'heure des photos"</string>
     <string name="correct_time_success">Corrigé avec succès</string>
     <string name="correct_time_tip">"Correction de la date et de l'heure…"</string>
+    <string name="create_album_failed_because_dup">Cet album existe déjà. Ajouter des éléments à cet album maintenant ?</string>
     <string name="create_baby_album">Créer un album Bébé</string>
     <string name="create_baby_album_dialog_msg">Créé un album de \"%s\" ?</string>
     <string name="create_baby_album_later_toast">Créer à tout moment un album Bébé dans Paramètres</string>
@@ -1001,6 +1003,8 @@ sont disponibles"</string>
     <string name="grant_permission_go_and_set">Définir</string>
     <string name="grant_permission_go_and_set_2">Paramètres</string>
     <string name="grant_permission_go_and_set_3">Paramètres</string>
+    <string name="grant_permission_manage_storage">Autorisations requises</string>
+    <string name="grant_permission_manage_storage_unlock">Déverrouillez votre appareil et autorisez cette application à accéder à tous les fichiers pour pouvoir afficher les éléments.</string>
     <string name="grant_permission_shortcut">"Autorisez cette application à créer d'abord des raccourcis sur l'écran d'accueil."</string>
     <string name="grant_permission_storage">"Autorisez d'abord cette application à accéder au stockage."</string>
     <string name="grant_permission_storage_unlock">"Déverrouillez votre appareil et autorisez d'abord cette application à accéder au stockage."</string>
@@ -1114,6 +1118,17 @@ sont disponibles"</string>
     <string name="kick_sharer_failed">Impossible de supprimer cette personne</string>
     <string name="kick_sharer_successfully">Cette personne a été supprimée</string>
     <string name="kilobyteShort">" Ko"</string>
+    <string name="labour_day">Fête du travail</string>
+    <string name="last_some_day_pets_title">Pattes et moustaches</string>
+    <string name="last_some_day_show_title">Heure du spectacle</string>
+    <string name="last_some_day_surfing_title">Bon vent</string>
+    <string name="last_some_day_travel_title_four">Bonjour %1$s !</string>
+    <string name="last_some_day_travel_title_one">Dans %1$s</string>
+    <string name="last_some_day_travel_title_three">Explorer %1$s</string>
+    <string name="last_some_day_travel_title_two">Souvenirs de %1$s</string>
+    <string name="last_some_performance_title">"Ce que j'ai vu"</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Téléphone Lenovo</string>
     <string name="limit_height">La hauteur doit être > 0</string>
     <string name="limit_width">La largeur doit être > 0</string>
     <string name="live_photo">Prise dynamique</string>
@@ -1596,6 +1611,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
     <string name="operation_too_often">Il y a trop de demande depuis votre adresse IP. Essayez à nouveau dans 1 minute.</string>
     <string name="operation_unforce_top">Détacher</string>
     <string name="operation_unhide">Afficher</string>
+    <string name="photodetail_rename_invalid">"Les noms de fichiers ne peuvent pas contenir ces caractères : /\\:*?&lt;>|.\""</string>
     <string name="operation_video_compress">Compresser la vidéo</string>
     <string name="operation_watermark">Filigrane protecteur</string>
     <string name="orientation_lock_tip">Rotation automatique désactivée</string>
@@ -2103,8 +2119,8 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
     <string name="send_file_beautify_failed">Impossible de partager</string>
     <string name="send_files_by">Partager avec</string>
     <string name="send_files_to">Envoyer des éléments à</string>
-    <string name="send_heif_summary">Convertir les images HEIC en JPEG pour assurer la compatibilité</string>
-    <string name="send_heif_title">"Convertir HEIC en JPG avant d'envoyer"</string>
+    <string name="send_heif_summary">Convertir les images HEIC en JPEG avant de les envoyer</string>
+    <string name="send_heif_title">"Convertir HEIC avant d'envoyer"</string>
     <string name="send_multiple_files_hint_format">Envoi (%s)</string>
     <string name="send_public_url">"Envoi de l'URL"</string>
     <string name="send_secret_file_failed">Impossible de partager</string>

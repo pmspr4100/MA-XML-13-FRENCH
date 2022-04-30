@@ -280,6 +280,9 @@ Envoyez ce code au superviseur."</string>
     <string name="login_check_find_device">Obtention des informations de sécurité…</string>
     <string name="login_check_find_device_failed_title">"Impossible de vérifier les informations de sécurité de l'appareil"</string>
     <string name="login_find_device_bind">"Cet appareil est associé à l'ID d'un Compte Mi existant (%s)."</string>
+    <string name="login_notification_button_text">Se connecter</string>
+    <string name="login_notification_desc">"Profitez des services cloud, de l'espace de stockage familial et bien plus"</string>
+    <string name="login_notification_title">Connectez-vous à votre Compte Mi</string>
     <string name="login_with_other">"Plus d'options"</string>
     <string name="logout_account">Se déconnecter</string>
     <string name="logout_failed">Impossible de se déconnecter</string>
