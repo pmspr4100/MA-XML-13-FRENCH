@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="HomePageTabTitle">
-        <item>Santé</item>
-        <item>Entraînements</item>
     </string-array>
     <string-array name="MediaControlView_playback_speeds">
         <item>0,25×</item>
@@ -11,18 +8,6 @@
         <item>1,25×</item>
         <item>1,5×</item>
         <item>2×</item>
-    </string-array>
-    <string-array name="ShareTabTitle">
-        <item>Image</item>
-        <item>Route</item>
-        <item>Carte</item>
-    </string-array>
-    <string-array name="SportTabTitle">
-        <item>Course à pied</item>
-        <item>Marche</item>
-        <item>Vélo</item>
-        <item>Saut à la corde</item>
-        <item>Entraînement</item>
     </string-array>
     <string-array name="arr_prompt_label">
         <item>Raisonnable</item>
@@ -142,11 +127,11 @@
         <item>Carte</item>
     </string-array>
     <string-array name="SportTabTitle">
-        <item>Course</item>
+        <item>Course à pied</item>
         <item>Marche</item>
         <item>Vélo</item>
         <item>Saut à la corde</item>
-        <item>Tapis roulant</item>
+        <item>Entraînement</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
         <item>"S'asseoir ne profite pas à votre santé. Même si vous ne pouvez pas réduire le temps que vous passez assis, vous levez de temps en temps est une bonne idée."</item>

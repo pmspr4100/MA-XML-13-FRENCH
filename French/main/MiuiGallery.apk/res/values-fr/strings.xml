@@ -1611,7 +1611,6 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
     <string name="operation_too_often">Il y a trop de demande depuis votre adresse IP. Essayez à nouveau dans 1 minute.</string>
     <string name="operation_unforce_top">Détacher</string>
     <string name="operation_unhide">Afficher</string>
-    <string name="photodetail_rename_invalid">"Les noms de fichiers ne peuvent pas contenir ces caractères : /\\:*?&lt;>|.\""</string>
     <string name="operation_video_compress">Compresser la vidéo</string>
     <string name="operation_watermark">Filigrane protecteur</string>
     <string name="orientation_lock_tip">Rotation automatique désactivée</string>
