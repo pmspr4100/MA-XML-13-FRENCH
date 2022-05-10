@@ -2777,7 +2777,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="no_game">Impossible de trouver des jeux</string>
     <string name="no_open">Pas maintenant</string>
     <string name="no_privacy_permission">Consentement à la Politique de confidentialité non requis</string>
-    <string name="no_sim_card_by_tips">Pour pouvoir définir le solde du téléphone et les avertissements d'utilisation des données, insérez d'abord une carte SIM.</string>
+    <string name="no_sim_card_by_tips">"Pour pouvoir définir le solde du téléphone et les avertissements d'utilisation des données, insérez d'abord une carte SIM."</string>
     <string name="noon">Midi</string>
     <string name="normal_package_usage_summary" formatted="false">%2s sur %1s (%3s)</string>
     <string name="not_closed">Continuer</string>

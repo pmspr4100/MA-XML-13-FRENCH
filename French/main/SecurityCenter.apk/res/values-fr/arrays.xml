@@ -61,10 +61,6 @@
         <item>PIN</item>
         <item>Mot de passe</item>
     </string-array>
-    <string-array name="cellular_data_unit">
-        <item>Go</item>
-        <item>Mo</item>
-    </string-array>
     <string-array name="cellular_package_type">
         <item>Forfait mensuel</item>
         <item>Illimité</item>

@@ -598,8 +598,6 @@
   <string name="save_sucess">Enregistré avec succès</string>
   <string name="save_word">Enregistrer</string>
   <string name="saveDone">Enregistré avec succès</string>
-  <string name="scan_result">Résultat</string>
-  <string name="scan_support_type">WeChat, Alipay, QR code, codes barres</string>
   <string name="scanHistory">Historique du scanner</string>
   <string name="scanHistory_close">Désactiver</string>
   <string name="scanHistory_isOpen">"Commencer à suivre l'historique des éléments numérisés maintenant ?"</string>

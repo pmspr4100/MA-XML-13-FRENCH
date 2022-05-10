@@ -193,7 +193,7 @@
     <string name="branch_search_guide_title">Trouvez ce que vous cherchez dans vos applications préférées</string>
     <string name="branch_terms_condition">Conditions générales</string>
     <string name="branch_tip_title">"Avec Quick Finder, vous pouvez trouver tout ce dont vous avez besoin en un clin d'œil."</string>
-    <string name="branch_ui_version">Version de l'interface utilisateur de la branche</string>
+    <string name="branch_ui_version">"Version de l'interface utilisateur de Branch"</string>
     <string name="btn_agree">"D'accord"</string>
     <string name="btn_cancel">Annuler</string>
     <string name="btn_close">Désactiver</string>
