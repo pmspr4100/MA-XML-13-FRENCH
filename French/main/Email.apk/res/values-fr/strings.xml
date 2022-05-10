@@ -919,11 +919,6 @@ Ce problème peut être causé par l'authentification à deux facteurs du compte
     <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
-    <string name="miuix_search_action_mode_cancel">Annuler</string>
-    <string name="miuix_search_history_clear">"Effacer l'historique de recherche"</string>
-    <string name="miuix_search_history_default_title">Historique des recherches</string>
-    <string name="miuix_search_recommendation_default_title">Vous pourriez être intéressé par ceci</string>
-    <string name="miuix_search_recommendation_item_del_des">Supprimer</string>
     <string name="modify_contact_address">"Modifier l'adresse e-mail du contact"</string>
     <string name="monday">Lundi</string>
     <string name="monday_short">Lun</string>

@@ -150,6 +150,7 @@
     <string name="low_battery_error_for_pad">"Moins de %s de batterie restante. Arrêtez et sauvegardez votre enregistrement pour vous assurer qu'il ne se perde pas."</string>
     <string name="low_battery_error_title">Batterie faible</string>
     <string name="lyric_item_point_count">%1$d à %2$d</string>
+    <string name="manage_external_storage">Accéder à tous les fichiers</string>
     <string name="mark_point_list_title">Marques</string>
     <string name="material_clock_toggle_content_description">Sélectionner AM ou PM</string>
     <string name="material_hour_selection">"Sélectionner l'heure"</string>
@@ -532,10 +533,10 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
+    <string name="sync_desc_state_complete">Synchronisé avec le cloud : %1$s</string>
     <string name="tab_all">Tous</string>
     <string name="tab_apps">Applications</string>
     <string name="tab_call">Appels</string>
-
     <string name="tap_to_record">"Appuyez sur le bouton pour commencer l'enregistrement "</string>
     <string name="text_btn_backward_3_seconds">3 secondes en arrière</string>
     <string name="text_btn_complete">Arrêter</string>

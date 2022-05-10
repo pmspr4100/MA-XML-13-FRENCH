@@ -325,8 +325,8 @@ Appuyez sur \"Effacer et convertir…\" pour continuer."</string>
     <string name="failed_to_open_app_settings_toast">"Échec de l'ouverture des paramètres pour %1$s"</string>
     <string name="fast_connect_anti_lost_content">"Configurez une alerte qui apparaîtra lorsque l'un de vos écouteurs est manquant.
 Vérifiez les paramètres pour plus de détails."</string>
-
     <string name="fast_connect_bt_speaker2_name">MI Portable Speaker</string>
+    <string name="fast_connect_connection_fail">Impossible de se connecter</string>
     <string name="fast_connect_device_battery">Batterie</string>
     <string name="fast_connect_device_box">Boîtier</string>
     <string name="fast_connect_device_box_name">Boîtier %1$s</string>

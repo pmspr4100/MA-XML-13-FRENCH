@@ -955,6 +955,8 @@ Bluetooth"</string>
     <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
     <string name="fiveg_network_mode_title">Sélection du mode réseau 5G</string>
     <string name="fiveg_network_title">Réseaux 5G</string>
+    <string name="fiveg_nrca_switch_summary">"Utiliser l'agrégation d'opérateurs 5G pour une meilleure connectivité"</string>
+    <string name="fiveg_nrca_switch_title">"Agrégation d'opérateurs 5G"</string>
     <string name="fiveg_plmn_info_list1">"Liste d'informations PLMN :"</string>
     <string name="fiveg_power_switch_summary">Rendre la connectivité 5G moins énergivore dans certains scénarios</string>
     <string name="fiveg_power_switch_title">Économiseur de batterie 5G</string>
@@ -1585,6 +1587,8 @@ Please contact your operators"</string>
     <string name="nr_usaged_network_usaged">"Les données d'aujourd'hui"</string>
     <string name="nr_usaged_operator">Opérateur</string>
     <string name="nr_usaged_used_time">"Durée d'utilisation"</string>
+    <string name="nrca_switch_summary">"Utiliser l'agrégation d'opérateurs 5G pour une meilleure connectivité"</string>
+    <string name="nrca_switch_title">Utiliser NRCA</string>
     <string name="number">Numéro</string>
     <string name="numerous_emergency_numbers_title">Emergency numbers</string>
     <string name="obtain_location_information">Localisation</string>
@@ -2253,6 +2257,7 @@ Interface UT : %5$s"</string>
     <string name="sim_me_lock_disabled">Simlock is disabled.</string>
     <string name="sim_ndp_dismiss_text">Rejeter</string>
     <string name="sim_ndp_unlock_text">Déverrouiller</string>
+    <string name="sim_nrca_title">SIM %1$s (%2$s)</string>
     <string name="sim_roaming_settings_summary">Se connecter aux réseaux de données mobiles en itinérance</string>
     <string name="sim_roaming_settings_title">Mi Itinérance</string>
     <string name="sim_selection_required_pref">Sélection requise</string>
@@ -2553,6 +2558,8 @@ Prochaine période dans %2$d jours (%3$s)"</string>
     <string name="undefined">Aucun</string>
     <string name="unfold_close_camera_pref_summary">"Dépliez l'appareil pendant un appel vidéo pour éteindre la caméra"</string>
     <string name="unfold_close_camera_pref_title">Déplier pour éteindre la caméra</string>
+    <string name="unfold_show_bublle_pref_summary">"Dépliez l'appareil pendant les appels pour les afficher dans des fenêtres flottantes"</string>
+    <string name="unfold_show_bublle_pref_title">Déplier pour minimiser les appels</string>
     <string name="unfold_speaker_pref_summary">"Dépliez l'appareil pendant un appel pour activer le haut-parleur"</string>
     <string name="unfold_speaker_pref_title">Déplier pour utiliser le haut-parleur</string>
     <string name="unknown">Inconnu</string>

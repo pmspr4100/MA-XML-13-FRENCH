@@ -8,6 +8,14 @@
         <item>Extra large</item>
         <item>XXL</item>
      </string-array>
+    <string-array name="cache_sort_type">
+        <item>Taille</item>
+        <item>Nom</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>Gio</item>
+        <item>Mio</item>
+    </string-array>
      <string-array name="daily_brand">
         <item>Personnalisé</item>
         <item>Mi Fan card</item>
@@ -22,11 +30,11 @@
         <item>Tencent card</item>
      </string-array>
      <string-array name="gb_adv_touch_custom_level">
-        <item>Lowest</item>
-        <item>Low</item>
-        <item>Regular</item>
-        <item>High</item>
-        <item>Highest</item>
+         <item>Le plus bas</item>
+         <item>Faible</item>
+         <item>Normal</item>
+         <item>Élevé</item>
+         <item>Le plus élevé</item>
      </string-array>
     <string-array name="alarm_repeat_type">
         <item>Une fois</item>
@@ -185,15 +193,13 @@
         <item>Utilisation des données</item>
         <item>Solde du téléphone</item>
     </string-array>
-    <string-array name="sort_title">
-        <item>Trier par état</item>
-        <item>Trier par nom</item>
+    <string-array name="sort_title_new">
+        <item>"Trier par nom d'application"</item>
         <item>"Trier par fréquence d'utilisation"</item>
         <item>Trier par stockage utilisé</item>
         <item>"Trier par date d'installation"</item>
     </string-array>
-    <string-array name="sort_type">
-        <item>État</item>
+    <string-array name="sort_type_new">
         <item>"Nom de l'application"</item>
         <item>"Fréquence d'utilisation"</item>
         <item>Stockage utilisé</item>

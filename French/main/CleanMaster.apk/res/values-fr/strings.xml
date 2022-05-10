@@ -852,6 +852,7 @@
   <string name="start_clean">Démarrer</string>
   <string name="start_downloading_app">Commencer à télécharger : %1$s</string>
   <string name="start_install">Installer maintenant</string>
+  <string name="storage_system_log">Journaux système</string>
   <string name="summary_auto_cleaner">Recevoir des notifications chaque fois que la taille de fichiers inutiles atteint 100 Mo ?</string>
   <string name="summary_delete_apk">Supprimer les APK sélectionnés définitivement ?</string>
   <string name="summary_delete_cache">Nettoyer le cache des applications sélectionnées ?</string>

@@ -310,10 +310,6 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">Obtenez un essai gratuit de %d jours</item>
         <item quantity="one">Obtenez un essai gratuit de %d jour</item>
     </plurals>
-    <plurals name="gd_app_edit_desc">
-        <item quantity="other">"Ajoutez jusqu'à %d applications. Faites glisser les éléments ajoutés pour réorganiser."</item>
-        <item quantity="one">"Ajoutez jusqu'à %d application. Faites glisser les éléments ajoutés pour réorganiser."</item>
-    </plurals>
     <plurals name="gd_app_edit_desc_new">
         <item quantity="other">"Ajoutez jusqu'à %d applications. Appuyez et maintenez pour réorganiser."</item>
         <item quantity="one">"Ajoutez jusqu'à %d application. Appuyez et maintenez pour réorganiser."</item>

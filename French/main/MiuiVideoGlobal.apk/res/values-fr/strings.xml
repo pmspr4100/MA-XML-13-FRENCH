@@ -295,6 +295,7 @@ Envoyez ce code au superviseur."</string>
     <string name="dialog_edit_hint_bookmarks_url">URL</string>
     <string name="dialog_edit_hint_name">Nom</string>
     <string name="dialog_edit_hint_url">URL</string>
+    <string name="dialog_item_add_video">Ajouter des vidéos</string>
     <string name="dialog_jumpto_choose">Ne plus afficher</string>
     <string name="dialog_jumpto_content">Passer à Mi Vidéo pour accéder à des fonctionnalités de lecture supplémentaires ?</string>
     <string name="dialog_jumpto_title">Mi Vidéo</string>
@@ -408,7 +409,9 @@ Envoyez ce code au superviseur."</string>
     <string name="favorite_cancel_success">Supprimé des favoris avec succès</string>
     <string name="favorite_fail">"Impossible d'ajouter aux favoris. Réessayer."</string>
     <string name="favorite_success">Ajouté aux favoris avec succès</string>
+    <string name="fcm_2_args">Premier : %1$s et deuxième %2$s</string>
     <string name="fcm_fallback_notification_channel_label">Divers</string>
+    <string name="fcm_no_args">Chaîne sans arguments</string>
     <string name="fcm_push_title">Vidéos populaires</string>
     <string name="feedback">Retours</string>
     <string name="feedback_activity_title">Retours</string>
@@ -474,7 +477,7 @@ Envoyez ce code au superviseur."</string>
     <string name="galleryplus_file_edit_save">Fichier enregistré dans %s</string>
     <string name="galleryplus_fr_unsupport_restore_speed">"Fréquence d'images non prise en charge. Revenir à la vitesse normale."</string>
     <string name="galleryplus_gallery_fold_tags">Masquer les marques</string>
-    <string name="galleryplus_gallery_video_adjust_hint">Seules les vidéos à 960 ips sont gérées</string>
+    <string name="galleryplus_gallery_video_adjust_hint">Seules les vidéos à %d ips sont gérées</string>
     <string name="galleryplus_gallery_video_adjust_text">Adjuster</string>
     <string name="galleryplus_gallery_video_default_music_text">Auto</string>
     <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
@@ -483,7 +486,7 @@ Envoyez ce code au superviseur."</string>
     <string name="galleryplus_gallery_video_item4_default_text">Aube</string>
     <string name="galleryplus_gallery_video_item5_default_text">Souvenirs</string>
     <string name="galleryplus_gallery_video_item6_default_text">Joie</string>
-    <string name="galleryplus_gallery_video_local_music_text">Sélection du ichier</string>
+    <string name="galleryplus_gallery_video_local_music_text">Sélection du fichier</string>
     <string name="galleryplus_gallery_video_music_format_error">Ajout de la bande sonore à la vidéo sélectionnée impossible</string>
     <string name="galleryplus_gallery_video_music_text">Bande sonore</string>
     <string name="galleryplus_gallery_video_no_music_text">Aucune</string>
@@ -642,6 +645,11 @@ pour les vidéos"</string>
     <string name="local_push_setting_power_tag">Notifications sur les vidéos locales</string>
     <string name="local_push_title">"Populaire aujourd'hui"</string>
     <string name="local_push_video_title">Rechercher de nouvelles vidéos locales</string>
+    <string name="local_subtitle_choose_language_text">Langue</string>
+    <string name="local_subtitle_exemption_hint">Rechercher des sous-titres sur opensubtitle.org</string>
+    <string name="local_subtitle_input_keyword_text">Chercher des mots-clés</string>
+    <string name="local_subtitle_search_result_text">Résultats</string>
+    <string name="local_subtitle_searching_text">Recherche…</string>
     <string name="local_video_create_a_new_playlist">Nouvelle liste de lecture</string>
     <string name="local_video_date">Date</string>
     <string name="local_video_dialog_default">Par défaut</string>
@@ -704,7 +712,6 @@ pour les vidéos"</string>
     <string name="lv_brightness">Luminosité</string>
     <string name="lv_cast">Diffusion</string>
     <string name="lv_check_delete_file">Sélectionner les éléments à supprimer</string>
-    <string name="lv_check_send_file">"Vous ne pouvez envoyer qu'un seul fichier à la fois"</string>
     <string name="lv_check_send_file_new">Vous ne pouvez envoyer que %d fichiers à la fois</string>
     <string name="lv_confirm_delete_history">Supprimer les éléments sélectionnés ?</string>
     <string name="lv_confirm_delete_videos">Supprimer des éléments ?</string>
@@ -1495,6 +1502,7 @@ Augmenter la sécurité de votre compte."</string>
     <string name="slide_save_message">Générer une vidéo en cours…</string>
     <string name="small_video_cancel_button">Annuler</string>
     <string name="small_video_download_button">Télécharger</string>
+    <string name="small_video_load_more_hint">Balayer vers le haut pour lire plus de vidéos</string>
     <string name="small_video_snack_download_description">Téléchargez SnackVideo pour voir les dernières vidéos de vos créateurs préférés.</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
     <string name="sms_send_success">Envoyé avec succès</string>
@@ -1602,10 +1610,13 @@ Il ne montre rien."</string>
     <string name="tab_name_movies">Films</string>
     <string name="tab_name_trending">Tendance</string>
     <string name="tab_name_video">Vidéos</string>
+    <string name="tab_name_vk">Vidéo VK</string>
     <string name="tab_playlist_local">Locale</string>
     <string name="tab_playlist_online">En ligne</string>
-    <string name="talkback_ad_clicked">Advertisement</string>
-    <string name="talkback_background_playback">Background playback</string>
+    <string name="talkback_ad_clicked">Publicité</string>
+    <string name="talkback_background_playback">Lecture en arrière-plan</string>
+    <string name="talkback_music_play">Jouer de la musique</string>
+    <string name="talkback_video_play">Lire la vidéo</string>
     <string name="target_sdk_version_30_upgrade_tips">"Certaines vidéos peuvent ne pas être visionnées ici en raison des restrictions d'Android 11. Appuyez sur \"Fichiers\" pour rechercher d'autres vidéos."</string>
     <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
@@ -1662,6 +1673,7 @@ Il ne montre rien."</string>
     <string name="tip_download_video_to_save_here">%d. La vidéo sera enregistrée dans vos téléchargements</string>
     <string name="tip_enter_the_website">%d. Ouvrir un site web ou une application</string>
     <string name="tip_local_long_press_for_manager">Appuyez et maintenez pour gérer les vidéos</string>
+    <string name="tip_local_long_press_for_manager_folder">Appuyez et maintenez pour gérer les dossiers</string>
     <string name="tip_local_manager_here">Gérez vos fichiers ici</string>
     <string name="tip_login_for_your_online_playlist">Connectez-vous pour afficher vos listes de lecture.</string>
     <string name="tip_play_a_video">%d. Lire une vidéo</string>
@@ -1674,6 +1686,8 @@ Il ne montre rien."</string>
     <string name="title_download_setting">Paramètres de téléchargement</string>
     <string name="title_firework_recommend">Recommandations Firework</string>
     <string name="title_history">Historique</string>
+    <string name="title_mangotv_history_sub" formatted="false">%s (Épisode %d)</string>
+    <string name="title_mangotv_subtitle_language">Langue des sous-titres</string>
     <string name="title_publisher">Créateurs</string>
     <string name="title_select_directory">Sélectionnez le dossier</string>
     <string name="title_selected">Sélectionné</string>
@@ -1775,6 +1789,7 @@ Il ne montre rien."</string>
     <string name="video_resolution_kb_size_suffix">%.2f Ko</string>
     <string name="video_resolution_mb_size_suffix">%.2f Mo</string>
     <string name="view">Afficher</string>
+    <string name="vk_video_tab">Pour vous</string>
     <string name="vp_VideoView_error_button">OK</string>
     <string name="vp_VideoView_error_text_unknown">Une erreur est survenue</string>
     <string name="vp_VideoView_error_title">Erreur inconnue</string>

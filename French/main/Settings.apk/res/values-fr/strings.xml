@@ -131,7 +131,7 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
     <string name="accessibility_dialog_button_deny">Refuser</string>
     <string name="accessibility_dialog_button_stop">Arrêter</string>
     <string name="accessibility_disable_animations">Supprimer les animations</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Cette fonctionnalité est expérimentale et peut affecter les performances.</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">"Réglez l'affichage des couleurs sur votre appareil. Cela peut être utile lorsque vous souhaitez :<br></br><br></br><ol><li>Voir les couleurs avec plus de précision</li><li>Supprimer les couleurs pour vous aider à vous concentrer</li></ol>"</string>
     <string name="accessibility_display_daltonizer_preference_title">Correction des couleurs</string>
     <string name="accessibility_display_inversion_preference_subtitle">Peut affecter les performances</string>
     <string name="accessibility_display_inversion_preference_title">Inversion des couleurs</string>
@@ -1341,6 +1341,8 @@ Applications :
     <string name="bluetooth_enable_alphanumeric_pin">Le code PIN contient des lettres ou des symboles.</string>
     <string name="bluetooth_enable_gabeldorsche">Activer Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Active la pile de fonctionnalités Gabeldorsche.</string>
+    <string name="bluetooth_enable_opp_high_speed">Transferts Bluetooth à haut débit</string>
+    <string name="bluetooth_enable_opp_high_speed_summary">Utiliser les protocoles Bluetooth P2P haut débit pour les transferts</string>
     <string name="bluetooth_enable_page_scan">"Activer l'analyse de page Bluetooth"</string>
     <string name="bluetooth_enable_page_scan_summary">"Désactiver/activer l'analyse de page pour le test Bluetooth"</string>
     <string name="bluetooth_enable_pts_test">enable bluetooth PTS test</string>
@@ -3346,6 +3348,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"L'application installée ne sera plus en mesure de se connecter à internet via Wi-Fi lorsque cet interrupteur est désactivé."</string>
     <string name="firmware_version">"Version d'Android"</string>
+    <string name="fiveg_nrca_switch_summary">Améliorer la connexion 5G pour les environnements de test</string>
+    <string name="fiveg_nrca_switch_title">"Agrégation d'opérateurs 5G"</string>
     <string name="fiveg_sa_switch_summary">Utiliser le réseau SA sur la SIM secondaire (uniquement pour les tests)</string>
     <string name="fiveg_sa_vice_switch_title">SA sur la SIM secondaire</string>
     <string name="fiveg_vonr_switch_summary">"Utilisez VoNR dans les environnements de réseau 5G pour améliorer l'expérience d'appel. Cette fonctionnalité est fournie à des fins de test uniquement."</string>
@@ -3505,6 +3509,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
 · Appuyez sur \"Fenêtres flottantes\" dans Récents pour sélectionner des applications."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Appuyez sur une application dans la barre latérale pour l'ouvrir dans une fenêtre flottante.
 · Faites glisser une application au centre de l'écran pour l'ouvrir dans une fenêtre flottante ou sur le côté pour utiliser l'écran partagé."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">"· Faites glisser une application de la barre latérale vers le centre de l'écran pour l'ouvrir dans une fenêtre flottante ou sur le côté pour utiliser l'écran partagé"</string>
     <string name="freeform_vedio_description_pad">Faites glisser les éléments hors du dock pour ouvrir les fenêtres flottantes</string>
     <string name="frequently_fragment_delete">Supprimer</string>
     <string name="frequently_fragment_tempty">Les catégories les plus utilisées sont affichées ici.</string>
@@ -4571,6 +4576,8 @@ pour le Deuxième espace"</string>
     <string name="low_label">Faible</string>
     <string name="low_storage_summary">Stockage faible. %1$s utilisé - %2$s disponible</string>
     <string name="macaddr_label">Adresse MAC :</string>
+    <string name="magic_list_empty_text_pad">Aucune application compatible avec cette fonctionnalité pour le moment</string>
+    <string name="magic_window_name_pad">Optimiser les applications pour la vue paysage</string>
     <string name="mah">%d mAh</string>
     <string name="main_netcheck_summary">Tester la connexion pour des problèmes de réseau</string>
     <string name="main_running_process_description">"Processus principal en cours d'utilisation."</string>
@@ -5709,6 +5716,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="notifications_silenced">Désactivées</string>
     <string name="notifications_title">Notifications</string>
     <string name="now">Maintenant</string>
+    <string name="nrca_switch_title">"Utiliser l'agrégation d'opérateurs 5G"</string>
     <string name="number_of_device_admins_none">Aucune application active</string>
     <string name="oaid_apps_summary">"Autoriser ou restreindre l'accès à des applications individuelles"</string>
     <string name="oaid_apps_title">"Gérer l'identifiant virtuel"</string>
@@ -7461,6 +7469,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_no_service">Pas de service</string>
     <string name="sim_notification_summary">Appuyez pour configurer.</string>
     <string name="sim_notification_title">Cartes SIM modifiées</string>
+    <string name="sim_nrca_title">SIM %1$s (%2$s)</string>
     <string name="sim_other_call_settings">"Autres paramètres d'appel"</string>
     <string name="sim_outgoing_call_title">Carte SIM pour appels sortants</string>
     <string name="sim_pin_change">Modifier code PIN carte SIM</string>

@@ -76,8 +76,8 @@
         <item quantity="one"><Data>"Vous pouvez effacer les données pour &lt;font color=#0097FF>%d&lt;/font> application"</Data></item>
     </plurals>
     <plurals name="dc_item_summary_app_reset">
-        <item quantity="other">&lt;Data>"&lt;font color=#0097FF>%d&lt;/font> applications utilisent beaucoup d'espace de stockage"&lt;/Data></item>
-        <item quantity="one">&lt;Data>"&lt;font color=#0097FF>%d&lt;/font> application utilisen beaucoup d'espace de stockage"&lt;/Data></item>
+        <item quantity="other"><Data>"&lt;font color=#0097FF>%d&lt;/font> applications utilisent beaucoup de stockage"</Data></item>
+        <item quantity="one"><Data>"&lt;font color=#0097FF>%d&lt;/font> application utilise beaucoup de stockage"</Data></item>
     </plurals>
     <plurals name="dc_item_summary_image">
         <item quantity="other"><Data>"Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> photos inutiles"</Data></item>
