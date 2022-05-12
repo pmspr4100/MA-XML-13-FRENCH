@@ -48,6 +48,7 @@
   <string name="freeform_guide_slide_to_small_freeform_summary_pad">Faites glisser le coin pour réduire une application</string>
   <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Faites glisser le coin pour réduire une application</string>
   <string name="freeform_guide_to_sidehide_summary">"Faites glisser rapidement la fenêtre par la barre d'action vers le bord de l'écran"</string>
+  <string name="freeform_guide_to_sidehide_summary_pad">"Faites glisser rapidement l'application sur le côté de l'écran pour la masquer"</string>
   <string name="freeform_guide_to_sidehide_title">Masquer les fenêtres flottantes</string>
   <string name="freeform_slide_to_small_freeform">Fenêtre flottante vers une plus petite</string>
   <string name="freeform_slide_to_small_freeform_summary">"Appuyez et faites glisser vers la barre d'action d'une fenêtre flottante dans le coin supérieur droit"</string>

@@ -4903,6 +4903,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_preferences">Préférences</string>
     <string name="miheadset_rename">Renommer</string>
     <string name="miheadset_rename_device">Renommer</string>
+    <string name="miheadset_same_account_incall">Recevoir les appels de tous les appareils synchronisés</string>
+    <string name="miheadset_same_account_incall_summary">"Connectez les écouteurs à d'autres appareils synchronisés pour prendre les appels entrants"</string>
     <string name="miheadset_shared_contacts">Partage de contacts</string>
     <string name="miheadset_shared_contacts_summary">Pour partager des contacts</string>
     <string name="miheadset_single_ear_indicate">Portez les deux écouteurs pour utiliser la suppression du bruit</string>
