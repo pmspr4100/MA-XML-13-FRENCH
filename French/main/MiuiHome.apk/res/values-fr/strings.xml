@@ -86,7 +86,7 @@
     <string name="all_apps_slide_up_tips">"Balayer vers le haut est réservé à l'ouverture du tiroir de l'application. Basculez sur le mode écran d'accueil normal et réessayez."</string>
     <string name="all_apps_suggestions">"Suggestions d'applications"</string>
     <string name="am">AM</string>
-    <string name="animation_rate_title">"Taux d'animation"</string>
+    <string name="animation_rate_title">"Vitesse d'animation"</string>
     <string name="announce_for_app_move_in_folder">Déplacé à la position %1$d dans le dossier</string>
     <string name="announce_for_checked">%1$s, vérifié</string>
     <string name="announce_for_choose_default_screen">"Définir l'écran %1$d comme l'écran d'accueil par défaut"</string>
@@ -384,6 +384,7 @@
     <string name="gadget_weather_title">Météo</string>
     <string name="gadget_weather_title_14">Météo</string>
     <string name="gadget_weather_title_24">Météo</string>
+    <string name="garbage_count">Il y a %1$s anciennes instances</string>
     <string name="global_search_hint">Rechercher</string>
     <string name="got_it_botton">Compris</string>
     <string name="group_folder">Nouveau dossier</string>
@@ -455,8 +456,9 @@
     <string name="manager_group_settings">"Gérer les catégories d'applications"</string>
     <string name="memory_clear_nothing_result">Rien à effacer dans le cache</string>
     <string name="memory_clear_result">"%1$s o effacés"</string>
-    <string name="memory_clear_result_giga">"%1$s Go effacés"</string>
-    <string name="memory_clear_result_mega">"%1$s Mo effacés"</string>
+    <string name="memory_clear_result_giga">"%1$s Gio effacés"</string>
+    <string name="memory_clear_result_mega">"%1$s Mio effacés"</string>
+    <string name="memory_leak">Fuite de mémoire</string>
     <string name="menu_add">Ajouter</string>
     <string name="menu_auto_fill_of_uninstall">"Remplir les cellules d'applications désinstallées"</string>
     <string name="menu_back_desktop">"Retour à l'écran d'accueil"</string>
@@ -622,6 +624,7 @@
     <string name="noon">Midi</string>
     <string name="normal_wallpaper">"Fond d'écran"</string>
     <string name="not_set">Non défini</string>
+    <string name="notification_channel_alerts">Alertes</string>
     <string name="notification_installed">Installation réussie</string>
     <string name="notification_open_button">Ouvrir</string>
     <string name="notification_reset_title">Icônes organisées avec succès</string>

@@ -19,6 +19,8 @@
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="accessibility_enabled">Accessibilité activée.</string>
     <string name="actionbar_button_up_description">Retour</string>
+    <string name="activate_esim_tips">"Impossible d'activer. Réessayez."</string>
+    <string name="activating_esim_tips">Activation…</string>
     <string name="address_dialing_introduction">"Vous pouvez utiliser cette application pour passer des appels, afficher l'historique des appels et gérer les contacts."</string>
     <string name="afternoon">Après-midi</string>
     <string name="agree">Accepter</string>

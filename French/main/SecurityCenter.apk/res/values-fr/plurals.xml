@@ -862,6 +862,10 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">%d numéros</item>
         <item quantity="one">%d numéro</item>
     </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragments</item>
+        <item quantity="un">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragment</item>
+    </plurals>
     <plurals name="summary_absorbed_time_foramt">
         <item quantity="other">Activer le mode Focus pendant %d minutes</item>
         <item quantity="one">Activer le mode Focus pendant %d minute</item>

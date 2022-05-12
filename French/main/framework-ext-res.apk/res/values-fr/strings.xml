@@ -87,6 +87,7 @@
   <string name="device_status_waiting">Patienter…</string>
   <string name="device_type_pc">Ordinateur</string>
   <string name="disable_nfc">NFC désactivé pour la recharge sans fil</string>
+  <string name="disable_nfc_haptic_reverse">NFC et vibration désactivés pour le chargement sans fil inversé</string>
   <string name="disable_nfc_reverse">NFC désactivé pour la recharge sans fil inversée</string>
   <string name="dock_tip_floatwindow">"Maintenez la barre et faites-la glisser vers le bord de l'écran pour accéder à la vue en écran partagé."</string>
   <string name="dock_tip_splitscreen_landscape_drag">"Faites glisser la barre horizontalement pour permuter les positions des deux fenêtres d'application."</string>
@@ -100,6 +101,7 @@
   <string name="enable_livetalk_title">Activer la recharge de forfait</string>
   <string name="enable_midrop">Activer</string>
   <string name="enable_nfc">Recharge terminée. NFC réactivé.</string>
+  <string name="enable_nfc_haptic_reverse">Recharge inversée arrêtée. Le NFC et les vibrations sont de retour.</string>
   <string name="fc_dialog_body">Envoyer un rapport de bogue à Mi pour analyse ? Ce rapport peut contenir des informations personnelles identifiables. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais partagé dans un contexte commercial.</string>
   <string name="fc_dialog_jump_to_preview">Voir le résumé</string>
   <string name="file">Fichier</string>
@@ -117,8 +119,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Pas maintenant</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Activer</string>
   <string name="fp_nav_center_action_choose_dlg_title">Activer la touche rapide</string>
-  <string name="freeform_exchange_tip">"Relâchez pour ouvrir l'application"</string>
-  <string name="freeform_exchange_tip2">Déplacez dans le coin pour annuler</string>
+  <string name="freeform_exchange_tip">Ouvrez la fenêtre flottante en mode plein écran</string>
   <string name="frequent_email">E-mail fréquemment utilisé</string>
   <string name="frequent_phrases">Phrases fréquentes</string>
   <string name="functions_are_being_developed">"Cette fonctionnalité sera bientôt disponible. Restez à l'écoute !"</string>

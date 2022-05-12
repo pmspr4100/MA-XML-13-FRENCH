@@ -1553,6 +1553,8 @@ des tremblements de terre"</string>
     <string name="ew_settings_push_tips">Les avertissements concernant les zones en dehors de votre emplacement prendront la forme de notifications uniquement.</string>
     <string name="ew_settings_set_level_summary">Recevoir des avertissements sur les tremblements de terre lorsque leur intensité est de %s ou supérieure</string>
     <string name="ew_settings_set_level_title">"Définir le seuil d'avertissement de tremblement de terre"</string>
+    <string name="ew_sleep_mode_alert_content">"Pour vous assurer que vous pouvez recevoir les alertes précoces de tremblement de terre, MIUI désactivera le mode veille. Les applications d'arrière-plan, NFC, Bluetooth, GPS, les données mobiles et le Wi-Fi fonctionneront normalement même lorsque vous dormez. Activer l'avertissement de tremblement de terre maintenant ?"</string>
+    <string name="ew_sleep_mode_alert_title">Avertissement de tremblement de terre</string>
     <string name="ew_subscribe_area_title">Gérer les zones ajoutées</string>
     <string name="ew_subscribe_city">Zones ajoutées</string>
     <string name="ew_subscribe_search_hint">Rechercher des zones</string>
@@ -4633,12 +4635,16 @@ Pour utiliser ce ^1, vous devez d'abord le monter."</string>
     <string name="storage_dialog_unsupported">"Cet appareil ne prend pas en charge ce ^1.
 
 Pour utiliser ce ^1 avec cet appareil, vous devez d'abord le configurer."</string>
+    <string name="storage_fbo_clear">Défragmentation</string>
+    <string name="storage_fbo_des">"Le stockage interne souffre d'une fragmentation, ce qui peut ralentir considérablement votre appareil. La défragmentation est effectuée automatiquement lorsque vous n'utilisez pas l'appareil. Elle organise physiquement vos fichiers dans le plus petit nombre de fragments possible, réduisant ainsi les ralentissements."</string>
+    <string name="storage_fbo_number_tip">Fusionné sur %1$s</string>
+    <string name="storage_fbo_tools">Optimisation du stockage</string>
     <string name="storage_file_delete_tip">"Supprimer définitivement les éléments sélectionnés ? Certains d'entre eux peuvent être rechargés si nécessaire."</string>
     <string name="storage_file_dialog_delete_title">Supprimer des éléments</string>
     <string name="storage_file_list_btn">Supprimer %1$s</string>
     <string name="storage_file_list_form_default">Carte SD</string>
     <string name="storage_file_list_from">De %s</string>
-    <string name="storage_fob_date_format">dd-MM</string>
+    <string name="storage_fob_date_format">dd/MM</string>
     <string name="storage_format_failure">Impossible de formater %1$s</string>
     <string name="storage_format_success">%1$s formaté avec succès</string>
     <string name="storage_item_apk_name">APK</string>
