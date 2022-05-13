@@ -408,7 +408,7 @@
   <string name="wifi_assistant_wifi_no_internet">"Ce réseau Wi-Fi n'a pas accès à internet"</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Cliquer pour afficher les détails</string>
   <string name="wireless_charging_notification_message1">"Impossible de trouver des appareils sans fil à charger. Le chargement sans fil inversé est désactivé maintenant."</string>
-  <string name="wireless_charging_notification_message2">"La batterie est chargée à moins de 30%. Le chargement sans fil inversé est désactivé maintenant."</string>
+  <string name="wireless_charging_notification_message2">"La batterie est chargée à moins de %s. Le chargement sans fil inversé est désactivé maintenant."</string>
   <string name="wireless_charging_notification_message3">Une erreur est survenue pendant le chargement. Le chargement sans fil inversé est désactivé maintenant.</string>
   <string name="wireless_charging_notification_titile">Désactivation du chargement sans fil inversé</string>
   <string name="xspace_head">Application clônée</string>
