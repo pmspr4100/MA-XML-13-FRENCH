@@ -2559,7 +2559,7 @@ Votre appareil est %s plus rapide maintenant."</string>
     <string name="menu_summary_networkassistants_4">Être à court de données mobiles</string>
     <string name="menu_summary_optimize_manage">Effacer la mémoire</string>
     <string name="menu_summary_optimize_manage_1">Rendez votre appareil %d%% plus rapide</string>
-    <string name="menu_summary_optimize_manage_1_new">Rendez votre appareil %S plus rapide</string>
+    <string name="menu_summary_optimize_manage_1_new">Rendez votre appareil %s plus rapide</string>
     <string name="menu_summary_power_manager">"L'économiseur de batterie vous donne plus de temps de entre vos charges"</string>
     <string name="menu_summary_power_manager_1">La batterie est complètement chargée</string>
     <string name="menu_summary_power_manager_2">%s restants</string>
