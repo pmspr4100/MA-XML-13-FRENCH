@@ -1208,7 +1208,7 @@ Take a look at the recommended ones!"</string>
 Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application."</string>
     <string name="system_permission_declare_privacy_declare">%1s doit collecter vos données et nécessite les autorisations suivantes pour fonctionner normalement :</string>
     <string name="system_permission_declare_privacy_declare_new">Cette application doit se connecter à Internet et nécessite les autorisations suivantes pour pouvoir fonctionner normalement :</string>
-    <string name="system_permission_declare_privacy_link">"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez nos %1."</string>
+    <string name="system_permission_declare_privacy_link">"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez nos %1s."</string>
     <string name="system_permission_declare_rcs">Bienvenue dans la messagerie 5G !</string>
     <string name="system_permission_declare_revoke_path">Vous pouvez révoquer votre autorisation et désactiver les services dans les paramètres de messagerie.</string>
     <string name="system_permission_declare_single_link">"Lisez et acceptez nos %1s avant d'utiliser cette fonction."</string>
