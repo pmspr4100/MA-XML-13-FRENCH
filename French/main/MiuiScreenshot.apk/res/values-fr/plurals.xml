@@ -85,7 +85,7 @@
         <item quantity="one">Réception de %2$d fichier audio (%3$s) de %1$s…</item>
     </plurals>
     <plurals name="send_file_dialog_desc">
-        <item Quantity="other">%2$d %3$s fichiers (%4$s) de %1$s</item>
+        <item quantity="other">%2$d %3$s fichiers (%4$s) de %1$s</item>
         <item quantity="one">%2$d %3$s fichier (%4$s) de %1$s</item>
     </plurals>
     <plurals name="send_file_dialog_desc_received">
