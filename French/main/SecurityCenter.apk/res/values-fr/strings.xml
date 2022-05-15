@@ -1232,7 +1232,7 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous activer l
     <string name="deep_power_save_item_title_lock_screen_time">"Mettre l'écran en veille"</string>
     <string name="deep_save_memory_clean_summary">Nettoyer le cache lorsque vous verrouillez votre appareil pour éviter que les applicaitons déchargent la batterie</string>
     <string name="deep_save_ontime_boot_shutdown_summary">"Définir l'heure pour allumer et éteindre l'appareil"</string>
-    <string name="default_condition_summary">Par exemple : \"La batterie est inférieure à %s\"</string>
+    <string name="default_condition_summary">Par exemple : \"La batterie est inférieure à 20%\"</string>
     <string name="default_condition_title">Ajouter une condition</string>
     <string name="default_condition_title_continue">Ajouter une condition</string>
     <string name="default_result_summary">Par exemple : \"Désactiver le mode Avion\"</string>
