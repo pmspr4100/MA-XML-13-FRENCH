@@ -60,8 +60,6 @@
     <string name="cancel">Annuler</string>
     <string name="charger_test_end">"
 Charger test end, please plug out the charger"</string>
-    <string name="charger_test_end">"
-Charger test end, please plug out the charger"</string>
     <string name="cit_DP_check_summary">The DP lines should be connected during the testing process</string>
     <string name="cit_DP_check_title">DP</string>
     <string name="cit_DP_in_start_test">Please insert the DP line to start the testing</string>
