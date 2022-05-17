@@ -1621,7 +1621,7 @@ données de sommeil"</string>
     <string name="tb_sleep_index_info">%1$s. Appuyez pour afficher les détails.</string>
     <string name="tb_sleep_index_title">Basculer vers %1$s</string>
     <string name="tb_sleep_ring_info">%1$s. Sommeil : %2$s. Appuyez pour afficher les détails.</string>
-    <string name="tb_snore_detection_main">"À propos des fonctionnalités liées à la conversation et au ronflement : %1%s. Faites glisser votre doigt horizontalement sur la partie supérieure de l'écran pour passer à la page suivante."</string>
+    <string name="tb_snore_detection_main">"À propos des fonctionnalités liées à la conversation et au ronflement : %1$s. Faites glisser votre doigt horizontalement sur la partie supérieure de l'écran pour passer à la page suivante."</string>
     <string name="tb_snore_view_info">Graphique des conversations et ronflements</string>
     <string name="tb_stand_card_finish_stand">"Aujourd'hui, %1$s has accumulated standing, the goal is to finish standing in 12 hours, the current time is%2$s-%3$s, standing has been completed"</string>
     <string name="tb_stand_card_not_finish_stand">"Pauses debout aujourd'hui : %1$s. Vous devez en faire au moins 12 aujourd'hui. Vous n'avez pas atteint votre objectif entre %2$s et %3$s."</string>

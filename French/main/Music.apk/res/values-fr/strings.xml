@@ -187,6 +187,7 @@
     <string name="confirm_exit">Enregistrer les modifications ?</string>
     <string name="connect_now">Se connecter</string>
     <string name="connecting_apk">Connexion…</string>
+    <string name="content_failed_to_load">Impossible de charger le contenu</string>
     <string name="copy">Copier</string>
     <string name="create_playlist">Créer une playlist</string>
     <string name="create_playlist_failure">Impossible de créer la playlist</string>

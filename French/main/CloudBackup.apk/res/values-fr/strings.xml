@@ -326,7 +326,7 @@ Envoyez ce code au superviseur."</string>
   <string name="morning">Matin</string>
   <string name="msg_alert_cancel_restore">Les éléments sont en cours de restauration à partir de Xiaomi Cloud. Annuler maintenant ?</string>
   <string name="msg_alert_restore_error">Impossible de restaurer les éléments du Xiaomi Cloud. Réessayez.</string>
-  <string name="msg_restore_start_with_metered_network">"Votre écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement. &lt;br />&lt;b>&lt;font color='red'>%s des fichiers seront téléchargés.&lt;/font>&lt;/b>"</string>
+  <string name="msg_restore_start_with_metered_network">"Si vous restaurez cette sauvegarde, votre écran d'accueil sera réinitialisé et vos applications seront téléchargées et installées automatiquement.&lt;br />&lt;b>&lt;font color='red'>Taille de la sauvegarde : %s&lt;/font>&lt;/b>"</string>
   <string name="msg_restore_with_metered_network_hint">Si vous procédez à la restauration de ces éléments, les données mobiles seront utilisées pour le téléchargement..</string>
   <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> des fichiers seront téléchargés."</string>
   <string name="network_error">Se connecter au réseau</string>

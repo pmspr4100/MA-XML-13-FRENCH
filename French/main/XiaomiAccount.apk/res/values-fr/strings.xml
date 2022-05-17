@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="about_device_info">"Afficher les détails de l'appareil"</string>
+    <string name="about_mi_account">À propos du Compte Mi</string>
     <string name="accept">Autoriser</string>
     <string name="access_denied_info">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
     <string name="access_token_expired_warning">Votre compte Weibo a expiré</string>
@@ -115,6 +116,7 @@ Vous pouvez vous connecter à votre Compte Mi en utilisant %s maintenant."</stri
     <string name="change_password">Modifier le mot de passe</string>
     <string name="change_phone_number">Modifier le numéro de téléphone</string>
     <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
+    <string name="check_apk_update">Vérifier les mises à jour</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="close">Fermer</string>
     <string name="cloud_description_closed">Occupé | Synchronisation désactivée</string>
@@ -237,6 +239,8 @@ Envoyez ce code au superviseur."</string>
     <string name="find_device_set_lost_model">Lost mode</string>
     <string name="find_device_title">Rechercher un appareil</string>
     <string name="find_device_unknown_error">"Impossible d'obtenir l'état du périphérique, attendez une minute ou deux et réessayez"</string>
+    <string name="find_equipment">Rechercher un appareil</string>
+    <string name="find_new_apk_version">Mise à jour disponible</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -253,6 +257,7 @@ Envoyez ce code au superviseur."</string>
     <string name="get_phone_bind_exceed_limit">"Vous pouvez associer jusqu'à 3 Comptes Mi avec un numéro de téléphone. Impossible d'ajouter de nouveaux comptes."</string>
     <string name="get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et essayez à nouveau.</string>
     <string name="guest_account_label">Compte invité</string>
+    <string name="has_no_new_version">À jour</string>
     <string name="health_action_activate">Activer</string>
     <string name="health_action_install">Installer</string>
     <string name="health_action_update">Mettre à jour</string>
@@ -372,6 +377,7 @@ Envoyez ce code au superviseur."</string>
     <string name="need_install_wechat">Installez WeChat en premier</string>
     <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayer.</string>
+    <string name="new_version">Nouvelle version</string>
     <string name="night">Soirée</string>
     <string name="no_account_or_forget_password">Créer un compte ou mot de passe oublié ?</string>
     <string name="no_network_btn">Actualiser</string>
@@ -823,6 +829,8 @@ des types suivants : lettres, chiffres, symboles spéciaux
 1. Si vous avez oublié votre mot de passe, rendez-vous sur id.mi.com pour le réinitialiser.
 2. Si vous ne parvenez pas à réinitialiser votre mot de passe ou si quelqu'un a verrouillé votre appareil, rendez-vous sur i.mi.com pour le déverrouiller.
 3. Votre numéro de déverrouillage : %s"</string>
+    <string name="update_apk_version_later">Pas maintenant</string>
+    <string name="update_apk_version_now">Mettre à jour</string>
     <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de mettre à jour l'e-mail de récupération."</string>
     <string name="update_email_address_dialog_title">"Mettre à jour l'e-mail de récupération"</string>
     <string name="update_phone_notice">Modifier les paramètres de sécurité</string>

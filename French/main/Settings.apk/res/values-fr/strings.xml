@@ -2584,6 +2584,8 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="device_edit_title">Renommer le téléphone</string>
     <string name="device_feedback">"Envoyer commentaires sur l'appareil"</string>
     <string name="device_id">"ID de périphérique pour des recommandations personnalisées"</string>
+    <string name="device_ime_keyboard_fold">Options de clavier pour les appareils pliables</string>
+    <string name="device_ime_keyboard_pad">Options de clavier pour les tablettes</string>
     <string name="device_info_default">Inconnu</string>
     <string name="device_info_label">"Informations sur l'appareil"</string>
     <string name="device_info_not_available">Non disponible</string>
@@ -2824,6 +2826,8 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="double_click_volume_down_when_lock">"Appuyer rapidement deux fois sur le bouton \"Volume -\" lorsque l'écran est verrouillé"</string>
     <string name="double_connect">Connection double</string>
     <string name="double_connect_summary">Pour connecter deux appareils</string>
+    <string name="double_g_v">Dupliquer G et V</string>
+    <string name="double_g_v_sumary">Dupliquer les boutons centraux sur le clavier ergonomique pour une expérience plus flexible</string>
     <string name="double_knock">"Toquer rapidement deux fois sur l'écran"</string>
     <string name="double_tap_power_for_camera_suggestion_title">"Ouvrir l'appareil photo rapidement"</string>
     <string name="double_tap_power_for_camera_summary">"Pour accéder rapidement à l'appareil photo, appuyez deux fois sur le bouton Marche/Arrêt. Fonctionne à partir de n'importe quel écran."</string>
@@ -3384,9 +3388,11 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fold_game_adaptation">Jeux</string>
     <string name="fold_rule_default">Recommandé</string>
     <string name="fold_rule_important">Important</string>
     <string name="fold_rule_unimportant">Non important</string>
+    <string name="fold_screen_settings_title">Fonctionnalités pour grand écran</string>
     <string name="fold_title">Règles pour les notifications groupées</string>
     <string name="font_cta_alert_btn_negative">Annuler</string>
     <string name="font_cta_alert_btn_positive">"D'accord"</string>
@@ -3858,7 +3864,9 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="ime_security_warning_title_global">Activer le clavier</string>
     <string name="imei_information_summary">Informations relatives au numéro IMEI</string>
     <string name="imei_information_title">Informations sur le numéro IMEI</string>
-    <string name="imei_multi_sim">Numéro IMEI (SIM %1$d)</string>
+    <string name="imei_multi_sim">Numéro IMEI (SIM %1$d)</string>
+    <string name="imitate_real_keyboard">Clavier traditionnel</string>
+    <string name="imitate_real_keyboard_summary">Pratique lorsque votre appareil est posé sur une surface plane</string>
     <string name="immediately_destroy_activities">Ne pas conserver les activités</string>
     <string name="immediately_destroy_activities_summary">"Détruit chaque activité dès que l'utilisateur la quitte"</string>
     <string name="importance_default">Par défaut</string>
@@ -4224,6 +4232,8 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="led_pulse_summary">Utiliser la LED lors de nouvelles notifications</string>
     <string name="led_settings">LED de notifications</string>
     <string name="left_function_key">Raccourci gauche</string>
+    <string name="left_right_hand_switch">Gauche et droite</string>
+    <string name="left_right_hand_switch_summary">Faites en sorte que les parties gauche et droite du clavier changent de place en un seul clic</string>
     <string name="legacy_control_center_desc">"Déroulez la barre de statut pour afficher les boutons et les notifications"</string>
     <string name="legacy_control_center_title">Ancienne version</string>
     <string name="legacy_navigation_summary">"Revenez en arrière, Accueil et changez d'applications avec des boutons en bas de votre écran."</string>
@@ -4926,8 +4936,9 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_windnoise">Vent</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Fichiers divers</string>
-    <string name="misc_files_selected_count">%1$d fichiers sélectionnés sur %2$d</string>
-    <string name="misc_files_selected_count_bytes">%1$s sur %2$s</string>
+    <string name="misc_files_selected_count">%1$d fichiers sélectionnés sur %2$d</string>
+    <string name="misc_files_selected_count_bytes">%1$s sur %2$s</string>
+    <string name="mishow_disable_password_setting">Impossible de définir des mots de passe en mode démo</string>
     <string name="miui_accessibility_asr_summary">"Transcrire l'audio et enregistrer du texte"</string>
     <string name="miui_allow_alarm">Alarmes</string>
     <string name="miui_allow_light">LED de notifications</string>
@@ -4951,6 +4962,7 @@ en utilisant vos données faciales. Continuez pour accéder
     <string name="miui_lab_aiasst_call_screen_desc">Transformez la voix et le texte pour répondre aux appels en silence</string>
     <string name="miui_lab_aiasst_call_screen_title">"Assistant d'appel AI"</string>
     <string name="miui_lab_drive_mode_desc">Utilisez les contrôles vocaux et écoutez les messages WeChat</string>
+    <string name="miui_lab_drive_mode_desc_new">Utiliser les contrôles vocaux</string>
     <string name="miui_lab_drive_mode_title">Mode Voiture</string>
     <string name="miui_lab_feature_applied">Appliqué</string>
     <string name="miui_lab_feature_off">Désactivé</string>
@@ -7267,6 +7279,9 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="select_webview_provider_toast_text">"Ce choix n'est plus valide. Réessayer."</string>
     <string name="send">Envoyer</string>
     <string name="sensors_off_quick_settings_title">Capteurs désactivés</string>
+    <string name="separate_keyboard">Clavier ergonomique</string>
+    <string name="separate_keyboard_summary_fold">Séparez votre clavier par une cloison au centre pour taper plus confortablement tout en tenant votre appareil à deux mains</string>
+    <string name="separate_keyboard_summary_pad">Séparez votre clavier par une cloison au centre pour rendre la frappe plus rapide et plus confortable</string>
     <string name="service_background_processes">%1$s libre(s)</string>
     <string name="service_foreground_processes">%1$s utilisé(s)</string>
     <string name="service_manage">Paramètres</string>
@@ -8147,6 +8162,8 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="switch_sim_dialog_title">Utiliser %1$s ?</string>
     <string name="switch_to_removable_notification">Passé à %1$s</string>
     <string name="switch_to_removable_notification_no_carrier_name">Passé à un autre opérateur</string>
+    <string name="symbol_fast_input">Caractères spéciaux</string>
+    <string name="symbol_fast_input_summary">Appuyez sur un bouton désigné pour rester sur le clavier avec des caractères spéciaux et saisir plusieurs symboles à la fois</string>
     <string name="symbols_not_allowed_for_password">Le mot de passe ne peut contenir de symbole</string>
     <string name="sync_active">Synchronisation activée</string>
     <string name="sync_automatically">Synchro auto</string>
@@ -8196,6 +8213,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="system_ui_settings">"Afficher l'adaptateur de l'IU système"</string>
     <string name="system_update_settings_list_item_title">Mises à jour du système</string>
     <string name="tab_text">Onglet</string>
+    <string name="tablet_screen_settings_title">Fonctionnalités pour tablettes</string>
     <string name="systemui_theme_dark">Foncé</string>
     <string name="systemui_theme_light">Clair</string>
     <string name="systemui_theme_wallpaper">"Automatique (en fonction du fond d'écran)"</string>
@@ -9136,6 +9154,7 @@ Pendant un appel vocal, vous ne pouvez pas utiliser internet et certaines applic
     <string name="wallpaper_desktop">Bureau</string>
     <string name="wallpaper_live">Animé</string>
     <string name="wallpaper_lockscreen">Verrouillage</string>
+    <string name="wallpaper_setting_title">"Fond d'écran"</string>
     <string name="wallpaper_settings_fragment_title">"Sélect. fond d'écran"</string>
     <string name="wallpaper_settings_summary_custom">Personnalisé</string>
     <string name="wallpaper_settings_summary_default">Par défaut</string>
