@@ -3247,6 +3247,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="feedback_btn_text">Soumettre des commentaires</string>
     <string name="feedback_settings">"Services et retour d'information"</string>
     <string name="feedback_settings_new">"Retour d'information"</string>
+    <string name="felica_wallet">FeliCa Wallet</string>
+    <string name="felica_wallet_desc">FeliCa Wallet</string>
     <string name="file_privacy_password_role_instruction">Vos fichiers privés seront stockés ici.</string>
     <string name="filter">Filtrer</string>
     <string name="filter_all_apps">Toutes les applis</string>
@@ -4786,6 +4788,8 @@ D'autres personnes utilisent cet appareil.
     <string name="mi_smart_play_entry_title">Mi Smart Play</string>
     <string name="mi_transfer">Mi Transfert</string>
     <string name="mi_upi_settings">Compte Mi Pay</string>
+    <string name="mi_wallet">Mi Wallet</string>
+    <string name="mi_wallet_desc">Mi Wallet</string>
     <string name="micloud_service_summary">"Synchronisez la liste des applications, sauvegardez les paramètres système et la disposition de l'écran d'accueil"</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="middle_function_key">Central area</string>
@@ -4982,6 +4986,11 @@ en utilisant vos données faciales. Continuez pour accéder
     <string name="miui_master_clear_prompt_battery_low">"Impossible d'effectuer une réinitialisation d'usine lorsqu'il reste moins de %1$s de batterie. Chargez votre appareil avant de continuer."</string>
     <string name="miui_master_clear_summary">Efface toutes les données sur le téléphone</string>
     <string name="miui_more_special_feature">Nouvelles fonctionnalités</string>
+    <string name="miui_nfc_dialog_message">Vous ne pourrez pas utiliser les fonctionnalités NFC qui incluent Mi Pay, les cartes de transport, les cartes-clés, etc. si vous désactivez le NFC. Désactiver quand même ?</string>
+    <string name="miui_nfc_dialog_negative">Désactiver</string>
+    <string name="miui_nfc_dialog_positive">Annuler</string>
+    <string name="miui_nfc_dialog_title">Désactiver le NFC</string>
+    <string name="miui_nfc_mi_pay_summary">Mi Pay, cartes de transport, cartes-clés</string>
     <string name="miui_optimization_disabled">"Désactiver l'optimisation de MIUI"</string>
     <string name="miui_sos_around_photo_summary">"Joignez %d photo, chacune des caméras avant et arrière, au SMS envoyé à vos contacts d'urgence"</string>
     <string name="miui_sos_around_photo_title">Joindre des photos</string>
@@ -5459,7 +5468,10 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="nfc_how_it_works_content">"Configurez une application de paiement. Il suffit ensuite de poser l'arrière de votre téléphone sur n'importe quel terminal disposant du symbole Sans contact."</string>
     <string name="nfc_how_it_works_got_it">OK</string>
     <string name="nfc_how_it_works_title">Paiement à un terminal</string>
-    <string name="nfc_more_title">Plus...</string>
+    <string name="nfc_image_preference_text_click">"Vérifiez où se trouve la zone de l'antenne NFC sur cet appareil"</string>
+    <string name="nfc_image_preference_text_noclick">"Placez votre appareil près d'un terminal sans contact pour utiliser Mi Pay, les cartes de transport, les cartes-clés et d'autres fonctionnalités NFC. "</string>
+    <string name="nfc_main_switch_title">Utiliser le NFC</string>
+    <string name="nfc_more_title">Plus…</string>
     <string name="nfc_payment_default">Application de paiement par défaut</string>
     <string name="nfc_payment_default_not_set">Non définie</string>
     <string name="nfc_payment_favor_default">"Toujours utiliser l'application par défaut"</string>
@@ -6116,6 +6128,7 @@ Lisez et acceptez %s avant d'utiliser ce service."</string>
     <string name="pref_volume_wake_title">Allumer avec les boutons de volume</string>
     <string name="preference_change_password_title">Modifier le mot de passe</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
+    <string name="preference_toggle_nfc_dnd_mode_summary">Ne pas recevoir de notifications concernant les balises NFC non reconnues</string>
     <string name="preferred_app_settings">Par défaut</string>
     <string name="preferred_app_settings_default">Par défaut</string>
     <string name="preferred_app_settings_not_selected">Non sélectionné</string>
@@ -6894,6 +6907,8 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="sdcard_settings_unmounted_status">Vous pouvez maintenant retirer la carte SD en toute sécurité.</string>
     <string name="sdcard_settings_used_bytes_label">Octets utilisés :</string>
     <string name="sdcard_unmount">Désinstaller la carte SD</string>
+    <string name="se_in_ese">Élément sécurisé intégré</string>
+    <string name="se_in_ese_desc">Élément sécurisé intégré</string>
     <string name="se_route_default">Sélectionner automatiquement</string>
     <string name="se_route_ese">Élément sécurisé intégré</string>
     <string name="se_route_uicc">Élément sécurisé sur la carte SIM</string>
@@ -7509,6 +7524,11 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_status_title">Statut SIM</string>
     <string name="sim_status_title_sim_slot">État de la carte SIM (SIM %1$d)</string>
     <string name="sim_status_title_sim_softbank">Statut carte SIM %1$d</string>
+    <string name="sim_switch_button">Permuter</string>
+    <string name="sim_switch_channel_id">Changement de porteuse</string>
+    <string name="sim_vonr_title">SIM %1$s (%2$s)</string>
+    <string name="sim_wallet">Portefeuille SIM</string>
+    <string name="sim_wallet_desc">Portefeuille SIM</string>
     <string name="simulate_color_space">Simuler un espace de couleur</string>
     <string name="single_key_use">Bouton unique</string>
     <string name="single_key_use_summary">"Utilisez le bouton d'accueil pour les fonctions exécutées par les 2 autres boutons"</string>

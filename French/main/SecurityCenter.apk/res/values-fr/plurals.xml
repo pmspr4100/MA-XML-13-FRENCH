@@ -284,6 +284,14 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">"S'enregistrer %d jours d'affilés"</item>
         <item quantity="one">"S'enregistrer dans %d heure"</item>
     </plurals>
+    <plurals name="gb_smart_battery_surplus">
+        <item quantit="other">%2$1.2f heures restantes</item>
+        <item quantit="one">%2$1.2f heure restante</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantit="other">Compris (%ds)</item>
+        <item quantit="one">Compris (%ds)</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Essayez le changeur de voix maintenant
 pour obtenir un essai gratuit de %d jours!"</item>

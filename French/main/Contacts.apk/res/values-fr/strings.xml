@@ -1660,6 +1660,7 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="unknown_contact_name">Contact inconnu</string>
     <string name="unknown_details_add_to_contact">Existant</string>
     <string name="unknown_details_new_contact">Nouveau</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">"Impossible d'afficher les QR codes lors de l'utilisation de l'écran partagé"</string>
     <string name="update_sim_contact_photo_toast">Impossible de définir des photos de profil pour les contacts SIM</string>
     <string name="upgrade_in_progress">Mise à jour de la liste de contacts en cours.</string>
     <string name="upgrade_out_of_memory">"Les contacts vont être mis à jour. 
