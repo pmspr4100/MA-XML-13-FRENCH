@@ -64,6 +64,7 @@
     <string name="alarmclock_empty_text">"Pas d'alarme"</string>
     <string name="alarmclock_silent_hint">"L'alarme est en mode silencieux"</string>
     <string name="alert">Sonnerie</string>
+    <string name="alert_page_desc">"Appuyez et maintenez enfoncé, puis balayez vers le haut pour désactiver l'alarme"</string>
     <string name="alert_ringtone">"Sonnerie d'alarme"</string>
     <string name="alert_vibrate_enable_summary">"Vibrer lorsque l'alarme se déclenche"</string>
     <string name="alert_volume">Volume de la sonnerie</string>
