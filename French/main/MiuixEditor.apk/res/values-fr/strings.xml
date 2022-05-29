@@ -7,6 +7,11 @@
     <string name="floating_toolbar_close_overflow_description">Fermer la superposition</string>
     <string name="floating_toolbar_open_overflow_description">"Plus d'options"</string>
     <string name="frequent_phrases">Phrases fréquentes</string>
+    <string name="google_call">Appeler</string>
+    <string name="google_email">E-mail</string>
+    <string name="google_map">Carte</string>
+    <string name="google_open">Ouvrir</string>
+    <string name="google_translate">Traduire</string>
     <string name="open">Parcourir</string>
     <string name="query">Demander</string>
     <string name="select">Sélectionner</string>

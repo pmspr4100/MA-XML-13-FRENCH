@@ -131,7 +131,7 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
     <string name="accessibility_dialog_button_deny">Refuser</string>
     <string name="accessibility_dialog_button_stop">Arrêter</string>
     <string name="accessibility_disable_animations">Supprimer les animations</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">"Réglez l'affichage des couleurs sur votre appareil. Cela peut être utile lorsque vous souhaitez :<br></br><br></br><ol><li>Voir les couleurs avec plus de précision</li><li>Supprimer les couleurs pour vous aider à vous concentrer</li></ol>"</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">"Réglez l'affichage des couleurs sur votre appareil. Cela peut être utile lorsque vous souhaitez :<ol><li><br/><br/> Voir les couleurs avec plus de précision</li><li>Supprimer les couleurs pour vous aider à vous concentrer</li></ol>"</string>
     <string name="accessibility_display_daltonizer_preference_title">Correction des couleurs</string>
     <string name="accessibility_display_inversion_preference_subtitle">Peut affecter les performances</string>
     <string name="accessibility_display_inversion_preference_title">Inversion des couleurs</string>
@@ -454,7 +454,7 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
     <string name="add_fingerprint_done_msg">Vous pouvez désormais déverrouiller votre appareil avec votre empreinte digitale.</string>
     <string name="add_fingerprint_done_title">Vous êtes prêt à faire sensation !</string>
     <string name="add_fingerprint_edge_instruction_msg">Déplacez vos doigts pour que le capteur enregistre les bords de vos empreintes digitales.</string>
-    <string name="add_fingerprint_edge_instruction_title">Déplacez légèrement votre doigt</string>
+    <string name="add_fingerprint_edge_instruction_title">Ajustez votre appui pour capturer les bords de votre empreinte digitale</string>
     <string name="add_fingerprint_failed_retry_text">"Impossible d'ajouter l'empreinte digitale, réessayez"</string>
     <string name="add_fingerprint_finished_button_text">Terminé</string>
     <string name="add_fingerprint_instruction_msg">"Le capteur d'empreintes digitales est sur le bouton Accueil de votre appareil."</string>
@@ -761,7 +761,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="application_lock_name">"Verrouillage des applications"</string>
     <string name="application_manager_section_title">Applications</string>
     <string name="application_mode_empty_text">Aucune application ici pour le moment</string>
-    <string name="application_mode_name">"Mode d'affichage de l'application"</string>
+    <string name="application_mode_name">"Dispositions de l'application"</string>
     <string name="application_permission_manager">Autorisations des applications</string>
     <string name="application_permissions">Autorisations des applications</string>
     <string name="application_restrictions">Autoriser des applications et des contenus</string>
@@ -3609,7 +3609,12 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="go_back_button_label">Retour</string>
     <string name="go_to_sleep">"Éteindre l'écran"</string>
     <string name="google_account_title">Compte Google</string>
-    <string name="google_assistant_label">Google Assistant</string>
+    <string name="google_assistant_guide_cancel">Annuler</string>
+    <string name="google_assistant_guide_message">"Vous pouvez appuyer sur le bouton d'alimentation et le maintenir enfoncé pendant %s secondes pour commencer à parler à l'Assistant Google. Définir ce raccourci maintenant ?"</string>
+    <string name="google_assistant_guide_ok">Définir</string>
+    <string name="google_assistant_guide_tip">"*Appuyez sur le bouton d'alimentation et maintenez-le enfoncé pendant %s secondes pour ouvrir le menu d'arrêt."</string>
+    <string name="google_assistant_guide_title">Assistant Google</string>
+    <string name="google_assistant_label">Assistant Google</string>
     <string name="google_backup_enable">Activer les sauvegardes</string>
     <string name="google_backup_section_title">Sauvegarde Google et restauration</string>
     <string name="google_pay">Google Pay</string>
@@ -4589,8 +4594,8 @@ pour le Deuxième espace"</string>
     <string name="low_storage_summary">Stockage faible. %1$s utilisé - %2$s disponible</string>
     <string name="macaddr_label">Adresse MAC :</string>
     <string name="magic_list_empty_text_pad">Aucune application compatible avec cette fonctionnalité pour le moment</string>
-    <string name="magic_window_name_pad">Optimiser les applications pour la vue paysage</string>
-    <string name="mah">%d mAh</string>
+    <string name="magic_window_name_pad">Optimisation de la vue paysage</string>
+    <string name="mah">%d mAh</string>
     <string name="main_netcheck_summary">Tester la connexion pour des problèmes de réseau</string>
     <string name="main_running_process_description">"Processus principal en cours d'utilisation."</string>
     <string name="main_toolbar_statistic">"Statistiques d'utilisation des données"</string>
@@ -4948,6 +4953,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_allow_light">LED de notifications</string>
     <string name="miui_allow_music">Média</string>
     <string name="miui_allow_vibrate">Vibrations</string>
+    <string name="miui_bubbles_notification">Notifications bulles</string>
+    <string name="miui_bubbles_notification_status_opened">Activé</string>
     <string name="miui_data_usage_menu_metered">"Points d'accès mobiles"</string>
     <string name="miui_experience_optimization">"Activer l'optimisation MIUI"</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Annuler</string>

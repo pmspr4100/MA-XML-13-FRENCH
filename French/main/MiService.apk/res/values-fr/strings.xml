@@ -59,7 +59,7 @@
   <string name="miservice_notification_open_feedback_title">"Présentation \"Services &amp; Retour d'information\""</string>
   <string name="miservice_notification_scan_content">Utilisez Scanner pour traduire des mots et des phrases</string>
   <string name="miservice_notification_scan_title">"Traduire en un clin d'œil"</string>
-  <string name="miui_feedback_answer_detail_community">Vous pouvez trouver des réponses à vos questions dans la communauté Mi</string>
+  <string name="miui_feedback_answer_detail_community">Vous pouvez trouver des réponses à vos questions dans la communauté Xiaomi</string>
   <string name="miui_feedback_answer_detail_feedback_resolved">Oui</string>
   <string name="miui_feedback_answer_detail_feedback_result">Merci pour vos commentaires !</string>
   <string name="miui_feedback_answer_detail_feedback_title">Est-ce que cette information a été utile ?</string>
@@ -149,15 +149,6 @@
   <string name="miui_feedback_main_title">Commentaires</string>
   <string name="miui_feedback_main_withdraw">Retirer</string>
   <string name="miui_feedback_main_withdraw_consent_hint">"Si vous continuez, vous retirerez votre consentement à la Politique de confidentialité de %1$s. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire. Comme %2$s fournit ses services sur la base de la collecte des informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter les services de %3$s. Retirer le consentement maintenant ?"</string>
-  <string name="miui_guide_accessibility_image_desc">Image</string>
-  <string name="miui_guide_clear_db_service">"\"Services &amp; Retour d'information\" efface le cache de la langue…"</string>
-  <string name="miui_guide_footer_desc">"Le guide du débutant est conçu pour vous aider à en apprendre plus sur votre appareil et MIUI. Certaines images et vidéos dans le guide ont été créées pour servir uniquement de référence, et elles peuvent différer du véritable produit. Les fonctionnalités décrites dans ce guide peuvent varier en fonction du modèle de votre appareil, de la version de MIUI et de votre environnement d'utilisation."</string>
-  <string name="miui_guide_item_complete">Terminé</string>
-  <string name="miui_guide_item_new">Nouveau</string>
-  <string name="miui_guide_item_progress">Terminé %1$d/%2$d</string>
-  <string name="miui_guide_menu_privacy">Politique de confidentialité</string>
-  <string name="miui_guide_top_bar_sub_title">Découvrez ce que MIUI peut faire</string>
-  <string name="miui_guide_top_bar_title">Guide du débutant</string>
   <string name="miui_main_back">Retour</string>
   <string name="miui_main_bottom_bar_feedback">Commentaires</string>
   <string name="miui_main_bottom_bar_guide">Guide du débutant</string>

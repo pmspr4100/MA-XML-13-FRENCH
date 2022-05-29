@@ -307,9 +307,9 @@
     <string name="favorite_at_time">Ajouté aux favoris sur : %1s</string>
     <string name="fdn_check_failure">Vous ne pouvez pas envoyer de SMS à un téléphone fixe.</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary">"<b>Mi Message vous permet d'envoyer des messages à d'autres utilisateurs de Mi Message sur Internet sans encourir de frais</b>. Un message SMS sortant est nécessaire pour activer ce service. Votre opérateur vous facturera pour ce message. Lisez et acceptez nos <a href="http://url1"><font color="#B3000000">Conditions d'utilisation</font></a> et notre <a href="http://url2"><font color="#B3000000">Politique de confidentialité</font></a> avant d'utiliser cette fonctionnalité."</string>
+    <string name="feature_mx_summary">"<b>Mi Message vous permet d'envoyer des messages à d'autres utilisateurs de Mi Message sur Internet sans encourir de frais</b>. Un message SMS sortant est nécessaire pour activer ce service. Votre opérateur vous facturera pour ce message. Lisez et acceptez nos <font color="#B3000000"><a href="http://url1">Conditions d'utilisation</a></font> et notre <font color="#B3000000"><a href="http://url2">Politique de confidentialité</a></font> avant d'utiliser cette fonctionnalité."</string>
     <string name="feature_smart_sms">Messagerie intelligente</string>
-    <string name="feature_smart_sms_summary">"<b>La messagerie intelligente fournit la reconnaissance de l'ID de l'expéditeur et des menus intelligents</b>. La messagerie intelligente est fournie en partie par Yulore. Lisez et acceptez la <a href="http://url3"><font color=" de Yulore. #B3000000">Politique de confidentialité</font></a> avant d'utiliser cette fonctionnalité."</string>
+    <string name="feature_smart_sms_summary">"<b>La messagerie intelligente fournit la reconnaissance de l'ID de l'expéditeur et des menus intelligents</b>. La messagerie intelligente est fournie en partie par Yulore. Lisez et acceptez la <font color="#B3000000"><a href="http://url3">Politique de confidentialité</a></font> de Yulore avant d'utiliser cette fonctionnalité."</string>
     <string name="festival_sms_loading">Chargement…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">"Créé : "</string>
@@ -341,7 +341,7 @@
     <string name="ft_cfs_dialog_title">Transfert de fichier alternatif</string>
     <string name="go_close">Paramètres</string>
     <string name="go_to">"Ouvrir "</string>
-    <string name="google_message_promo_content">"Xiaomi recommande de passer à Messages, de Google. Installez cette application maintenant pour obtenir un partage de photos de haute qualité, discuter en Wi-Fi et bien plus encore. <a href="https://support.google.com/messages/answer/6089066"><font color="#B3000000">En savoir plus</font></a>"</string>
+    <string name="google_message_promo_content">"Xiaomi recommande de passer à Messages, de Google. Installez cette application maintenant pour obtenir un partage de photos de haute qualité, discuter en Wi-Fi et bien plus encore. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">En savoir plus</a></font>"</string>
     <string name="google_message_promo_title">Mettre à niveau votre application de messagerie</string>
     <string name="group_already_kicked_hint">"Impossible d'envoyer des messages. Vous n'êtes pas membre de ce groupe de discussion."</string>
     <string name="group_member_is_composing">Saisie…</string>
