@@ -885,7 +885,6 @@ Autorisez Notes à lire le statut et lidentité du téléphone."</string>
   <string name="view_all_notes">Tout afficher</string>
   <string name="warn_cannot_add_new_bullet">"Impossible d'ajouter une nouvelle liste à puces car la note est trop longue"</string>
   <string name="warn_cannot_add_new_checkbox">"Impossible d'ajouter une nouvelle case à cocher car la note est trop longue"</string>
-  <string name="warn_cannot_add_new_content">"Impossible d'ajouter un contenu supplémentaire car la note est trop longue"</string>
   <string name="warn_cannot_add_new_content">"Impossible d'ajouter un nouveau contenu car la note est trop longue"</string>
   <string name="warn_cannot_add_new_doodle">"Impossible d'ajouter un nouveau doodle car la note est trop longue"</string>
   <string name="warn_cannot_add_new_element">"Impossible d'ajouter un nouvel élément car la note est trop longue"</string>
