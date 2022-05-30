@@ -33,6 +33,7 @@ cette fonctionnalité sera automatiquement ajoutée dans le Deuxième espace."</
     <string name="air_space_exit">"Quitter l'espace"</string>
     <string name="air_space_setting">"Paramètres de l'espace"</string>
     <string name="airspace_users_full">"Impossible de créer plus d'espace"</string>
+    <string name="alwaysUsePrompt">Se souvenir de mon choix</string>
     <string name="am">AM</string>
     <string name="appData">Applications installées</string>
     <string name="app_name">Composant principal de sécurité</string>
@@ -612,6 +613,7 @@ Certaines applications clônées nécessitent la prise en charge des Framework d
     <string name="xspace_guide_description">"Chaque compte
 mérite sa propre application"</string>
     <string name="xspace_guide_title">Créer une application clônée</string>
+    <string name="xspace_head">Application clônée</string>
     <string name="xspace_header">Applications clônées</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font>Application clônée créée avec succès. &lt;/font>&lt;font color=#0D84FF>Ouvrir maintenant&lt;/font>.</string>
@@ -626,6 +628,7 @@ mérite sa propre application"</string>
     <string name="xspace_notification_button">Essayer</string>
     <string name="xspace_notification_error">Sign in to dual WeChat and try again</string>
     <string name="xspace_remove">Supprimer les comptes des applications clonées</string>
+    <string name="xspace_resolver_activity_title">"Sélectionner l'application"</string>
     <string name="xspace_setting_label">Paramètres des applications clônées</string>
     <string name="xspace_settins">Set</string>
     <string name="xspace_start">Créer</string>

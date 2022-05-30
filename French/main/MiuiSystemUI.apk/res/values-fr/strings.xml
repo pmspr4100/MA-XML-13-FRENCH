@@ -2462,6 +2462,7 @@ Il peut surchauffer si vous :
     <string name="tile_unavailable">Indisponible</string>
     <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="time_unit_just_now">"À l'instant"</string>
+    <string name="tip_close_flares">"Vous ne recevrez pas de notifications sur le comportement de l'application pendant cette session"</string>
     <string name="title_convert_fbe">Conversion en fichiers basés sur le chiffrement</string>
     <string name="title_usb_accessory">Accessoire USB</string>
     <string name="today">"Aujourd'hui"</string>

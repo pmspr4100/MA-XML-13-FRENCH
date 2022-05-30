@@ -3390,11 +3390,14 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="fold_game_adaptation">Jeux</string>
+    <string name="fold_application_mode_name">"Mise en page de l'application"</string>
+    <string name="fold_game_adaptation">Mise en page du jeu</string>
     <string name="fold_rule_default">Recommandé</string>
     <string name="fold_rule_important">Important</string>
     <string name="fold_rule_unimportant">Non important</string>
-    <string name="fold_screen_settings_title">Fonctionnalités pour grand écran</string>
+    <string name="fold_screen_application_adaptation_title">Dispositions personnalisées pour les appareils pliables</string>
+    <string name="fold_screen_settings_title">Fonctionnalités pour les appareils pliables</string>
+    <string name="fold_screen_special_function_title">Fonctionnalités pour les appareils pliables</string>
     <string name="fold_title">Règles pour les notifications groupées</string>
     <string name="font_cta_alert_btn_negative">Annuler</string>
     <string name="font_cta_alert_btn_positive">"D'accord"</string>
@@ -8240,7 +8243,9 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="system_ui_settings">"Afficher l'adaptateur de l'IU système"</string>
     <string name="system_update_settings_list_item_title">Mises à jour du système</string>
     <string name="tab_text">Onglet</string>
+    <string name="tablet_screen_application_adaptation_title">Dispositions personnalisées pour les tablettes</string>
     <string name="tablet_screen_settings_title">Fonctionnalités pour tablettes</string>
+    <string name="tablet_screen_special_function_title">Fonctionnalités pour tablettes pliables</string>
     <string name="systemui_theme_dark">Foncé</string>
     <string name="systemui_theme_light">Clair</string>
     <string name="systemui_theme_wallpaper">"Automatique (en fonction du fond d'écran)"</string>
@@ -9181,7 +9186,7 @@ Pendant un appel vocal, vous ne pouvez pas utiliser internet et certaines applic
     <string name="wallpaper_desktop">Bureau</string>
     <string name="wallpaper_live">Animé</string>
     <string name="wallpaper_lockscreen">Verrouillage</string>
-    <string name="wallpaper_setting_title">"Fond d'écran"</string>
+    <string name="wallpaper_setting_title">"Fonds d'écran pour appareils pliables"</string>
     <string name="wallpaper_settings_fragment_title">"Sélect. fond d'écran"</string>
     <string name="wallpaper_settings_summary_custom">Personnalisé</string>
     <string name="wallpaper_settings_summary_default">Par défaut</string>

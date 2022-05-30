@@ -273,9 +273,13 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">"S'enregistrer %d jours d'affilés"</item>
         <item quantity="one">"S'enregistrer dans %d heure"</item>
     </plurals>
-    <plurals name="gb_smart_battery_surplus">
-        <item quantity="other">%2$1.2f heures restantes</item>
-        <item quantity="one">%2$1.2f heure restante</item>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantit="other">%d heures</item>
+        <item quantit="one">%d heure</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantit="other">%d minutes</item>
+        <item quantit="one">%d minute</item>
     </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Compris (%ds)</item>

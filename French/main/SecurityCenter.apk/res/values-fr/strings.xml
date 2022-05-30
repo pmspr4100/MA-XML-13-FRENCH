@@ -1968,12 +1968,15 @@ Enregistrez des séquences et utilisez-les à tout moment !"</string>
     <string name="gb_game_mode_change">"Basculez entre les modes d'affichage ici"</string>
     <string name="gb_game_mode_change_btn_right">Redémarrer</string>
     <string name="gb_game_mode_change_message">Redémarrer le jeu pour appliquer les modifications maintenant ?</string>
+    <string name="gb_game_mode_change_new">Basculez entre les mises en page ici</string>
     <string name="gb_game_mode_change_title">Redémarrer le jeu</string>
     <string name="gb_game_mode_choose_game_area">Zone active</string>
     <string name="gb_game_mode_choose_title">"Sélectionner le mode d'affichage"</string>
+    <string name="gb_game_mode_choose_title_new">Sélectionner la disposition</string>
     <string name="gb_game_mode_empty">Aucun jeu ici pour le moment</string>
     <string name="gb_game_mode_fill">"Remplir l'écran"</string>
     <string name="gb_game_mode_fill_type">"Remplir l'écran"</string>
+    <string name="gb_game_mode_new">Dispositions de jeu</string>
     <string name="gb_game_mode_ratio">Original</string>
     <string name="gb_game_mode_ratio_type">Original</string>
     <string name="gb_game_mode_recommend">" (Recommandé)"</string>
@@ -2023,8 +2026,17 @@ Enregistrez des séquences et utilisez-les à tout moment !"</string>
 le taux de rafraîchissement et les limites de température"</string>
     <string name="gb_performance_high">Performance</string>
     <string name="gb_performance_mode">Mode jeu</string>
-    <string name="gb_performance_tips">"Performance mode improves graphics performance,
-but also increases power consumption and allows your device to overheat"</string>
+    <string name="gb_performance_tips">"Le mode Performance améliore les performances graphiques,
+mais augmente également la consommation d'énergie et permet à votre appareil de surchauffer"</string>
+    <string name="gb_predownload_dialog_cancel">Non merci</string>
+    <string name="gb_predownload_dialog_checked">Ne plus afficher</string>
+    <string name="gb_predownload_dialog_confirm">Activer</string>
+    <string name="gb_predownload_dialog_message_china"><Data>"Le contenu mis à jour pour ce jeu peut être téléchargé automatiquement sur cet appareil après vous être connecté au Wi-Fi et avoir éteint l'écran. Ainsi, vous pourrez utiliser la nouvelle version dès sa sortie.&lt;br>&lt;br>Lisez et acceptez la &lt;a href=\"%1$s\">Déclaration sur les mises à jour en arrière-plan&lt;/a> avant d'utiliser cette fonctionnalité."</Data></string>
+    <string name="gb_predownload_dialog_title">Les mises à jour en arrière-plan sont disponibles dès à présent</string>
+    <string name="gb_predownload_message">"Mettre à jour King of Glory, Game for Peace et d'autres jeux compatibles en arrière-plan lorsque vous n'utilisez pas cet appareil"</string>
+    <string name="gb_predownload_noti_message">"%2$1.2f Gio de contenu mis à jour est déjà sur cet appareil. Vous pourrez l'utiliser dès que la nouvelle version sera publiée."</string>
+    <string name="gb_predownload_noti_title">%s mis à jour en arrière-plan avec succès</string>
+    <string name="gb_predownload_title">Mises à jour en arrière-plan</string>
     <string name="gb_shortcut_pref_title">"Raccourci de l'écran d'accueil"</string>
     <string name="gb_shoulder_guide_message1">"Déplacez le bouton [G] vers n'importe quelle position fonctionnelle pour l'utiliser via le déclencheur contextuel."</string>
     <string name="gb_shoulder_guide_message2">"L'action [1] est activée en appuyant sur le bouton. L'action [2] est activée en relâchant le bouton."</string>
@@ -2072,6 +2084,7 @@ but also increases power consumption and allows your device to overheat"</string
     <string name="gb_signed_gift_loading_fail">Chargement impossible</string>
     <string name="gb_signed_gift_loading_summary">Chargement…</string>
     <string name="gb_signed_title">"S'enregistrer dans le mois"</string>
+    <string name="gb_smart_battery_surplus_new">%1$s %2$s restant</string>
     <string name="gb_sound_audition">Essayer</string>
     <string name="gb_storage_game_dialog_message">"Vous pouvez stocker automatiquement des jeux dans Game Turbo. Ils n'apparaîtront pas sur l'écran d'accueil si vous activez cette fonctionnalité. Activer maintenant ?"</string>
     <string name="gb_storage_game_uninstall">Désinstaller des jeux</string>
