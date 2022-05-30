@@ -1603,6 +1603,7 @@ Please contact your operators"</string>
     <string name="nr_usaged_network_usaged">"Les données d'aujourd'hui"</string>
     <string name="nr_usaged_operator">Opérateur</string>
     <string name="nr_usaged_used_time">"Durée d'utilisation"</string>
+    <string name="nrca_need_reset">Redémarrez votre appareil pour appliquer les changements</string>
     <string name="nrca_switch_summary">"Utiliser l'agrégation d'opérateurs 5G pour une meilleure connectivité"</string>
     <string name="nrca_switch_title">Utiliser NRCA</string>
     <string name="number">Numéro</string>

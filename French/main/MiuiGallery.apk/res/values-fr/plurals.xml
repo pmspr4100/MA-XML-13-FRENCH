@@ -89,6 +89,10 @@
         <item quantity="other">%1$d fichiers</item>
         <item quantity="one">%1$d fichier</item>
     </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d souvenirs</item>
+        <item quantity="one">%d souvenir</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d photos de %2$s seront ajoutées</item>
         <item quantity="one">%1$d photo de %2$s sera ajoutée</item>
