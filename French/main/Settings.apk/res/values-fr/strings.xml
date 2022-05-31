@@ -2629,7 +2629,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="device_total_memory">"Espace de stockage total "</string>
     <string name="device_usage_list_summary">"Utilisation de l'appareil depuis la charge complète"</string>
     <string name="devices_title">Appareils</string>
-    <string name="diagnosis_log_send_failed">L'envoi du journal de diagnostic a échoué.</string>
+    <string name="diagnosis_log_send_failed">"L'envoi du journal de diagnostic a échoué."</string>
     <string name="diagnosis_log_sent_format">"Le journal de diagnostic a été envoyé.
 ID : %s
 Veuillez envoyer ce code au technicien."</string>
