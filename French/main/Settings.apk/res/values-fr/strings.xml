@@ -68,6 +68,7 @@
     <string name="access_control_password_title">Mot de passe</string>
     <string name="access_control_recording_intro_header">Dessinez un schéma de déverrouillage</string>
     <string name="access_control_reset_by_account">Se connecter à votre Compte Mi pour réinitialiser le mot de passe</string>
+    <string name="access_denied_info">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
     <string name="access_point_names">"Noms des points d'accès"</string>
     <string name="accessibility_audio_adjustment_title">Ajustement audio</string>
     <string name="accessibility_autoclick_custom_title">Personnalisé</string>
@@ -612,7 +613,6 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="angle_enabled_app">"Sélectionnez l'application compatible ANGLE"</string>
     <string name="angle_enabled_app_not_set">Aucune application compatible avec ANGLE définie</string>
     <string name="angle_enabled_app_set">Application compatible ANGLE : %1$s</string>
-    <string name="animation_off">Animation désactivée</string>
     <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
     <string name="another_migration_already_in_progress">Une autre migration est déjà en cours.</string>
     <string name="anti_spam">Antispam</string>
@@ -816,7 +816,6 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="asst_feedback_indicator_title">Retour de notification adaptatif</string>
     <string name="asst_importance_reset_summary">"Réinitialiser les paramètres d'importance modifiés par l'utilisateur et autoriser l'assistant de notification à prioriser"</string>
     <string name="asst_importance_reset_title">"Réinitialiser l'importance des notifications"</string>
-    <string name="at_most_one_process">Au plus %d processus</string>
     <string name="attempt_other_network">Changer de réseaux</string>
     <string name="au_pay">au PAY</string>
     <string name="audio_and_captions_category_title">"Audio et texte à l'écran"</string>
@@ -855,8 +854,8 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="auto_caps">Majuscules automatiques</string>
     <string name="auto_caps_summary">Mettre une majuscule en début de phrase</string>
     <string name="auto_clean_description">"À propos de cette fonctionnalité
-1. Lancez cette fonctionnalité une ou deux fois si vous trouvez que votre haut-parleur est légèrement bloqué par la poussière.
-2. Si le haut-parleur est fortement bloqué, lancez cette fonctionnalité %1$d à %2$d fois tout en secouant votre appareil avec le haut-parleur dirigé vers le bas."</string>
+%3$d. Lancez cette fonctionnalité une ou deux fois si vous trouvez que votre haut-parleur est légèrement bloqué par la poussière.
+%4$d. Si le haut-parleur est fortement bloqué, lancez cette fonctionnalité %1$d à %2$d fois tout en secouant votre appareil avec le haut-parleur dirigé vers le bas."</string>
     <string name="auto_clean_description_pad">"À propos de cette fonctionnalité
 - Lancez cette fonctionnalité une ou deux fois si vous trouvez que votre haut-parleur est légèrement bloqué par la poussière.
 - Si le haut-parleur est fortement bloqué, lancez cette fonctionnalité %1$d à %2$d fois tout en secouant votre appareil avec le haut-parleur dirigé vers le bas."</string>
@@ -1673,10 +1672,12 @@ Vous pouvez désactiver cette fonctionnalité dans Paramètres > Bluetooth > Pé
     <string name="bt_ldac_open_dialog_summary">"LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
     <string name="bt_ldac_open_dialog_title">Activer LDAC ?</string>
     <string name="bt_ldac_property">Attributs</string>
+    <string name="bt_leaudio_cg_dialog_summary">"Certaines fonctionnalités ne seront plus disponibles une fois cette fonctionnalité activée. Cette fonctionnalité ne prend pas non plus en charge la connexion de plusieurs appareils à vos écouteurs. Si vous êtes déjà connecté à deux appareils différents, déconnectez-vous de l'un d'eux en premier. Allumez LC3 maintenant ?"</string>
     <string name="bt_leaudio_open_dialog_summary">"Vous ne pourrez pas connecter plusieurs appareils à votre casque lorsque le LC3 est activé. Les autres appareils connectés seront déconnectés si vous activez cette fonction. Allumez quand même LC3 ?"</string>
     <string name="bt_leaudio_open_dialog_title">Attention</string>
     <string name="bt_leaudio_pre_title">LC3</string>
     <string name="bt_leaudio_summary">Expérience audio haute qualité</string>
+    <string name="bt_leaudio_support_multi_dialog_summary">"Certaines fonctionnalités ne seront plus disponibles une fois que vous aurez activé cette fonctionnalité. Activez LC3 maintenant ?"</string>
     <string name="bt_lhdc_declaration">"Lorsqu'un périphérique Bluetooth prend en charge LHDC, il sera connecté par défaut. LHDC permet de lire un son de haute qualité et réduit la latence pendant le jeu, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir pendant la lecture en raison des limitations matérielles Bluetooth."</string>
     <string name="bt_lhdc_dialog_summary">"LHDC permet de lire un son de haute qualité et réduit la latence pendant le jeu, mais augmente également la consommation d'énergie. Cette fonction peut être désactivée dans les paramètres."</string>
     <string name="bt_lhdc_dialog_title">Le périphérique actuel prend en charge LHDC, qui a été connecté par défaut :</string>
@@ -1956,6 +1957,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="codec_low_latency_video_summary">"Offre une expérience audio à faible latence pour les jeux et les vidéos, ce qui rend la synchronisation du son et de l'image plus naturelle."</string>
     <string name="codec_low_latency_zmi_summary">Réduisez le retard audio et améliorez automatiquement les effets sonores des jeux</string>
     <string name="codec_low_latency_zmi_title">Faible latence pour les jeux</string>
+    <string name="collect_diagnosis_log">Collecter le journal de diagnostic</string>
     <string name="color_black">Noir</string>
     <string name="color_blue">Bleu</string>
     <string name="color_calibration_none">Natif</string>
@@ -2274,6 +2276,11 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="dark_color_mode">Mode sombre</string>
     <string name="dark_color_summary_lcd">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le Mode sombre peut vous aider à soulager la fatigue oculaire lorsque vous utilisez votre appareil dans l'obscurité."</string>
     <string name="dark_color_summary_oled">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le Mode sombre réduit la consommation d'énergie et aide à soulager la fatigue oculaire."</string>
+    <string name="dark_mode_alert_dialog_cancel">Annuler</string>
+    <string name="dark_mode_alert_dialog_checkbox">"Ne plus afficher"</string>
+    <string name="dark_mode_alert_dialog_confirm">Activer</string>
+    <string name="dark_mode_alert_dialog_message">"Cette application peut ne pas s'afficher correctement en mode sombre. Activer le mode sombre quand même ?"</string>
+    <string name="dark_mode_alert_dialog_title">Attention</string>
     <string name="dark_mode_apps_header">Applications individuelles</string>
     <string name="dark_mode_auto_time_summary">"Activer et désactiver le Mode sombre à l'heure programmée"</string>
     <string name="dark_mode_auto_time_title">Personnalisé</string>
@@ -2622,6 +2629,10 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="device_total_memory">"Espace de stockage total "</string>
     <string name="device_usage_list_summary">"Utilisation de l'appareil depuis la charge complète"</string>
     <string name="devices_title">Appareils</string>
+    <string name="diagnosis_log_send_failed">L'envoi du journal de diagnostic a échoué.</string>
+    <string name="diagnosis_log_sent_format">"Le journal de diagnostic a été envoyé.
+ID : %s
+Veuillez envoyer ce code au technicien."</string>
     <string name="dial_application_title">Composeur</string>
     <string name="dial_pad_tones_title">Tonalités du numéroteur</string>
     <string name="dialog_background_check_message">"Votre téléphone ne peut pas gérer la batterie normalement, car l'application %1$s le maintient activé.
@@ -3432,6 +3443,8 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
 "</string>
     <string name="font_size_summary1">"Si votre police système est trop petite, essayez "</string>
     <string name="font_size_summary2">Mode simplifié.</string>
+    <string name="footer_learn_more_content_description">En savoir plus sur %1$s</string>
+    <string name="for_diagnosis_usage_only">Utilisez ces informations uniquement pour le diagnostic.</string>
     <string name="forbidden_network">(interdit)</string>
     <string name="forbidden_set_unlock_password_msg">Actuellement en mode maintenance, le mot de passe ne peut pas être défini ou modifié.</string>
     <string name="forbidden_switch_apn_string">Les paramètres de APN ne correspondent pas avec le type de réseau actuel</string>
@@ -3445,10 +3458,10 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="force_immersive_compatibility_hide">Masquer</string>
     <string name="force_immersive_compatibility_hint_message">Certaines applications pourraient ne pas fonctionner correctement si vous choisissez de masquer les boutons virtuels.</string>
     <string name="force_immersive_compatibility_hint_title">Problèmes de compatibilité</string>
-    <string name="force_msaa">Forcer MSAA 4x</string>
-    <string name="force_msaa_new">Force MSAA %dx</string>
-    <string name="force_msaa_summary">Activer MSAA 4x dans les applications OpenGL ES 2.0</string>
-    <string name="force_msaa_summary_new">Activer MSAA %2$dx dans les applications OpenGL ES %1$.1f</string>
+    <string name="force_msaa">Forcer MSAA 4×</string>
+    <string name="force_msaa_new">Forcer 4× MSAA</string>
+    <string name="force_msaa_prefrence_summary_new">Activer 4× MSAA dans les applications OpenGL ES %1$.1f</string>
+    <string name="force_msaa_summary">Activer MSAA 4× dans les applications OpenGL ES 2.0</string>
     <string name="force_resizable_activities">Forcer possibilité de redimensionner les activités</string>
     <string name="force_resizable_activities_summary">Permettre de redimensionner toutes les activités pour le mode multifenêtre, indépendamment des valeurs du fichier manifeste</string>
     <string name="force_rtl_layout_all_locales">Forcer de droite à gauche</string>
@@ -4704,7 +4717,6 @@ D'autres personnes utilisent cet appareil.
     <string name="max_cpu8_info">"Octa-Core Max "</string>
     <string name="max_fingerprint_number_reached">"Impossible d'ajouter plus de 5 empreintes digitales. Pour en ajouter une, supprimez d'abord une existante."</string>
     <string name="max_fingerprint_reached_toast">"Vous pouvez ajouter jusqu'à 5 empreintes digitales"</string>
-    <string name="max_number_of_processes">Au plus %d processus</string>
     <string name="maximum_memory_use">Utilisation mémoire (maximale)</string>
     <string name="mechanical_ime">Clavier mécanique</string>
     <string name="mechanical_ime_hint">Pris en charge uniquement par le clavier personnalisé pour Xiaomi</string>
@@ -5434,6 +5446,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="network_detail">Informations réseau %s</string>
     <string name="network_disconnected">Déconnecté</string>
     <string name="network_error">Erreur réseau.</string>
+    <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="network_global">Général</string>
     <string name="network_lte">LTE (recommandé)</string>
     <string name="network_name_input_error">Impossible de sauvegarder le SSID. Réessayez.</string>
@@ -5456,6 +5469,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="network_speed_for_apps_title">Connexion</string>
     <string name="network_speed_for_apps_total">Vitesse de connexion</string>
     <string name="network_state_label">État du réseau : </string>
+    <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
     <string name="networkid_label">ID réseau : </string>
     <string name="networks">"Sélection de l'opérateur"</string>
     <string name="networks_title">Réseaux mobiles</string>
@@ -5752,6 +5766,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="notifications_silenced">Désactivées</string>
     <string name="notifications_title">Notifications</string>
     <string name="now">Maintenant</string>
+    <string name="nrca_need_reset">Redémarrez votre appareil pour appliquer les modifications</string>
     <string name="nrca_switch_title">"Utiliser l'agrégation d'opérateurs 5G"</string>
     <string name="number_of_device_admins_none">Aucune application active</string>
     <string name="oaid_apps_summary">"Autoriser ou restreindre l'accès à des applications individuelles"</string>
@@ -5767,6 +5782,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">"Indisponible sur les appareils verrouillés par l'opérateur"</string>
     <string name="oem_unlock_enable_summary">Autoriser le déverrouillage du bootloader</string>
     <string name="off">Désactivé</string>
+    <string name="ok">OK</string>
     <string name="ok_rules">Terminé</string>
     <string name="okay">OK </string>
     <string name="oldman_app_label">Mode simplifié</string>
@@ -6368,6 +6384,7 @@ Lisez et acceptez %s avant d'utiliser ce service."</string>
     <string name="profile_owner_add_title_simplified">Autoriser la supervision ?</string>
     <string name="profile_section_header">Notifications profil pro</string>
     <string name="progress_scanning">Recherche en cours</string>
+    <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
     <string name="promote_conversation_summary">Ajouter à la section de conversation</string>
     <string name="promote_conversation_title">Ceci est une conversation</string>
     <string name="provision_activation">Actif</string>
@@ -7303,6 +7320,8 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="select_webview_provider_title">"Implémentation d'affichage Web"</string>
     <string name="select_webview_provider_toast_text">"Ce choix n'est plus valide. Réessayer."</string>
     <string name="send">Envoyer</string>
+    <string name="send_diagnosis_log">Envoyer le journal de diagnostic</string>
+    <string name="sending">Envoi…</string>
     <string name="sensors_off_quick_settings_title">Capteurs désactivés</string>
     <string name="separate_keyboard">Clavier ergonomique</string>
     <string name="separate_keyboard_summary_fold">Séparez votre clavier par une cloison au centre pour taper plus confortablement tout en tenant votre appareil à deux mains</string>
@@ -8004,37 +8023,25 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="storageuse_settings_title">Utilisation du stockage</string>
     <string name="strict_mode">Mode strict activé</string>
     <string name="strict_mode_summary">"Flasher l'écran lorsque des applications effectuent de longues opérations sur le fil principal"</string>
-    <string name="string_KB">%d Ko</string>
-    <string name="string_KB_per_log_buffer">%d Ko par tampon de journal</string>
-    <string name="string_MB">%d Mo</string>
-    <string name="string_MB_per_log_buffer">%d Mo par tampon de journal</string>
-    <string name="string_after_int_minute">Après %d minute</string>
-    <string name="string_after_int_minutes">Après %d minutes</string>
+    <string name="string_KB">%d Kio</string>
+    <string name="string_KB_per_log_buffer">%d Kio par tampon de journal</string>
+    <string name="string_MB">%d Mio</string>
+    <string name="string_MB_per_log_buffer">%d Mio par tampon de journal</string>
     <string name="string_after_int_seconds">Après %d secondes</string>
     <string name="string_always">Toujours</string>
-    <string name="string_bits_per_sample">%d bits/échantillon</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Latence courte (%1$d~%2$dms)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Latence moyenne (%1$d~%2$dms)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Longue latence (%1$d~%2$dms)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Optimisé pour une faible latence (%dkbps)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">Optimisé pour la qualité de la connexion (%dkbps)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Qualité audio et connexion équilibrée (%1$d/%2$dkbps)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimisé pour la qualité audio (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Latence courte (%1$d~%2$d ms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Latence moyenne (%1$d~%2$d ms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Longue latence (%1$d~%2$d ms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Optimisé pour une faible latence (%d kbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">Optimisé pour la qualité de la connexion (%d kbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Qualité audio et connexion équilibrée (%1$d/%2$d kbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimisé pour la qualité audio (%d kbps)</string>
     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Meilleur effort (débit binaire automatique)</string>
-    <string name="string_float_inches">%f pouces</string>
     <string name="string_float_seconds">%f secondes</string>
     <string name="string_immediately">Immédiatement</string>
-    <string name="string_int_hour">%d heure</string>
-    <string name="string_int_hours">%d heures</string>
-    <string name="string_int_minute">%d minute</string>
-    <string name="string_int_minutes">%d minutes</string>
-    <string name="string_int_second">%d seconde</string>
-    <string name="string_int_seconds">%d secondes</string>
     <string name="string_never">Jamais</string>
     <string name="string_off">Désactivé</string>
     <string name="string_offed">Désactivé</string>
-    <string name="string_scale_float">"Échelle d'animation %.1fx"</string>
-    <string name="string_scale_int">"Échelle d'animation %dx"</string>
     <string name="string_unlimited">Illimitée</string>
     <string name="strong_suppression_summary">Votre appareil sera moins réactif au toucher accidentel, certains contrôles gestuels peuvent ne pas fonctionner près des bords</string>
     <string name="strong_suppression_title">Grande zone</string>
@@ -8233,6 +8240,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="system_dashboard_summary">Langues, date et heure, sauvegarde, mises à jour</string>
     <string name="system_default_app">(Paramètres par défaut)</string>
     <string name="system_default_app_subtext">System default</string>
+    <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
     <string name="system_haptic_feedback">Retour haptique</string>
     <string name="system_navigation_title">Navigation système</string>
     <string name="system_package">Les mises à jour du système ne peuvent pas être installées sur des supports externes.</string>
@@ -8258,6 +8266,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="tap_to_wake">Appuyer pour réactiver</string>
     <string name="tap_to_wake_summary">"Appuyez deux fois n'importe où sur l'écran pour réactiver l'appareil."</string>
     <string name="taplus_title">Taplus</string>
+    <string name="temporary_not_available">temporairement non disponible</string>
     <string name="terms_title">"Conditions d'utilisation"</string>
     <string name="testing">Info</string>
     <string name="testing_phone_info">"Informations sur SIM "</string>
@@ -8550,6 +8559,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="uninstall_xspace_app_dlg_title">Désinstaller une application clônée ?</string>
     <string name="unknown">Inconnu</string>
     <string name="unknown_app">Application inconnue</string>
+    <string name="unknown_error_info">Erreur inconnue</string>
     <string name="unknown_unavailability_setting_summary">Paramètre non disponible</string>
     <string name="unlock_change_lock_password_title">Modifier le mot de passe de déverrouillage</string>
     <string name="unlock_change_lock_pattern_title">Modifier le schéma de déverrouillage</string>

@@ -257,6 +257,9 @@
     <string name="other_settings_enhanced_lockscreen_privacy_index">Politique de confidentialité</string>
     <string name="other_settings_enhanced_lockscreen_summary">"Recevez des images et des histoires sélectionnées sur votre écran de verrouillage tous les jours. Des Conditions générales d'utilisation s'appliquent."</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">"Conditions générales d'utilisation"</string>
+    <string name="other_settings_get_apps">Mettre à jour les applications automatiquement</string>
+    <string name="other_settings_get_apps_summary">"Mettre à jour les applications du système et des partenaires tiers via GetApps pour pouvoir utiliser leurs dernières fonctionnalités.
+Vous pouvez désactiver les mises à jour automatiques dans GetApps > Paramètres > Mises à jour automatiques."</string>
     <string name="other_settings_location">Localisation</string>
     <string name="other_settings_location_summary">"Permettre aux applications et aux sites web d'accéder à vos informations de localisation pour fournir des services basés sur la localisation"</string>
     <string name="other_settings_quality_service">Autorisations du démon MIUI</string>
