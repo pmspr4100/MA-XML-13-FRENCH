@@ -280,6 +280,10 @@
     <item quantity="other">%d agents de confiance actifs</item>
     <item quantity="one">%d agent de confiance actif</item>
   </plurals>
+  <plurals name="max_number_of_processes">
+    <item quantity="other">Au plus %d processus</item>
+    <item quantity="one">Au plus %d processus</item>
+  </plurals>
   <plurals name="memory_usage_apps_summary">
     <item quantity="other">%1$d applications ont utilisé de la mémoire au cours de la période suivante : %2$s.</item>
     <item quantity="one">%1$d application a utilisé de la mémoire au cours de la période suivante : %2$s.</item>
@@ -452,21 +456,41 @@ Pour en savoir plus sur ce certificat, contactez votre administrateur."</item>
     <item quantity="other">%d applications peuvent afficher les notifications</item>
     <item quantity="one">%d application peut afficher les notifications</item>
   </plurals>
+  <plurals name="string_after_int_minute">
+    <item quantit="other">Après %d minutes</item>
+    <item quantit="one">Après %d minute</item>
+  </plurals>
+  <plurals name="string_bits_per_sample">
+    <item quantit="other">%d bits/échantillon</item>
+    <item quantit="one">%d bit/échantillon</item>
+  </plurals>
+  <plurals name="string_int_hour">
+    <item quantit="other">%d heures</item>
+    <item quantit="one">%d heure</item>
+  </plurals>
+  <plurals name="string_int_minute">
+    <item quantit="other">%d minutes</item>
+    <item quantit="one">%d minute</item>
+  </plurals>
+  <plurals name="string_int_second">
+    <item quantit="other">%d secondes</item>
+    <item quantit="one">%d seconde</item>
+  </plurals>
   <plurals name="suggestions_collapsed_summary">
-    <item quantity="other">+%1$d suggestions</item>
-    <item quantity="one">+%1$d suggestion</item>
+    <item quantity="other">+%1$d suggestions</item>
+    <item quantity="one">+%1$d suggestion</item>
   </plurals>
   <plurals name="suggestions_collapsed_title">
-    <item quantity="other">%1$d suggestions</item>
-    <item quantity="one">%1$d suggestion</item>
+    <item quantity="other">%1$d suggestions</item>
+    <item quantity="one">%1$d suggestion</item>
   </plurals>
   <plurals name="switch_headset_anti_lost_summary">
     <item quantity="other">"Recevez une alerte chaque fois qu'un de vos écouteurs est éloigné de votre oreille ou de votre étui de chargement pendant plus de %d minutes"</item>
     <item quantity="one">"Recevez une alerte chaque fois qu'un de vos écouteurs est éloigné de votre oreille ou de votre étui de chargement pendant plus de %d minute"</item>
   </plurals>
   <plurals name="uri_permissions_text">
-    <item quantity="other">%d éléments</item>
-    <item quantity="one">%d élément</item>
+    <item quantity="other">%d éléments</item>
+    <item quantity="one">%d élément</item>
   </plurals>
   <plurals name="usage_state_device_explain_today">
     <item quantity="other">"Déverrouillé %d fois"</item>

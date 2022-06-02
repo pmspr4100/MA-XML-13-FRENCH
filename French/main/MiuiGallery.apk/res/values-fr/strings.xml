@@ -538,7 +538,6 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="context_menu_add_contact">Ajouter aux contacts</string>
     <string name="context_menu_copy">Copier</string>
     <string name="context_menu_copy_notice">Copié dans le presse-papiers</string>
-    <string name="continue_feedback">Commentaires supplémentaires</string>
     <string name="copy">Copier</string>
     <string name="correct_photo_time">"Corriger la date et l'heure des photos"</string>
     <string name="correct_time_success">Corrigé avec succès</string>
@@ -802,6 +801,9 @@ Prenez plus de photos à vos amis !"</string>
     <string name="feature_guidance_photo_effects">"De nouveaux effets photo
 sont disponibles"</string>
     <string name="feature_guidance_video_editor_smart_effects">De nouveaux effets photo sont disponibles</string>
+    <string name="feedback_my_reports">Commentaires</string>
+    <string name="feedback_problem">Signaler un problème</string>
+    <string name="feedback_suggest">Soumettre une suggestion</string>
     <string name="file_cannot_print">"Impossible d'imprimer cet article."</string>
     <string name="file_cannot_screen_throw">"Impossible de lancer cet élément."</string>
     <string name="file_sending">Transfert de fichiers…</string>

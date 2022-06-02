@@ -670,6 +670,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="permission_read_sms">Accéder aux messages</string>
     <string name="permission_write_external_storage">Accéder et enregistrer des éléments dans le stockage</string>
     <string name="phone_num_use_for">Le numéro de téléphone est utilisé pour :</string>
+    <string name="phone_register">Utiliser le numéro de téléphone</string>
     <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
