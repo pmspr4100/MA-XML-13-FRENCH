@@ -50,7 +50,7 @@
     <string name="early_morning">Matin</string>
     <string name="invalid_package_signature">"Signature d'application non valide"</string>
     <string name="login_mi_account_alert">Attention</string>
-    <string name="login_mi_account_summary">"Le gestionnaire de mots de passe synchronise les mots de passe avec votre Compte Mi. Se connecter maintenant ?"</string>
+    <string name="login_mi_account_summary">"Le gestionnaire de mots de passe synchronise les mots de passe avec votre Compte Xiaomi. Se connecter maintenant ?"</string>
     <string name="midnight">Nuit</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
     <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>

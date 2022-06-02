@@ -352,6 +352,7 @@
     <string name="calllog_menu_edit_before_call">Éditer</string>
     <string name="calllog_menu_send_sms">Envoyer un SMS</string>
     <string name="calllog_record_none_toast">"Aucun enregistrement d'appel à afficher"</string>
+    <string name="calllog_record_searching_toast">"Recherche d'enregistrements d'appels…"</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
     <string name="callrecordview_item_op_time_missed">non connecté</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -813,6 +814,9 @@ Raison : \"%s\""</string>
     <string name="low_memory_toast">"Impossible d'utiliser cette fonctionnalité en raison d'une mémoire insuffisante."</string>
     <string name="lunarBirthdayLabelsGroup">Anniversaire lunaire</string>
     <string name="make_primary">Se souvenir de ce choix</string>
+    <string name="manage_external_storage_dialog_message">"Autoriser cette application à accéder à tous les fichiers afin de gérer les enregistrements d'appels."</string>
+    <string name="manage_external_storage_dialog_positive">Paramètres</string>
+    <string name="manage_external_storage_dialog_title">Autorisations requises</string>
     <string name="map_custom">Afficher adresse %s</string>
     <string name="map_home">Afficher adresse perso</string>
     <string name="map_other">"Afficher l'adresse"</string>

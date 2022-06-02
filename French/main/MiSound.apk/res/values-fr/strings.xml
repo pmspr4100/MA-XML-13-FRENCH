@@ -91,7 +91,7 @@
     <string name="fmt_date_numeric_year_month_day">M/d/yyyy</string>
     <string name="fmt_date_short_month_day">MMM d</string>
     <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
-    <string name="four_note">Le test durera environ 3 minutes.</string>
+    <string name="four_note">Le test durera environ %d minutes.</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
@@ -248,7 +248,7 @@
     <string name="music_audio_effect_settings">"Paramètres d'effets"</string>
     <string name="music_audio_visual_wake_lock">"Laisser l'écran allumé"</string>
     <string name="music_audio_visual_wake_lock_summary">"N'éteind pas l'écran lorsque les effets visuels s'affichent"</string>
-    <string name="music_below_thirty_years">"Jusqu'à 30 ans"</string>
+    <string name="music_below_thirty_years">"Jusqu'à %d ans"</string>
     <string name="music_customized_sound_summary">Ajuste le volume selon votre environnement sonore</string>
     <string name="music_customized_sound_title">Ajustement du volume</string>
     <string name="music_delete">Supprimer</string>
@@ -345,10 +345,10 @@
     <string name="music_sound_num">Préréglage personnalisé %s</string>
     <string name="music_sound_sample">Préréglages système</string>
     <string name="music_sure_to_delete_sound_msg">Supprimer les préréglages sélectionnés maintenant ?</string>
-    <string name="music_thirty_to_sixty_years">De 30 à 60 ans</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">De %d à %d ans</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">Les casques USB ne sont pas pris en charge</string>
-    <string name="music_upper_sixty_years">Plus de 60 ans</string>
+    <string name="music_upper_sixty_years">Plus de %d ans</string>
     <string name="name">Nom</string>
     <string name="night">Evening</string>
     <string name="noon">Midday</string>

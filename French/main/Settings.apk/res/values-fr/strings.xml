@@ -2139,6 +2139,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="continue_reset_factory">"Retour aux paramètres d'usine"</string>
     <string name="contributors_title">Collaborateurs</string>
     <string name="control_center">Centre de contrôle</string>
+    <string name="control_center_force_use_panel_guide_text">"Déroulez la barre d'état sur la gauche pour afficher les notifications. Tirez-la vers le bas sur la droite pour ouvrir le centre de contrôle. Vous pouvez basculer entre les deux en balayant vers la gauche et vers la droite."</string>
     <string name="control_center_style">Style du centre de contrôle</string>
     <string name="control_center_style_summary">"Sélectionnez la façon dont vous souhaitez afficher les boutons et les notifications"</string>
     <string name="control_panel_switch_side">Changer le côté du Centre de contrôle</string>
@@ -2591,8 +2592,8 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="device_edit_title">Renommer le téléphone</string>
     <string name="device_feedback">"Envoyer commentaires sur l'appareil"</string>
     <string name="device_id">"ID de périphérique pour des recommandations personnalisées"</string>
-    <string name="device_ime_keyboard_fold">Options de clavier pour les appareils pliables</string>
-    <string name="device_ime_keyboard_pad">Options de clavier pour les tablettes</string>
+    <string name="device_ime_keyboard_fold">Claviers pour les appareils pliables</string>
+    <string name="device_ime_keyboard_pad">Claviers pour les tablettes</string>
     <string name="device_info_default">Inconnu</string>
     <string name="device_info_label">"Informations sur l'appareil"</string>
     <string name="device_info_not_available">Non disponible</string>

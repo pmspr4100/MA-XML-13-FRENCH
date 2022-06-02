@@ -36,6 +36,7 @@
     <string name="add_alarm">Ajouter une alarme</string>
     <string name="add_clock">Ajouter une horloge</string>
     <string name="add_common_timer">Ajouter un minuteur</string>
+    <string name="add_new_sound">Ajouter une sonnerie</string>
     <string name="add_timer">Minuteur fréquent</string>
     <string name="add_timer_dialog_title">Ajouter un minuteur</string>
     <string name="add_timezone_title">Ajouter un fuseau horaire</string>
@@ -125,6 +126,7 @@
     <string name="common_timer_selector">Sélection minuteur</string>
     <string name="confirm">Confirmer</string>
     <string name="confirm_abort">Abandonner</string>
+    <string name="confirm_remove_custom_ringtone">"Si vous supprimez cette sonnerie, les alarmes et les minuteurs qui l'utilisent joueront la sonnerie par défaut à la place. Effacer maintenant ?"</string>
     <string name="content_desc_keep_screen">"Bouton \"Garder l'écran allumé\""</string>
     <string name="continue_operation">Continuer</string>
     <string name="continue_step">Suivant</string>
@@ -132,6 +134,7 @@
     <string name="control_set_alarm_with_existing">"Régler l'alarme : %s"</string>
     <string name="copy">Copier</string>
     <string name="current_stopwatch_time">Durée actuelle</string>
+    <string name="custom_ringtone_lost_permissions">"Impossible d'accéder à ce son."</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="default_alarm_alert">"Sonnerie d'alarme par défaut"</string>
@@ -143,6 +146,7 @@
     <string name="delete_timer_item_title">Supprimer la tâche</string>
     <string name="delete_timezone_title">Supprimer le fuseau horaire</string>
     <string name="deskclock_sleep_no_disturbance">"Horloge - Gérer l'heure du coucher - Mode NPD"</string>
+    <string name="device_sounds">"Sons de l'appareil"</string>
     <string name="dialog_confirm_abort">Annuler vos changements ?</string>
     <string name="dialog_message_agree">Accepter</string>
     <string name="dialog_message_for_contact_permission">"Afin de rendre disponible les alarmes d'anniversaire, L'Horloge doit accéder à vos contacts. Acceptez-vous ?"</string>
@@ -598,6 +602,7 @@
     <string name="tv_blank_list_show_text">"Rien ici encore. Recherchez un lieu pour l'ajouter à votre horloge mondiale."</string>
     <string name="tv_world_clock_edit_title1">"Emplacements affichés sur l'écran d'accueil"</string>
     <string name="tv_world_clock_edit_title2">Autres emplacements enregistrés</string>
+    <string name="unknown_ringtone_title">Inconnu</string>
     <string name="unselect_all">Tout désélectionner</string>
     <string name="upcoming_alarm">Prochaine alarme : %s</string>
     <string name="upcoming_alarm_hint">Vous pouvez désactiver cette alarme maintenant</string>
@@ -630,6 +635,8 @@
     <string name="week_ringtone_recommend_desc">"L'alarme de la nature émet différents sons en fonction de la date. La définir comme alarme par défaut ?"</string>
     <string name="white_noise">Bruit ambiant</string>
     <string name="white_noise_guide_desc">Ajoutez un fond sonore pour rester concentré</string>
+    <string name="white_noise_not_selected">Non sélectionné</string>
+    <string name="white_noise_selected">Sélectionné</string>
     <string name="white_noise_selector">"Sélectionner l'audio"</string>
     <string name="workday_alarm_clock">Alarme pour les jours de travail</string>
     <string name="worldclock_edit_label">Horloge mondiale</string>
@@ -651,4 +658,5 @@
     <string name="worldcolock_timezone_local">"Identique à l'heure locale"</string>
     <string name="xiaoai_ringtone_title">Sonneries Mi IA</string>
     <string name="yesterday">Hier</string>
+    <string name="your_sounds">Mes sons</string>
 </resources>
