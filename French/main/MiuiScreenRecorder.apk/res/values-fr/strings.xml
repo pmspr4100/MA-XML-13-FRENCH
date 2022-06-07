@@ -85,6 +85,7 @@
   <string name="hint_volume_down">Volume diminué</string>
   <string name="hint_volume_up">Volume augmenté</string>
   <string name="home_title_none">Sélectionner des éléments</string>
+  <string name="invisible_mode_error_tip">"Vous êtes en navigation privée. Impossible d'enregistrer de l'audio."</string>
   <string name="is_checked">Sélectionné</string>
   <string name="is_go_home">"Retour à écran d'accueil"</string>
   <string name="is_go_home_summary">"Ouvrir la page de démarrage de l'enregistreur après l'arrêt de l'enregistrement"</string>

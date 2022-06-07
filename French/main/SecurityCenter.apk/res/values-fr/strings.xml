@@ -180,11 +180,20 @@
     <string name="antispam_notificaiton_type_show_none">Jamais</string>
     <string name="antispam_notification_setting_title">Notifications</string>
     <string name="antispam_xpace_text">Passer dans le Premier espace pour définir la Liste noire</string>
-    <string name="antivirus_browser_check">Check websites in Mi Browser</string>
-    <string name="antivirus_browser_check_summary">Check websites in Mi Browser automatically and receive warnings about possible risks</string>
+    <string name="antivirus_antidefraud_risk_desc">Cette application est classée comme une application de fraude financière par le National Anti-Fraud Center. Désinstallez-le pour éviter les risques éventuels.</string>
+    <string name="antivirus_antidefraud_risk_type">Fraude financière</string>
+    <string name="antivirus_antidefraud_risk_type_label">Fraude financière et risques de sécurité</string>
+    <string name="antivirus_browser_check">Vérifier les sites Web dans Mi Browser</string>
+    <string name="antivirus_browser_check_summary">Vérifiez automatiquement les sites Web dans Mi Browser et recevez des avertissements sur les risques possibles</string>
     <string name="antivirus_choose_engine_dialog_title">Choisissez les bases de données virales</string>
     <string name="antivirus_choose_engine_settings">Paramètres des bases de données virales</string>
     <string name="antivirus_choose_engine_title">Bases de données virales</string>
+    <string name="antivirus_detect_apps_dialog_cancel">Ignorer</string>
+    <string name="antivirus_detect_apps_dialog_content">%s est classé comme une application de fraude financière par le National Anti-Fraud Center. Cette application présente des risques de sécurité importants.</string>
+    <string name="antivirus_detect_apps_dialog_uninstall">Désinstaller</string>
+    <string name="antivirus_detect_apps_noti_message">Cette application présente des risques de sécurité</string>
+    <string name="antivirus_detect_apps_noti_title">Plusieurs applications, y compris %s, peuvent poser des risques de sécurité</string>
+    <string name="antivirus_detect_single_app_noti_title">%s peut poser des risques de sécurité</string>
     <string name="antivirus_longtime_no_update">"Il semble que vos bases de données virales sont obsolètes. Les mise à jour régulières aident à obtenir de meilleurs résultats d'analyse. Autoriser \" Sécurité \" à se connecter à internet et mettre à jour les bases de données virales ?"</string>
     <string name="antivirus_longtime_no_update1">"Il semble que vos bases de données virales sont obsolètes. Les mises à jour régulières aident à obtenir de meilleurs résultats d'analyse. Mettez à jours les bases de données et réessayez."</string>
     <string name="antivirus_main_activity_back">Retour</string>
@@ -196,6 +205,7 @@
     <string name="antivirus_monitored_app_empty">Applications de paiement compatibles introuvables</string>
     <string name="antivirus_monitored_tips">Check payment environment for possible risks automatically</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
+    <string name="antivirus_not_remind_for_app">Ne plus avertir à propos de cette application</string>
     <string name="antivirus_not_wlan">"Vous n'êtes pas connecté au Wi-Fi. Utiliser les données mobiles peut générer des frais supplémentaires. Continuer quand même ?"</string>
     <string name="antivirus_privacy_dialog_cloudscan">Envoyer les noms et détails des applications</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Envoyer et analyser les noms et détails des applications en utilisant les bases de données de virus en ligne.</string>
@@ -1964,14 +1974,11 @@ des tremblements de terre"</string>
     <string name="gb_game_macro_bubble_tips">Essayez les combinaisons</string>
     <string name="gb_game_macro_toast_tips">"Essayez les combinaisons !
 Enregistrez des séquences et utilisez-les à tout moment !"</string>
-    <string name="gb_game_mode">"Mode d'affichage"</string>
-    <string name="gb_game_mode_change">"Basculez entre les modes d'affichage ici"</string>
     <string name="gb_game_mode_change_btn_right">Redémarrer</string>
     <string name="gb_game_mode_change_message">Redémarrer le jeu pour appliquer les modifications maintenant ?</string>
     <string name="gb_game_mode_change_new">Basculez entre les mises en page ici</string>
     <string name="gb_game_mode_change_title">Redémarrer le jeu</string>
     <string name="gb_game_mode_choose_game_area">Zone active</string>
-    <string name="gb_game_mode_choose_title">"Sélectionner le mode d'affichage"</string>
     <string name="gb_game_mode_choose_title_new">Sélectionner la disposition</string>
     <string name="gb_game_mode_empty">Aucun jeu ici pour le moment</string>
     <string name="gb_game_mode_fill">"Remplir l'écran"</string>
@@ -4407,6 +4414,10 @@ Retirer le consentement maintenant ?"</string>
     <string name="sp_sos_title">"SOS d'urgence"</string>
     <string name="sp_system_security_title">Sécurité du système</string>
     <string name="sp_toast_removed_from_sign_white_list">"Retiré des exceptions. L'élément sera analysé la prochaine fois."</string>
+    <string name="sp_unshelf_dialog_cancel_pay">Annuler</string>
+    <string name="sp_unshelf_dialog_content">"%s n'a pas réussi les tests de sécurité GetApps. L'utilisation des paiements intégrés peut entraîner des pertes financières. Payer quand même ?"</string>
+    <string name="sp_unshelf_dialog_continue_pay">Payer</string>
+    <string name="sp_unshelf_dialog_title">Risques détectés</string>
     <string name="sp_website_scan_summary">Sécurise la navigation web</string>
     <string name="sp_website_scan_title">Vérifier les sites web</string>
     <string name="special_number_group">Bloquer les numéros signalés</string>
@@ -4495,7 +4506,7 @@ Retirer le consentement maintenant ?"</string>
     <string name="st_antispam_des_uesless">Désactivé</string>
     <string name="st_antispam_mode_add_new">Ajouter des règles</string>
     <string name="st_antispam_mode_blacklist">Numéros bloqués</string>
-    <string name="st_antispam_mode_blacklist_sum">Bloquer les appels et messages des numéros que vous avez ajouté manuellement à la liste noire</string>
+    <string name="st_antispam_mode_blacklist_sum">Bloquer les appels et messages des numéros que vous avez ajoutés manuellement à la liste noire</string>
     <string name="st_antispam_mode_denyownself_sum">Règles personnalisées</string>
     <string name="st_antispam_mode_only_all_deny">Tout bloquer</string>
     <string name="st_antispam_mode_only_all_deny_sum">Bloquer tous les appels et messages</string>

@@ -4407,6 +4407,8 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="lock_profile_wipe_warning_content_pin">Si vous saisissez un code PIN de travail incorrect lors de cette tentative, votre profil professionnel et les données associées seront supprimés de cet appareil.</string>
     <string name="lock_profile_wipe_warning_title">Dernier essai</string>
     <string name="lock_screen_action">"Éléments affichés sur l'écran de verrouillage après avoir fait glisser vers le bas"</string>
+    <string name="lock_screen_after_fold_screen_summary">"L'appareil sera verrouillé une fois que vous l'aurez plié, sauf dans les cas où vous utilisez la caméra frontale ou le haut-parleur."</string>
+    <string name="lock_screen_after_fold_screen_title">Plier pour verrouiller</string>
     <string name="lock_screen_display_category_name">Écran de verrouillage</string>
     <string name="lock_screen_intro_skip_dialog_text">"Les fonctionnalités de protection de l'appareil ne seront pas activées. Vous ne pourrez pas empêcher d'autres personnes d'utiliser ce téléphone en cas de perte ou de vol."</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">"Les fonctionnalités de protection de l'appareil ne seront pas activées. Vous ne pourrez pas empêcher d'autres personnes d'utiliser ce téléphone en cas de perte, de vol ou de réinitialisation."</string>
