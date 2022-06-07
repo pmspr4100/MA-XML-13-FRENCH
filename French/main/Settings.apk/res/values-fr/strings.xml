@@ -1352,6 +1352,11 @@ Applications :
     <string name="bluetooth_fastConnect_key_device_id">ID appareil</string>
     <string name="bluetooth_fastConnect_resource_load">Bluetooth fastConnect resource load</string>
     <string name="bluetooth_footer_mac_message">Adresse Bluetooth du téléphone : %1$s</string>
+    <string name="bluetooth_grp_source_selection_options_detail">"Source de diffusion
+%1$s est ajouté aux membres du groupe connecté.
+(Laissez le code PIN de diffusion vide s'il s'agit d'une source de diffusion non chiffrée)"</string>
+    <string name="bluetooth_hd_music_play_summary">"Lisez des audio %d kHz sur des appareils Bluetooth sans réduire le taux d'échantillonnage. Les effets Dolby ne seront pas disponibles lorsque cette fonctionnalité est activée."</string>
+    <string name="bluetooth_hd_music_play_title">Lire une audio %d kHz</string>
     <string name="bluetooth_headset_profile_summary_connected">"Connecter à l'audio des appels téléphoniques"</string>
     <string name="bluetooth_headset_profile_summary_use_for">"Jouer l'audio des appels téléphoniques"</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">"Connecté à l'assistance auditive"</string>
