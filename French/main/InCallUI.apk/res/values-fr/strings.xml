@@ -153,6 +153,9 @@
     <string name="description_message_list_title">Liste des réponses rapides</string>
     <string name="description_target_answer">Répondre</string>
     <string name="do_not_support_video_calls_by_remote">"L'autre appareil ne supporte pas les appels vidéos"</string>
+    <string name="dsda_answer_call_prompt">Accepter cet appel mettra fin à votre appel en cours.</string>
+    <string name="dsda_not_incall_sim_mo_fail_desc">"Impossible d'utiliser la carte SIM %1$d pour les appels actuellement. L'environnement réseau actuel ne prend pas en charge la fonctionnalité double SIM."</string>
+    <string name="dsda_swap_call_prompt">Vous serez redirigé vers un appel vocal si vous continuez.</string>
     <string name="early_morning">Matin</string>
     <string name="emergency_call_dialog_number_for_display">"Numéro d'urgence"</string>
     <string name="enter_ai_assistant">Utilisation</string>
@@ -331,8 +334,9 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="select_audio_dialog_title">Sélectionner un mode de réponse</string>
     <string name="select_one_sim_title">Peut seulement utiliser la SIM %1$d</string>
     <string name="select_one_sim_title_for_heduohao">Ne peut utiliser que la carte SIM %1$d Sub %2$d</string>
+    <string name="select_other_sim_card_dial">Utiliser la SIM %1$d</string>
     <string name="select_sim_hint">"Impossible d'accéder à la SIM %2$d, lorsque la SIM %1$d est en cours d'utilisation."</string>
-    <string name="select_sim_hint_for_heduohao">"Vous ne pouvez pas utiliser autre chose lorsque  SIM %1$d Sub %2$d est en cours d'utilisation."</string>
+    <string name="select_sim_hint_for_heduohao">"Vous ne pouvez pas utiliser autre chose lorsque la SIM %1$d Sub %2$d est en cours d'utilisation."</string>
     <string name="select_voice_call_sim">Choisir une carte SIM</string>
     <string name="send">Envoyer</string>
     <string name="separate_from_conference">Séparer les appels</string>

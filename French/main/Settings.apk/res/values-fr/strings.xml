@@ -67,7 +67,7 @@
     <string name="access_control_no_back_footer">Appuyer sur [icône] pour quitter</string>
     <string name="access_control_password_title">Mot de passe</string>
     <string name="access_control_recording_intro_header">Dessinez un schéma de déverrouillage</string>
-    <string name="access_control_reset_by_account">Se connecter à votre Compte Mi pour réinitialiser le mot de passe</string>
+    <string name="access_control_reset_by_account">Se connecter à votre Compte Xiaomi pour réinitialiser le mot de passe</string>
     <string name="access_denied_info">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
     <string name="access_point_names">"Noms des points d'accès"</string>
     <string name="accessibility_audio_adjustment_title">Ajustement audio</string>
@@ -1206,8 +1206,8 @@ Applications :
     <string name="billing_cycle_less_than_one_day_left">Moins de 1 jour restant</string>
     <string name="billing_cycle_none_left">Le cycle de facturation est arrivé à échéance</string>
     <string name="bind_xiaomi_account_confirm">Ajouter</string>
-    <string name="bind_xiaomi_account_dialog_summery">"Vous êtes sur le point d'ajouter le Compte Mi %s. Si vous oubliez votre mot de passe, vous pouvez utiliser ce compte pour le réinitialiser."</string>
-    <string name="bind_xiaomi_account_success">Compte Mi ajouté avec succès</string>
+    <string name="bind_xiaomi_account_dialog_summery">"Vous êtes sur le point d'ajouter le Compte Xiaomi %s. Si vous oubliez votre mot de passe, vous pouvez utiliser ce compte pour le réinitialiser."</string>
+    <string name="bind_xiaomi_account_success">Compte Xiaomi ajouté avec succès</string>
     <string name="biometric_weak_improve_matching_title">Améliorer la correspondance de visages</string>
     <string name="biometric_weak_liveliness_summary">Un clignement est exigé pour déverrouiller</string>
     <string name="biometric_weak_liveliness_title">Contrôle de personne réelle</string>
@@ -3489,8 +3489,8 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="forget_password_dialog_content_two">"Suivez ces étapes pour effacer les données : "</string>
     <string name="forget_password_dialog_title">Réinitialiser votre mot de passe</string>
     <string name="forget_pattern">Schéma oublié ?</string>
-    <string name="forget_privacy_password_setting">Ajouter un Compte Mi</string>
-    <string name="forget_privacy_password_summary">Utiliser le Compte Mi pour réinitialiser votre mot de passe</string>
+    <string name="forget_privacy_password_setting">Ajouter un Compte Xiaomi</string>
+    <string name="forget_privacy_password_summary">Utiliser le Compte Xiaomi pour réinitialiser votre mot de passe</string>
     <string name="forget_wifi_message">Votre appareil arrêtera de se connecter automatiquement à ce réseau.</string>
     <string name="found_new_version">Nouvelle version disponible :</string>
     <string name="fourhours">2 heures</string>
@@ -6310,9 +6310,9 @@ Lisez et acceptez %s avant d'utiliser ce service."</string>
     <string name="privacy_notes">Notes</string>
     <string name="privacy_password">Mot de passe de confidentialité</string>
     <string name="privacy_password_add_account">Ajouter</string>
-    <string name="privacy_password_add_account_info">"Ajoutez votre Compte Mi pour pourvoir réinitialiser votre mot de passe au cas où vous l'oubliez"</string>
+    <string name="privacy_password_add_account_info">"Ajoutez votre Compte Xiaomi pour pourvoir réinitialiser votre mot de passe au cas où vous l'oubliez"</string>
     <string name="privacy_password_add_account_setting">Compte et confidentialité</string>
-    <string name="privacy_password_bind_account">Ajouter un Compte Mi</string>
+    <string name="privacy_password_bind_account">Ajouter un Compte Xiaomi</string>
     <string name="privacy_password_bind_account_immediate">Ajouter</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Confirmer le mot de passe du Deuxième espace</string>
     <string name="privacy_password_confirm_use_finger">"Déverrouiller avec l'empreinte digitale"</string>
@@ -6327,8 +6327,8 @@ Lisez et acceptez %s avant d'utiliser ce service."</string>
     <string name="privacy_password_never_remind">Ne plus demander</string>
     <string name="privacy_password_not_add_account">Pas maintenant</string>
     <string name="privacy_password_not_login_account">"Vous n'êtes pas connecté"</string>
-    <string name="privacy_password_remind_bind_notlogin_account">"Ajoutez votre Compte Mi pour être en mesure de réinitialiser votre mot de passe en cas d'oubli."</string>
-    <string name="privacy_password_remind_bindaccount_title">Ajouter un Compte Mi</string>
+    <string name="privacy_password_remind_bind_notlogin_account">"Ajoutez votre Compte Xiaomi pour être en mesure de réinitialiser votre mot de passe en cas d'oubli."</string>
+    <string name="privacy_password_remind_bindaccount_title">Ajouter un Compte Xiaomi</string>
     <string name="privacy_password_settings">Utiliser un mot de passe de confidentialité</string>
     <string name="privacy_password_settings_next">Suivant</string>
     <string name="privacy_password_settings_summary">Le mot de passe de protection de la confidentialité est utilisé pour les applications susceptibles de contenir des informations sensibles.</string>

@@ -113,7 +113,7 @@ Vous pouvez vous connecter à votre Compte Mi en utilisant %s maintenant."</stri
     <string name="button_unbind">Déconnecter</string>
     <string name="cancel">Annuler</string>
     <string name="change_activate_email">"Modifier l'adresse e-mail"</string>
-    <string name="change_email_address">"Modifier l'adresse Email"</string>
+    <string name="change_email_address">"Modifier l'adresse e-mail"</string>
     <string name="change_password">Modifier le mot de passe</string>
     <string name="change_phone_number">Modifier le numéro de téléphone</string>
     <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
@@ -179,6 +179,7 @@ Vous pouvez vous connecter à votre Compte Mi en utilisant %s maintenant."</stri
     <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Mi %2$s le %1$s. Il ne sera plus associé au Compte Mi %3$s si vous continuez. Continuer ?</string>
     <string name="continue_action">Continuer</string>
     <string name="copy">Copier</string>
+    <string name="copy_link">"Copier l'URL"</string>
     <string name="copy_to_clipboard_successful">Copié avec succès</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
@@ -205,8 +206,8 @@ Envoyez ce code au superviseur."</string>
     <string name="ep_unsupported">Impossible de se connecter au Compte Mi sur votre appareil</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
-    <string name="error_dup_binded_email">Cette adresse Email est déjà associée avec un autre Compte Mi.</string>
-    <string name="error_invalid_bind_address">"L'adresse Email saisie n'est pas valide."</string>
+    <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée avec un autre Compte Mi.</string>
+    <string name="error_invalid_bind_address">"L'adresse e-mail saisie n'est pas valide."</string>
     <string name="evening">Après-midi</string>
     <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé avec un autre Compte Mi.</string>
     <string name="exit">Quitter</string>
@@ -224,7 +225,7 @@ Envoyez ce code au superviseur."</string>
     <string name="find_device_interrupted">"L'action a été interrompue, attendez une minute ou deux et essayez à nouveau"</string>
     <string name="find_device_io_error">Impossible de se connecter au réseau</string>
     <string name="find_device_location">Locate</string>
-    <string name="find_device_locked_account_email" formatted="false">%s, adresse Email associée : %s</string>
+    <string name="find_device_locked_account_email" formatted="false">%s, adresse e-mail associée : %s</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, numéro de téléphone associé : %s</string>
     <string name="find_device_message">Appareil verrouillé. Message : %1$s. Appeler %2$s.</string>
     <string name="find_device_null_credential_error">"Impossible d'obtenir les informations de l'appareil, contactez le service client Xiaomi"</string>
@@ -271,7 +272,7 @@ Envoyez ce code au superviseur."</string>
     <string name="i_agree_continue">Accepter</string>
     <string name="identity">Identification</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
-    <string name="input_email_address_notice">Nous utiliserons cette adresse Email pour valider votre compte</string>
+    <string name="input_email_address_notice">Nous utiliserons cette adresse e-mail pour valider votre compte</string>
     <string name="input_new_pwd">Entrez le nouveau mot de passe</string>
     <string name="io_error_title">Confirmez votre réseau</string>
     <string name="just_a_second">Chargement…</string>
@@ -380,6 +381,8 @@ Envoyez ce code au superviseur."</string>
     <string name="multi_user_not_show_sync_activity_title">Désactiver la synchronisation avec Mi Cloud</string>
     <string name="my_device_title">Appareil actuel</string>
     <string name="need_install_wechat">Installez WeChat en premier</string>
+    <string name="network_error">"Une erreur réseau s'est produite."</string>
+    <string name="network_error_hint">"Vérifiez l'URL et réessayez, ou copiez l'URL et ouvrez-la dans votre navigateur."</string>
     <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayer.</string>
     <string name="new_version">Nouvelle version</string>
@@ -403,10 +406,11 @@ Envoyez ce code au superviseur."</string>
     <string name="oauth_getting_scopes">Vérification du compte…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les permissions suivantes :&lt;br> &lt;br> %3$s ;</string>
     <string name="oauth_title">Se connecter avec le Compte Mi</string>
-    <string name="ok">OK </string>
+    <string name="ok">OK</string>
     <string name="optional_permissions">Autorisations optionnelles</string>
+    <string name="page_load_failed">"Impossible d'ouvrir la page"</string>
     <string name="passport_access_denied">Accès refusé</string>
-    <string name="passport_account_hint_text">Email/Téléphone/ID de Compte Mi</string>
+    <string name="passport_account_hint_text">E-mail/Téléphone/ID de Compte Mi</string>
     <string name="passport_account_identity_title">Vérifier votre identité</string>
     <string name="passport_account_label">Compte Mi</string>
     <string name="passport_account_name">"Compte : %1$s "</string>
@@ -442,11 +446,11 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_delete_account">Se Déconnecter</string>
     <string name="passport_downlink_reg">Numéro de téléphone</string>
     <string name="passport_email">Adresse e-mail</string>
-    <string name="passport_email_or_id_hint_text">Email/ID de Compte Mi</string>
+    <string name="passport_email_or_id_hint_text">E-mail/ID de Compte Mi</string>
     <string name="passport_email_reg_success_summary">"%1$s a été associé à votre compte. Vous pouvez l'utiliser pour vous connecter et réinitialiser votre mot de passe."</string>
     <string name="passport_error_auth_fail">La session a expiré. Reconnectez-vous.</string>
     <string name="passport_error_device_id">"Impossible d'obtenir l'identifiant de l'appareil"</string>
-    <string name="passport_error_dup_email">"L'Email que vous avez entré est déjà associé à un autre compte."</string>
+    <string name="passport_error_dup_email">"L'e-mail que vous avez entré est déjà associé à un autre compte."</string>
     <string name="passport_error_email">"L'adresse e-mail saisie n'est pas valide"</string>
     <string name="passport_error_empty_captcha_code">Entrer le captcha</string>
     <string name="passport_error_empty_email">Entrez votre adresse e-mail</string>
@@ -471,7 +475,7 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_error_verify_activator_phone_message">"Assurez-vous que le service de la carte SIM est activé et que l'appareil est connecté au réseau."</string>
     <string name="passport_error_verify_activator_phone_title">Impossible de vérifier le numéro de téléphone</string>
     <string name="passport_extra_gdpr_license">"Créer votre Compte Mi signifie que vous acceptez que Xiaomi collectera, traitera et utilisera vos données personnelles, y compris les données de vérification (par exemple, les codes de vérification), les données du second espace (par exemple, informations sur les façons d'utiliser les premier et second espaces), et d'autres données spécifiées dans notre Politique de confidentialité. Référez-vous à notre Politique de confidentialité pour apprendre comment nous traitons et utilisons les données personnelles."</string>
-    <string name="passport_failed_to_send_activate_email">"Impossible d'envoyer l'Email d'activation"</string>
+    <string name="passport_failed_to_send_activate_email">"Impossible d'envoyer l'e-mail d'activation"</string>
     <string name="passport_find_password_on_web_msg">Veuillez visiter account.mi.com pour récupérer votre mot de passe.</string>
     <string name="passport_first_login_prompt">Le Compte Mi sera créé automatiquement lorsque vous vous connecterez pour la première fois.</string>
     <string name="passport_forget_password">Mot de passe oublié</string>
@@ -500,7 +504,7 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_input_vcode_hint">Entrez le code de vérification</string>
     <string name="passport_input_voice_captcha_hint">Saisissez le code de vérification par voix</string>
     <string name="passport_input_voice_hint">Entrez le code vocal</string>
-    <string name="passport_international_register_by_email">"Créer un compte en utilisant l'adresse Email"</string>
+    <string name="passport_international_register_by_email">"Créer un compte en utilisant l'adresse e-mail"</string>
     <string name="passport_license_host_unreachable">Impossible de se connecter au réseau. Vous pouvez consulter cette page à %s.</string>
     <string name="passport_license_info_collapse">Réduire</string>
     <string name="passport_license_info_open">Détails</string>
@@ -508,7 +512,7 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_login">Se connecter</string>
     <string name="passport_login_failed">Impossible de se connecter</string>
     <string name="passport_login_instead_reg">Utilisez ce numéro</string>
-    <string name="passport_login_instead_reg_with_email">Utilisez cet Email</string>
+    <string name="passport_login_instead_reg_with_email">Utilisez cet e-mail</string>
     <string name="passport_login_other_account">Autre compte</string>
     <string name="passport_login_other_phone">Utiliser un autre compte</string>
     <string name="passport_login_other_way">Autres moyens de se connecter</string>
@@ -570,7 +574,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="passport_reg_recycle_account_yes">Oui</string>
     <string name="passport_reg_success">Compte créé</string>
     <string name="passport_reg_success_summary">"%1$s a été associé à votre compte. Vous pouvez l'utiliser pour vous connecter et réinitialiser votre mot de passe."</string>
-    <string name="passport_reg_type_email">Adresse Email</string>
+    <string name="passport_reg_type_email">Adresse e-mail</string>
     <string name="passport_reg_using_other_phone">Utiliser un numéro de téléphone alternatif</string>
     <string name="passport_reg_using_other_phone_number_prompt">"Créer un nouveau compte en utilisant "</string>
     <string name="passport_reg_using_phone_number_prompt">Inscription par le numéro de téléphone</string>
@@ -579,7 +583,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="passport_register">Créer un compte</string>
     <string name="passport_register_account_goto_email">Aller à la boite de réception</string>
     <string name="passport_register_account_verified_confirm">Compte vérifié</string>
-    <string name="passport_register_by_email">"&lt;u>Créer un compte à l'aide d'une adresse Email&lt;/u>"</string>
+    <string name="passport_register_by_email">"&lt;u>Créer un compte à l'aide d'une adresse e-mail&lt;/u>"</string>
     <string name="passport_register_restricted">Trop de comptes ont été associés à ce numéro, essayez avec un autre</string>
     <string name="passport_register_restricted_title">"Impossible d'utiliser ce numéro de téléphone"</string>
     <string name="passport_register_using_other_ways">Autres moyens de créer un compte</string>
@@ -593,7 +597,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="passport_remove_confirm">Déconnexion</string>
     <string name="passport_remove_unactivated_account_notice">"Votre compte n'a pas été activé."</string>
     <string name="passport_Resend">Renvoyer</string>
-    <string name="passport_resend_active_email">"Ré-envoyer l'Email"</string>
+    <string name="passport_resend_active_email">"Ré-envoyer l'e-mail"</string>
     <string name="passport_reset_fail_title">Impossible de réinitialiser</string>
     <string name="passport_reset_password_prompt">Mot de passe incorrect</string>
     <string name="passport_reset_password_title">Réinitialiser le mot de passe</string>
@@ -708,7 +712,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="scan_barcode_title">Scannez le QR code pour vous connecter</string>
     <string name="search_account_security">Sécurité du compte</string>
     <string name="search_account_security_desc">Paramètres du compte</string>
-    <string name="search_account_security_key_words">"Changer de téléphone,Changer d'Email,Protection du compte,Comptes,Sina,Weibo,QQ,Autorisation,Appareils"</string>
+    <string name="search_account_security_key_words">"Changer de téléphone,Changer d'e-mail,Protection du compte,Comptes,Sina,Weibo,QQ,Autorisation,Appareils"</string>
     <string name="search_account_security_path">Paramètres/Compte Mi/Sécurité du compte</string>
     <string name="search_app_name">Compte Mi</string>
     <string name="search_menu_title">Recherche</string>
