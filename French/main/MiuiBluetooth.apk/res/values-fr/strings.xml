@@ -384,7 +384,9 @@ Protocole de connexion plus rapide."</string>
     <string name="hdcp_checking_dialog_title">Définir le comportement de vérification HDCP</string>
     <string name="hdcp_checking_title">Vérification HDCP</string>
     <string name="headset_battery_fw_failed">"Chargez d'abord votre appareil"</string>
+    <string name="headset_battery_low">Batterie faible, veuillez recharger</string>
     <string name="headset_connect_device">"Connecter l'appareil"</string>
+    <string name="headset_connect_timeout">Délai de connexion expiré, veuillez réessayer</string>
     <string name="headset_device_check_failed">Impossible de rechercher les mises à jour</string>
     <string name="headset_device_donot_move">"Gardez l'appareil à proximité"</string>
     <string name="headset_device_enter_upgrade_failed">Impossible de lancer la mise à jour</string>
@@ -414,6 +416,7 @@ Protocole de connexion plus rapide."</string>
     <string name="headset_loss_notify_summary">"Il semble qu'au moins un de vos écouteurs ne soit pas dans l'étui de chargement. Jetez un œil !"</string>
     <string name="headset_loss_notify_summary1">"Il semble que vos écouteurs ne sont pas dans l'étui. Remettez-les pour les laisser charger."</string>
     <string name="headset_loss_notify_title">"Alerte d'écouteur manquant"</string>
+    <string name="headset_not_in_case">Les écouteurs ne sont pas dans leur étui, veuillez réessayer</string>
     <string name="headset_read_fw_state">"Impossible d'obtenir les informations de mise à jour"</string>
     <string name="headset_update_failed">Impossible de mettre à jour</string>
     <string name="headset_update_ok">Terminé</string>
