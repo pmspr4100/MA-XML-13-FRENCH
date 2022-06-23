@@ -308,7 +308,7 @@ Bluetooth"</string>
     <string name="bluetooth_talkback_imaging">Imagerie</string>
     <string name="bluetooth_talkback_input_peripheral">"Périphérique d'entrée"</string>
     <string name="bluetooth_talkback_phone">Téléphone</string>
-    <string name="bottomsheet_action_expand_halfway">Déplier à moitié</string>
+    <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="bt_hci_snoop_log">Activer journaux HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Enregistrer tous les paquets HCI Bluetooth dans un fichier (Activez/désactivez le Bluetooth après avoir modifié ce paramètre.)</string>
     <string name="bugreport_in_power">"Raccourci vers rapport d'erreur"</string>
@@ -1117,6 +1117,11 @@ You can still make emergency calls."</string>
     <string name="ivr_parameter_settings">Réglages des paramètres IVR</string>
     <string name="ivr_type_settings">Paramètres du forfait</string>
     <string name="ivr_type_settings_hint">Veuillez saisir votre forfait de données</string>
+    <string name="jp_sb_label_ndp">"L'USIM de l'autre opérateur est insérée
+en attente de saisie du code de déverrouillage"</string>
+    <string name="jp_sb_sim_lock_unlock_psw_max_length">Le code de déverrouillage saisi est inférieur à 8 chiffres ou supérieur à 16 chiffres</string>
+    <string name="jp_sb_unlock_failed">Échec de la vérification du code de déverrouillage.</string>
+    <string name="jp_sb_unlock_success">Réussite de la vérification du code de déverrouillage.</string>
     <string name="jump_to_mobile_network_setting">Paramètres du réseau mobile</string>
     <string name="kddi_sim_lock_status_allowed">Autorisé</string>
     <string name="kddi_sim_lock_status_code">Code</string>

@@ -1174,6 +1174,7 @@ Take a look at the recommended ones!"</string>
     <string name="status_unread">Non lu</string>
     <string name="stick">Épingler</string>
     <string name="stick_conversation">Épingler la conversation en cours</string>
+    <string name="sticked">Épinglé avec succès</string>
     <string name="sticked_conversation">La conversation est déjà épinglée</string>
     <string name="storage_dialog_attachments">Pièces jointes du MMS :</string>
     <string name="storage_dialog_available_space">Espace disponible :</string>
@@ -1361,8 +1362,9 @@ Dernière tentative : %s."</string>
     <string name="unknown_num">Numéro inconnu</string>
     <string name="unknown_sender">Expéditeur inconnu</string>
     <string name="unstick">Détacher</string>
-    <string name="unstick_conversation">Libérer la conversation en cours</string>
-    <string name="unsticked_conversation">La conversation est déjà désépinglé</string>
+    <string name="unstick_conversation">Détacher la conversation en cours</string>
+    <string name="unsticked">Détaché avec succès</string>
+    <string name="unsticked_conversation">La conversation est déjà détachée</string>
     <string name="unsubscribe">Se désabonner</string>
     <string name="unsupported_media_format">Format %1$s non pris en charge.</string>
     <string name="updating">Mise à jour en cours…</string>

@@ -547,7 +547,7 @@ Assurez-vous que vous utilisez le Compte Mi actuel comme compte système MIUI."<
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
     <string name="year_month_day_format">d MMMM yyyy</string>

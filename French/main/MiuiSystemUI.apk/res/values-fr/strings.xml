@@ -2852,7 +2852,7 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="birthday_status">Birthday</string>
     <string name="birthday_status_content_description">"It's %1$s’s birthday"</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="bottomsheet_action_expand_halfway">Déplier à moitié</string>
+    <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="build_number_clip_data_label">Build number</string>
     <string name="build_number_copy_toast">Build number copied to clipboard.</string>
     <string name="camera_recording_announcement">Camera is recording</string>

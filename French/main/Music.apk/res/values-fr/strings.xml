@@ -124,7 +124,7 @@
     <string name="banner_op">Mi Musique</string>
     <string name="best_experience">Meilleure expérience</string>
     <string name="bluetooth_device">Périphérique audio Bluetooth</string>
-    <string name="bottomsheet_action_expand_halfway">Agrandir à la moitié</string>
+    <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="btn_text_edit">Modifier</string>
     <string name="btn_text_view_all">Tout afficher</string>
     <string name="buffering">Chargement…</string>
@@ -368,6 +368,7 @@
     <string name="enabled">Activé</string>
     <string name="enjoy_hungama_pro">Profitez de Hungama PRO</string>
     <string name="enter_garbage_clean">Nettoyer le stockage interne.</string>
+    <string name="entertainment">Divertissement</string>
     <string name="enter_room_failure">"Le réseau est anormal et il n'a pas réussi à entrer dans la salle. Veuillez réessayer plus tard~"</string>
     <string name="enter_room_loading">Entrée dans la salle...</string>
     <string name="enter_room_mount">Entrez dans la pièce</string>
@@ -683,6 +684,7 @@
     <string name="low_sound_quality">Basse</string>
     <string name="lrc_search_failed">Impossible de trouver les paroles</string>
     <string name="lrc_searching">Recherche…</string>
+    <string name="ludo_tab_guide">Découvrez nos nouvelles salles de musique</string>
     <string name="lyric_is_empty">Aucune parole disponible</string>
     <string name="lyric_label">Paroles</string>
     <string name="lyric_open_other_connect">Télécharger les paroles en utilisant le réseau mobile</string>
@@ -1382,6 +1384,7 @@ Soyez heureux"</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="welcome_to_entertainment">Découvrez la nouvelle fonctionnalité de divertissement pour les jeux musicaux et plus encore</string>
     <string name="whats_app">WhatsApp</string>
     <string name="wifi_required_body" formatted="false">"Connectez-vous au Wi-Fi pour terminer ce téléchargement %s.
 

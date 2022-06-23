@@ -1341,6 +1341,10 @@ Applications :
     <string name="bluetooth_enable_gabeldorsche">Activer Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Active la pile de fonctionnalités Gabeldorsche.</string>
     <string name="bluetooth_enable_opp_high_speed">Transferts Bluetooth à haut débit</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_message">Le redémarrage de Bluetooth est nécessaire pour appliquer les modifications. Les connexions établies peuvent être interrompues par cette action. Redémarrer Bluetooth quand même ?</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Annuler</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Redémarrer</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Redémarrer Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Utiliser les protocoles Bluetooth P2P haut débit pour les transferts</string>
     <string name="bluetooth_enable_page_scan">"Activer l'analyse de page Bluetooth"</string>
     <string name="bluetooth_enable_page_scan_summary">"Désactiver/activer l'analyse de page pour le test Bluetooth"</string>
@@ -2869,6 +2873,10 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dpp_sharing_wifi_summary">Partage du Wi-Fi…</string>
     <string name="dpp_theme_title">Wi-Fi partagé</string>
     <string name="draw_overlay">Superposer aux autres applis</string>
+    <string name="dsda_close_toast">"Le mode actif double est désactivé. Redémarrez l'appareil pour appliquer les modifications."</string>
+    <string name="dsda_open_toast">"Le mode actif double est activé. Redémarrez l'appareil pour appliquer les modifications."</string>
+    <string name="dsda_switch_summary">Autoriser les deux cartes SIM à utiliser les données mobiles et à passer des appels simultanément</string>
+    <string name="dsda_switch_title">Mode actif double</string>
     <string name="dsds_dialog_cancel">Annuler</string>
     <string name="dsds_dialog_confirm">Redémarrer</string>
     <string name="dsds_dialog_message">Vous devez redémarrer votre appareil pour modifier ce paramètre.</string>
@@ -7825,6 +7833,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_latest_area_info">"Informations sur l'opérateur"</string>
     <string name="status_number">Numéro de téléphone</string>
     <string name="status_number_sim_slot">Numéro de téléphone (slot SIM %1$d)</string>
+    <string name="status_number_sim_softbank">Numéro de téléphone %1$d</string>
     <string name="status_number_sim_status">Numéro de téléphone sur SIM</string>
     <string name="status_operator">Réseau</string>
     <string name="status_prl_version">"Version de la liste d'itinérance préférée"</string>
@@ -8173,6 +8182,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
+    <string name="sunlight_low_power_notification">">Impossible d'activer le mode Soleil. La batterie est trop faible."</string>
     <string name="sunlight_mode">Mode lumière du soleil</string>
     <string name="sunlight_mode_summary">"Ajustez la luminosité à une forte lumière ambiante pour éviter que l'écran ne devienne trop sombre"</string>
     <string name="supl_not_set">Non définie</string>

@@ -43,7 +43,7 @@ dd/MM"</string>
     <string name="apply">Appliquer</string>
     <string name="apply_succeed">Appliqué avec succès</string>
     <string name="background_icon">Background</string>
-    <string name="bottomsheet_action_expand_halfway">Déplier à moitié</string>
+    <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="chip_text">Chip text</string>

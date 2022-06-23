@@ -283,6 +283,7 @@
     <string name="dialog_work_profile_content_2">Les applications de travail &amp; les données sont visibles de votre administrateur technique</string>
     <string name="dialog_work_profile_title">Profil de travail</string>
     <string name="disable_wallpaper_scroll">Désactiver le défilement</string>
+
     <string name="double_tap_to_lock_title">"Appuyez deux fois pour verrouiller l'écran"</string>
     <string name="download_action">Télécharger</string>
     <string name="drag_icon_to_homescreen_guide">"Appuyez et maintenez une icône d'application, puis faites-la glisser pour ajouter un raccourci sur l'écran d'accueil"</string>

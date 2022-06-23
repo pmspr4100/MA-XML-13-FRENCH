@@ -50,8 +50,8 @@
     <string name="add_organization">Ajouter une entreprise</string>
     <string name="add_to_my_contacts">Ajouter à mes contacts</string>
     <string name="add_wait">Ajouter une pause</string>
-    <string name="add_xiaomi_account_dialog_btn">Utiliser le Compte Mi</string>
-    <string name="add_xiaomi_account_dialog_msg">"Sauvegardez vos contacts vers votre Compte Mi afin d'y accéder depuis n'importe où !"</string>
+    <string name="add_xiaomi_account_dialog_btn">Utiliser le Compte Xiaomi</string>
+    <string name="add_xiaomi_account_dialog_msg">"Sauvegardez vos contacts vers votre Compte Xiaomi afin d'y accéder depuis n'importe où !"</string>
     <string name="add_xiaomi_account_dialog_title">Choisissez le compte</string>
     <string name="afternoon">Après-midi</string>
     <string name="aggregation_suggestion_edit_dialog_message">Passer en mode édition du contact ? Les informations saisies seront copiées.</string>
@@ -779,7 +779,7 @@ Raison : \"%s\""</string>
     <string name="import_to_xiaomi_account_confirm">Importer</string>
     <string name="import_to_xiaomi_account_progress_finish">Contacts importés</string>
     <string name="import_to_xiaomi_account_progress_message">Importation…</string>
-    <string name="import_to_xiaomi_account_title">Importer vers le Compte Mi</string>
+    <string name="import_to_xiaomi_account_title">Importer vers le Compte Xiaomi</string>
     <string name="import_vcard_dialog_message">Importer vCard ?</string>
     <string name="importing_sim_contacts_miui">Contacts importés de la carte SIM…</string>
     <string name="importing_sim_contacts_miui_prepare">Préparation des contacts…</string>
@@ -788,6 +788,11 @@ Raison : \"%s\""</string>
     <string name="importing_vcard_finished_title">Importation des données du fichier vCard %s terminée</string>
     <string name="insertContactDescription">Créer un contact</string>
     <string name="invalidContactMessage">"Le contact n'existe pas"</string>
+    <string name="invisible_mode_dialog_cancel">Annuler</string>
+    <string name="invisible_mode_dialog_to_close">Désactiver</string>
+    <string name="invisible_mode_title">Vous êtes en navigation privée</string>
+    <string name="invisible_mode_unable_connect_camera">Désactivez le mode navigation privée pour pouvoir utiliser la caméra. Désactiver maintenant ?</string>
+    <string name="invisible_mode_unable_get_location">"Désactivez le mode navigation privée pour pouvoir utiliser les services de localisation et importer des contacts depuis d'autres appareils via Bluetooth. Désactiver maintenant ?"</string>
     <string name="item_offical">Officiel</string>
     <string name="keep_local">Synchro désactivée</string>
     <string name="keep_local_btn">Utiliser le stockage interne du périphérique</string>
@@ -1184,9 +1189,9 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="pref_key_sim_manage">Cartes SIM</string>
     <string name="pref_key_sim_manage1">Configurer la carte SIM 1</string>
     <string name="pref_key_sim_manage2">Configurer la carte SIM 2</string>
-    <string name="pref_summary_import_from_account">Transférer les contacts des comptes Google et Exchange vers mon Compte Mi</string>
+    <string name="pref_summary_import_from_account">Transférer les contacts des comptes Google et Exchange vers mon Compte Xiaomi</string>
     <string name="pref_title_account_import">Importer des contacts</string>
-    <string name="pref_title_import_from_account">Importer vers le Compte Mi</string>
+    <string name="pref_title_import_from_account">Importer vers le Compte Xiaomi</string>
     <string name="preference_auto_ip_summary_disable">Désactivé</string>
     <string name="preference_auto_ip_summary_on">Préfixe du fournisseur : %s</string>
     <string name="preference_auto_ip_title">Préfixe Automatique</string>

@@ -835,6 +835,9 @@
     <string name="xiaoai_dialog">"Essayez de dire ce que vous
 voulez numériser vers Mi IA"</string>
     <string name="xiaoai_text">"Petit bouton d'amour"</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
     <string name="Xiaomi_account_pending_approval">"Examen de l'application"</string>
     <string name="yesterday">Hier</string>
     <string name="you_have_permission_to_download">Appuyez pour télécharger la version bêta</string>

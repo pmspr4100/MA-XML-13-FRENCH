@@ -43,7 +43,7 @@
     <string name="app_record">"Enregistrements de l'application"</string>
     <string name="app_record_preference_title">"Enregistrements de l'application"</string>
     <string name="back">Retour</string>
-    <string name="bottomsheet_action_expand_halfway">Agrandir à mi-chemin</string>
+    <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="button_queue_for_wifi">Attendre</string>
     <string name="button_start_now">Télécharger</string>
     <string name="call_record">Appels enregistrés</string>

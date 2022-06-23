@@ -220,6 +220,7 @@ Entrez le numéro de téléphone associé à votre nouvelle carte SIM pour réac
     <string name="search_menu_title">Recherche</string>
     <string name="send">Envoyer</string>
     <string name="sim_activate_failed">"Impossible d'activer le service"</string>
+    <string name="sim_activate_notificat_channel">"Notifications d'activation"</string>
     <string name="sim_activate_prepare">Activer le service</string>
     <string name="sim_activated_failed_msg">"Impossible d'activer le service. Appuyez pour réessayer."</string>
     <string name="sim_unactivated_feature_title">"\"%s\" n'était pas activé"</string>

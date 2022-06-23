@@ -478,6 +478,10 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">Saisir au moins %d caractères</item>
         <item quantity="one">Saisir au moins %d caractère</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+    </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">"%d jours restants avant que la session d'augmentation de la vitesse du réseau ne se termine. Renouveler la session pour éviter des problèmes de vitesse de réseau."</item>
         <item quantity="one">"%d jour restant avant que la session d'augmentation de la vitesse du réseau ne se termine. Renouveler la session pour éviter des problèmes de vitesse de réseau."</item>

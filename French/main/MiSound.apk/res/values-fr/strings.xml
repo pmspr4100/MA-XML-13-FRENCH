@@ -23,7 +23,7 @@
     <string name="am">AM</string>
     <string name="app_name">Écouteurs</string>
     <string name="apply_sound">Appliquer</string>
-    <string name="bottomsheet_action_expand_halfway">Agrandir à moitié</string>
+    <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="can_you_here">Pouvez-vous entendre le son ?</string>
     <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>

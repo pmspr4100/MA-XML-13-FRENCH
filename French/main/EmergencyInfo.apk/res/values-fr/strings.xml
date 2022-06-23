@@ -221,7 +221,7 @@ Sélection"</string>
     <string name="bluetooth_talkback_input_peripheral">"Périphérique d'entrée"</string>
     <string name="bluetooth_talkback_phone">Téléphone</string>
     <string name="bminus">B-</string>
-    <string name="bottomsheet_action_expand_halfway">Agrandir à mi-chemin</string>
+    <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="bplus">B+</string>
     <string name="bt_hci_snoop_log">Activer Bluetooth HCI snoop log</string>
     <string name="bt_hci_snoop_log_summary">Capturer les paquets Bluetooth. (Basculez Bluetooth après avoir modifié ce paramètre)</string>
