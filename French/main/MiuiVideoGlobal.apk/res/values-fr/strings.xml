@@ -652,7 +652,7 @@ pour les vidéos"</string>
     <string name="live_title">TV en direct</string>
     <string name="live_tv_title">TV en direct</string>
     <string name="loading">Chargement…</string>
-    <string name="local_diversion_all_local_videos">Toutes les vidéos sur l'appareil</string>
+    <string name="local_diversion_all_local_videos">"Toutes les vidéos sur l'appareil"</string>
     <string name="local_diversion_close_recommend">Fermer</string>
     <string name="local_diversion_download_more_video">Plus de vidéos</string>
     <string name="local_diversion_manage_local_video">Gérer les fichiers</string>
