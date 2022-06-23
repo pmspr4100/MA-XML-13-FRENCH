@@ -568,7 +568,6 @@ et ajustez les préférences automatiquement"</string>
     <string name="custom_tint_color_select">Personnalisez les couleurs</string>
     <string name="custom_tint_color_sky_blue">Blue</string>
     <string name="custom_tint_color_sky_cyan">Cyan</string>
-    <string name="custom_watermark_contains_senstive_words">"Les filigranes ne peuvent pas contenir de termes restreints (%1$s)"</string>
     <string name="custom_watermark_tips">"Ce texte apparaîtra comme la deuxième ligne de votre filigrane. Il peut contenir jusqu'à 18 lettres ou 14 caractères chinois."</string>
     <string name="custom_watermark_tips_gen2">"Jusqu'à %1$d caractères chinois ou %2$d lettres."</string>
     <string name="custom_watermark_too_many_words">Le texte que vous avez entré est trop long</string>
