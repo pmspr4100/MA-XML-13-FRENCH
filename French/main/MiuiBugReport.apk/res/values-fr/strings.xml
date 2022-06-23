@@ -85,8 +85,6 @@
     <string name="catch_full_log_dialog_content_pad">"Cela peut affecter les performances globales de votre appareil. Si vous ne pouvez pas reproduire le problème que vous souhaitez signaler, revenez aux journaux et appuyez sur \"Annuler\"."</string>
     <string name="catch_full_log_dialog_title">Génération des journaux…</string>
     <string name="catch_full_log_dump_hprof_failed">Impossible de générer un journal décalé</string>
-    <string name="catch_full_log_item_content_catch_direct">"1. Retournez à la fonctionnalité que vous souhaitez signaler et reproduisez-la.
-2. Revenez à cette page et appuyez sur \"Terminer et mettre en ligne\"."</string>
     <string name="catch_full_log_item_content_catching">Génération des journaux…</string>
     <string name="catch_full_log_item_content_need_open">"1. Appuyez sur \"Démarrer\" pour commencer à générer les journaux.
 2. Retournez à la fonctionnalité que vous souhaitez signaler et reproduisez-la.
@@ -825,7 +823,7 @@ Lisez et acceptez la nouvelle version de %3$s avant de continuer."</string>
     <string name="toast_report_copied_to_clipboard">Rapport copié dans le presse-papiers</string>
     <string name="toast_report_sent_failed">Envoi du rapport impossible</string>
     <string name="toast_report_sent_succeed">Le rapport a été envoyé</string>
-    <string name="toast_screenshot_too_large">"Impossible d'envoyer des images ou des vidéos plus grandes que 100 Mo."</string>
+    <string name="toast_screenshot_too_large">"Impossible d'envoyer des images ou des vidéos plus grandes que %d Mio."</string>
     <string name="toast_third_packagename_required">"Entrez le nom de l'application"</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>

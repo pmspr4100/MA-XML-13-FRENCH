@@ -4348,6 +4348,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="location_category_location_services">Services de localisation</string>
     <string name="location_category_recent_location_access">Accès à la localisation récent</string>
     <string name="location_category_recent_location_requests">Demandes de localisation récentes</string>
+    <string name="location_description_no_gps">"Cet appareil ne prend pas en charge la navigation par satellite. Les informations de localisation générées sur la base des données du réseau peuvent être insuffisantes pour certaines fonctionnalités."</string>
     <string name="location_gps">Satellites GPS</string>
     <string name="location_high_battery_use">Forte utilisation de la batterie</string>
     <string name="location_low_battery_use">Faible utilisation de batterie</string>
@@ -8182,7 +8183,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
-    <string name="sunlight_low_power_notification">">Impossible d'activer le mode Soleil. La batterie est trop faible."</string>
+    <string name="sunlight_low_power_notification">"Impossible d'activer le mode Soleil. La batterie est trop faible."</string>
     <string name="sunlight_mode">Mode lumière du soleil</string>
     <string name="sunlight_mode_summary">"Ajustez la luminosité à une forte lumière ambiante pour éviter que l'écran ne devienne trop sombre"</string>
     <string name="supl_not_set">Non définie</string>

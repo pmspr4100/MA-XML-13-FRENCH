@@ -1999,6 +1999,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="quick_settings_inversion_label">Inverser les couleurs</string>
     <string name="quick_settings_location_label">Localisation</string>
     <string name="quick_settings_location_off_label">Localisation désactivée</string>
+    <string name="quick_settings_low_battery_toast_text">"Impossible d'utiliser la lampe de poche. La batterie est trop faible."</string>
     <string name="quick_settings_media_device_label">Périphérique média</string>
     <string name="quick_settings_midrop_label">Mi Drop</string>
     <string name="quick_settings_more_settings">Plus de paramètres</string>
