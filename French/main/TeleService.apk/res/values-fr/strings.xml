@@ -696,6 +696,7 @@ Bluetooth"</string>
     <string name="data_enable_summary">Autoriser la liste blanche à utiliser les données mobiles</string>
     <string name="data_enable_warning">Si vous utilisez en permanence les données mobiles, des frais supplémentaires hors forfait. Se connecter quand même ?</string>
     <string name="data_enabled">Données mobiles</string>
+    <string name="data_interruption_remind">"Il semble que votre environnement réseau ne soit pas fiable. Pour améliorer la connexion, autorisez votre appareil à utiliser les données mobiles pendant les appels VoLTE sur la carte SIM secondaire."</string>
     <string name="data_plan">Forfaits des données mobiles</string>
     <string name="data_usage_disable_mobile">Désactiver les données mobiles ?</string>
     <string name="data_usage_ota">System updates</string>
