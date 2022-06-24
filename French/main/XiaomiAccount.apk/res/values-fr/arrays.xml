@@ -66,7 +66,7 @@
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>"Accord d'utilisation"</item>
-        <item>"Voir l'Accord d'utilisation du Compte Mi"</item>
+        <item>"Voir l'Accord d'utilisation du Compte Xiaomi"</item>
         <item>Mi Account;Account;Xiaomi Account;User Agreement;EULA</item>
     </string-array>
 </resources>

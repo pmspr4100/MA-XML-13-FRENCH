@@ -38,7 +38,7 @@
     <string name="account_bind_secure_email_title">Ajouter un e-mail de secours</string>
     <string name="account_bind_secure_phone_title">Ajouter un numéro de téléphone de secours</string>
     <string name="account_crop_user_avatar">Recadrer la photo</string>
-    <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
+    <string name="account_empty_user_name">Entrez votre identifiant de Compte Xiaomi</string>
     <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
     <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, &gt;, ou /"</string>
     <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
@@ -60,7 +60,7 @@
     <string name="account_user_details">Informations personnelles</string>
     <string name="account_user_email">E-mail de secours</string>
     <string name="account_user_gender">Sexe</string>
-    <string name="account_user_id">ID du Compte Mi</string>
+    <string name="account_user_id">ID du Compte Xiaomi</string>
     <string name="account_user_name">Surnom</string>
     <string name="account_user_name_dialog_title">"Saisir le nom d'utilisateur"</string>
     <string name="account_user_other_info">Détails</string>
@@ -114,7 +114,7 @@
     <string name="auth_fail_warning">Session expirée. Reconnectez-vous.</string>
     <string name="auto_interval">"Chaque fois que l'appareil se déverrouille"</string>
     <string name="back_icon_content_description">Retour</string>
-    <string name="bind_sign_in_title">Ajouter un Compte Mi</string>
+    <string name="bind_sign_in_title">Ajouter un Compte Xiaomi</string>
     <string name="cancel">Annuler</string>
     <string name="cancel_button">Oui</string>
     <string name="cancel_international">Annuler</string>
@@ -159,7 +159,7 @@
     <string name="confirm_activate_email">Vérifié</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmer le numéro de téléphone associé</string>
     <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
-    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Mi %2$s le %1$s. Il ne sera plus associé au Compte Mi %3$s si vous continuez. Continuer ?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Xiaomi %2$s le %1$s. Il ne sera plus associé au Compte Xiaomi %3$s si vous continuez. Continuer ?</string>
     <string name="copy">Copier</string>
     <string name="create_shortcut">"Créer un raccourci vers l'écran d'accueil"</string>
     <string name="create_shortcut_btn">Créer</string>
@@ -262,17 +262,17 @@ Envoyez ce code au superviseur."</string>
     <string name="enable_toast_subscribe">"Activer Diaporama de fonds d'écran et les abonnements activés."</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
-    <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée à un autre Compte Mi.</string>
+    <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée à un autre Compte Xiaomi.</string>
     <string name="error_icon_content_description">Erreur</string>
     <string name="error_invalid_bind_address">"L'adresse e-mail que vous avez entrée est invalide."</string>
     <string name="evening">Après-midi</string>
-    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre Compte Mi.</string>
+    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi.</string>
     <string name="expand_button_title">Avancé</string>
     <string name="explorer_activity_title">"Diaporama de fonds d'écran"</string>
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="external_storage_permission">Accéder au stockage</string>
     <string name="external_storage_permission_summary">"Pour sélectionner des fonds d'écran personnalisés et enregistrer les éléments téléchargés"</string>
-    <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre Compte Mi</string>
+    <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi</string>
     <string name="favor_list_no_data">Aucun article ici.</string>
     <string name="favor_list_title">Favoris</string>
     <string name="favor_success">Ajouté aux favoris avec succès</string>
@@ -314,7 +314,7 @@ Envoyez ce code au superviseur."</string>
     <string name="input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
     <string name="input_length_exceeds_limit">Le texte saisi est trop long</string>
     <string name="input_new_pwd">Entrez un nouveau mot de passe</string>
-    <string name="isornot_your_mi_account">Est-ce votre Compte Mi ?</string>
+    <string name="isornot_your_mi_account">Est-ce votre Compte Xiaomi ?</string>
     <string name="just_a_second">Un instant…</string>
     <string name="later">Ne pas désactiver</string>
     <string name="launch_bg_permission_exception">"Autoriser le diaporama de fonds d'écran à afficher des fenêtres contextuelles lors de l'exécution en arrière-plan dans Sécurité"</string>
@@ -406,7 +406,7 @@ Cela peut générer des frais supplémentaires."</string>
     <string name="login_other">Another Mi Account</string>
     <string name="login_register_by_local_phone_long_text">Create account</string>
     <string name="login_with_sns">Other ways to sign in</string>
-    <string name="login_xiaomi_account_summary">"J'ai lu et accepté le &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Contrat d'utilisation&lt;/font>&lt;/a> du Compte Mi et la &lt;font color ='# 0D84FF'>&lt;a href='%2$s'>Politique de confidentialité&lt;/font>&lt;/a>."</string>
+    <string name="login_xiaomi_account_summary">"J'ai lu et accepté le &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Contrat d'utilisation&lt;/font>&lt;/a> du Compte Xiaomi et la &lt;font color ='# 0D84FF'>&lt;a href='%2$s'>Politique de confidentialité&lt;/font>&lt;/a>."</string>
     <string name="logout">Se déconnecter</string>
     <string name="logout_account">Se déconnecter</string>
     <string name="logout_cancel">Annuler</string>
@@ -814,7 +814,7 @@ Cela peut générer des frais supplémentaires."</string>
     <string name="show_wallpaper_loop_entry_title">Paramètres du diaporama</string>
     <string name="sign_in">Connexion</string>
     <string name="sign_in_progress">Connexion…</string>
-    <string name="sign_in_title">Se connecter avec votre Compte Mi</string>
+    <string name="sign_in_title">Se connecter avec votre Compte Xiaomi</string>
     <string name="skip_query_account">Skip</string>
     <string name="sliding_on_unlock">Swipe up to unlock</string>
     <string name="sms_send_success">Envoyé avec succès</string>
@@ -1049,7 +1049,7 @@ Cela peut générer des frais supplémentaires."</string>
     <string name="user_agreement_protocal_dialog_hint_default"><Data>"Read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>
-    <string name="user_id_hint">E-mail/Téléphone/ID du Compte Mi</string>
+    <string name="user_id_hint">E-mail/Téléphone/ID du Compte Xiaomi</string>
     <string name="user_name_phone_number">Phone number</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>

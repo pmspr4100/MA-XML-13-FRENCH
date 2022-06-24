@@ -689,7 +689,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="usage_focus_title_level3">"S'élever au dessus du banal"</string>
   <string name="usage_focus_title_level4">Trouver la joie dans la cohérence</string>
   <string name="usage_focus_title_level5">Restez concentré</string>
-  <string name="usage_home_permission_account_summary">"Pour vous connecter au Compte Mi et synchroniser les statistiques de temps d'utilisation"</string>
+  <string name="usage_home_permission_account_summary">"Pour vous connecter au Compte Xiaomi et synchroniser les statistiques de temps d'utilisation"</string>
   <string name="usage_home_permission_account_title">Accéder aux informations du compte</string>
   <string name="usage_home_permission_phone_summary">"Pour identifier votre appareil à l'aide de VAID"</string>
   <string name="usage_home_permission_phone_title">"Accéder aux informations sur l'appareil"</string>

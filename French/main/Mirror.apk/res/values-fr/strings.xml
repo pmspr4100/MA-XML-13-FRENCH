@@ -202,7 +202,7 @@ Fermez cette page et réessayez."</string>
     <string name="pad_settings_handoff_video_title">Vidéos</string>
     <string name="pad_settings_handoff_wps_summary">"Affichez, modifiez et enregistrez des documents tout en passant d'un appareil à l'autre"</string>
     <string name="pad_settings_handoff_wps_title">Documents</string>
-    <string name="pad_settings_pad_handoff_summary">"Utilisez le transfert avec des applications, un presse-papiers, des vidéos et d'autres éléments sur l'autre appareil associé à votre Compte Mi"</string>
+    <string name="pad_settings_pad_handoff_summary">"Utilisez le transfert avec des applications, un presse-papiers, des vidéos et d'autres éléments sur l'autre appareil associé à votre Compte Xiaomi"</string>
     <string name="pad_settings_pc_history_title">Historique des connexions</string>
     <string name="pad_settings_pc_trusted_title">Connecter automatiquement</string>
     <string name="pad_settings_pc_use_tile">À propos de cette fonctionnalité</string>

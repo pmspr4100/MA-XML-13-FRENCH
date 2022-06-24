@@ -86,7 +86,7 @@
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="fastboot_locked_answer_1">"Fastboot est la méthode traditionnelle pour flasher les appareils Mi. Lorsque l'appareil est mode Fastboot, toutes les données qui sont y stockées peuvent être atteintes et supprimées directement. Nous verrouillons Fastboot pour s'assurer que vos données soient sécurisées en cas de perte de l'appareil, aussi bien que garantir la fiabilité des fonctionnalités de Localiser l'appareil."</string>
     <string name="fastboot_locked_answer_2">"Au cas où vous perdez votre appareil, Fastboot garantit la sécurité des éléments qui y sont stockés. Si vous déverrouillez Fastboot, vous ne serez plus en mesure de verrouiller votre appareil à distance ou effacer les données via Localiser l'appareil. C'est pour cela que nous ne recommandons pas de déverrouiller Fastboot."</string>
-    <string name="fastboot_locked_answer_3">"Vous devriez utiliser l'outil de déverrouillage du site Web de MIUI. Pour déverrouiller un appareil, nous devons nous assurer que l'appareil vous appartient. Raison pour laquelle vous devez vous connecter à votre Compte Mi et activer Localiser l'appareil."</string>
+    <string name="fastboot_locked_answer_3">"Vous devriez utiliser l'outil de déverrouillage du site Web de MIUI. Pour déverrouiller un appareil, nous devons nous assurer que l'appareil vous appartient. Raison pour laquelle vous devez vous connecter à votre Compte Xiaomi et activer Localiser l'appareil."</string>
     <string name="fastboot_locked_question_1">Pourquoi Fastboot doit être verrouillé ?</string>
     <string name="fastboot_locked_question_2">Y a t-il des risques liés au déverrouillage de Fastboot ?</string>
     <string name="fastboot_locked_question_3">"Je suis conscient des risques, mais j'ai toujours besoin de déverrouiller mon appareil. Que dois-je faire ?"</string>
@@ -189,7 +189,7 @@
     <string name="gb_webwindow_schemedialog_title">Ouvrir Jeux maintenant ?</string>
     <string name="gb_weixinpay_can_not_complete">Impossible de terminer le paiement. Installer pour continuer.</string>
     <string name="gdpr_msg"><Data>"Pour utiliser les fonctionnalités de base de Sécurité, vous devez accepter que Xiaomi collecte, traite, et utilise vos données personnelles, y compris sur la façon dont vous utilisez les fonctionnalités de Sécurité (par ex. les statistiques d'utilisation des données mobiles, les informations à propos de malwares, ainsi que des informations de base à propos de votre appareil) et d'autres types d'informations indiquées dans notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a>."</Data></string>
-    <string name="gtb_dialog_privacy_speed_message">"Vous êtes sur le point d'utiliser Xunyou Game Booster. Ce service collectera votre identifiant de Compte Mi pour enregistrer la durée de votre abonnement."</string>
+    <string name="gtb_dialog_privacy_speed_message">"Vous êtes sur le point d'utiliser Xunyou Game Booster. Ce service collectera votre identifiant de Compte Xiaomi pour enregistrer la durée de votre abonnement."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"J'ai lu et j'accepte la &lt;a href=\"%1$s\">Politique de confidentialité de Xunyou Game Booster.&lt;/a>"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
     <string name="icon_content_description">Icône de dialogue</string>

@@ -23,7 +23,7 @@
     <string name="account_bind_secure_email_title">Ajouter un e-mail de secours</string>
     <string name="account_bind_secure_phone_title">Ajouter un numéro de téléphone de secours</string>
     <string name="account_crop_user_avatar">Recadrer la photo</string>
-    <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
+    <string name="account_empty_user_name">Entrez votre identifiant de Compte Xiaomi</string>
     <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
     <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, &gt;, ou /"</string>
     <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
@@ -45,7 +45,7 @@
     <string name="account_user_details">Informations personnelles</string>
     <string name="account_user_email">E-mail de secours</string>
     <string name="account_user_gender">Sexe</string>
-    <string name="account_user_id">ID du Compte Mi</string>
+    <string name="account_user_id">ID du Compte Xiaomi</string>
     <string name="account_user_name">Surnom</string>
     <string name="account_user_name_dialog_title">Entrez le surnom</string>
     <string name="account_user_other_info">Détails</string>
@@ -146,7 +146,7 @@
     <string name="backup_song_title">Sélectionnez les chasons à enregistrer</string>
     <string name="being_disable_auto_payment">Arrêt…</string>
     <string name="being_enable_auto_payment">Démarrage…</string>
-    <string name="bind_sign_in_title">Ajouter un Compte Mi</string>
+    <string name="bind_sign_in_title">Ajouter un Compte Xiaomi</string>
     <string name="bluetooth_device">Appareil audio Bluetooth</string>
     <string name="broadcast_list">Channels</string>
     <string name="buffering">Mise en mémoire tampon…</string>
@@ -209,7 +209,7 @@
     <string name="confirm_bundled_phone_dialog_title">Confirmer le numéro de téléphone associé</string>
     <string name="confirm_delete_comment">Supprimer ce commentaire ?</string>
     <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
-    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Mi %2$s le %1$s. Il ne sera plus associé au Compte Mi %3$s si vous continuez. Continuer ?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Xiaomi %2$s le %1$s. Il ne sera plus associé au Compte Xiaomi %3$s si vous continuez. Continuer ?</string>
     <string name="connecting_apk">Connexion…</string>
     <string name="content">Contenu</string>
     <string name="context_menu_item_delete">Supprimer</string>
@@ -399,7 +399,7 @@ Envoyez ce code au superviseur."</string>
     <string name="error_dup_binded_email">This email address is already associated with another Mi Account.</string>
     <string name="error_invalid_bind_address">"L'adresse e-mail que vous avez saisie n'est pas valide."</string>
     <string name="evening">Après-midi</string>
-    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre Compte Mi.</string>
+    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi.</string>
     <string name="exit_fm">Sortir</string>
     <string name="expired">Expired</string>
     <string name="fail_to_play">"Can't play song"</string>
@@ -543,7 +543,7 @@ Envoyez ce code au superviseur."</string>
     <string name="insufficient_space">"Pas assez d'espace sur la mémoire interne de votre appareil"</string>
     <string name="introduction">Introduction</string>
     <string name="is_scanning">Vérification du stockage…</string>
-    <string name="isornot_your_mi_account">Est-ce votre Compte Mi ?</string>
+    <string name="isornot_your_mi_account">Est-ce votre Compte Xiaomi ?</string>
     <string name="just_a_second">Un instant…</string>
     <string name="karaoke_message">Download and install Karaoke plug-in to use this feature.</string>
     <string name="karaoke_negative_text">Later</string>
@@ -860,7 +860,7 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_login_failed">"Couldn't sign in"</string>
     <string name="passport_next">Next</string>
     <string name="passport_next_step">NEXT</string>
-    <string name="passport_oauth_actionbar_title">Compte Mi</string>
+    <string name="passport_oauth_actionbar_title">Compte Xiaomi</string>
     <string name="passport_oauth_sucess_tip">Authorized success</string>
     <string name="passport_password_req_notice">Password must be 8-16 characters long and combine at least two of the following: digits, letters, and special symbols (e.g. 123abc@#, or 123abc, or abc@#).</string>
     <string name="passport_privacy_policy">Politique de confidentialité</string>
@@ -1117,7 +1117,7 @@ Envoyez ce code au superviseur."</string>
     <string name="shut_down_sleep_mode">Shut down</string>
     <string name="sign_in">Connexion</string>
     <string name="sign_in_progress">Connexion…</string>
-    <string name="sign_in_title">Se connecter avec votre Compte Mi</string>
+    <string name="sign_in_title">Se connecter avec votre Compte Xiaomi</string>
     <string name="skip_query_account">Ignorer</string>
     <string name="sleep_close">Fermer</string>
     <string name="sleep_custom">Personnalisé</string>
@@ -1335,7 +1335,7 @@ Envoyez ce code au superviseur."</string>
     </string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>
-    <string name="user_id_hint">E-mail/Téléphone/ID du Compte Mi</string>
+    <string name="user_id_hint">E-mail/Téléphone/ID du Compte Xiaomi</string>
     <string name="user_name_phone_number">Phone number</string>
     <string name="usercenter_store_button_text">Redeem</string>
     <string name="usercenter_task_check_in">Check in task</string>

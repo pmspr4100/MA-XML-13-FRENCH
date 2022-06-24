@@ -89,7 +89,7 @@
     <string name="disagreement_function">"Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos renseignements personnels, vous ne pourrez pas utiliser cette fonction. Vous pouvez choisir de ne pas utiliser cette fonction dans de tels cas."</string>
     <string name="disagreement_location_service">"Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos renseignements personnels, vous ne pourrez pas utiliser ce service."</string>
     <string name="disagreement_location_service_abnormal">"Si vous n'acceptez pas d'accorder ces autorisations, vous ne pourrez pas utiliser les services de localisation. Vous pouvez activer ou désactiver les services de localisation à tout moment dans Paramètres > Protection de la vie privée."</string>
-    <string name="disagreement_mi_account_abnormal">"Si vous n'acceptez pas d'accorder ces autorisations, vous ne pourrez pas utiliser les services du Compte Mi. Vous pouvez activer ou désactiver les services du Compte Mi à tout moment dans Paramètres > Compte Mi."</string>
+    <string name="disagreement_mi_account_abnormal">"Si vous n'acceptez pas d'accorder ces autorisations, vous ne pourrez pas utiliser les services du Compte Xiaomi. Vous pouvez activer ou désactiver les services du Compte Xiaomi à tout moment dans Paramètres > Compte Xiaomi."</string>
     <string name="disagreement_service_not_working_properly">"Si vous n'acceptez pas d'accorder ces autorisations, vous ne pourrez pas utiliser cette application."</string>
     <string name="disagreement_terminate_bluetooth">"Si vous ne souhaitez pas accorder ces autorisations, vous ne pourrez pas utiliser Bluetooth. Vous pouvez activer et désactiver Bluetooth et ajouter des appareils Bluetooth dans les Paramètres."</string>
     <string name="disagreement_terminate_miuidaemon">"Nous utiliserons les autorisations uniquement lorsque vous commencerez à transférer des données depuis votre appareil lorsque son écran est endommagé. Si vous n'acceptez pas d'accorder ces autorisations, vous ne pourrez pas utiliser cette application."</string>
@@ -147,9 +147,9 @@
     <string name="location_introduction">Les services de localisation fournissent une variété de services basés sur la localisation en fonction de vos informations de localisation.</string>
     <string name="lockscreen_introduction">"Le Carrousel de fonds d'écran vous permet de toujours recevoir de nouvelles images sur votre écran de verrouillage."</string>
     <string name="member_exclusive_medal">Badge de membre</string>
-    <string name="membership_rights_tip">Connectez-vous à votre Compte Mi pour obtenir des avantages exclusifs</string>
+    <string name="membership_rights_tip">Connectez-vous à votre Compte Xiaomi pour obtenir des avantages exclusifs</string>
     <string name="message_introduction">Vous pouvez utiliser cette application pour envoyer et recevoir des SMS.</string>
-    <string name="mi_account_introduction">Le Compte Mi vous permet de vous inscrire, de vous connecter et de gérer les comptes système.</string>
+    <string name="mi_account_introduction">Le Compte Xiaomi vous permet de vous inscrire, de vous connecter et de gérer les comptes système.</string>
     <string name="midnight">Nuit</string>
     <string name="mint_keyboard_oobe_checkbox">"J'ai lu et accepté la Politique de confidentialité de Mint Keyboard"</string>
     <string name="mint_keyboard_oobe_terms">Politique de confidentialité du clavier Mint</string>
@@ -278,7 +278,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="permission_access_calendar">Accéder au calendrier</string>
     <string name="permission_access_calendar_fast_application_summary">"Pour permettre aux applications rapides d'accéder au calendrier ;"</string>
     <string name="permission_account">Accéder aux comptes sur votre appareil</string>
-    <string name="permission_account_introduction">Pour se connecter avec le Compte Mi</string>
+    <string name="permission_account_introduction">Pour se connecter avec le Compte Xiaomi</string>
     <string name="permission_application_package_introduction">"Pour accéder au stockage afin d'analyser et de scanner les paquets d'installation"</string>
     <string name="permission_call_records">"Accéder à l'historique des appels"</string>
     <string name="permission_call_records_describe_bluetooth_summary">"Pour permettre à vos autres appareils compatibles que vous connectez à cet appareil d'accéder à l'historique des appels. Cela ne se produira que lorsque vous aurez besoin de manière proactive d'utiliser l'historique des appels via un autre appareil. L'historique des appels et les contacts partagés par le système via Bluetooth ne seront mis en cache que localement sur vos appareils et partagés avec eux avec votre autorisation."</string>
@@ -412,7 +412,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="service_fast_pairing_policy"><Data>Lisez et acceptez la &lt;a href=%1$s>Politique de confidentialité de Mi Link&lt;/a > avant de continuer.</Data></string>
     <string name="service_interconnection_communication">Xiaomi Internet Communication Services</string>
     <string name="service_location_share_policy"><Data>Lisez et acceptez la &lt;a href=%1$s>Déclaration de confidentialité des services de localisation&lt;/a > avant de continuer.</Data></string>
-    <string name="service_mi_account">Compte Mi</string>
+    <string name="service_mi_account">Compte Xiaomi</string>
     <string name="service_name_MIUIDaemon">Démon MIUI</string>
     <string name="service_name_address_dialing">Contacts et Téléphone</string>
     <string name="service_name_album">Galerie</string>
@@ -520,7 +520,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="terms_of_use_label_info_assistant">Mi Link</string>
     <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">"fonctionnalité d'optimisation de la vue paysage"</string>
-    <string name="terms_of_use_label_mi_account">Composants du Compte Mi</string>
+    <string name="terms_of_use_label_mi_account">Composants du Compte Xiaomi</string>
     <string name="terms_of_use_label_miuiDaemon">Démon MIUI</string>
     <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
     <string name="terms_of_use_label_os">Réglage OS IA</string>

@@ -164,9 +164,9 @@
     <string name="material_timepicker_text_input_mode_description">"Passez en mode de saisie de texte pour la saisie de l'heure."</string>
     <string name="menu">Menu</string>
     <string name="message_file_size_error">"L'enregistrement a atteint la taille maximum supportée par %s"</string>
-    <string name="mi_account_msg">Connectez-vous avec un Compte Mi pour transcrire des fichiers dans le cloud et bénéficiez des 60 premières minutes gratuites.</string>
+    <string name="mi_account_msg">Connectez-vous avec un Compte Xiaomi pour transcrire des fichiers dans le cloud et bénéficiez des 60 premières minutes gratuites.</string>
     <string name="mi_account_ok">Se connecter</string>
-    <string name="mi_account_title">Se connecter avec le Compte Mi</string>
+    <string name="mi_account_title">Se connecter avec le Compte Xiaomi</string>
     <string name="midnight">Nuit</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
     <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>

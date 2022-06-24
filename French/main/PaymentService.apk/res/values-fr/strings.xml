@@ -20,7 +20,7 @@
     <string name="account_bind_secure_email_title">Ajouter un e-mail de secours</string>
     <string name="account_bind_secure_phone_title">Ajouter un numéro de téléphone de secours</string>
     <string name="account_crop_user_avatar">Recadrer la photo</string>
-    <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
+    <string name="account_empty_user_name">Entrez votre identifiant de Compte Xiaomi</string>
     <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
     <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, >, ou /"</string>
     <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
@@ -42,7 +42,7 @@
     <string name="account_user_details">Informations personnelles</string>
     <string name="account_user_email">E-mail de secours</string>
     <string name="account_user_gender">Sexe</string>
-    <string name="account_user_id">ID du Compte Mi</string>
+    <string name="account_user_id">ID du Compte Xiaomi</string>
     <string name="account_user_name">Surnom</string>
     <string name="account_user_name_dialog_title">Entrez votre identifiant</string>
     <string name="account_user_other_info">Détails</string>
@@ -58,7 +58,7 @@
     <string name="am">AM</string>
     <string name="app_name">Mi Crédit</string>
     <string name="auth_fail_warning">Session expirée. Reconnectez-vous.</string>
-    <string name="bind_sign_in_title">Ajouter Compte Mi</string>
+    <string name="bind_sign_in_title">Ajouter Compte Xiaomi</string>
     <string name="change_activate_email">"Modifier l'adresse e-mail"</string>
     <string name="change_password">Modifier mot de passe</string>
     <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
@@ -70,7 +70,7 @@
     <string name="confirm_activate_email">Vérifié</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmer le numéro de téléphone associé</string>
     <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
-    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Mi %2$s le %1$s. Il ne sera plus associé au Compte Mi %3$s si vous continuez. Continuer ?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Xiaomi %2$s le %1$s. Il ne sera plus associé au Compte Xiaomi %3$s si vous continuez. Continuer ?</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="diagnosis_log_send_failed">Envoi des journaux impossible. Veuillez réessayer.</string>
@@ -80,11 +80,11 @@ Envoyez ce code au superviseur."</string>
     <string name="early_morning">Matin</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
-    <string name="error_dup_binded_email">"Cette adresse d'e-mail est déjà associée avec un autre Compte Mi."</string>
+    <string name="error_dup_binded_email">"Cette adresse d'e-mail est déjà associée avec un autre Compte Xiaomi."</string>
     <string name="error_invalid_bind_address">"L'adresse d'e-mail entrée est invalide."</string>
     <string name="evening">Après-midi</string>
-    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé avec un autre Compte Mi.</string>
-    <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre Compte Mi</string>
+    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé avec un autre Compte Xiaomi.</string>
+    <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi</string>
     <string name="find_psw">Mot de passe oublié</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -106,7 +106,7 @@ Envoyez ce code au superviseur."</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
     <string name="input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
     <string name="input_new_pwd">Entrez un nouveau mot de passe</string>
-    <string name="isornot_your_mi_account">"S'agit-il de votre Compte Mi ?"</string>
+    <string name="isornot_your_mi_account">"S'agit-il de votre Compte Xiaomi ?"</string>
     <string name="just_a_second">Un instant…</string>
     <string name="loading">Un instant…</string>
     <string name="logout_account">Se déconnecter</string>
@@ -607,7 +607,7 @@ Because the provision of MiCoin services relies on the collection of necessary p
     <string name="noon">Midi</string>
     <string name="ok">OK</string>
     <string name="passport_access_denied">Accès refusé</string>
-    <string name="passport_account_label">Compte Mi</string>
+    <string name="passport_account_label">Compte Xiaomi</string>
     <string name="passport_account_name">"Compte: %1$s "</string>
     <string name="passport_activate_token_expired">Verification code expired. Try again.</string>
     <string name="passport_area_code_title">Area code</string>
@@ -726,7 +726,7 @@ Because the provision of MiCoin services relies on the collection of necessary p
     <string name="set_success">Modifié avec succès</string>
     <string name="sign_in">Connexion</string>
     <string name="sign_in_progress">Connexion…</string>
-    <string name="sign_in_title">Se connecter avec votre Compte Mi</string>
+    <string name="sign_in_title">Se connecter avec votre Compte Xiaomi</string>
     <string name="sms_send_success">Envoyé avec succès</string>
     <string name="sns_access_token_expired_warning">La session a expiré. Connectez-vous à nouveau pour reconnecter ce compte.</string>
     <string name="sns_bind_limit">"Trop d'essais. Essayez d'autres moyens de vous connecter."</string>
@@ -817,7 +817,7 @@ Because the provision of MiCoin services relies on the collection of necessary p
     <string name="upload_error_log">Envoyer le journal</string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>
-    <string name="user_id_hint">E-mail/Téléphone/ID du Compte Mi</string>
+    <string name="user_id_hint">E-mail/Téléphone/ID du Compte Xiaomi</string>
     <string name="v_code_title">Entrez le code de vérification</string>
     <string name="web_sso_login_fail">Vous devez vous authentifier à nouveau</string>
     <string name="web_sso_login_message">Connexion…</string>

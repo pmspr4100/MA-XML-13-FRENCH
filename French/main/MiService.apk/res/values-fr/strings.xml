@@ -266,7 +266,7 @@
   <string name="permission_china_version_msg"><Data>"Avant d'utiliser \"Services &amp; commentaires\", vous devez lire et accepter notre &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt; /a>. Cette application doit également se connecter à Internet pour fonctionner normalement."</Data></string>
   <string name="permission_complete">Terminé</string>
   <string name="permission_contacts_info">Accès infos du compte</string>
-  <string name="permission_contacts_introduce">"Pour s'authentifier en utilisant le Compte Mi"</string>
+  <string name="permission_contacts_introduce">"Pour s'authentifier en utilisant le Compte Xiaomi"</string>
   <string name="permission_device_info">Accès infos appareil</string>
   <string name="permission_device_introduce">Pour déterminer la période de garantie limitée</string>
   <string name="permission_exit">Quitter</string>

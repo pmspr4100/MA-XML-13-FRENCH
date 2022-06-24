@@ -24,7 +24,7 @@
     <string name="account_bind_secure_email_title">Ajouter un e-mail de secours</string>
     <string name="account_bind_secure_phone_title">Ajouter un numéro de téléphone de secours</string>
     <string name="account_crop_user_avatar">Recadrer la photo</string>
-    <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
+    <string name="account_empty_user_name">Entrez votre identifiant de Compte Xiaomi</string>
     <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
     <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, >, ou /"</string>
     <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
@@ -46,7 +46,7 @@
     <string name="account_user_details">Informations personnelles</string>
     <string name="account_user_email">E-mail de secours</string>
     <string name="account_user_gender">Sexe</string>
-    <string name="account_user_id">ID du Compte Mi</string>
+    <string name="account_user_id">ID du Compte Xiaomi</string>
     <string name="account_user_name">Surnom</string>
     <string name="account_user_name_dialog_title">"Entrez l'identifiant"</string>
     <string name="account_user_other_info">Détails</string>
@@ -96,7 +96,7 @@
     <string name="back_to_mainpage">Découvrir</string>
     <string name="background_playback_enabled">La lecture en arrière-plan est activée</string>
     <string name="before_yestoday_new">Il y a %d jours</string>
-    <string name="bind_sign_in_title">Ajouter un Compte Mi</string>
+    <string name="bind_sign_in_title">Ajouter un Compte Xiaomi</string>
     <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="box_title_gallery">Boîte à outils vidéo</string>
     <string name="box_title_mivideo">Fonctionnalités supplémentaires</string>
@@ -231,7 +231,7 @@
     <string name="confirm_activate_email">Vérifié</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmer le numéro de téléphone associé</string>
     <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
-    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Mi %2$s le %1$s. Il ne sera plus associé au Compte Mi %3$s si vous continuez. Continuer ?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Xiaomi %2$s le %1$s. Il ne sera plus associé au Compte Xiaomi %3$s si vous continuez. Continuer ?</string>
     <string name="content">Contenu</string>
     <string name="content_can_not_null">"Impossible de soumettre des commentaires sans description."</string>
     <string name="continue_play">Reprendre</string>
@@ -330,11 +330,11 @@ Envoyez ce code au superviseur."</string>
     <string name="empty_subscribe">"Vous n'êtes encore abonné à rien."</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
-    <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée à un autre Compte Mi.</string>
+    <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée à un autre Compte Xiaomi.</string>
     <string name="error_icon_content_description">Erreur</string>
     <string name="error_invalid_bind_address">"L'adresse e-mail que vous avez entré est invalide."</string>
     <string name="evening">Après-midi</string>
-    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre Compte Mi.</string>
+    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi.</string>
     <string name="exit">Quitter</string>
     <string name="exo_controls_fastforward_description">Avance rapide</string>
     <string name="exo_controls_fullscreen_description">Mode plein écran</string>
@@ -371,7 +371,7 @@ Envoyez ce code au superviseur."</string>
     <string name="expand_button_title">Avancé</string>
     <string name="explore_on_mi_video">Trouvez plus sur Mi Vidéo</string>
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
-    <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre Compte Mi</string>
+    <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi</string>
     <string name="failed_to_fetch_data">"Impossible de charger les informations."</string>
     <string name="failure">Impossible de télécharger</string>
     <string name="favor_movie">Films</string>
@@ -625,7 +625,7 @@ Cette opération n'affectera pas les photos de votre galerie."</string>
     <string name="input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
     <string name="input_new_pwd">Entrez un nouveau mot de passe</string>
     <string name="input_size_tips_new">"Vous pouvez saisir jusqu'à %d caractères"</string>
-    <string name="isornot_your_mi_account">Est-ce votre Compte Mi ?</string>
+    <string name="isornot_your_mi_account">Est-ce votre Compte Xiaomi ?</string>
     <string name="issue">Problème</string>
     <string name="item_card_all_replies">Toutes les réponses</string>
     <string name="item_card_continue_play">Lecture automatique</string>
@@ -1141,7 +1141,7 @@ Mettez d'abord à jour Mi Vidéo vers la dernière version."</string>
     <string name="ovp_video_plugin_installation_two">Chargement…</string>
     <string name="page_title_language">Préférences de langue pour vidéo</string>
     <string name="passport_access_denied">Accès refusé</string>
-    <string name="passport_account_label">Compte Mi</string>
+    <string name="passport_account_label">Compte Xiaomi</string>
     <string name="passport_account_name">"Compte: %1$s "</string>
     <string name="passport_activate_token_expired">Le code de vérification est expiré. Réessayer.</string>
     <string name="passport_area_code_title">Indicatif régional</string>
@@ -1516,7 +1516,7 @@ Augmenter la sécurité de votre compte."</string>
     <string name="sign_in_google_account_hint">Connectez-vous à votre compte Google pour voir plus de vidéos que vous aimerez</string>
     <string name="sign_in_mi_account">Se connecter avec votre Compte Xiaomi</string>
     <string name="sign_in_progress">Connexion…</string>
-    <string name="sign_in_title">Se connecter avec votre Compte Mi</string>
+    <string name="sign_in_title">Se connecter avec votre Compte Xiaomi</string>
     <string name="slid_fail_message">"Impossible d'enregistrer"</string>
     <string name="slide_save_message">Générer une vidéo en cours…</string>
     <string name="small_video_cancel_button">Annuler</string>
@@ -1757,7 +1757,7 @@ Il ne montre rien."</string>
     <string name="upload_error_log">Envoyer le journal</string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>
-    <string name="user_id_hint">E-mail/Téléphone/ID du Compte Mi</string>
+    <string name="user_id_hint">E-mail/Téléphone/ID du Compte Xiaomi</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
     <string name="v_agree">Accepter</string>

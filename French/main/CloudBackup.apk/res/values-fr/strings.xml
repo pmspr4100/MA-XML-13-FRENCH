@@ -334,7 +334,7 @@ Envoyez ce code au superviseur."</string>
   <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
   <string name="night">Soirée</string>
-  <string name="no_account">"Vous n'êtes pas connecté au Compte Mi."</string>
+  <string name="no_account">"Vous n'êtes pas connecté au Compte Xiaomi."</string>
   <string name="no_backup">Aucune sauvegarde dans Xiaomi Cloud.</string>
   <string name="noon">Midi</string>
   <string name="not_set">Non défini</string>

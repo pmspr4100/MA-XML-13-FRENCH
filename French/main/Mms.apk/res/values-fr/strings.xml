@@ -328,7 +328,7 @@
     <string name="forward_prefix">"TR : "</string>
     <string name="found_old_messages">Envoyez les messages de (%1$s) à %2$s ?</string>
     <string name="found_old_messages_title">Envoyez les messages de vos autres cartes SIM ?</string>
-    <string name="found_wild_messages_guide_cloud_desc">Pour synchroniser les messages de Xiaomi Cloud, connectez-vous à votre Compte Mi et activez la synchronisation SMS.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Pour synchroniser les messages de Xiaomi Cloud, connectez-vous à votre Compte Xiaomi et activez la synchronisation SMS.</string>
     <string name="found_wild_messages_guide_settings_desc">Synchronisez les messages de Xiaomi Cloud dans les paramètres de messagerie.</string>
     <string name="found_wild_messages_guide_sync_not_started">"La synchronisation n'a pas encore démarré"</string>
     <string name="found_wild_messages_title">Synchroniser depuis Xiaomi Cloud</string>
@@ -1396,7 +1396,7 @@ Dernière tentative : %s."</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="wild_msg_processing">En cours…</string>
     <string name="wild_msg_title">Choisir un numéro de téléphone pour synchroniser</string>
-    <string name="xiaomi_account_service_retry_main_purpose">Les services du Compte Mi doivent être activés pour que cette fonctionnalité fonctionne normalement. Vous pouvez activer les services du Compte Mi dans Paramètres > Gérer les applications.</string>
+    <string name="xiaomi_account_service_retry_main_purpose">Les services du Compte Xiaomi doivent être activés pour que cette fonctionnalité fonctionne normalement. Vous pouvez activer les services du Compte Xiaomi dans Paramètres > Gérer les applications.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>

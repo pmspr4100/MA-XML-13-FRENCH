@@ -102,7 +102,7 @@
     <string name="bh_cancellation_of_carrier_services_result">"Si vous continuez, vous annulerez les services Mi Carrier. Après cela, nous cesserons de collecter et d'utiliser vos informations personnelles et supprimerons définitivement l'historique de vos commandes. Assurez-vous que toutes vos transactions sont terminées avant d'annuler les services."</string>
     <string name="bh_cannot_action">"Impossible d'utiliser %1$s. Installez d'abord l'application correspondante."</string>
     <string name="bh_cannot_fetch_num">Numéro de téléphone inconnu</string>
-    <string name="bh_cannot_login_miacount">Identification au Compte Mi impossible</string>
+    <string name="bh_cannot_login_miacount">Identification au Compte Xiaomi impossible</string>
     <string name="bh_card_order_detail">Informations sur la commande</string>
     <string name="bh_card_order_name">Forfait de service</string>
     <string name="bh_card_order_pay_price">Montant payé</string>
@@ -212,7 +212,7 @@
     <string name="bh_save_desc">"Enregistrer ce numéro pour l'utiliser lors de la prochaine recharge"</string>
     <string name="bh_save_sccuss">Enregistré avec succès</string>
     <string name="bh_saved_number">Numéro enregistré : %1$s</string>
-    <string name="bh_should_login_to_buy">"Connectez-vous à votre Compte Mi pour pouvoir acheter des minutes d'appel et des données mobiles"</string>
+    <string name="bh_should_login_to_buy">"Connectez-vous à votre Compte Xiaomi pour pouvoir acheter des minutes d'appel et des données mobiles"</string>
     <string name="bh_similar_number_hint">Ce numéro est similaire à %1$s. Recharger quand même ce numéro ?</string>
     <string name="bh_stop_carrier_services">Désactiver les services Mi Carrier</string>
     <string name="bh_stop_carrier_services_short">Désactiver les services Mi Carrier</string>
@@ -468,7 +468,7 @@
     <string name="contact_detail_miprofile_accept_fail_toast">"Impossible d'échanger les cartes de contact"</string>
     <string name="contact_detail_miprofile_accept_success_toast">Cartes de contact échangées</string>
     <string name="contact_detail_miprofile_binded_label">Vérifié</string>
-    <string name="contact_detail_miprofile_exchange_closed">"Aucun numéro de téléphone associé avec ce Compte Mi
+    <string name="contact_detail_miprofile_exchange_closed">"Aucun numéro de téléphone associé avec ce Compte Xiaomi
 Les cartes de contact ont été désactivées"</string>
     <string name="contact_detail_miprofile_privacy_settings">Autorisationrequise pour voir</string>
     <string name="contact_detail_miprofile_request">Échanger les cartes de contact</string>
@@ -533,7 +533,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="create_group_dialog_title">Créer un nouveau groupe</string>
     <string name="create_qrcode_fail_message">Impossible de créer le QR code</string>
     <string name="cta_content_seg1"><Data>"&lt;strong>Avertissement important
-En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Conditions de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Itinérance Mi&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politique de confidentialité&lt;/a>&lt;/font>. Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>"</Data></string>
+En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Conditions de service du Compte Xiaomi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Itinérance Mi&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politique de confidentialité&lt;/a>&lt;/font>. Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">"
 Itinérance Mi nécessite une connexion à internet et doit accéder à vos informations de localisation pour fonctionner normalement. De plus, Itinérance Mi est suceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales."</string>
     <string name="cta_dialog_cancel">Quitter</string>
@@ -864,7 +864,7 @@ Raison : \"%s\""</string>
     <string name="miprofile_alertdialog_edit">Saisir un nom</string>
     <string name="miprofile_alertdialog_message">"Afficher ce nom aux contacts quand vous demandez d'échanger des cartes."</string>
     <string name="miprofile_alertdialog_title">Saisir un nom</string>
-    <string name="miprofile_bind_account_alertdialog_message">Vous devez ajouter le numéro de téléphone de cet appareil dans votre Compte Mi pour utiliser cette fonction.</string>
+    <string name="miprofile_bind_account_alertdialog_message">Vous devez ajouter le numéro de téléphone de cet appareil dans votre Compte Xiaomi pour utiliser cette fonction.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Ajouter un numéro</string>
     <string name="miprofile_bind_account_alertdialog_title">Ajouter un numéro de téléphone</string>
     <string name="miprofile_contact_add">Ajouter</string>
@@ -874,7 +874,7 @@ Raison : \"%s\""</string>
     <string name="miprofile_contact_verifying">Vérification</string>
     <string name="miprofile_edit_title">Éditer le profil</string>
     <string name="miprofile_error_accept_self">"Impossible d'échanger votre propre carte de contact"</string>
-    <string name="miprofile_error_no_miaccount">Connectez-vous à votre Compte Mi</string>
+    <string name="miprofile_error_no_miaccount">Connectez-vous à votre Compte Xiaomi</string>
     <string name="miprofile_error_not_opened">Désactiver les cartes de contact</string>
     <string name="miprofile_error_not_set">"Votre carte de contact n'a pas été synchronisée avec le serveur"</string>
     <string name="miprofile_error_unknown">Erreur inconnue</string>
@@ -1037,7 +1037,7 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="night">Soirée</string>
     <string name="noAccounts">Pour créer des groupes, vous devez ajouter un compte.</string>
     <string name="no_contact_selected">Sélectionnez un contact pour afficher les détails</string>
-    <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données de contact depuis le Compte Mi</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données de contact depuis le Compte Xiaomi</string>
     <string name="noContacts">Aucun contact</string>
     <string name="noContactsWithPhoneNumbers">Aucun contact avec numéro de téléphone</string>
     <string name="noFavoritesHelpText">"Vous n'avez pas de favoris.

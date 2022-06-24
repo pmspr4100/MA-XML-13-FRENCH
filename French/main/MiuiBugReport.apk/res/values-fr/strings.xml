@@ -21,7 +21,7 @@
     <string name="account_bind_secure_email_title">Ajouter un e-mail de secours</string>
     <string name="account_bind_secure_phone_title">Ajouter un numéro de téléphone de secours</string>
     <string name="account_crop_user_avatar">Recadrer la photo</string>
-    <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
+    <string name="account_empty_user_name">Entrez votre identifiant de Compte Xiaomi</string>
     <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
     <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, >, ou /"</string>
     <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
@@ -43,7 +43,7 @@
     <string name="account_user_details">Informations personnelles</string>
     <string name="account_user_email">E-mail de secours</string>
     <string name="account_user_gender">Sexe</string>
-    <string name="account_user_id">ID du Compte Mi</string>
+    <string name="account_user_id">ID du Compte Xiaomi</string>
     <string name="account_user_name">Surnom</string>
     <string name="account_user_name_dialog_title">Entrez un surnom</string>
     <string name="account_user_other_info">Détails</string>
@@ -63,7 +63,7 @@
     <string name="app_name">Commentaires</string>
     <string name="app_search">Rechercher des applications</string>
     <string name="auth_fail_warning">Session expirée. Reconnectez-vous.</string>
-    <string name="bind_sign_in_title">Ajouter Compte Mi</string>
+    <string name="bind_sign_in_title">Ajouter Compte Xiaomi</string>
     <string name="btn_send">Envoyer</string>
     <string name="bugreport_dialog_not_show_again">Ne plus afficher</string>
     <string name="bugreport_dialog_submit_content"><Data>"Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s">Politique de confidentialité&lt;/a> et &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a>."</Data></string>
@@ -128,7 +128,7 @@
     <string name="confirm_activate_email">Vérifié</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmer le numéro de téléphone associé</string>
     <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
-    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Mi %2$s le %1$s. Il ne sera plus associé au Compte Mi %3$s si vous continuez. Continuer ?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Xiaomi %2$s le %1$s. Il ne sera plus associé au Compte Xiaomi %3$s si vous continuez. Continuer ?</string>
     <string name="cta_cancel">Annuler</string>
     <string name="cta_confirm">OK </string>
     <string name="cta_dialog_content">Cette fonctionnalité doit se connecter à internet pour fonctionner normalement.</string>
@@ -173,13 +173,13 @@ Envoyer ce code au superviseur."</string>
     <string name="err_type_translate">Langue</string>
     <string name="err_type_xiaomi_family">Mi Home</string>
     <string name="err_type_xiaomi_service">Service clientèle</string>
-    <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée avec un autre Compte Mi.</string>
+    <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée avec un autre Compte Xiaomi.</string>
     <string name="error_invalid_bind_address">"L'adresse e-mail entrée est invalide."</string>
     <string name="error_no_connection">Impossible de se connecter au réseau</string>
     <string name="evening">Après-midi</string>
-    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associée avec un autre Compte Mi.</string>
+    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associée avec un autre Compte Xiaomi.</string>
     <string name="expand_button_title">Avancé</string>
-    <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associée avec un autre Compte Mi</string>
+    <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associée avec un autre Compte Xiaomi</string>
     <string name="failed_to_fetch_fql">"Impossible d'obtenir les informations de la F.A.Q, vérifiez la connexion réseau"</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s problème \"%2$s\"</string>
     <string name="feedback_choose_app_tag">Sélectionner un problème</string>
@@ -216,13 +216,13 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_detail_waiting">Création…</string>
     <string name="feedback_empty_report_list">Aucun rapport pour le moment</string>
     <string name="feedback_guess">Notre avis :</string>
-    <string name="feedback_history_remind_login_desc">Connectez-vous avec votre Compte Mi pour voir les détails et la progression de vos commentaires</string>
+    <string name="feedback_history_remind_login_desc">Connectez-vous avec votre Compte Xiaomi pour voir les détails et la progression de vos commentaires</string>
     <string name="feedback_id">ID : %d</string>
     <string name="feedback_jira_key">Clé JIRA : %s</string>
     <string name="feedback_jira_key_place_holder">Création du ticket Jira…</string>
     <string name="feedback_package_log_failed">Impossible de compresser les journaux</string>
     <string name="feedback_remind_login_btn">"S'identifier"</string>
-    <string name="feedback_report_remind_login_desc">Connectez-vous avec votre Compte Mi pour afin que nos ingénieurs puissent vous contacter.</string>
+    <string name="feedback_report_remind_login_desc">Connectez-vous avec votre Compte Xiaomi pour afin que nos ingénieurs puissent vous contacter.</string>
     <string name="feedback_report_remind_login_desc2">Vous pouvez aussi afficher la progression de vos rapports dans \"Mes commentaires\".</string>
     <string name="feedback_reproductivity_everytime">À chaque fois</string>
     <string name="feedback_reproductivity_occasionally">Occasionnellement</string>
@@ -301,7 +301,7 @@ Envoyer ce code au superviseur."</string>
     <string name="input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
     <string name="input_length_exceeds_limit">Le texte entré est trop long</string>
     <string name="input_new_pwd">Entrer le nouveau mot de passe</string>
-    <string name="isornot_your_mi_account">Est-ce bien votre Compte Mi ?</string>
+    <string name="isornot_your_mi_account">Est-ce bien votre Compte Xiaomi ?</string>
     <string name="issue_search">Rechercher</string>
     <string name="jump_full_log_dialog_cancel">Annuler</string>
     <string name="jump_full_log_dialog_confirm">Générer</string>
@@ -310,7 +310,7 @@ Envoyer ce code au superviseur."</string>
     <string name="just_a_second">Un instant…</string>
     <string name="kr_authorization_agree">Accepter</string>
     <string name="kr_authorization_contact">Comptes</string>
-    <string name="kr_authorization_contact_desc">Pour obtenir des informations sur votre Compte Mi et vérifier votre compte</string>
+    <string name="kr_authorization_contact_desc">Pour obtenir des informations sur votre Compte Xiaomi et vérifier votre compte</string>
     <string name="kr_authorization_exit">Quitter</string>
     <string name="kr_authorization_function">Envoyer des commentaires, générer des journaux, consulter les questions fréquemment posées</string>
     <string name="kr_authorization_log_protocol">Protocole de journalisation (facultatif)</string>
@@ -328,7 +328,7 @@ Envoyer ce code au superviseur."</string>
     <string name="loading_apps">Chargement de la liste…</string>
     <string name="login_by_local_phone_long_text">Identifiez-vous maintenant</string>
     <string name="login_by_local_phone_short_text">"S'identifier"</string>
-    <string name="login_other">Autre Compte Mi</string>
+    <string name="login_other">Autre Compte Xiaomi</string>
     <string name="login_register_by_local_phone_long_text">Créer le compte</string>
     <string name="login_system_failed">"Je n'ai pas pu me connecter, essayez encore"</string>
     <string name="login_with_sns">Autres façons de se connecter</string>
@@ -529,7 +529,7 @@ Envoyer ce code au superviseur."</string>
     <string name="open_feedback_main">Plus</string>
     <string name="open_settings">Paramètres</string>
     <string name="passport_access_denied">Accès refusé</string>
-    <string name="passport_account_label">Compte Mi</string>
+    <string name="passport_account_label">Compte Xiaomi</string>
     <string name="passport_account_name">"Compte : %1$s "</string>
     <string name="passport_activate_token_expired">Code de vérification périmé. Réessayez.</string>
     <string name="passport_area_code_title">Code régional</string>
@@ -688,7 +688,7 @@ Lisez et acceptez la nouvelle version de %3$s avant de continuer."</string>
     <string name="set_success">Modifié avec succès</string>
     <string name="sign_in">Connexion</string>
     <string name="sign_in_progress">Connexion…</string>
-    <string name="sign_in_title">Se connecter avec votre Compte Mi</string>
+    <string name="sign_in_title">Se connecter avec votre Compte Xiaomi</string>
     <string name="skip_query_account">Ignorer</string>
     <string name="sms_send_success">Envoyé avec succès</string>
     <string name="sns_access_token_expired_warning">La session a expiré. Connectez-vous à nouveau pour reconnecter ce compte.</string>
@@ -724,7 +724,7 @@ Lisez et acceptez la nouvelle version de %3$s avant de continuer."</string>
     <string name="stop_full_log_dialog_title">Création des journaux…</string>
     <string name="submit_dialog_cancel">Refuser</string>
     <string name="submit_dialog_confirm">Accepter</string>
-    <string name="submit_dialog_content"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> avant d'envoyer votre retour. Les problèmes que vous signalez ainsi que les éléments que vous joignez (y compris les journaux qui peuvent contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez. Si vous signalez des problèmes liés à plusieurs appareils, les journaux d'autres appareils sur lesquels votre Compte Mi est utilisé seront également envoyés."</Data></string>
+    <string name="submit_dialog_content"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> avant d'envoyer votre retour. Les problèmes que vous signalez ainsi que les éléments que vous joignez (y compris les journaux qui peuvent contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez. Si vous signalez des problèmes liés à plusieurs appareils, les journaux d'autres appareils sur lesquels votre Compte Xiaomi est utilisé seront également envoyés."</Data></string>
     <string name="submit_dialog_content_global"><Data>"Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Sélectionner \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a>."</Data></string>
     <string name="submit_dialog_content_global_with_contactinfo"><Data>"Vos commentaires, ainsi que les pièces jointes (le cas échéant), les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger), le numéro de téléphone ou l'e-mail seront envoyés aux serveurs de MIUI. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Sélectionner \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a>."</Data></string>
     <string name="submit_dialog_not_show_again">Ne plus montrer</string>
@@ -844,21 +844,21 @@ Taille : %2$s"</string>
     <string name="update_phone_notice">Modifier les paramètres de sécurité</string>
     <string name="upload_error_log">Envoyer le journal</string>
     <string name="upload_log_failed">"Impossible d'envoyer les journaux"</string>
-    <string name="user_agreement_hint_3rd_app"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi, ainsi que les &lt;a href =\"%5$s\">Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi, ainsi que les &lt;a href=\"%5$s\">Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi, ainsi que les &lt;a href=\"%5$s\">Conditions générales des services de vérification de China Unicom&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
+    <string name="user_agreement_hint_3rd_app"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Xiaomi."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href =\"%5$s\">Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=\"%5$s\">Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=\"%5$s\">Conditions générales des services de vérification de China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> du Compte Xiaomi."</Data></string>
     <string name="user_agreement_hint_default_1"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>"</Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>. La première connexion créera automatiquement un Compte Mi"</Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>. La première connexion créera automatiquement un Compte Xiaomi"</Data></string>
     <string name="user_agreement_hint_first_login">Nous créerons un compte automatiquement si vous utilisez votre numéro de téléphone pour la première fois.</string>
-    <string name="user_agreement_hint_with_mobile"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Mi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Mi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Mi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Lisez et acceptez le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, et l'&lt;a href=\"%3$s\">Accord de l'utilisateur&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Xiaomi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Xiaomi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Xiaomi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Lisez et acceptez le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, et l'&lt;a href=\"%3$s\">Accord de l'utilisateur&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Xiaomi."</Data></string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>
-    <string name="user_id_hint">E-mail/Téléphone/ID du Compte Mi</string>
+    <string name="user_id_hint">E-mail/Téléphone/ID du Compte Xiaomi</string>
     <string name="user_must_known">Attention</string>
     <string name="user_must_known_content">"Vous ne pourrez continuer à utiliser nos services que si vous acceptez la nouvelle version de notre %s. Accepter la Politique de confidentialité mise à jour maintenant ?"</string>
     <string name="user_name_phone_number">Numéro de téléphone</string>

@@ -138,7 +138,7 @@
     <string name="adb_install_open_error">"Impossible d'autoriser, vérifez votre connexion réseau"</string>
     <string name="adb_install_reject_notiy">"L'installation de \"%s\" via USB n'a pas été autorisée"</string>
     <string name="adb_install_reject_notiy_desc">"Vous pouvez autoriser l'installation via USB dans Options développeur"</string>
-    <string name="adb_login_xiaomi_account">"Connectez-vous d'abord à votre Compte Mi"</string>
+    <string name="adb_login_xiaomi_account">"Connectez-vous d'abord à votre Compte Xiaomi"</string>
     <string name="add_auto_task_desktop_icon">"Ajouter un raccourci sur l'écran d'accueil"</string>
     <string name="add_bill_reminder_alarm">"Définir l'avertissement de solde du téléphone"</string>
     <string name="add_done">Ajouté avec succès</string>
@@ -618,15 +618,15 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="applock_add_account">Ajouter</string>
     <string name="applock_add_account_ignore">Pas maintenant</string>
     <string name="applock_add_account_ignore_with_seconds">Pas maintenant (%ds)</string>
-    <string name="applock_add_account_info">"Ajoutez votre Compte Mi pour être en mesure de réinitialiser votre mot de passe en cas d'oubli."</string>
+    <string name="applock_add_account_info">"Ajoutez votre Compte Xiaomi pour être en mesure de réinitialiser votre mot de passe en cas d'oubli."</string>
     <string name="applock_add_account_setting">Compte et confidentialité</string>
-    <string name="applock_add_account_tips">"Avec le Compte Mi, vous pourrez récupérer votre Verrouillage des applications si vous l'oubliez."</string>
-    <string name="applock_add_account_title">Ajouter votre Compte Mi</string>
+    <string name="applock_add_account_tips">"Avec le Compte Xiaomi, vous pourrez récupérer votre Verrouillage des applications si vous l'oubliez."</string>
+    <string name="applock_add_account_title">Ajouter votre Compte Xiaomi</string>
     <string name="applock_add_account_title_part">Add your Mi Account to be able to reset password</string>
     <string name="applock_already_add_account">Compte actuel : %s</string>
     <string name="applock_app_recommend_lock_title">You can lock the following apps</string>
-    <string name="applock_bind_account_dialog_content">"Votre Compte Mi représente la seule façon de récupérer Verrouillage des applications en cas d'oubli. Connectez-vous pour ajouter votre Compte Mi."</string>
-    <string name="applock_bind_account_dialog_title">Ajouter votre Compte Mi</string>
+    <string name="applock_bind_account_dialog_content">"Votre Compte Xiaomi représente la seule façon de récupérer Verrouillage des applications en cas d'oubli. Connectez-vous pour ajouter votre Compte Xiaomi."</string>
+    <string name="applock_bind_account_dialog_title">Ajouter votre Compte Xiaomi</string>
     <string name="applock_bind_account_title">Mot de passe oublié</string>
     <string name="applock_close_dialog_summary">"Votre application sera supprimée. Désactiver le verrouillage de l'application ?"</string>
     <string name="applock_close_dialog_title">"Désactiver le Verrouillage d'application ?"</string>
@@ -649,7 +649,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="applock_guide_tip1_without_face">Plusieurs options de type de mot de passe sont disponibles. Déverrouillez des applications avec votre empreinte digitale ou entrez un mot de passe.</string>
     <string name="applock_guide_tip1_without_finger">Plusieurs options de type de mot de passe sont disponibles. Déverrouillez des applications avec votre visage ou entrez un mot de passe.</string>
     <string name="applock_guide_tip1_without_finger_face">Plusieurs options de type de mot de passe sont disponibles.</string>
-    <string name="applock_guide_tip2">Ajoutez votre Compte Mi pour pouvoir réinitialiser votre mot de passe.</string>
+    <string name="applock_guide_tip2">Ajoutez votre Compte Xiaomi pour pouvoir réinitialiser votre mot de passe.</string>
     <string name="applock_guide_tip3">Masquer le contenu des notifications.</string>
     <string name="applock_guide_tip3_global">Masquer le contenu des notifications.</string>
     <string name="applock_guide_title">"Protégez votre vie privée avec Verrouillage d'application"</string>
@@ -662,7 +662,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="applock_login_and_add_account">Se connecter et ajouter</string>
     <string name="applock_mixtype_hidepwd_icon">Masquer</string>
     <string name="applock_mixtype_showpwd_icon">Afficher</string>
-    <string name="applock_no_account_login">"Vous n'êtes pas connecté à votre Compte Mi"</string>
+    <string name="applock_no_account_login">"Vous n'êtes pas connecté à votre Compte Xiaomi"</string>
     <string name="applock_not_add_account">Pas maintenant</string>
     <string name="applock_not_add_account_normal">Ne pas ajouter de compte</string>
     <string name="applock_not_login_account">"Vous n'êtes pas connecté"</string>
@@ -958,10 +958,10 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="bill_traffic_reminder_instruction_text">Les détails réels des forfaits fournis par les opérateurs de téléphonie mobile peuvent varier et des retards de facturation peuvent survenir. Les informations fournies ici sont à titre indicatif uniquement.</string>
     <string name="bind_xiaomi_account_cancel">Annuler</string>
     <string name="bind_xiaomi_account_confirm">Ajouter</string>
-    <string name="bind_xiaomi_account_dialog_summery">"Vous êtes sur le point d'ajouter un Compte Mi %s. Si vous oubliez votre mot de passe, vous pouvez utiliser ce compte pour le réinitialiser. Le compte sera supprimé automatiquement si vous vous déconnectez."</string>
-    <string name="bind_xiaomi_account_success">Compte Mi ajouté avec succès</string>
-    <string name="bind_xiaomi_account_summary">Utiliser le Compte Mi pour réinitialiser votre mot de passe</string>
-    <string name="bind_xiaomi_account_title">Ajouter un Compte Mi</string>
+    <string name="bind_xiaomi_account_dialog_summery">"Vous êtes sur le point d'ajouter un Compte Xiaomi %s. Si vous oubliez votre mot de passe, vous pouvez utiliser ce compte pour le réinitialiser. Le compte sera supprimé automatiquement si vous vous déconnectez."</string>
+    <string name="bind_xiaomi_account_success">Compte Xiaomi ajouté avec succès</string>
+    <string name="bind_xiaomi_account_summary">Utiliser le Compte Xiaomi pour réinitialiser votre mot de passe</string>
+    <string name="bind_xiaomi_account_title">Ajouter un Compte Xiaomi</string>
     <string name="birthday">Anniversaire</string>
     <string name="bl_no_blacklist">Aucun numéro bloqué.</string>
     <string name="bl_no_block_call">Aucun appel bloqué.</string>
@@ -1146,7 +1146,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="confirmSecondSpacePassword">Confirmer le mot de passe du deuxième espace</string>
     <string name="confirm_ai_allow_all_permission">"Changer le statut d'autorisation en \"Décider pour moi\" pour toutes les applications ?"</string>
     <string name="confirm_allow_all_permission">Autoriser toutes les applications à utiliser cette fonctionnalité ?</string>
-    <string name="confirm_bind_xiaomi_account_dialog_title">"Ajout d'un Compte Mi"</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">"Ajout d'un Compte Xiaomi"</string>
     <string name="confirm_close">Désactiver</string>
     <string name="confirm_fingerprint_msg">Vérifiez votre empreinte digitale</string>
     <string name="confirm_leave">Non merci</string>
@@ -2140,7 +2140,7 @@ mais augmente également la consommation d'énergie et permet à votre appareil 
     <string name="gb_voice_changer_recommend">Recommandé</string>
     <string name="gb_voice_changer_renew_dailog">Renouvelez votre abonnement pour pouvoir utiliser cet effet.</string>
     <string name="gb_voice_changer_robot">Robot</string>
-    <string name="gb_voice_changer_setting_account_title">Compte Mi</string>
+    <string name="gb_voice_changer_setting_account_title">Compte Xiaomi</string>
     <string name="gb_voice_changer_setting_become_vip">Abonnement</string>
     <string name="gb_voice_changer_setting_gender_subtitle">Ajustez les effets et les recommandations pour sélectionner le sexe</string>
     <string name="gb_voice_changer_setting_gender_title">Sexe</string>
@@ -2156,7 +2156,7 @@ Basculez entre différents personnages et effets spéciaux."</string>
     <string name="gb_voice_changer_user_status_expired">Abonnement expiré</string>
     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Obtenez un essai gratuit de %d jours
 et explorez notre changeur de voix !"</string>
-    <string name="gb_voice_changer_user_status_no_login">Connectez-vous au Compte Mi</string>
+    <string name="gb_voice_changer_user_status_no_login">Connectez-vous au Compte Xiaomi</string>
     <string name="gb_voice_changer_user_status_remain_time">"Date d'expiration : %s"</string>
     <string name="gb_voice_changer_user_status_renew">Renouveler</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Vos abonnement a expiré. Renouvelez votre abonnement maintenant pour bénéficier des avantages !</string>
@@ -2262,10 +2262,10 @@ de vos sessions de jeu"</string>
     <string name="gtb_dialog_btn_close">Désactiver</string>
     <string name="gtb_dialog_btn_open">Activer</string>
     <string name="gtb_dialog_hint_smart_5g">Vous pouvez activer et désactiver cette fonctionnalité dans Game Turbo &gt; Paramètres.</string>
-    <string name="gtb_dialog_privacy_speed_message">"Vous êtes sur le point d'utiliser Xunyou Game Booster. Ce service collectera votre identifiant de Compte Mi pour enregistrer la durée de votre abonnement."</string>
+    <string name="gtb_dialog_privacy_speed_message">"Vous êtes sur le point d'utiliser Xunyou Game Booster. Ce service collectera votre identifiant de Compte Xiaomi pour enregistrer la durée de votre abonnement."</string>
     <string name="gtb_dialog_privacy_speed_tips">"J'ai lu et j'accepte la politique de confidentialité de Xunyou Game Booster."</string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
-    <string name="gtb_dialog_privacy_voice_message">"Vous êtes sur le point d'utiliser Xunyou Game Voice Changer. Ce service collectera votre identifiant de Compte Mi pour enregistrer la durée de votre abonnement."</string>
+    <string name="gtb_dialog_privacy_voice_message">"Vous êtes sur le point d'utiliser Xunyou Game Voice Changer. Ce service collectera votre identifiant de Compte Xiaomi pour enregistrer la durée de votre abonnement."</string>
     <string name="gtb_dialog_privacy_voice_tips">"J'ai lu et j'accepte la politique de confidentialité de Xunyou Game Voice Changer."</string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou Game Voice Changer</string>
     <string name="gtb_dialog_summary_smart_5g">Chaque fois que Game Turbo détecte un réseau 5G, il peut connecter votre appareil au meilleur réseau disponible pour réduire le retard du réseau. Activer cette fonctionnalité maintenant ?</string>
@@ -3093,9 +3093,9 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="password_forget_pattern_message_none">Les applications ne sont pas verrouillées. Vous pouvez réinitialiser votre mot de passe.</string>
     <string name="password_forget_pattern_reset">Réinitialiser</string>
     <string name="password_forget_pattern_title">Attention</string>
-    <string name="password_promotion_not_login_xiaomi_account_message">"Ajoutez votre Compte Mi pour pouvoir réinitialiser votre mot de passe au cas où vous l'oubliez."</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">"Ajoutez votre Compte Xiaomi pour pouvoir réinitialiser votre mot de passe au cas où vous l'oubliez."</string>
     <string name="password_promotion_postbutton_text">Ajouter</string>
-    <string name="password_promotion_title">Ajouter un Compte Mi</string>
+    <string name="password_promotion_title">Ajouter un Compte Xiaomi</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="password_type">Modifier le mot de passe</string>
     <string name="password_type_underline">Modifier le mot de passe</string>
@@ -3880,7 +3880,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="privacy_pop_record">"Audio enregistré aujourd'hui"</string>
     <string name="privacy_pop_storage">"Accès au stockage aujourd'hui"</string>
     <string name="privacy_prompt_tc_sms_report_message">"Votre numéro de téléphone et les détails d'opérateur doivent être chiffrés et envoyés aux serveurs Mi pour obtenir la mise à jour de votre utilisation des données."</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Après que vous ayez lancé l'étalonnage, MIUI se connectera au réseau, cryptera les infos de votre opérateur, votre numéro de téléphone, votre IMEI et votre Compte Mi, puis enverra ces éléments vers les serveurs Mi. Ceci se fera dans le but d'acquérir le modèle d'étalonnage et apprenez si possible à acheter des données dans votre localité.
+    <string name="privacy_prompt_traffic_adjust_message">"Après que vous ayez lancé l'étalonnage, MIUI se connectera au réseau, cryptera les infos de votre opérateur, votre numéro de téléphone, votre IMEI et votre Compte Xiaomi, puis enverra ces éléments vers les serveurs Mi. Ceci se fera dans le but d'acquérir le modèle d'étalonnage et apprenez si possible à acheter des données dans votre localité.
 
 Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recevoir le modèle d'étalonnage."</string>
     <string name="privacy_prompt_upload">Envoyer</string>
@@ -4081,7 +4081,7 @@ Retirer le consentement maintenant ?"</string>
     <string name="report_warning_title">Attention</string>
     <string name="required_permissions">Permissions obligatoires </string>
     <string name="required_permissions_desc">Ces permissions sont nécessaires pour rendre les fonctionnalités et services de base de cette application disponibles.</string>
-    <string name="reset_data_dialog_message">"Cet appareil n'est pas associé à votre Compte Mi. Impossible de restaurer ou de réinitialiser le mot de passe. Sauvegardez tous les éléments importants et effectuez une réinitialisation d'usine. Toutes les données seront définitivement supprimées et votre carte SD sera formatée lors de la réinitialisation d'usine."</string>
+    <string name="reset_data_dialog_message">"Cet appareil n'est pas associé à votre Compte Xiaomi. Impossible de restaurer ou de réinitialiser le mot de passe. Sauvegardez tous les éléments importants et effectuez une réinitialisation d'usine. Toutes les données seront définitivement supprimées et votre carte SD sera formatée lors de la réinitialisation d'usine."</string>
     <string name="reset_data_dialog_ok">"Réinitialisation des paramètres d'usine"</string>
     <string name="reset_data_title">Impossible restaurer le mot de passe</string>
     <string name="result_autoscan_header">Suivi de paiement</string>
@@ -4197,7 +4197,7 @@ Retirer le consentement maintenant ?"</string>
     <string name="set_now">Paramètres</string>
     <string name="set_numeric_password_name">Définir un code PIN</string>
     <string name="set_package_tips">Nous enverrons un SMS gratuit à votre opérateur pour vérifier votre forfait de données. Les informations que vous fournissez seront chiffrées et téléchargées sur nos serveurs afin de rédiger ce message.</string>
-    <string name="set_package_tips_detail">Les informations téléchargées sur les serveurs Xiaomi comprendront les détails de votre opérateur, ainsi que votre numéro de téléphone, IMEI et votre Compte Mi.</string>
+    <string name="set_package_tips_detail">Les informations téléchargées sur les serveurs Xiaomi comprendront les détails de votre opérateur, ainsi que votre numéro de téléphone, IMEI et votre Compte Xiaomi.</string>
     <string name="set_pattern_password_name">Dessinez un schéma</string>
     <string name="set_traffic_tips">"Définissez votre forfait de données pour gérer l'utilisation des données mobiles et éviter les frais supplémentaires de l'opérateur"</string>
     <string name="setting">Paramètres</string>
@@ -5102,7 +5102,7 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="title_block_calls_from_strangers">Manquer des appels importants ?</string>
     <string name="title_chain_start">Restreindre le démarrage en chaîne</string>
     <string name="title_cleaner_cloudscan">"Fichiers inutiles avec l'analyse Cloud"</string>
-    <string name="title_cloud_account">Compte Mi</string>
+    <string name="title_cloud_account">Compte Xiaomi</string>
     <string name="title_cloud_service">Xiaomi Cloud</string>
     <string name="title_cloud_space_almost_full">Le stockage du Cloud est bientôt plein, des éléments peuvent ne pas être synchronisés</string>
     <string name="title_cloud_space_full">Mi Cloud est plein</string>

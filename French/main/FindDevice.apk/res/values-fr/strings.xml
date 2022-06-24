@@ -42,7 +42,7 @@
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="default_debt_msg_words">"Cet appareil est verrouillé en raison d'un retard de versement.
 Contactez votre agent de vente pour plus de détails."</string>
-    <string name="default_lock_msg_words">"Cet appareil est associé avec un Compte Mi existant. Pour des raisons de sécurité, vous devez entrer votre mot de passe pour vérifier l'appareil."</string>
+    <string name="default_lock_msg_words">"Cet appareil est associé avec un Compte Xiaomi existant. Pour des raisons de sécurité, vous devez entrer votre mot de passe pour vérifier l'appareil."</string>
     <string name="default_lock_msg_words_with_phone">"Salut ! J'ai perdu cet appareil. Pourriez-vous me contacter s'il-vous-plaît ? Merci !"</string>
     <string name="device_locked">Cet appareil est bloqué</string>
     <string name="device_lost">Cet appareil est perdu</string>
@@ -64,8 +64,8 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="find_device_capture_notification_title">"L'appareil trouvé est sur le point de prendre une photo"</string>
     <string name="find_device_crash">"\"Localiser l'appareil\" s'est fermé de façon inattendue."</string>
     <string name="find_device_error_access_denied">Accès refusé.</string>
-    <string name="find_device_error_account_sys_timeout">"Impossible de se connecter au Compte Mi. "</string>
-    <string name="find_device_error_account_unknown_error">Erreur Compte Mi (%s).</string>
+    <string name="find_device_error_account_sys_timeout">"Impossible de se connecter au Compte Xiaomi. "</string>
+    <string name="find_device_error_account_unknown_error">Erreur Compte Xiaomi (%s).</string>
     <string name="find_device_error_network">Erreur réseau.</string>
     <string name="find_device_error_password_changed">Le mot de passe du compte a été récemment changé.</string>
     <string name="find_device_error_server">Erreur serveur (%s).</string>
@@ -168,7 +168,7 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="passport_vcode_prompt_long">Entrez le code de vérification</string>
     <string name="passport_verify">Vérifier</string>
     <string name="password">Entrer le mot de passe</string>
-    <string name="phone_locked">"Cet appareil est associé à un Compte Mi (%s). Saisissez le mot de passe pour activer l'appareil."</string>
+    <string name="phone_locked">"Cet appareil est associé à un Compte Xiaomi (%s). Saisissez le mot de passe pour activer l'appareil."</string>
     <string name="phone_locked_account_email">, Email associé: %s</string>
     <string name="phone_locked_account_phone">, numéro de téléphone associé: %s</string>
     <string name="pm">PM</string>
@@ -274,7 +274,7 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="unlock_error_device_id">"Impossible d'obtenir l'identifiant de l'appareil"</string>
     <string name="unlock_error_interrupted">Interrompu</string>
     <string name="unlock_error_network">Impossible de se connecter au réseau</string>
-    <string name="unlock_error_passport_sdk_timeout">"L'application Compte Mi ne répond pas"</string>
+    <string name="unlock_error_passport_sdk_timeout">"L'application Compte Xiaomi ne répond pas"</string>
     <string name="unlock_error_rpc">Erreur du RPC</string>
     <string name="unlock_error_server">Erreur du serveur</string>
     <string name="unlock_error_ssl_hand_shake">"Impossible de se connecter au serveur, essayez de définir la date et l'heure manuellement."</string>
@@ -296,7 +296,7 @@ Accédez à i.mi.com/ss et soumettez votre demande pour déverrouiller l'apparei
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
     <string name="verifing_account">Vérification du mot de passe…</string>
-    <string name="verify_password_failed">"Impossible de vérifier l'identifiant du Compte Mi. %s."</string>
+    <string name="verify_password_failed">"Impossible de vérifier l'identifiant du Compte Xiaomi. %s."</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>

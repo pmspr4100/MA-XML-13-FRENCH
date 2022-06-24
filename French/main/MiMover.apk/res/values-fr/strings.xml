@@ -566,7 +566,7 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
 - Stockage"</string>
     <string name="request_all_permission_title">Autorisations requises</string>
     <string name="restore_data_to_device_content">"Vos articles ont été synchronisés avec Xiaomi Cloud.
-Connectez-vous à votre Compte Mi pour les restaurer."</string>
+Connectez-vous à votre Compte Xiaomi pour les restaurer."</string>
     <string name="restore_data_to_device_title">Restaurer des éléments sur cet appareil</string>
     <string name="revoke">Retirer le consentement</string>
     <string name="revoke_agree">Retrait du consentement</string>
@@ -623,7 +623,7 @@ Libérez au moins %s."</string>
     <string name="sender_finish_title">Transféré avec succès</string>
     <string name="sender_scanning_code">"Placez l'image dans le cadre"</string>
     <string name="sender_scanning_connecting">Connexion avec un nouvel appareil…</string>
-    <string name="set_new_device_account">Synchroniser avec le Compte Mi</string>
+    <string name="set_new_device_account">Synchroniser avec le Compte Xiaomi</string>
     <string name="set_new_device_lock">"Définir le verrouillage d'écran"</string>
     <string name="set_new_device_more">Plus de paramètres système…</string>
     <string name="set_new_device_navigationbar">Définir la navigation du système</string>

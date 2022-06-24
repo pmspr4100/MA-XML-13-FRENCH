@@ -22,7 +22,7 @@
     <string name="account_bind_secure_email_title">Ajouter un e-mail de secours</string>
     <string name="account_bind_secure_phone_title">Ajouter un numéro de téléphone de secours</string>
     <string name="account_crop_user_avatar">Recadrer la photo</string>
-    <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
+    <string name="account_empty_user_name">Entrez votre identifiant de Compte Xiaomi</string>
     <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
     <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, >, ou /"</string>
     <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
@@ -45,7 +45,7 @@
     <string name="account_user_details">Informations personnelles</string>
     <string name="account_user_email">E-mail de secours</string>
     <string name="account_user_gender">Sexe</string>
-    <string name="account_user_id">ID du Compte Mi</string>
+    <string name="account_user_id">ID du Compte Xiaomi</string>
     <string name="account_user_name">Surnom</string>
     <string name="account_user_name_dialog_title">Entrez votre surnom</string>
     <string name="account_user_other_info">Détails</string>
@@ -161,7 +161,7 @@
     <string name="back_description">Retour</string>
     <string name="back_home">"Relâcher pour la page d'accueil"</string>
     <string name="batch_download_tip">Il semble que plusieurs éléments soient téléchargés en même temps. Bloquer ces téléchargements ?</string>
-    <string name="bind_sign_in_title">Ajouter un Compte Mi</string>
+    <string name="bind_sign_in_title">Ajouter un Compte Xiaomi</string>
     <string name="block">Bloquer</string>
     <string name="block_ads_choice_block">Bloquer</string>
     <string name="block_ads_choice_continue">Continuer</string>
@@ -353,7 +353,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="confirm_know">OK</string>
     <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
     <string name="confirm_privacy_password">Dessinez votre schéma de déverrouillage</string>
-    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Mi %2$s le %1$s. Il ne sera plus associé au Compte Mi %3$s si vous continuez. Continuer ?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé au Compte Xiaomi %2$s le %1$s. Il ne sera plus associé au Compte Xiaomi %3$s si vous continuez. Continuer ?</string>
     <string name="connection_lost">Déconnecté</string>
     <string name="content_collection_done">Ajouté aux favoris avec succès</string>
     <string name="contextmenu_add_contact">Ajouter un contact</string>
@@ -556,10 +556,10 @@ Envoyez ce code au superviseur."</string>
     <string name="enter_news_by_pull_down">Relâchez pour ouvrir le flux de contenu</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
-    <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée à un autre Compte Mi.</string>
+    <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée à un autre Compte Xiaomi.</string>
     <string name="error_filename_too_long">Le nom de fichier que vous avez entré est trop long.</string>
     <string name="error_folder_already_exists">Ce fichier existe déjà</string>
-    <string name="error_forbidden">La synchronisation a été désactivée en raison de problèmes avec votre Compte Mi.</string>
+    <string name="error_forbidden">La synchronisation a été désactivée en raison de problèmes avec votre Compte Xiaomi.</string>
     <string name="error_info_cant_send_folder">"Impossible d'envoyer des dossiers."</string>
     <string name="error_invalid_bind_address">"L'adresse e-mail que vous avez entrée est invalide."</string>
     <string name="error_not_acceptable">La synchronisation est désactivée.</string>
@@ -567,10 +567,10 @@ Envoyez ce code au superviseur."</string>
     <string name="error_not_url_tips">Entrez une URL valide</string>
     <string name="error_open_file_failed_no_app_found">Impossible de trouver des applications pour ouvrir ce fichier.</string>
     <string name="error_title">Synchronisation impossible</string>
-    <string name="error_unauthorized">"La synchronisation avec votre Compte Mi a été désactivée en raison d'un trop grand nombre de tentatives de connexion."</string>
+    <string name="error_unauthorized">"La synchronisation avec votre Compte Xiaomi a été désactivée en raison d'un trop grand nombre de tentatives de connexion."</string>
     <string name="error_unsupport_url_tips">Impossible de télécharger cette vidéo. Nous prenons actuellement en charge le téléchargement de vidéos depuis Facebook, Twitter et Instagram.</string>
     <string name="evening">Après-midi</string>
-    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre Compte Mi.</string>
+    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi.</string>
     <string name="exit">Quitter</string>
     <string name="exit_browser_warning">Quitter le navigateur maintenant ?</string>
     <string name="exit_clear_dialog_always">Se souvenir de mon choix</string>
@@ -611,7 +611,7 @@ Envoyez ce code au superviseur."</string>
     <string name="experience_improve">"Programme d'expérience utilisateur"</string>
     <string name="exported">Exporté</string>
     <string name="external_app_restricted_access_error">Mi Browser ne peut pas accéder à cet élément.</string>
-    <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre Compte Mi</string>
+    <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi</string>
     <string name="fast_search_title">Recherche rapide</string>
     <string name="fast_than">Devant %1$s%% des utilisateurs</string>
     <string name="fb_login_tips">Connectez-vous pour télécharger des vidéos depuis Facebook</string>
@@ -767,7 +767,7 @@ Envoyez ce code au superviseur."</string>
     <string name="is_last_tab">Ceci est le dernier onglet</string>
     <string name="is_page_bottom">Vous avez atteint le bas de la page</string>
     <string name="is_page_top">Vous êtes en haut de la page</string>
-    <string name="isornot_your_mi_account">Est-ce votre Compte Mi ?</string>
+    <string name="isornot_your_mi_account">Est-ce votre Compte Xiaomi ?</string>
     <string name="js_disable_confirm_message">La désactivation de JavaScript peut entraîner un affichage incorrect de certains sites web.</string>
     <string name="js_disable_confirm_title">Désactiver JavaScript ?</string>
     <string name="just_a_second">Un instant…</string>
@@ -819,7 +819,7 @@ Envoyez ce code au superviseur."</string>
     <string name="midnight">Nuit</string>
     <string name="mint_games">Jeux tendance</string>
     <string name="miui_autologin_bar_error">Impossible de se connecter</string>
-    <string name="miui_autologin_bar_title">Connectez-vous avec le Compte Mi</string>
+    <string name="miui_autologin_bar_title">Connectez-vous avec le Compte Xiaomi</string>
     <string name="miui_bookmark_action_bar_add_group_title">Ajouter un groupe</string>
     <string name="miui_bookmark_action_bar_new_group_title">Nouveau groupe</string>
     <string name="miui_facebook_enable_pref_summary">Gérez plus facilement les notifications Facebook</string>
@@ -1227,7 +1227,7 @@ Quitter cette page maintenant ?"</string>
     <string name="page_info_view">"Voir la page d'information"</string>
     <string name="partner_privacy">Politiques de confidentialité des tiers</string>
     <string name="passport_access_denied">Accès refusé</string>
-    <string name="passport_account_label">Compte Mi</string>
+    <string name="passport_account_label">Compte Xiaomi</string>
     <string name="passport_account_name">"Compte : %1$s "</string>
     <string name="passport_activate_token_expired">Le code de vérification est expiré. Réessayer.</string>
     <string name="passport_area_code_title">Indicatif régional</string>
@@ -1756,10 +1756,10 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="share_slide_video_text">"Regardez ce que j'ai partagé : %1$s"</string>
     <string name="sign_in">Connexion</string>
     <string name="sign_in_by_others">Autres façons de se connecter</string>
-    <string name="sign_in_by_xiaommi">Connectez-vous avec le Compte Mi</string>
+    <string name="sign_in_by_xiaommi">Connectez-vous avec le Compte Xiaomi</string>
     <string name="sign_in_failed">Impossible de se connecter</string>
     <string name="sign_in_progress">Connexion…</string>
-    <string name="sign_in_title">Se connecter avec votre Compte Mi</string>
+    <string name="sign_in_title">Se connecter avec votre Compte Xiaomi</string>
     <string name="sign_in_to" formatted="false">Se connecter à %s1 \"%s2\"</string>
     <string name="sign_out">Se déconnecter</string>
     <string name="skip">Suivant</string>
@@ -1983,7 +1983,7 @@ Vous pouvez toujours vous désinscrire dans Paramètres > Vie privée et sécuri
     <string name="user_guide_color_mode_title">Sélectionnez le schéma de couleurs</string>
     <string name="user_guide_control_privacy_tips">Contrôlez complètement votre vie privée</string>
     <string name="user_guide_read_info_tips">Pour pouvoir inclure des applications dans les résultats de recherche, Mi Browser doit accéder à la liste des applications installées sur votre appareil.</string>
-    <string name="user_id_hint">E-mail/Téléphone/ID du Compte Mi</string>
+    <string name="user_id_hint">E-mail/Téléphone/ID du Compte Xiaomi</string>
     <string name="username">Nom</string>
     <string name="uuid">UUID(Cliquer pour exporter)</string>
     <string name="v5_edit_mode_title_empty">Sélectionnez des éléments</string>
