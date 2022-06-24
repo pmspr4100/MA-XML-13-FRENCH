@@ -570,6 +570,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="app_predict_dialog_message">"L'IA proposera des applications dont vous pourriez avoir besoin en ce moment"</string>
     <string name="app_predict_dialog_success">"Ajouté à l'écran d'accueil avec succès"</string>
     <string name="app_predict_folder_name">Rechercher</string>
+    <string name="app_predict_folder_tips">"Suggestions basées sur vos habitudes d'utilisation"</string>
     <string name="app_predict_go_shop_search_app">Chercher dans GetApps</string>
     <string name="app_predict_guide_button">Ajouter</string>
     <string name="app_predict_guide_message">AI will suggest apps that you might need at the moment</string>
@@ -592,6 +593,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="app_predict_setting_switch_message">"Recevez des suggestions d'applications en fonction de vos habitudes d'utilisation"</string>
     <string name="app_predict_setting_switch_title">Personnalisez les suggestions</string>
     <string name="app_predict_setting_title">"Suggestion d'applications"</string>
+    <string name="app_predict_settings_train_tip">Optimiser automatiquement la précision des suggestions</string>
     <string name="app_predict_widget_experience_now">Essayer</string>
     <string name="app_predict_widget_name_2x4">"Suggestion d'applications"</string>
     <string name="app_predict_widget_summary">Lancez rapidement les applications dont vous pourriez avoir besoin dès maintenant</string>
@@ -997,10 +999,10 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="btn_text_quick_save_power">Refroidir</string>
     <string name="btn_text_quick_scan">Analyser</string>
     <string name="btn_text_stop">Arrêter</string>
-    <string name="bubble_app_manage">Gérer les notifications par bulles</string>
-    <string name="bubble_notification">Notifications par bulles</string>
-    <string name="bubble_notification_switch">Autoriser les notifications par bulles</string>
-    <string name="bubble_notification_switch_desc">"Lorsqu'une fenêtre flottante est masquée au bord de l'écran, affiche ses notifications dans des bulles"</string>
+    <string name="bubble_app_manage">Gérer les bulles de conversation</string>
+    <string name="bubble_notification">Bulles de conversation</string>
+    <string name="bubble_notification_switch">Afficher les bulles de conversation</string>
+    <string name="bubble_notification_switch_desc">"Lorsqu'une application de messagerie dans une fenêtre flottante est masquée au bord de l'écran, afficher les messages entrants dans des bulles"</string>
     <string name="button_background_connection">Autoriser</string>
     <string name="button_block_calls_from_cantacts">Débloquer</string>
     <string name="button_block_calls_from_strangers">Débloquer</string>
@@ -2009,6 +2011,7 @@ Enregistrez des séquences et utilisez-les à tout moment !"</string>
     <string name="gb_game_ratio_right">Droit</string>
     <string name="gb_game_ratio_top">Haut</string>
     <string name="gb_game_time_toast">Le minuteur est disponible à présent !</string>
+    <string name="gb_game_tips_restart">Le jeu sera redémarré pour appliquer les modifications</string>
     <string name="gb_game_video_bottom_tips">Revisitez les moments clés de vos sessions de jeu dans Game Turbo. Les vidéos seront supprimées automatiquement après 7 jours.</string>
     <string name="gb_game_video_bottom_tips_new">Revisitez les moments clés de vos sessions de jeu dans Game Turbo. Les vidéos seront supprimées automatiquement après %d jours.</string>
     <string name="gb_game_video_item_tag">Moment clé</string>

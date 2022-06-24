@@ -1498,7 +1498,9 @@ Accéder aux thèmes > Profil > Laboratoire thématique pour plus de fonctionnal
     <string name="voice_input">Entrée vocale</string>
     <string name="wallpaper_apply">Appliquer</string>
     <string name="wallpaper_apply_full">Tout</string>
+    <string name="wallpaper_apply_inner">"Appliquer à l'écran intérieur"</string>
     <string name="wallpaper_apply_large">Écran intérieur</string>
+    <string name="wallpaper_apply_outer">"Appliquer à l'écran extérieur"</string>
     <string name="wallpaper_apply_pcmode">"Définir le fond d'écran du mode PC"</string>
     <string name="wallpaper_apply_small">Écran extérieur</string>
     <string name="wallpaper_crop">Rogner</string>
