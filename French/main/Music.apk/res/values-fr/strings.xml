@@ -264,7 +264,6 @@
     <string name="changepassword_hint_input1">Mot de passe actuel</string>
     <string name="changepassword_toast_passworderror">Le mot de passe est incorrect</string>
     <string name="character_counter_content_description">Caractères saisis %1$d sur %2$d</string>
-    <string name="character_counter_content_description">%1$d characters entrés sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="character_type">Sélectionner la catégorie de chambre</string>
@@ -698,12 +697,6 @@ Envoyez ce code au superviseur."</string>
     <string name="edit_hint_default_avatar">Photos de profil par défaut ></string>
     <string name="edit_hint_name">Surnom :</string>
     <string name="edit_playlist_info">Modifier les informations de la Playlist</string>
-    <string name="edit_title_edit">Modifier le profil</string>
-    <string name="edit_toast_noname">Le surnom ne peut pas être vide</string>
-    <string name="edit_toast_saveerror">"Impossible d'enregistrer, réessayez plus tard."</string>
-    <string name="edit_toast_savesuccess">Enregistré avec succès</string>
-    <string name="email">Courriel</string>
-    <string name="emoji_res_from">Propulsé par %s</string>
     <string name="edit_title_edit">Modifier le profil</string>
     <string name="edit_toast_noname">Le surnom ne peut pas être vide</string>
     <string name="edit_toast_saveerror">"Impossible d'enregistrer, réessayez plus tard."</string>
@@ -1878,7 +1871,6 @@ Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans 
     <string name="recharge_dialog_title">Super remise pour les nouveaux utilisateurs</string>
     <string name="recharge_limit">"La limite supérieure d'un montant de recharge unique est de 50 000 yuans"</string>
     <string name="recharge_limit_0">Le montant de la recharge doit être supérieur à 0</string>
-    <string name="recharge_limit_0">Le montant de la recharge doit être supérieur à 0</string>
     <string name="recommend_artist_title">Artiste recommandé</string>
     <string name="recommend_songs_when_playing_audio_files">Obtenez des recommandations de chansons tout en écoutant de la musique</string>
     <string name="recommended_file_size_download_in_mobile">Utiliser %s de données mobiles pour télécharger ce fichier ?</string>
@@ -2184,7 +2176,6 @@ Soyez heureux"</string>
     <string name="storage_usb">Stockage USB</string>
     <string name="store">Boutique</string>
     <string name="streamloadingtext">Connexion à %s</string>
-    <string name="store">Stocker</string>
     <string name="summary_command_mode">Activer pour entrer en mode Commande</string>
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
@@ -2376,7 +2367,7 @@ Soyez heureux"</string>
     <string name="unlimited_skips">Sauts illimités</string>
     <string name="unlock_failure">Le déverrouillage a échoué, veuillez réessayer plus tard~</string>
     <string name="unmute_chat_failed">Échec de la réactivation</string>
-    <string name="unmute_chat_succeed">"L'interdiction a été levée avec succès<"/string>
+    <string name="unmute_chat_succeed">"L'interdiction a été levée avec succès"</string>
     <string name="unmute_user_chat">Rétablir le son</string>
     <string name="unmute_user_title">"Voulez-vous débloquer l'utilisateur ?"</string>
     <string name="unrecharge">"Vous n'avez pas encore rechargé"</string>

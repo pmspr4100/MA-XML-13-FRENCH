@@ -71,8 +71,7 @@
     <string name="error_ap_or_screen_already_hosting">"Impossible d'envoyer des éléments vers d'autres appareils lors de la diffusion ou de l'utilisation d'un point d'accès portable."</string>
     <string name="error_ble_connect_failure">"L'appareil récepteur n'a pas pu se connecter au Bluetooth. Assurez-vous que son écran est allumé."</string>
     <string name="error_ble_connect_timeout">"Impossible de se connecter au Bluetooth. Reconnectez-vous au Bluetooth sur les deux appareils et réessayez."</string>
-    <string name="error_device_lost">"On dirait que l'autre appareil ne répond pas. Attendez une minute ou deux et réessayez."</string>
-    <string name="error_device_lost">"Il semble que l'autre appareil soit hors de portée. Attendez une minute ou deux et réessayez."</string>
+    <string name="error_device_lost">"Il semble que l'autre appareil ne répond pas. Attendez une minute ou deux et réessayez."</string>
     <string name="error_has_occurred">"Une erreur s'est produite"</string>
     <string name="error_mirror_working">"Impossible de partager des éléments lors du partage d'écran"</string>
     <string name="error_msg_network_error">Impossible de se connecter au réseau. Vérifiez les connexions Wi-Fi et Bluetooth des deux appareils.</string>
@@ -373,7 +372,6 @@ Avant d'utiliser Mi Share, vous devez accorder les autorisations suivantes, ains
     <string name="wait_receive_file">En attente de réception…</string>
     <string name="wait_remote_receive_tips">Assurez-vous que les écrans des deux appareils sont allumés et que le Wi-Fi et le Bluetooth sont activés.</string>
     <string name="wait_remote_receive_tips_china">Assurez-vous que les écrans des deux appareils sont allumés et que le Wi-Fi et le Bluetooth sont activés.</string>
-    <string name="wait_remote_receive_tips">En attente…</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
