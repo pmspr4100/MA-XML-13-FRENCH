@@ -22,7 +22,7 @@
   <string name="am">AM</string>
   <string name="cancel">Annuler</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
-  <string name="close">Fermer</string>
+  <string name="close">Désactiver</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="doc_photo_adjust_section_title">Faites glisser pour ajuster</string>
@@ -42,8 +42,10 @@
   <string name="doc_photo_idcard_alert_msg">"Ignorer toutes les modifications et quitter l'éditeur ?"</string>
   <string name="doc_photo_idcard_emblem">Retour</string>
   <string name="doc_photo_idcard_mode_title">"Carte d'identité"</string>
-  <string name="doc_photo_idcard_portrait">Front</string>
+  <string name="doc_photo_idcard_portrait">Face</string>
+  <string name="doc_photo_not_save">Ne pas enregistrer</string>
   <string name="doc_photo_not_support">Impossible de modifier cette image en tant que document</string>
+  <string name="doc_photo_save_effect_toast">Enregistrer les modifications maintenant ?</string>
   <string name="doc_photo_toast_undistortion_close">"L'anti-distortion est désactivée"</string>
   <string name="doc_photo_toast_undistortion_open">"L'anti-distortion est activée"</string>
   <string name="doc_photo_view_effect">Aperçu</string>
@@ -144,6 +146,7 @@
   <string name="night">Soirée</string>
   <string name="noon">Midi</string>
   <string name="ok">OK</string>
+  <string name="open">Activé</string>
   <string name="pm">PM</string>
   <string name="refocus_discard_confirm_message">Sauvegarder les modifications ?</string>
   <string name="refocus_discard_negative_btn">Abandonner</string>

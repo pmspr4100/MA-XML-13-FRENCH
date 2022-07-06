@@ -21,6 +21,7 @@
   <string name="afternoon">Après-midi</string>
   <string name="am">AM</string>
   <string name="app_name">Fenêtres flottantes</string>
+  <string name="bottom_bar_smallwindow_drag_text">Faites glisser ici pour épingler</string>
   <string name="bottom_bar_smallwindow_text">Relâchez pour épingler</string>
   <string name="close">Fermer</string>
   <string name="contentDescription">Déplacer la fenêtre</string>
@@ -58,6 +59,7 @@
   <string name="friday_shortest">Fri</string>
   <string name="fullscreen_slide_to_small_freeform">Plein écran vers fenêtre flottante</string>
   <string name="fullscreen_slide_to_small_freeform_summary">"Faites glisser votre doigt du bas de l'écran vers le coin supérieur droit de l'écran"</string>
+  <string name="fullscreen_slide_to_small_freeform_summary_squarehot">"Balayez du bas vers le bord supérieur de l'écran"</string>
   <string name="how_to_close_or_fullscreen_freeform">Fermer les fenêtres flottantes ou passer en mode plein écran</string>
   <string name="how_to_drop_down_to_fullscreen">Passer en mode plein écran</string>
   <string name="how_to_drop_down_to_fullscreen_summary">"Maintenez enfoncée, puis abaissez la barre d'action d'une fenêtre flottante"</string>

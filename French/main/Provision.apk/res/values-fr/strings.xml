@@ -409,9 +409,9 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="send">Envoyer</string>
     <string name="service_agreement">"J'ai lu et accepté les Conditions générales."</string>
     <string name="service_company_adjust_content">"Accord de l'utilisateur Xunlei Network Services"</string>
-    <string name="service_fast_pairing_policy"><Data>Lisez et acceptez la &lt;a href=%1$s>Politique de confidentialité de Mi Link&lt;/a > avant de continuer.</Data></string>
+    <string name="service_fast_pairing_policy"><Data>Lisez et acceptez la &lt;a href=%1$s>Politique de confidentialité de Mi Link&lt;/a> avant de continuer.</Data></string>
     <string name="service_interconnection_communication">Xiaomi Internet Communication Services</string>
-    <string name="service_location_share_policy"><Data>Lisez et acceptez la &lt;a href=%1$s>Déclaration de confidentialité des services de localisation&lt;/a > avant de continuer.</Data></string>
+    <string name="service_location_share_policy"><Data>Lisez et acceptez la &lt;a href=%1$s>Déclaration de confidentialité des services de localisation&lt;/a> avant de continuer.</Data></string>
     <string name="service_mi_account">Compte Xiaomi</string>
     <string name="service_name_MIUIDaemon">Démon MIUI</string>
     <string name="service_name_address_dialing">Contacts et Téléphone</string>
@@ -439,9 +439,9 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="service_name_security">Sécurité</string>
     <string name="service_name_service_framework">Mi Services Framework</string>
     <string name="service_name_systemdesktop">"Plug-in de service d'écran d'accueil"</string>
-    <string name="service_policy"><Data>"Lire et accepter notre &lt;a href=%1$s>Politique de confidentialité&lt;/a >."</Data></string>
+    <string name="service_policy"><Data>"Lire et accepter notre &lt;a href=%1$s>Politique de confidentialité&lt;/a>."</Data></string>
     <string name="service_policy_adjust_content">Politique de confidentialité de Xunlei</string>
-    <string name="service_policy_download"><Data>"Lisez et acceptez la &lt;a href=%1$s>Politique de confidentialité Xunlei&lt;/a > et le &lt;a href=%1$s>Contrat d'utilisation des services réseau Xunlei&lt;/a > avant de continuer."</Data></string>
+    <string name="service_policy_download"><Data>"Lisez et acceptez la &lt;a href=%1$s>Politique de confidentialité Xunlei&lt;/a> et le &lt;a href=%1$s>Contrat d'utilisation des services réseau Xunlei&lt;/a> avant de continuer."</Data></string>
     <string name="service_privacy_index">Politique de confidentialité</string>
     <string name="service_security_over_r"><Data>"Lisez et acceptez notre &lt;a href=%1$s>Politique de confidentialité&lt;/a>.&lt;br/>&lt;br/>Conformément aux normes Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g>, une autorisation unique sera retirée dans une période de temps définie (environ &lt;xliff:g example=5 secondes id=short>%3$s&lt;/xliff:g>) suivant l'arrêt de l'application correspondante. Si vous ouvrez l'application pendant cette courte période, l'autorisation sera alors retirée."</Data></string>
     <string name="service_sim_activation">Activation de la carte SIM</string>

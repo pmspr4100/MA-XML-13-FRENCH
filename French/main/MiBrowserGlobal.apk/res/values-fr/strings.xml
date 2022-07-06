@@ -1975,7 +1975,7 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="user_defined_webpage">Ajouter à la page de démarrage</string>
     <string name="user_defined_webpage_title">Ajouter à la page de démarrage</string>
     <string name="user_experience_agree">"S'inscrire"</string>
-    <string name="user_experience_content">"Le programme d'expérience utilisateur nous aide à améliorer nos produits et services de manière ciblée, ainsi qu'à introduire de nouvelles fonctionnalités et services qui vous sont utiles. Nous commencerons à collecter et à analyser les données pertinentes (par exemple, les données d'utilisation du produit) après votre inscription au programme. En appuyant sur \"S'inscrire\" ci-dessous, vous acceptez les conditions générales du &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5;>Programme d'expérience utilisateur&lt;/a >&lt;/font>.
+    <string name="user_experience_content">"Le programme d'expérience utilisateur nous aide à améliorer nos produits et services de manière ciblée, ainsi qu'à introduire de nouvelles fonctionnalités et services qui vous sont utiles. Nous commencerons à collecter et à analyser les données pertinentes (par exemple, les données d'utilisation du produit) après votre inscription au programme. En appuyant sur \"S'inscrire\" ci-dessous, vous acceptez les conditions générales du &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5;>Programme d'expérience utilisateur&lt;/a>&lt;/font>.
 Vous pouvez toujours vous désinscrire dans Paramètres > Vie privée et sécurité."</string>
     <string name="user_experience_disagree">"Ne pas s'inscrire"</string>
     <string name="user_experience_title">"Programme d'expérience utilisateur"</string>

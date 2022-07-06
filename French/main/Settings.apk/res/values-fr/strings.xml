@@ -2873,8 +2873,6 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dpp_sharing_wifi_summary">Partage du Wi-Fi…</string>
     <string name="dpp_theme_title">Wi-Fi partagé</string>
     <string name="draw_overlay">Superposer aux autres applis</string>
-    <string name="dsda_close_toast">"Le mode actif double est désactivé. Redémarrez l'appareil pour appliquer les modifications."</string>
-    <string name="dsda_open_toast">"Le mode actif double est activé. Redémarrez l'appareil pour appliquer les modifications."</string>
     <string name="dsda_switch_summary">Autoriser les deux cartes SIM à utiliser les données mobiles et à passer des appels simultanément</string>
     <string name="dsda_switch_title">Mode actif double</string>
     <string name="dsds_dialog_cancel">Annuler</string>
@@ -3235,6 +3233,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="face_unlock_offset_right">Move to the left</string>
     <string name="face_unlock_offset_top">Raise your phone a bit</string>
     <string name="face_unlock_open_eye">Open your eyes a bit wider</string>
+    <string name="face_unlock_prompt">"Enregistrer les données du visage
+face à l'écran extérieur"</string>
     <string name="face_unlock_quality">"Couldn't see your face clearly"</string>
     <string name="face_unlock_reveal_eye">Make your eyes visible</string>
     <string name="face_unlock_reveal_mouth">Make your lips visible</string>
@@ -3538,6 +3538,8 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="freeform_guide_slide_to_small_freeform_summary">"Faites glisser du bas de l'écran vers le coin supérieur droit de l'écran"</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Faites glisser le coin pour réduire une application</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Faites glisser le coin pour réduire une application</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Appuyez et maintenez le bas de la fenêtre, et faites-le glisser vers le bord supérieur de l'écran.
+Cette fonctionnalité ne fonctionne que lorsque la navigation du système est définie sur les gestes."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Glisser vers des fenêtres flottantes</string>
     <string name="freeform_guide_slide_up_to_close_summary">"Glissez vers le haut depuis la barre d'action d'une fenêtre flottante"</string>
     <string name="freeform_guide_slide_up_to_close_title">Fermer les fenêtres flottantes</string>
@@ -4860,7 +4862,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_auto_ack_mode">Répondez automatiquement aux appels lorsque vous portez les écouteurs</string>
     <string name="miheadset_auto_ack_mode_summary">Répondre automatiquement aux appels</string>
     <string name="miheadset_auto_answer_call">Répondre aux appels automatiquement</string>
-    <string name="miheadset_Box">Boîtier</string>
+    <string name="miheadset_auto_upgrade_reminder">Désactivez les mises à jour automatiques et vérifiez à nouveau les mises à jour</string>
+    <string name="miheadset_bluetooth_audio_title">"Taux d'échantillonnage audio Bluetooth LC3plus"</string>
     <string name="miheadset_bright">Brillant</string>
     <string name="miheadset_call_assist">Appel AI</string>
     <string name="miheadset_cancel_device">Annuler</string>
