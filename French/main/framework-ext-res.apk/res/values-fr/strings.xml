@@ -216,6 +216,9 @@
   <string name="monet">Étang aux nénuphars</string>
   <string name="morning">Matin</string>
   <string name="mountainspring">Source de montagne</string>
+  <string name="mw_guide_dialog_button_confirm">Compris</string>
+  <string name="mw_guide_dialog_message">Il semble que cette application ne prend pas en charge les fenêtres parallèles. Vous avez plutôt opté pour une autre mise en page compatible.</string>
+  <string name="mw_guide_dialog_title">Les fenêtres parallèles ne sont pas prises en charge</string>
   <string name="nearby_share">Partage à proximité</string>
   <string name="notice_audition">Sons de la nature</string>
   <string name="notification_channel_hotspot">"Notification point d'accès"</string>
