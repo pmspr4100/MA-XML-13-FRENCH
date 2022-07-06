@@ -603,6 +603,7 @@ Cette opération n'affectera pas les photos de votre galerie."</string>
     <string name="incentive_exchange_successful">Utilisé avec succès</string>
     <string name="incentive_exchange_tip">"Ces points ne sont disponibles qu'aujourd'hui"</string>
     <string name="incentive_login_for_claim">Connectez-vous à votre compte Google pour réclamer des points</string>
+    <string name="incentive_login_success_for_already_claimd">Connexion réussie. Points revendiqués.</string>
     <string name="incentive_login_tip">Connectez-vous pour gagner des points et obtenir des récompenses</string>
     <string name="incentive_my_points">Mes points</string>
     <string name="incentive_popup_window_share">Partager pour gagner des points</string>
@@ -636,6 +637,7 @@ Cette opération n'affectera pas les photos de votre galerie."</string>
     <string name="item_download_path">Emplacement de téléchargement</string>
     <string name="item_download_path_setting">Télécharger les paramètres de localisation</string>
     <string name="item_setting_go_back">Retrait du consentement</string>
+    <string name="item_title_for_search_page_hot">Populaire</string>
     <string name="item_title_unknown">Titre inconnu</string>
     <string name="item_view_role_description">Onglet</string>
     <string name="just_a_second">Chargement…</string>
@@ -1000,6 +1002,7 @@ pour les vidéos"</string>
     <string name="nick_name">Surnom</string>
     <string name="night">Soirée</string>
     <string name="no_account">Non connecté</string>
+    <string name="no_app_found_error">"Impossible de trouver l'application"</string>
     <string name="no_history">Aucun élément ici</string>
     <string name="no_longer_prompt">Ne plus afficher</string>
     <string name="no_more_content">"C'est tout pour le moment"</string>
@@ -1038,6 +1041,10 @@ pour les vidéos"</string>
     <string name="offline_opt_in_title">"Ouvrir l'annonce lorsque vous êtes de nouveau en ligne."</string>
     <string name="ok">OK</string>
     <string name="online_play_hint">Par exemple : http://www.example.com/video.mp4</string>
+    <string name="online_play_start_loading_tip">Un instant…</string>
+    <string name="online_play_start_ready_loading_tip_b">Chargement %.2f o/s</string>
+    <string name="online_play_start_ready_loading_tip_kb">Chargement %.2f Kio/s</string>
+    <string name="online_play_start_ready_loading_tip_mb">Chargement %.2f Mio/s</string>
     <string name="online_play_title">Entrez une URL</string>
     <string name="open_settings">Paramètres</string>
     <string name="order_recently_subscribe">Abonnements récents</string>
@@ -1524,7 +1531,7 @@ Augmenter la sécurité de votre compte."</string>
     <string name="small_video_load_more_hint">Balayer vers le haut pour lire plus de vidéos</string>
     <string name="small_video_snack_download_description">Téléchargez SnackVideo pour voir les dernières vidéos de vos créateurs préférés.</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
-    <string name="small_video_tab_expose_hint">"Découvrez de courtes vidéos que vous allez adorer"</string>
+    <string name="small_video_tab_expose_hint">Appuyez pour plus de courtes vidéos</string>
     <string name="sms_send_success">Envoyé avec succès</string>
     <string name="sns_access_token_expired_warning">La session a expiré. Connectez-vous à nouveau pour reconnecter ce compte.</string>
     <string name="sns_bind_limit">"Trop d'essais. Essayez d'autres moyens de vous connecter."</string>
@@ -1837,6 +1844,12 @@ Il ne montre rien."</string>
     <string name="welcome_tip_into_mivideo">Commencer</string>
     <string name="welcome_tip_skip">Ignorer</string>
     <string name="welcome_tip_title">Bienvenue dans Mi Vidéo</string>
+    <string name="widget_local_video">Vidéos locales</string>
+    <string name="widget_local_video_click">Appuyez pour regarder les vidéos stockées sur votre appareil</string>
+    <string name="widget_more_channel">Plus de chaînes</string>
+    <string name="widget_more_channel_click">Appuyez pour voir les chaînes de télévision</string>
+    <string name="widget_trending_click">"Appuyez pour voir les vidéos les plus populaires d'aujourd'hui"</string>
+    <string name="widget_trending_today">"Populaire aujourd'hui"</string>
     <string name="year">année</string>
     <string name="yesterday">Hier</string>
     <string name="yt_subscription_notification_setting_title">"Notifications d'abonnement"</string>

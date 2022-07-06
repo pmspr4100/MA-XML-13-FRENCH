@@ -291,6 +291,8 @@
     <string name="item_view_role_description">Onglet</string>
     <string name="just_now">"À l'instant"</string>
     <string name="kilobyteShort">" Kio"</string>
+    <string name="lack_perm_msg">Le gestionnaire de fichiers nécessite les autorisations suivantes pour fonctionner normalement : &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_title">Autorisations requises</string>
     <string name="launcher_icon_add_description">"Ajouter un nouveau raccourci sur l'écran d'accueil"</string>
     <string name="launcher_icon_remove_description_content">"L'Explorateur de fichiers est une application système. Vous ne pourrez plus gérer les fichiers sur votre appareil après avoir supprimé le raccourci en page d'accueil."</string>
     <string name="launcher_icon_remove_description_title">"Supprimer \"Explorateur de fichiers\" de l'écran d'accueil ?"</string>
@@ -301,6 +303,9 @@
     <string name="local_image">Images</string>
     <string name="local_music">Fichiers audio</string>
     <string name="local_video">Fichiers vidéos</string>
+    <string name="main_button_continue">Paramètres</string>
+    <string name="main_button_ok">OK</string>
+    <string name="main_button_quit">Annuler</string>
     <string name="make_private">Rendre privé</string>
     <string name="make_private_msg_1">Rendre ce fichier privé ?</string>
     <string name="make_private_msg_2">Rendre ces fichiers privés ?</string>
@@ -321,6 +326,7 @@
     <string name="menu_item_sort_type">Type</string>
     <string name="menu_item_usb">USB</string>
     <string name="menu_set_wallpaper">"Définir en tant que fond d'écran"</string>
+    <string name="message_request_manage_external_storage_perm">"L'explorateur de fichiers a besoin de l'autorisation d'accéder aux fichiers pour pouvoir gérer les fichiers sur votre appareil. Vous pouvez accorder cette autorisation dans les paramètres."</string>
     <string name="mi_router_label">Routeur</string>
     <string name="mi_share">Mi Share</string>
     <string name="midnight">Nuit</string>
@@ -526,6 +532,7 @@
     <string name="partial_encrypt_success">"Certains fichiers n'ont pas pu être rendus privés. Veuillez réessayer."</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="path_name_email">E-mail</string>
+    <string name="perm_manage_external_storage">Accéder à tous les fichiers</string>
     <string name="permission_denial">"Impossible d'accéder aux fichiers. Autoriser l'Explorateur de fichiers à accéder aux paramètres."</string>
     <string name="permission_description">Détails des autorisations</string>
     <string name="permission_required">"Impossible d'accéder aux fichiers. Autoriser l'Explorateur de fichiers à accéder aux paramètres.​"</string>
@@ -742,6 +749,7 @@
     <string name="title_app_tags">Applications</string>
     <string name="title_expire_video">À expiration</string>
     <string name="title_recent">Récent</string>
+    <string name="title_request_manage_external_storage_perm">Autorisations requises</string>
     <string name="title_select_volume">Sélectionner un dossier</string>
     <string name="to_open">Paramètres</string>
     <string name="to_setting">Paramètres</string>

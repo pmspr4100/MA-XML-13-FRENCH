@@ -50,6 +50,7 @@
   <string name="doc_photo_enhance_undistortion">Anti-distortion</string>
   <string name="doc_photo_enhance_undistortion_desc">"Corrige la distorsion de l'image"</string>
   <string name="doc_photo_enhance_undistortion_version4">Redresser</string>
+  <string name="doc_photo_enter_hand_remove">Appuyer pour effacer manuellement</string>
   <string name="doc_photo_handwrite_recover">Restaurer</string>
   <string name="doc_photo_handwrite_remove">Effacer</string>
   <string name="doc_photo_idcard_alert_msg">"Ignorer toutes les modifications et quitter l'éditeur ?"</string>
@@ -59,6 +60,7 @@
   <string name="doc_photo_no_remind">Ne plus afficher</string>
   <string name="doc_photo_not_save">Ne pas enregistrer</string>
   <string name="doc_photo_not_support">Impossible de modifier cette image en tant que document</string>
+  <string name="doc_photo_remind">Attention</string>
   <string name="doc_photo_save_effect_toast">Enregistrer les modifications maintenant ?</string>
   <string name="doc_photo_toast_undistortion_close">"L'anti-distortion est désactivée"</string>
   <string name="doc_photo_toast_undistortion_open">"L'anti-distortion est activée"</string>
