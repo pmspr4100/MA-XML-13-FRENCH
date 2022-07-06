@@ -464,6 +464,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sons &amp; vibrations
     <string name="kuyin_user_agreement_content">"Les abonnements de sonnerie personnalisés sont fournis par iFlytek. Vous devez accepter %s avant d'utiliser des abonnements de sonnerie personnalisés. Acceptez-vous ?"</string>
     <string name="kuyin_user_agreement_content_href">"Politique de confidentialité d'iFlytek"</string>
     <string name="lab">Laboratoire</string>
+    <string name="label">Libellé</string>
     <string name="like_list">"Articles que j'ai aimé"</string>
     <string name="live_wallpaper">"Fond d'écran dynamique"</string>
     <string name="load_from_local_photos">Galerie</string>

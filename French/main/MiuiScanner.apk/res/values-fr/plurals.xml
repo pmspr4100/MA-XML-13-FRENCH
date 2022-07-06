@@ -72,4 +72,8 @@
         <item quantity="other">Il y a %d minutes</item>
         <item quantity="one">Il y a 1 minute</item>
     </plurals>
+    <plurals name="word_limit_prompt">
+        <item quantity="other">%d caractères au-delà de la limite</item>
+        <item quantity="one">%d caractère au-delà de la limite</item>
+    </plurals>
 </resources>

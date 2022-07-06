@@ -160,6 +160,7 @@
     <string name="crop__wait">Veuillez patienter…</string>
     <string name="crop_cancel_description">Annuler</string>
     <string name="crop_done_description">OK</string>
+    <string name="crop_frame_you_box_selection_cannot_crop_this_picture">La zone de sélection doit avoir quatre côtés</string>
     <string name="crop_frame_you_selected_cannot_crop_this_picture">"Le quadrilatère de coupe ne peut pas être un quadrilatère concave et l'angle maximal ne peut pas dépasser 140 degrés"</string>
     <string name="crop_title_study">Rogner la photo</string>
     <string name="crop_title_translation">Sélectionnez le texte à traduire</string>
@@ -260,6 +261,7 @@
     <string name="food_module_title_food">Calories</string>
     <string name="form_demo_dialog_negative">Appuyez pour numériser le tableau, puis exportez-le sous forme de fichier Excel.</string>
     <string name="form_excel_save_sucess">Fichier Excel enregistré avec succès</string>
+    <string name="form_preview_title">Prévisualisation du tableau Excel</string>
     <string name="form_recognition_crop_hint">"Assurez-vous que les coins du tableau sont à l'intérieur de la zone sélectionnée"</string>
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
@@ -329,6 +331,10 @@
     <string name="language_value_korean">coréen</string>
     <string name="language_value_spanish">espagnol</string>
     <string name="link_to_network">Connexion</string>
+    <string name="local_ocr_recognition">Reconnaissance OCR locale</string>
+    <string name="local_ocr_recognition_str">Passé à la traduction hors ligne</string>
+    <string name="location_permission_message">Pour se connecter au Wi-Fi</string>
+    <string name="location_permissions_text">"Autoriser l'accès à la localisation dans les paramètres pour pouvoir utiliser cette fonctionnalité."</string>
     <string name="logistics">Livraison express</string>
     <string name="logout_service">Retirer le consentement</string>
     <string name="low_version_tip">Mettez à jour MIUI vers sa dernière version pour pouvoir utiliser Scanner.</string>
@@ -440,6 +446,8 @@
     <string name="not_identification_form">"Impossible de reconnaître le tableau. Sélectionnez à nouveau et recommencez."</string>
     <string name="not_insert_contact">"Impossible d'ajouter le contact"</string>
     <string name="not_network">Impossible de se connecter au réseau. Attendez une minute ou deux et réessayez.</string>
+    <string name="not_permissions_hint">"Autoriser l'accès au capteur photo pour pouvoir utiliser cette fonctionnalité."</string>
+    <string name="not_permissions_title">Autorisations requises</string>
     <string name="not_recommend_access_web_url">Aller quand même</string>
     <string name="not_set">Non défini</string>
     <string name="note">Remarque : </string>
@@ -746,8 +754,8 @@
     <string name="to_date">"Aujourd'hui"</string>
     <string name="to_install_title">Ce QR code vous redirige vers une application désinstallée. Téléchargez cette application maintenant ?</string>
     <string name="to_pay">Terminer le paiement</string>
-    <string name="toast_net_2g">Le réseau est médiocre. Veuillez changer de réseau et réessayer</string>
-    <string name="toast_net_timeout">La requête a expiré. Veuillez réessayer plus tard</string>
+    <string name="toast_net_2g">Impossible de se connecter au réseau. Changez de réseau et réessayez.</string>
+    <string name="toast_net_timeout">La requête a expiré. Attendez une minute ou deux et réessayez.</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="toinstall">Télécharger</string>
     <string name="tomorrow">Demain</string>
