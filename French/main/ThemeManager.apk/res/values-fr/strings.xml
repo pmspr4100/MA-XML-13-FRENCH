@@ -464,6 +464,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sons &amp; vibrations
     <string name="kuyin_user_agreement_content">"Les abonnements de sonnerie personnalisés sont fournis par iFlytek. Vous devez accepter %s avant d'utiliser des abonnements de sonnerie personnalisés. Acceptez-vous ?"</string>
     <string name="kuyin_user_agreement_content_href">"Politique de confidentialité d'iFlytek"</string>
     <string name="lab">Laboratoire</string>
+    <string name="label">Libellé</string>
     <string name="like_list">"Articles que j'ai aimé"</string>
     <string name="live_wallpaper">"Fond d'écran dynamique"</string>
     <string name="load_from_local_photos">Galerie</string>
@@ -1501,6 +1502,7 @@ Accéder aux thèmes > Profil > Laboratoire thématique pour plus de fonctionnal
     <string name="wallpaper_apply_inner">"Appliquer à l'écran intérieur"</string>
     <string name="wallpaper_apply_large">Écran intérieur</string>
     <string name="wallpaper_apply_outer">"Appliquer à l'écran extérieur"</string>
+    <string name="wallpaper_apply_outer_and_inner">Appliquer aux écrans intérieurs et extérieurs</string>
     <string name="wallpaper_apply_pcmode">"Définir le fond d'écran du mode PC"</string>
     <string name="wallpaper_apply_small">Écran extérieur</string>
     <string name="wallpaper_crop">Rogner</string>

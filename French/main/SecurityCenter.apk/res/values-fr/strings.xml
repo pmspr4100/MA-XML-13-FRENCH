@@ -999,6 +999,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="btn_text_quick_save_power">Refroidir</string>
     <string name="btn_text_quick_scan">Analyser</string>
     <string name="btn_text_stop">Arrêter</string>
+    <string name="bubble_app_empty_page">"Impossible de trouver des applications prenant en charge les bulles de conversation sur cet appareil"</string>
     <string name="bubble_app_manage">Gérer les bulles de conversation</string>
     <string name="bubble_notification">Bulles de conversation</string>
     <string name="bubble_notification_switch">Afficher les bulles de conversation</string>
@@ -4748,9 +4749,9 @@ Pour utiliser ce ^1, vous devez d'abord le monter."</string>
     <string name="storage_dialog_unsupported">"Cet appareil ne prend pas en charge ce ^1.
 
 Pour utiliser ce ^1 avec cet appareil, vous devez d'abord le configurer."</string>
-    <string name="storage_fbo_clear">Défragmentation</string>
-    <string name="storage_fbo_des">"Le stockage interne souffre d'une fragmentation, ce qui peut ralentir considérablement votre appareil. La défragmentation est effectuée automatiquement lorsque vous n'utilisez pas l'appareil. Elle organise physiquement vos fichiers dans le plus petit nombre de fragments possible, réduisant ainsi les ralentissements."</string>
-    <string name="storage_fbo_number_tip">Fusionné sur %1$s</string>
+    <string name="storage_fbo_clear">Actualisation du stockage FBO</string>
+    <string name="storage_fbo_des">"Le stockage interne souffre d'une fragmentation, ce qui peut ralentir considérablement votre appareil. L'actualisation du stockage FBO fonctionne automatiquement lorsque vous n'utilisez pas l'appareil. Il organise physiquement vos fichiers dans le plus petit nombre de fragments, réduisant ainsi la décalage."</string>
+    <string name="storage_fbo_number_tip">Traité le %1$s</string>
     <string name="storage_fbo_tools">Optimisation du stockage</string>
     <string name="storage_file_delete_tip">"Supprimer définitivement les éléments sélectionnés ? Certains d'entre eux peuvent être rechargés si nécessaire."</string>
     <string name="storage_file_dialog_delete_title">Supprimer des éléments</string>

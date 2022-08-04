@@ -27,6 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
+  <string name="access_denied_info">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
   <string name="action_collapse">Masquer</string>
   <string name="action_expand">Afficher plus</string>
   <string name="action_folder_description">Afficher les dossiers</string>
@@ -253,6 +254,9 @@
   <string name="info_note_enter_desktop">Note créée sur le bureau</string>
   <string name="item_view_role_description">Onglet</string>
   <string name="last_excerpt_unfinish_hint">Le dernier extrait est incomplet</string>
+  <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+  <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API basé sur SQLCipher</string>
+  <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
   <string name="loading_text">Chargement…</string>
   <string name="login_sync">Se connecter et synchroniser</string>
   <string name="lunar_day">Lunaire %1$s</string>
@@ -458,6 +462,8 @@
   <string name="mtrl_picker_toggle_to_day_selection">Appuyez pour passer à la sélection du jour</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
   <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
+  <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
+  <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
   <string name="new_app_name">Mi Notes</string>
   <string name="new_audio_create_cancel_talkback_des">Annulé</string>
   <string name="new_audio_create_done_talkback_des">Créer</string>
@@ -589,6 +595,7 @@
   <string name="privacy_note_content_empty">Aucun élément ici encore.</string>
   <string name="private_entry_available">Relâchez pour ouvrir le dossier privé</string>
   <string name="private_entry_default">Déroulez pour ouvrir le dossier privé</string>
+  <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
   <string name="quick_note_link_default_text">URL</string>
   <string name="quick_note_new_user_guide">Les notes rapides vous permettent de créer des notes et des extraits</string>
   <string name="recover_notes_hint">Une erreur est survenue, rendez-vous sur i.mi.com pour restaurer vos notes.</string>
@@ -713,6 +720,7 @@
   <string name="sync_note_folder">%1$s et %2$s</string>
   <string name="sync_note_todo">%1$s et %2$s</string>
   <string name="sync_tips">Appuyez pour synchroniser les notes avec le Cloud.</string>
+  <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
   <string name="the_anti_aggression_day">Anti-aggression Day</string>
   <string name="the_arbor_day">Arbor Day</string>
@@ -879,6 +887,7 @@ Autorisez Notes à lire le statut et lidentité du téléphone."</string>
   <string name="tuesday_shortest">Ma</string>
   <string name="unclassfied_folder_name">Sans catégorie</string>
   <string name="undo">Annuler</string>
+  <string name="unknown_error_info">Erreur inconnue</string>
   <string name="unknown_source">Source inconnue</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>

@@ -657,6 +657,8 @@
     <string name="worldcolock_timezone_date">d MMMM</string>
     <string name="worldcolock_timezone_local">"Identique à l'heure locale"</string>
     <string name="xiaoai_ringtone_title">Sonneries Mi IA</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">"L'horloge est une application système. Vous ne pourrez pas vérifier l'heure, définir des alarmes ou utiliser d'autres fonctionnalités de l'horloge après avoir désinstallé l'application."</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">Désinstaller Horloge ?</string>
     <string name="yesterday">Hier</string>
     <string name="your_sounds">Mes sons</string>
 </resources>
