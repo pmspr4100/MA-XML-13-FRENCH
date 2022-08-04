@@ -350,11 +350,9 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="branch_app_suggestion">Recommandé</string>
     <string name="branch_apps">Applications</string>
     <string name="branch_contacts">Contacts</string>
-    <string name="branch_function_search_for_more">La recherche avancée vous permet de trouver des éléments dans les paramètres, les contacts, la messagerie, etc.</string>
     <string name="branch_give_relevant_permissions">Accorder à Mi Browser les autorisations appropriées dans les paramètres</string>
     <string name="branch_grant_permission">Autorisations requises</string>
     <string name="branch_local_search_settings">Paramètres de recherche locale</string>
-    <string name="branch_new_function">Nouvelle fonctionnalité</string>
     <string name="branch_search_guide_privacy">"Cette fonctionnalité est fournie par Branch Metrics Inc. Nous partagerons votre position, vos recherches et votre identifiant Google Ads avec eux. Lisez et acceptez leur "<font color="#B3000000"><a href="http://url1">Conditions générales</a></font> et <font color="#B3000000"><a href="http://url2">Politique de confidentialité</a></font> avant de continuer.</string>
     <string name="branch_search_in_browser">Rechercher \"%1$s\" dans le navigateur</string>
     <string name="branch_setting">Paramètres</string>
@@ -368,7 +366,6 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="browserFrameNetworkErrorLabel">Erreur de connexion</string>
     <string name="btn_agree">Accepter</string>
     <string name="btn_cancel">Annuler</string>
-    <string name="btn_confirm">Compris</string>
     <string name="camera_permission_name">Utiliser la caméra</string>
     <string name="can_not_send_with_too_many">"Impossible d'envoyer autant d'éléments à la fois"</string>
     <string name="cancel">Annuler</string>
@@ -570,6 +567,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="continue_reading">Continuer la lecture</string>
     <string name="copy">Copier</string>
     <string name="copy_url">"Copier l'URL"</string>
+    <string name="core_functions_of_browser">Fonctionnalités principales à portée de main</string>
     <string name="could_not_load_data">"Impossible de charger les données, actualisez et réessayez"</string>
     <string name="crash_page_button">Réessayer</string>
     <string name="crash_page_description">"Une erreur s'est produite lors de l'affichage de cette page web."</string>
@@ -773,6 +771,7 @@ Envoyez ce code au superviseur."</string>
     <string name="encrypt_success">Masqué avec succès</string>
     <string name="encrypting">Chiffrement…</string>
     <string name="end_user_license">"Contrat de licence de l'utilisateur final"</string>
+    <string name="enter_bookmark">Favoris</string>
     <string name="enter_developer_mode">Entrer en mode développeur</string>
     <string name="enter_incongnito_mode">Entrer en mode Navigation privée</string>
     <string name="enter_news_by_pull_down">Relâchez pour ouvrir le flux de contenu</string>
@@ -1107,6 +1106,7 @@ pour ajouter des livres sur le bureau"</string>
     <string name="go_me">Profil</string>
     <string name="go_supermarket_button">"C'est parti"</string>
     <string name="go_supermarket_title">"Plus d'applications, une vitesse plus rapide et moins d'utilisation de données dans l'App Store"</string>
+    <string name="go_to_tab">Onglets</string>
     <string name="gold_medals">"Médailles d'or"</string>
     <string name="google_bookmarks">Google</string>
     <string name="googlepay_anonymous_merge_dialog_agree">Se connecter</string>
@@ -1607,7 +1607,6 @@ Quitter cette page maintenant ?"</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Annuler</string>
     <string name="navigationbar_rightbutton_actiontext_go">Commencer</string>
     <string name="navigationbar_rightbutton_actiontext_search">Recherche</string>
-    <string name="need_provide_permissions">Vous devrez accorder les autorisations appropriées pour pouvoir utiliser cette fonctionnalité.</string>
     <string name="net_error">Erreur réseau</string>
     <string name="net_error__button_text">Réessayer</string>
     <string name="network_show_wifi_setting_tip_dialog_description">"J'ai trouvé un point d'accès Wi-Fi à proximité. Essayez de vous connecter ?"</string>
@@ -1815,6 +1814,7 @@ Quitter cette page maintenant ?"</string>
     <string name="per_month">Par mois</string>
     <string name="permission_agree_service">"J'ai lu et j'accepte toutes les conditions générales suivantes."</string>
     <string name="permission_alert_window">Autoriser le navigateur à afficher des fenêtres flottantes pour pouvoir utiliser cette fonctionnalité.</string>
+    <string name="permission_allow">Autoriser</string>
     <string name="permission_contacts">Contacts</string>
     <string name="permission_deeplink_tip_title">Autoriser cette page à ouvrir %s ?</string>
     <string name="permission_dialog_msg_camera">%s veut utiliser votre capteur photo</string>
@@ -1838,9 +1838,11 @@ Quitter cette page maintenant ?"</string>
     <string name="permission_open_location">"Autorisez d'abord Mi Browser à accéder à votre emplacement dans les Paramètres"</string>
     <string name="permission_open_mic">"Autorisez d'abord Mi Browser à accéder à votre microphone dans les Paramètres"</string>
     <string name="permission_open_storage">"Autorisez d'abord Mi Browser à accéder au stockage interne dans les Paramètres"</string>
+    <string name="permission_request_contacts">"Cette fonctionnalité nécessite l'autorisation d'accéder à vos contacts pour pouvoir fonctionner normalement."</string>
     <string name="permission_service">Conditions générales</string>
     <string name="permission_sound_toast_message">Lecture audio…</string>
     <string name="permission_storage">Stockage</string>
+    <string name="permission_to_open">Paramètres</string>
     <string name="permission_unknown">"Une erreur s'est produite."</string>
     <string name="permission_use">Autorisations</string>
     <string name="permisssion_not_ask_again">"Ne plus demander"</string>
@@ -2711,6 +2713,8 @@ vous recommandons d'utiliser le mode de lecture libre"</string>
     <string name="search_trending_new">Nouveau</string>
     <string name="search_trending_title">Tendance</string>
     <string name="search_tupian">Image</string>
+    <string name="search_using_traceless_mode">Navigation privée</string>
+    <string name="search_with_browser">Rechercher avec Mi Browser</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Télécharger dans App Store</string>
@@ -2764,6 +2768,7 @@ vous recommandons d'utiliser le mode de lecture libre"</string>
     <string name="share_page_text">"Regardez ce que j'ai partagé : %1$s @MIUI| %2$s"</string>
     <string name="share_slide_video_text">"Regardez ce que j'ai partagé : %1$s"</string>
     <string name="shear_plate_permission_name">Accéder ou enregistrer des éléments dans le presse-papiers</string>
+    <string name="shortcut_function">Raccourcis</string>
     <string name="shortcuts_boost_speed">Accélérer la vitesse</string>
     <string name="shortcuts_cleanup_cache">Nettoyeur</string>
     <string name="shortcuts_cleanup_memory">Vider le cache</string>

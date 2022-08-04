@@ -1838,6 +1838,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="captioning_window_opacity">Opacité de la zone de sous-titres</string>
     <string name="capture_system_heap_dump_title">Capturer le vidage mémoire système</string>
     <string name="capturing_system_heap_dump_message">Capturing system heap dump</string>
+    <string name="card_holder_header_title">Portefeuille</string>
     <string name="card_main_hbassistant_title">Enveloppes rouges; Enveloppe rouge; Argent</string>
     <string name="cards_passes_lower">cartes et pass</string>
     <string name="cards_passes_sentence">Cartes et pass</string>
