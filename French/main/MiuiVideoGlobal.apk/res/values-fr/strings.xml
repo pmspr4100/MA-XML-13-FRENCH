@@ -242,6 +242,8 @@
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="day">jour</string>
     <string name="description">Description</string>
+    <string name="desktop_widget_local_media">Fichiers médias</string>
+    <string name="desktop_widget_new">Nouveau</string>
     <string name="detail_select_source">Sélectionnez la source de lecture</string>
     <string name="diagnosis_log_send_failed">"Impossible d'envoyer les journaux. Réessayer."</string>
     <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
@@ -490,6 +492,7 @@ Envoyez ce code au superviseur."</string>
     <string name="galleryplus_notification_linkvideo_title4">Des centaines de vidéos gratuites pour une durée limitée</string>
     <string name="galleryplus_notification_linkvideo_title5">Diffusez gratuitement vos émissions préférées</string>
     <string name="galleryplus_notification_try_now_btn">Essayer maintenant</string>
+    <string name="galleryplus_notification_type_link_video">Passer aux vidéos locales</string>
     <string name="galleryplus_online_cta">"Mi Vidéo doit se connecter à Internet pour fonctionner normalement. Se connecter ?"</string>
     <string name="galleryplus_online_cta_agree">Accepter</string>
     <string name="galleryplus_online_cta_disagree">Refuser</string>
@@ -594,6 +597,7 @@ Cette opération n'affectera pas les photos de votre galerie."</string>
     <string name="incentive_exchange">Utiliser</string>
     <string name="incentive_exchange_code">Code</string>
     <string name="incentive_exchange_code_copy">Copier</string>
+    <string name="incentive_exchange_code_copy_and_start">Utiliser</string>
     <string name="incentive_exchange_details">Détails</string>
     <string name="incentive_exchange_details_current">Total de la commande</string>
     <string name="incentive_exchange_details_total">Solde</string>
@@ -619,6 +623,9 @@ Cette opération n'affectera pas les photos de votre galerie."</string>
     <string name="incentive_task_title_novice">Pour les nouveaux arrivants</string>
     <string name="incentive_task_to_get">Démarrer</string>
     <string name="incentive_task_to_login">Se connecter</string>
+    <string name="incentive_toast_share_success_new">Partagé avec succès</string>
+    <string name="incentive_toast_subscribe_success_new">Inscrit avec succès</string>
+    <string name="incentive_ui_tab_earn_credits">Points</string>
     <string name="incentive_view_all_prizes">Voir toutes les récompenses</string>
     <string name="incentive_view_details">Détails</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
@@ -1031,6 +1038,7 @@ pour les vidéos"</string>
     <string name="notification_recall_desc">Mi Vidéo peut vous notifier à propos des vidéos populaires et de vos abonnements.</string>
     <string name="notification_recall_title">Activer les notifications</string>
     <string name="notification_tool">Boîte à outils</string>
+    <string name="notification_type_channel_music">Lecture de musique</string>
     <string name="notify_apk_installed">Téléchargé avec succès</string>
     <string name="offline_notification_text">"Appuyer pour ouvrir l'annonce"</string>
     <string name="offline_notification_title">"Afficher l'annonce que vous avez enregistrée lorsque vous étiez hors ligne"</string>

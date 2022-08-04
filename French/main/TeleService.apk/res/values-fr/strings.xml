@@ -1581,6 +1581,8 @@ Please contact your operators"</string>
     <string name="no_vm_number">Numéro de messagerie vocale manquant</string>
     <string name="no_vm_number_msg">Pas de numéro de messagerie vocale enregistré dans la carte SIM.</string>
     <string name="no_voip">Les appels SIP ne sont pas pris en charge</string>
+    <string name="no_volte_call_service_notification_content2_for_cbn">"Impossible de passer des appels. Le service de voix HD n'est pas enregistré pour la carte SIM %d (China Broadnet)."</string>
+    <string name="no_volte_call_service_notification_content_for_cbn">"Impossible de passer des appels. Le service de voix HD n'est pas enregistré pour la carte SIM China Broadnet."</string>
     <string name="no_wifi_available">Les appels SIP exigent une connexion Wi-Fi (celle-ci peut être activée sous Paramètres et Sans fil et réseaux).</string>
     <string name="noon">Midi</string>
     <string name="not_a_valid_port">Le numéro de port doit être compris entre %1$d et %2$d.</string>

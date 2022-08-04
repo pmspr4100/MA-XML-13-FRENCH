@@ -573,6 +573,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="allow_mock_location_summary">Autoriser les simulations de localisations</string>
     <string name="allow_oaid_used">"Utiliser l'ID virtuel"</string>
     <string name="allow_oaid_used_desc">"MIUI ne fournira pas d'ID virtuel (OAID) aux applications installées. Certaines fonctionnalités de recommandations personnelles peuvent ne pas fonctionner correctement à cause de cela."</string>
+    <string name="allow_ongoing_title">Autoriser les notifications permanentes</string>
     <string name="allow_overlay_description">Autorisez cette application à se superposer aux autres applications que vous utilisez. Cette autorisation peut avoir un impact sur votre utilisation de ces dernières, ou modifier leur apparence ou leur comportement.</string>
     <string name="allow_sound_title">Autoriser le son</string>
     <string name="allow_vibrate_title">Autoriser les vibrations</string>
