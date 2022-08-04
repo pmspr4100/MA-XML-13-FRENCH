@@ -2008,7 +2008,7 @@ Quitter cette page maintenant ?"</string>
     <string name="personal__welfare_details_bonus_item_4">"4. Lorsqu'il y a des bonus sur votre compte et que vous effectuez un paiement, %1$s déduira les bonus en commençant par ceux qui expirent le plus tôt. Une fois que vous n'aurez plus de bonus, les pièces seront utilisées."</string>
     <string name="personal__welfare_free_time_left">"Offre limitée : "</string>
     <string name="personal__welfare_rule_item_1">"1. Les cycles d'enregistrement commencent chaque lundi et durent une semaine."</string>
-    <string name="personal__welfare_rule_item_2">2. Plus vous enregistrez de jours, plus vous obtiendrez de bonus. Si vous manquez un jour, vous pouvez toujours obtenir des bonus pour le reste des jours du cycle.</ chaîne>
+    <string name="personal__welfare_rule_item_2">2. Plus vous enregistrez de jours, plus vous obtiendrez de bonus. Si vous manquez un jour, vous pouvez toujours obtenir des bonus pour le reste des jours du cycle.</string>
     <string name="personal__welfare_rule_item_3">"3. L'enregistrement commence chaque jour à minuit."</string>
     <string name="personal__welfare_thumbnail_label_free">Gratuit</string>
     <string name="personalized_content_services">Services de contenu personnalisé</string>
@@ -2524,7 +2524,7 @@ vous recommandons d'utiliser le mode de lecture libre"</string>
     <string name="reading__shared__reach_last_page">Vous avez atteint la dernière page</string>
     <string name="reading__shared__reward_video"><u>Regarder la vidéo sans publicité</u></string>
     <string name="reading__shared__reward_video_ad_free_time">Félicitations ! Les annonces de page de lecture ont été exemptées dans %s minutes</string>
-    <string name="reading__shared__reward_video_desc"><u>La description des règles ? </u></chaîne>
+    <string name="reading__shared__reward_video_desc"><u>La description des règles ? </u></string>
     <string name="reading__shared__reward_video_desc_i_know">pour éviter la publicité</string>
     <string name="reading__shared__reward_video_desc_info">"Cliquez pour regarder la vidéo récompensée, vous serez exempté de publicité pendant 10 minutes après l'achèvement, et vous ne serez pas récompensé si vous quittez à mi-chemin."</string>
     <string name="reading__shared__reward_video_desc_without_line">instructions publicitaires gratuites</string>

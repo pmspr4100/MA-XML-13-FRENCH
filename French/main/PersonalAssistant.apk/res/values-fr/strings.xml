@@ -505,12 +505,6 @@ pour afficher les widgets."</string>
   <string name="pa_shopping_dialog_privacy_withdraw_message">"Si vous continuez, vous retirerez votre consentement à la politique de confidentialité de Shopping. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti dans conformément aux lois et réglementations applicables, sauf indication contraire. Étant donné que Shopping fournit ses services sur la base de la collecte d'informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter ces services."</string>
   <string name="pa_shopping_dialog_privacy_withdraw_title">Retrait du consentement</string>
   <string name="pa_shopping_dialog_statement_desc">Déclaration sur les services tiers</string>
-  <string name="pa_shopping_dialog_privacy_authorize_message">"Bienvenue dans Shopping ! Vous pouvez utiliser ce widget pour obtenir des remises et des offres d'achat. Lisez et acceptez notre déclaration sur les services tiers et notre politique de confidentialité avant de continuer."</string>
-  <string name="pa_shopping_dialog_privacy_authorize_title">Termes et conditions</string>
-  <string name="pa_shopping_dialog_privacy_desc">Politique de confidentialité</string>
-  <string name="pa_shopping_dialog_privacy_withdraw_message">"Si vous continuez, vous retirerez votre consentement à la politique de confidentialité de Shopping. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti dans conformément aux lois et réglementations applicables, sauf indication contraire. Étant donné que Shopping fournit ses services sur la base de la collecte d'informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter ces services."</string>
-  <string name="pa_shopping_dialog_privacy_withdraw_title">Retrait du consentement</string>
-  <string name="pa_shopping_dialog_statement_desc">Déclaration sur les services tiers</string>
   <string name="pa_shopping_page_product_action_bar_title">Tous les produits</string>
   <string name="pa_shopping_page_product_delete_bar_desc">Supprimer des produits</string>
   <string name="pa_shopping_page_product_delete_error">"Une erreur s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
