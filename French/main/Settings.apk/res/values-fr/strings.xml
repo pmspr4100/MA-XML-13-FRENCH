@@ -3198,7 +3198,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="face_data_input_structure_title">Données de visage 3D</string>
     <string name="face_data_input_title">Ajouter des données de visage</string>
     <string name="face_data_introduction_add">Démarrer</string>
-    <string name="face_data_introduction_msg">"Les données de visage peuvent être utilisées pour déverrouiller votre appareil ou pour vérifier votre identité. Ajoutez un mot de passe pour bloquer l'écran avant d'ajouter vos données de visage."</string>
+    <string name="face_data_introduction_msg">"Les données de visage peuvent être utilisées pour déverrouiller votre appareil ou pour vérifier votre identité.
+Ajoutez un verrouillage d'écran avant d'ajouter vos données de visage."</string>
     <string name="face_data_introduction_next">Suivant</string>
     <string name="face_data_introduction_title">Reconnaissance faciale</string>
     <string name="face_data_manage_delete">Supprimer les données de visage ?</string>
@@ -3212,7 +3213,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="face_data_siggesstion_next_time">Suivant (%ds)</string>
     <string name="face_data_suggesstion_first">"Problèmes de sécurité : le déverrouillage par le visage est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
     <string name="face_data_suggesstion_first_cn">Pour que vous puissiez utiliser le déverrouillage par le visage, nous devons collecter vos données faciales qui seront ensuite stockées localement sur cet appareil. Pour les supprimer, recherchez Déverrouillage par le visage dans les paramètres, puis sélectionnez Déverrouillage par le visage > Données du visage et choisissez le profil à supprimer.</string>
-    <string name="face_data_suggesstion_first_cn_highlight">"Le déverrouillage par reconnaissance faciale est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
+    <string name="face_data_suggesstion_first_cn_highlight">"Le déverrouillage par reconnaissance faciale est moins sécurisé qu'un code PIN, un mot de passe, un schéma ou un empreinte digitale. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
     <string name="face_data_suggesstion_second">"Assurez-vous que toutes les parties de votre visage sont clairement visibles. Ne portez pas d'accessoires qui pourraient couvrir votre visage. Gardez votre visage uniformément éclairé et évitez la lumière directe."</string>
     <string name="face_intro_error_max">Vous avez ajouté le nombre maximum de visages</string>
     <string name="face_intro_error_unknown">"Impossible d'ajouter plus de visages"</string>
@@ -3301,6 +3302,11 @@ face à l'écran extérieur"</string>
     <string name="find_my_device_disable">Désactivé</string>
     <string name="find_my_device_enable">Activé</string>
     <string name="find_my_device_summary">Cette fonctionnalité nécessite une connexion au Compte Xiaomi</string>
+    <string name="finger_add_user_info_dialog_cancel">Annuler</string>
+    <string name="finger_add_user_info_dialog_message">"Pour que vous puissiez utiliser le déverrouillage par empreinte digitale et effectuer des paiements par empreinte digitale, nous devons collecter votre empreinte digitale. L'empreinte digitale sera stockée localement sur cet appareil. Pour la supprimer, recherchez \"Déverrouiller avec l'empreinte digitale\" dans les Paramètres, puis sélectionnez Déverrouiller avec l'empreinte digitale > Empreinte digitale. Vous ne pourrez pas utiliser cette fonctionnalité si vous n'êtes pas d'accord."</string>
+    <string name="finger_add_user_info_dialog_next">Accepter</string>
+    <string name="finger_add_user_info_dialog_title">Attention</string>
+    <string name="finger_detail_info_text">"Modifier le nom de l'empreinte digitale"</string>
     <string name="fingerprint_add_max">"Vous pouvez ajouter jusqu'à %d empreintes digitales."</string>
     <string name="fingerprint_add_title">Ajouter une empreinte digitale</string>
     <string name="fingerprint_and_password_entrance_title">"Verrouillage de l'écran et empreinte digitale"</string>
@@ -4495,7 +4501,8 @@ pour le Deuxième espace"</string>
     <string name="lockpassword_choose_your_pin_header_for_face">"Pour utiliser l'authentification faciale, définissez un code PIN"</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">Pour utiliser votre empreinte, définissez un code</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Définir un code
-pour le Deuxième espace"</string>
+pour le Deuxième espace.
+Il doit être de la même longueur que le code PIN du premier espace."</string>
     <string name="lockpassword_choose_your_pin_message">Pour des raisons de sécurité, définissez un code</string>
     <string name="lockpassword_choose_your_pin_title">Entrez %1$d-%2$d chiffres</string>
     <string name="lockpassword_choose_your_screen_lock_header">"Définir le verrouillage de l'écran"</string>
@@ -4569,7 +4576,8 @@ pour le Deuxième espace"</string>
     <string name="lockpattern_recording_inprogress">Relâchez le doigt lorsque vous avez terminé</string>
     <string name="lockpattern_recording_intro_footer">"Appuyez sur Menu pour de l'aide."</string>
     <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage :</string>
-    <string name="lockpattern_recording_intro_header_second_space">Dessiner un schéma de déverrouillage pour le second espace :</string>
+    <string name="lockpattern_recording_intro_header_second_space">"Dessinez un schéma de déverrouillage pour le deuxième espace.
+Connectez au moins 4 points."</string>
     <string name="lockpattern_restart_button_text">Dessiner à nouveau</string>
     <string name="lockpattern_retry_button_text">Effacer</string>
     <string name="lockpattern_settings_change_lock_pattern">Modifier le schéma de déverrouillage</string>
@@ -4884,6 +4892,11 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_double_click_right">"Tapotez 2 fois l'écouteur droit"</string>
     <string name="miheadset_double_connection">Double connexion</string>
     <string name="miheadset_double_connection_summary">"Lorsque vous activez cette fonction, vous pouvez répondre aux appels ou lire de l'audio ou de la vidéo sur les deux appareils connectés sans avoir à basculer manuellement"</string>
+    <string name="miheadset_double_press_left">"Appuyez deux fois sur l'écouteur gauche"</string>
+    <string name="miheadset_double_press_right">"Appuyez deux fois sur l'écouteur droit"</string>
+    <string name="miheadset_double_toast">Mettez les deux écouteurs pour pouvoir utiliser cette fonctionnalité</string>
+    <string name="miheadset_dual_connect_mode">Se connecter à deux appareils</string>
+    <string name="miheadset_dual_connect_mode_summary">Activez pour connecter vos écouteurs à deux appareils Bluetooth simultanément</string>
     <string name="miheadset_enhanceVoice">Améliorer la voix</string>
     <string name="miheadset_enhence_high">Améliorer les aigus</string>
     <string name="miheadset_enhence_low">Améliorer les basses</string>
@@ -5878,6 +5891,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="owner_space">Premier espace</string>
     <string name="p2p_summary_enable_GPS">Cette fonctionnalité fonctionne lorsque les services de localisation sont activés</string>
     <string name="packages_subtitle">Modules inclus</string>
+    <string name="pad_add_fingerprint_finish_message">Continuer pour accéder aux paramètres supplémentaires.</string>
+    <string name="pad_add_fingerprint_message">"Placez votre doigt sur le bouton d'alimentation"</string>
     <string name="pad_backup_summary">Sauvegarder et restaurer des éléments sur cet appareil</string>
     <string name="pad_backup_title">Appareil mobile</string>
     <string name="pad_computer_backup_summary">"Sauvegarder et restaurer des éléments à l'aide d'un ordinateur"</string>
@@ -7644,7 +7659,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="smart_home_value_unknown">Inconnue</string>
     <string name="smart_notifications_title">Notifications adaptatives</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Mode étui intelligent</string>
-    <string name="smartcover_sensitive_summary">"Verrouiller ou déverrouiller le téléphone automatiquement à l'aide de l'étui intelligent"</string>
+    <string name="smartcover_sensitive_summary">"Verrouiller ou déverrouiller l'appareil automatiquement à l'aide de l'étui intelligent"</string>
     <string name="smartcover_sensitive_title">Étui intelligent</string>
     <string name="sms_access_restriction_enabled">"Restreindre l'accès aux SMS et au journal des appels"</string>
     <string name="sms_access_restriction_enabled_summary">"Seules les applications téléphoniques et de messagerie par défaut disposent des autorisations SMS et du journal d'appels"</string>
@@ -8553,7 +8568,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="turn_on_keyguard_password_alert_foget_cacel">Pas maintenant</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Compris</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">"C'est compris (%d s)"</string>
-    <string name="turn_on_keyguard_password_alert_forget_content">"N'oubliez pas le mot de passe de votre écran de verrouillage. Si vous l'oubliez, vous devrez effacer toutes les données sur votre appareil, y compris les photos et les contacts et puis en définir un nouveau."</string>
+    <string name="turn_on_keyguard_password_alert_forget_content">"N'oubliez pas votre verrouillage d'écran. Si vous l'oubliez, vous devrez effacer toutes les données sur votre appareil, y compris les photos et les contacts et puis en définir un nouveau."</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Se souvenir de votre mot de passe</string>
     <string name="turn_on_security_lock">"Choisir l'écran de verrouillage"</string>
     <string name="turn_on_torch">Allumer la torche</string>

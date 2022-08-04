@@ -1480,7 +1480,7 @@ en attente de saisie du code de déverrouillage"</string>
     <string name="msim_setting_sim_info_editor_title">Éditer les infos de la carte SIM</string>
     <string name="msim_sim_lock">Verrouillé</string>
     <string name="msim_sim_radio_off">Désactivé</string>
-    <string name="msim_switch_data_conn_toast">Cartes SIM échangées. Le type de réseau a changé. Voir les informations supplémentaires des cartes SIM et les réseaux cellulaires dans le menu Paramètres.</string>
+    <string name="msim_switch_data_conn_toast">Cartes SIM échangées. Le type de réseau a changé.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">"L'emplacement SIM 2 prend uniquement en charge les réseaux GSM. Le type de réseau préféré pour cet emplacement a été changé à 2G seulement."</string>
     <string name="mtn_simlock_emergency">Urgence</string>
     <string name="mtn_simlock_text_tip">"La carte SIM insérée ne répond pas aux exigences. Vous devez insérer une carte SIM requise par le contrat avant d'utiliser le téléphone. Pour plus de détails, veuillez contacter votre opérateur local."</string>
