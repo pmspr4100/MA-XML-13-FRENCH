@@ -308,7 +308,7 @@
     <string name="permdesc_read_contacts">Autoriser %1$s à accéder aux contacts ?</string>
     <string name="permdesc_read_mms">Autoriser %1$s à lire les messages multimédia ?</string>
     <string name="permdesc_read_phone_state">"Autoriser %1$s à accéder à l'état de l'appareil et aux informations sur le réseau mobile ?"</string>
-    <string name="permdesc_read_sms">Autoriser %1$s à lire ou envoyer des messages texte et multimédia ?</string>
+    <string name="permdesc_read_sms">Autoriser %1$s à lire des messages texte et multimédia ?</string>
     <string name="permdesc_read_storage">Autoriser %1$s à accéder aux fichiers et aux photos sur cet appareil ?</string>
     <string name="permdesc_recognition">"Autoriser %1$s à accéder à vos informations d'activité ?"</string>
     <string name="permdesc_send_sms">Autoriser %1$s à envoyer des SMS ?</string>

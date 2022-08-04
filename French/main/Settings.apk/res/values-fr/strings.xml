@@ -9050,8 +9050,9 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="virtual_sim_global_description">Se connecter au réseau de données sans carte SIM</string>
     <string name="virtual_sim_global_title">Service de données mobiles</string>
     <string name="virtual_sim_title">"Réseau d'itinérance de données"</string>
-    <string name="virtual_surround_sound_switch_summary">"Augmentez la profondeur du son lors d'une lecture audio ou vidéo dans les écouteurs (cette fonctionnalité ne fonctionnera pas lorsqu'un flux audio %.1f sera lu)"</string>
-    <string name="virtual_surround_sound_switch_title">Son immersif</string>
+    <string name="virtual_surround_sound_switch_summary">Enrichir la profondeur du son pour la lecture audio et vidéo dans les écouteurs</string>
+    <string name="virtual_surround_sound_switch_summary_global">Enrichir la profondeur du son pour la lecture audio et vidéo dans les écouteurs. Cette fonctionnalité ne fonctionnera pas lorsque LDAC est activé.</string>
+    <string name="virtual_surround_sound_switch_title">Effets sonores immersifs</string>
     <string name="virus_scan">Recherche de virus</string>
     <string name="virus_scan_app_continue">"Continuer l'analyse"</string>
     <string name="virus_scan_app_finish">Analyse terminée</string>
