@@ -984,7 +984,7 @@
     <string name="unknown_artist_name">Artiste inconnu</string>
     <string name="unnamed_folder_name">Dossier</string>
     <string name="unstable_dialog_message">"Cet appareil est inscrit au programme Android 13 Developer Preview. Le programme permet aux développeurs et aux passionnés d'Android d'essayer des versions préliminaires d'Android 13. Cette version préliminaire peut contenir des erreurs et des défauts susceptibles d'affecter le fonctionnement normal de votre appareil."</string>
-    <string name="unstable_dialog_title">Programme d'aperçu pour les développeurs Android</string>
+    <string name="unstable_dialog_title">"Programme d'aperçu pour les développeurs Android"</string>
     <string name="upgrade_remove_small_window_in_recents">Vous pouvez utiliser la barre latérale pour ouvrir des applications dans des fenêtres flottantes</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
