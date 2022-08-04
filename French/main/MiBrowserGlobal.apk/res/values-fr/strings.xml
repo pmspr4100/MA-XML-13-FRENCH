@@ -183,7 +183,7 @@
     <string name="batch_download_tip">Il semble que plusieurs éléments soient téléchargés en même temps. Bloquer ces téléchargements ?</string>
     <string name="billing_unavailable_message">"- Assurez-vous d'être connecté au Play Store.
 - Mettez à jour Google Services Framework vers la dernière version.
-- Vérifiez si Google Pay fonctionne dans votre région."</string>
+- Vérifiez si Google Wallet fonctionne dans votre région."</string>
     <string name="billing_unavailable_title">"Impossible de terminer le paiement. Essayez ce qui suit :"</string>
     <string name="bind_sign_in_title">Ajouter un Compte Xiaomi</string>
     <string name="block">Bloquer</string>
@@ -593,7 +593,7 @@ Les pages que vous consultez n'apparaîtront pas dans l'historique."</string>
     <string name="debug_youtube_file">Déboguer le fichier YouTube</string>
     <string name="debug_youtube_in_release">Déboguer YouTube dans la version</string>
     <string name="deeplink_intrercept_hint">"Cette fenêtre contextuelle vous proposera d'ouvrir une application."</string>
-    <string name="deeplink_intrercept_second_hint">Le site Web est sur le point d'ouvrir une application. Cette action est arrêtée pour le moment.</string>
+    <string name="deeplink_intrercept_second_hint">"Le site web est sur le point d'ouvrir une application. Cette action est arrêtée pour le moment."</string>
     <string name="deeplink_permission_name">Ouvrir</string>
     <string name="deeplink_permission_name_hint">Ouvrir %s</string>
     <string name="default_account_name">Invité</string>
@@ -1182,7 +1182,7 @@ pour ajouter des livres sur le bureau"</string>
     <string name="instance_id">Firebase Instance ID(Cliquer pour exporter)</string>
     <string name="intercept_panel_ads_img_category_text">Annonces bloquées</string>
     <string name="intercept_panel_download_img_category_text">Téléchargements protégés</string>
-    <string name="intercept_panel_empty_content">L'historique du comportement du site Web apparaîtra ici</string>
+    <string name="intercept_panel_empty_content">"L'historique du comportement du site web apparaîtra ici"</string>
     <string name="intercept_panel_headline">Protection de la vie privée</string>
     <string name="intercept_panel_item_action_camera">Utiliser la caméra</string>
     <string name="intercept_panel_item_action_mic">Enregistrement audio</string>
@@ -1199,9 +1199,9 @@ pour ajouter des livres sur le bureau"</string>
     <string name="intercept_panel_management_text">Gérer</string>
     <string name="intercept_panel_more_settings">Paramètres supplémentaires</string>
     <string name="intercept_panel_privacy_img_category_text">Éléments protégés</string>
-    <string name="intercept_toast_message_camera">Le site Web utilise la caméra…</string>
-    <string name="intercept_toast_message_mic">Le site Web enregistre de l'audio…</string>
-    <string name="intercept_toast_message_voice">Le site Web lit l'audio…</string>
+    <string name="intercept_toast_message_camera">Le site web utilise la caméra…</string>
+    <string name="intercept_toast_message_mic">"Le site web enregistre de l'audio…"</string>
+    <string name="intercept_toast_message_voice">"Le site web lit l'audio…"</string>
     <string name="interest_card_button">Continuer</string>
     <string name="interest_card_title">Sélectionnez vos intérêts</string>
     <string name="into_info_flow_guide">"Voir plus d'articles"</string>
@@ -2477,7 +2477,7 @@ vous recommandons d'utiliser le mode de lecture libre"</string>
     <string name="reading__settings_pref_healthy_read">Confort des yeux</string>
     <string name="reading__settings_pref_next_page_anim">Effet de changement de page</string>
     <string name="reading__settings_pref_rtl_click">Appuyez sur la gauche pour tourner la page</string>
-    <string name="reading__settings_pref_screen_off_time">Économiseur d'écran</string>
+    <string name="reading__settings_pref_screen_off_time">"Économiseur d'écran"</string>
     <string name="reading__settings_pref_show_menu_button">Afficher le menu pendant la lecture</string>
     <string name="reading__settings_timeout_option_15min">15 minutes</string>
     <string name="reading__settings_timeout_option_30min">30 minutes</string>

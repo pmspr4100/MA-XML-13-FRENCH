@@ -3156,6 +3156,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="ethernet">Ethernet</string>
     <string name="ethernet_data_template">^1 de données Ethernet</string>
     <string name="ethernet_data_usage">Consommation de données Ethernet</string>
+    <string name="ethernet_tether_checkbox_text">Partager via Ethernet</string>
     <string name="evening">Après-midi</string>
     <string name="every_day">Tous les jours</string>
     <string name="expand_button_title">Options avancées</string>
@@ -3655,7 +3656,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="google_assistant_label">Assistant Google</string>
     <string name="google_backup_enable">Activer les sauvegardes</string>
     <string name="google_backup_section_title">Sauvegarde Google et restauration</string>
-    <string name="google_pay">Google Pay</string>
+    <string name="google_pay">Google Wallet</string>
     <string name="google_service_title">Compte Google</string>
     <string name="google_title">Paramètres Google</string>
     <string name="got_it">Compris</string>

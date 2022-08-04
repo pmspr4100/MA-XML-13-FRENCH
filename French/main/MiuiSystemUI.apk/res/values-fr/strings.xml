@@ -1989,7 +1989,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="quick_settings_flashlight_camera_in_use">"Appareil photo en cours d'utilisation"</string>
     <string name="quick_settings_flashlight_label">Lampe torche</string>
     <string name="quick_settings_googlehome_label">Google Home</string>
-    <string name="quick_settings_googlepay_label">Google Pay</string>
+    <string name="quick_settings_googlepay_label">Google Wallet</string>
     <string name="quick_settings_gps_label">GPS</string>
     <string name="quick_settings_header_onboarding_text">"Appuyer &amp; maintenir les icônes pour plus d'options"</string>
     <string name="quick_settings_hotspot_label">"Point d'accès Wi-Fi"</string>
