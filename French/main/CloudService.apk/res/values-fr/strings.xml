@@ -22,7 +22,7 @@
     <string name="accept_all_positive">Sélectionner</string>
     <string name="accept_use_permissions">Autoriser</string>
     <string name="access_denied">Accès refusé</string>
-    <string name="account_related">"Votre appareil est associé avec un Compte Xiaomi existant(%s). Connectez-vous à internet pour vérifier l'appareil."</string>
+    <string name="account_related">"Votre appareil est associé avec un Compte Xiaomi existant (%s). Connectez-vous à internet pour vérifier l'appareil."</string>
     <string name="actionbar_button_up_description">Retour</string>
     <string name="activate_find_device_success">"Localiser l'appareil a été désactivé."</string>
     <string name="activate_finddevice">"Connectez-vous à internet pour activer votre l'appareil"</string>
