@@ -149,6 +149,7 @@
     <string name="classification_more_understand_you">Sélectionner votre catégorie favorite</string>
     <string name="clear_text_end_icon_content_description">Effacer le texte</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
+    <string name="clock">Installer Horloge</string>
     <string name="close">Fermer</string>
     <string name="close_custom_permission_warning_text">"Sans autorisations de stockage, cette application ne pourra pas télécharger d'éléments et personnaliser votre appareil. Désactiver quand même ?"</string>
     <string name="close_custom_permission_warning_text_above_eleven">"Sans autorisations de stockage, cette application ne pourra pas personnaliser votre appareil. Désactiver quand même ?"</string>
@@ -455,6 +456,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sons &amp; vibrations
     <string name="incompatible_dialog_message">"Ce thème n'est pas compatible avec la version de MIUI installée sur votre appareil. Certaines parties de MIUI ne peuvent pas fonctionner correctement si vous appliquez ce thème."</string>
     <string name="incompatible_dialog_ok">Compris</string>
     <string name="incompatible_dialog_title">Problèmes de compatibilité</string>
+    <string name="install_clock">"Vous n'avez pas encore installé Horloge. Télécharger maintenant ?"</string>
     <string name="install_failed">"L'intallation à échoué"</string>
     <string name="is_setting_wallpaper_message">"Définition du fond d'écran…"</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>

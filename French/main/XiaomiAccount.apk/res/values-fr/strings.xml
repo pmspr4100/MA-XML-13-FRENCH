@@ -118,6 +118,7 @@ Vous pouvez vous connecter à votre Compte Xiaomi en utilisant %s maintenant."</
     <string name="change_phone_number">Modifier le numéro de téléphone</string>
     <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="check_apk_update">Vérifier les mises à jour</string>
+    <string name="child_account_system_ad_disable_hint">"Cette fonctionnalité n'est pas disponible pour les comptes enfants"</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="close">Fermer</string>
     <string name="cloud_description_closed">Occupé | Synchronisation désactivée</string>
@@ -213,6 +214,7 @@ Envoyez ce code au superviseur."</string>
     <string name="exit">Quitter</string>
     <string name="expand_button_title">Avancée</string>
     <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé avec un autre Compte Xiaomi</string>
+    <string name="family_service">Services familiaux</string>
     <string name="find_device">"Localiser l'appareil"</string>
     <string name="find_device_access_denied">"Impossible d'obtenir les états, accès rejeté"</string>
     <string name="find_device_account_error">"Impossible d'obtenir l'état dû à l'erreur du compte"</string>

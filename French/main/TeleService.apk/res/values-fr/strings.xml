@@ -1048,6 +1048,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="hdcp_checking_title">Vérification HDCP</string>
     <string name="help_feedback_label">Aide et commentaires</string>
     <string name="help_label">Aide et commentaires</string>
+    <string name="hide_stk_name">Boîtes à outils USIM</string>
     <string name="home">Paramètres</string>
     <string name="icon_content_description">Icône de dialogue</string>
     <string name="ime_security_warning">"Ce mode de saisie est susceptible d'enregistrer le texte que vous saisissez, y compris vos données personnelles, telles que les mots de passe et les numéros de carte de paiement. Il provient de l'application %1$s. Voulez-vous vraiment l'activer ?"</string>
