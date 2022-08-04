@@ -22,6 +22,8 @@
     <string name="afternoon">Après-midi</string>
     <string name="am">AM</string>
     <string name="app_name">MIUI+ Beta</string>
+    <string name="app_no_storage_permission">"Autoriser %1$s à accéder à l'espace de stockage dans Paramètres > Applications > %2$s > Autorisations d'abord"</string>
+    <string name="app_opened_in_new_window">A ouvert cette application dans une nouvelle fenêtre</string>
     <string name="cancel">Annuler</string>
     <string name="cast_mcc_tips_button_cancel">Ignorer</string>
     <string name="cast_mcc_tips_button_ok">PAramètres</string>
@@ -183,7 +185,6 @@ Fermez cette page et réessayez."</string>
     <string name="pad_mirror_device_locked_tips_3">Appuyez deux fois pour réveiller</string>
     <string name="pad_mirror_disconnect_tips_1">Connexion perdue</string>
     <string name="pad_mirror_disconnect_tips_2">Assurez-vous que le Wi-Fi et le Bluetooth sont activés sur les deux appareils et réessayez.</string>
-    <string name="pad_settings_bluetooth_enable_summary">Activez le Bluetooth pour pouvoir trouver des appareils à proximité. Allumer maintenant?</string>
     <string name="pad_settings_bluetooth_enable_title">Activez le Bluetooth</string>
     <string name="pad_settings_connect_pad_group">Travaillez avec votre tablette</string>
     <string name="pad_settings_connect_pc_group">Travaillez avec votre ordinateur</string>
@@ -194,7 +195,6 @@ Fermez cette page et réessayez."</string>
     <string name="pad_settings_handoff_device_title">Appareil connecté</string>
     <string name="pad_settings_handoff_disable">Désactivé</string>
     <string name="pad_settings_handoff_disconnect">Non connecté</string>
-    <string name="pad_settings_handoff_enable_bluetooth">Activez le Bluetooth pour trouver des appareils à proximité</string>
     <string name="pad_settings_handoff_enable_disconnect">Gardez les appareils proches les uns des autres avec le Bluetooth activé</string>
     <string name="pad_settings_handoff_p2p_summary">"Connectez-vous au point d'accès portable en un seul clic"</string>
     <string name="pad_settings_handoff_p2p_title">"Point d'accès"</string>
@@ -206,7 +206,7 @@ Fermez cette page et réessayez."</string>
     <string name="pad_settings_pc_history_title">Historique des connexions</string>
     <string name="pad_settings_pc_trusted_title">Connecter automatiquement</string>
     <string name="pad_settings_pc_use_tile">À propos de cette fonctionnalité</string>
-    <string name="pad_settings_phone_handoff_summary">"Utilisez le transfert avec des applications, un presse-papiers, des vidéos et d'autres éléments sur l'autre appareil associé à votre compte Mi"</string>
+    <string name="pad_settings_phone_handoff_summary">"Utilisez le transfert avec des applications, un presse-papiers, des vidéos et d'autres éléments sur l'autre appareil associé à votre compte Xiaomi"</string>
     <string name="pad_settings_phone_handoff_title">Transfert</string>
     <string name="pcmode_not_support_multi_window">"Le mode PC ne prend pas en charge l'affichage de plusieurs fenêtres."</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
@@ -233,6 +233,7 @@ Fermez cette page et réessayez."</string>
     <string name="screen_num_over_limit">"Impossible d'ouvrir plus de fenêtres"</string>
     <string name="search_menu_title">Recherche</string>
     <string name="send">Envoyer</string>
+    <string name="settings_bluetooth_enable_summary">Activez le Bluetooth pour pouvoir trouver des appareils à proximité. Activer maintenant ?</string>
     <string name="settings_connect_more_help"><u>Aide</u></string>
     <string name="settings_connect_summary1">Téléchargez et installez MIUI + Beta sur votre ordinateur : https://plus.miui.com.</string>
     <string name="settings_connect_summary2">"Scannez le QR code sur l'écran de l'ordinateur avec votre appareil mobile. Vous pouvez utiliser plusieurs applications système (par exemple, scanner, appareil photo, navigateur Mi) pour ce faire."</string>
@@ -247,6 +248,7 @@ Fermez cette page et réessayez."</string>
     <string name="settings_feature_dnd_summary">Désactiver les notifications lorsque votre appareil est connecté à un ordinateur</string>
     <string name="settings_feature_dnd_title">NPD</string>
     <string name="settings_feature_intro">À propos de cette fonctionnalité</string>
+    <string name="settings_handoff_enable_bluetooth">Activez le Bluetooth pour trouver des appareils à proximité</string>
     <string name="settings_history">Historique des connexions</string>
     <string name="settings_history_clear">Effacer</string>
     <string name="settings_history_clear_dialog_title">"Effacer l'historique de connexion maintenant ?"</string>
