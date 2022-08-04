@@ -394,7 +394,8 @@
     <string name="micloud_setting_sms_summary">Messages SMS et MMS</string>
     <string name="micloud_setting_sms_summary_for_google_csp">Messages texte</string>
     <string name="micloud_setting_wifi_summary">Paramètres Wi-Fi</string>
-    <string name="micloud_setting_wifi_summary_china">Paramètres WLAN</string>
+    <string name="micloud_setting_wifi_summary_china">Paramètres Wi-Fi</string>
+    <string name="micloud_share_cloud_storage_entrance_title">Partager le stockage cloud avec votre groupe familial</string>
     <string name="micloud_space_applist_detail">"Gérer les applications de l'écran d'accueil"</string>
     <string name="micloud_space_duokan_detail">"Télécharger et gérer les e-books avec l'application Duokan."</string>
     <string name="micloud_space_duokan_title">Duokan</string>
