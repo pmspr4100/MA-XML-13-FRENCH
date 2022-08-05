@@ -4966,6 +4966,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miheadset_notification_title">Afficher sur le panneau des notifications</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Réduction du bruit</string>
+    <string name="miheadset_openAnc2">Réduction du bruit</string>
+    <string name="miheadset_open_closeAnc">Réduction du bruit activée/désactivée</string>
     <string name="miheadset_play_pause">Lecture/Pause</string>
     <string name="miheadset_plus">Volume +</string>
     <string name="miheadset_preferences">Préférences</string>

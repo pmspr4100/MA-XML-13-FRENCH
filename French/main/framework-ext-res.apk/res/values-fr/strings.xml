@@ -140,6 +140,10 @@
   <string name="handy_mode_title">Mode une main</string>
   <string name="help">"Afficher de l'aide"</string>
   <string name="help_content">"Si vous ne trouvez pas l'appareil dont vous avez besoin, demandez à l'autre personne d'activer Mi Share."</string>
+  <string name="hs_guide_dialog_button_confirm">Compris</string>
+  <string name="hs_guide_dialog_message">"Cette application n'a pas encore été optimisée pour le nouveau mode paysage. Vous avez plutôt opté pour une autre mise en page compatible."</string>
+  <string name="hs_guide_dialog_title">Attention</string>
+  <string name="icelatte">Latte glacé</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Placez votre doigt sur le bouton accueil</string>
   <string name="input_method_clipboard_check_more_add_to_phrase">Ajouter une phrase fréquente</string>
   <string name="input_method_clipboard_check_more_copy">Copier</string>
