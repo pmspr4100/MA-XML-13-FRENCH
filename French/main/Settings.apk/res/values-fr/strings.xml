@@ -2169,8 +2169,6 @@ Appuyer sur \"Nettoyer et convertir…\" pour continuer."</string>
     <string name="copyable_slice_toast">%1$s copié dans le presse-papiers.</string>
     <string name="copyright">"Droits d'auteur"</string>
     <string name="copyright_title">"Droits d'auteur"</string>
-    <string name="corner_assistant_gesture_summary">"Balayez vers le haut depuis le coin inférieur gauche ou inférieur droit pour réveiller l'Assistant Google"</string>
-    <string name="corner_assistant_gesture_title">Balayez vers le haut depuis un coin pour Google Assistant</string>
     <string name="country_name">%s (système)</string>
     <string name="create">Créer</string>
     <string name="credential_contains">Cette entrée contient :</string>
@@ -3729,8 +3727,8 @@ La zone où vous pouvez confirmer le verrouillage de votre écran se déplacera 
     <string name="gxzw_quick_open_fast_summary">"Faites glisser pour utiliser un raccourci une fois que votre appareil est déverrouillé."</string>
     <string name="gxzw_quick_open_fast_title">Balayage rapide (avancé)</string>
     <string name="gxzw_quick_open_slow_summary">"Appuyez et maintenez l'icône d'empreinte digitale pour ouvrir le menu de raccourcis. Faites glisser pour utiliser un raccourci."</string>
-    <string name="gxzw_quick_open_slow_title">Appuyez et maintenez</string>
-    <string name="gxzw_vibrate_summary">"Vibrer pendant la lecture de l'animation de déverrouillage par empreinte digitale"</string>
+    <string name="gxzw_quick_open_title">Raccourcis</string>
+    <string name="gxzw_vibrate_summary">"La vibration ne se produira pas lorsqu'aucune animation d'empreinte digitale n'est sélectionnée"</string>
     <string name="gxzw_vibrate_title">Vibrer lors du déverrouillage</string>
     <string name="handy_mode">Mode une main</string>
     <string name="handy_mode_enable">Mode une main</string>

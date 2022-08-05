@@ -509,7 +509,6 @@
     <string name="midnight">Nuit</string>
     <string name="minus_one_screen">"Afficher le Coffre d'applications"</string>
     <string name="miui_screen_config_title">"Paramètres de l'écran d'accueil"</string>
-    <string name="miui_widget_menu_replace_text">Permuter</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
     <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>

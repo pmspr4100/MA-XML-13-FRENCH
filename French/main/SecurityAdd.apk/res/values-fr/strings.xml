@@ -299,6 +299,8 @@
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="pc_activity_title">Optimiser la batterie</string>
     <string name="pm_lable_name">"À propos de l'accès root"</string>
+    <string name="power_center_battery_duration_screen_on">"Temps d'écran restant"</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">"%1$s %2$s de temps d'écran restant"</string>
     <string name="privacy_declare_dialog_title">"Conditions générales d'utilisation"</string>
     <string name="privacy_prompt_traffic_purchase_message">"Votre numéro de téléphone ainsi que les détails de l'opérateur vont être transmis aux serveurs de Mi afin d'obtenir plus d'info sur les options d'achat de données."</string>
     <string name="renew_now">Renouveler</string>
