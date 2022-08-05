@@ -697,6 +697,7 @@ Bluetooth"</string>
     <string name="data_enable_warning">Si vous utilisez en permanence les données mobiles, des frais supplémentaires hors forfait. Se connecter quand même ?</string>
     <string name="data_enabled">Données mobiles</string>
     <string name="data_interruption_remind">"Il semble que votre environnement réseau ne soit pas fiable. Pour améliorer la connexion, autorisez votre appareil à utiliser les données mobiles pendant les appels VoLTE sur la carte SIM secondaire."</string>
+    <string name="data_interruption_remind_for_t">"Il semble que votre environnement réseau ne soit pas fiable. Pour améliorer la connexion, autorisez votre appareil à utiliser les données mobiles pendant les appels VoLTE sur la carte SIM secondaire."</string>
     <string name="data_plan">Forfaits des données mobiles</string>
     <string name="data_usage_disable_mobile">Désactiver les données mobiles ?</string>
     <string name="data_usage_ota">System updates</string>
@@ -2357,6 +2358,9 @@ Interface UT : %5$s"</string>
     <string name="smart_forwarding_settings_menu">Smart Forwarding</string>
     <string name="smart_forwarding_settings_menu_summary">"When one number isn't reachable, always forward calls to your other number"</string>
     <string name="smart_multinetwork_acceleration_title">Accélération du réseau intelligent</string>
+    <string name="smart_switch_dual_sim_prompt">"La connexion au réseau de données mobiles à l'aide de la carte SIM %1$s peut générer des frais de données supplémentaires. Définissez une limite d'utilisation des données pour éviter des frais supplémentaires."</string>
+    <string name="smart_switch_dual_sim_summary">"Basculer automatiquement entre les cartes SIM de données en fonction de la qualité de la connexion réseau et de l'état de l'appareil"</string>
+    <string name="smart_switch_dual_sim_title">Basculer entre les cartes SIM de données</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Assurez-vous que le numéro que vous entrez est correct. Sinon, vous ne pourrez pas envoyer ou recevoir de SMS. Contactez votre opérateur pour confirmer votre numéro SMSC."</string>
     <string name="solar_term_autumn_begins">Autumn begins</string>
