@@ -402,7 +402,7 @@
     <string name="micloud_space_soundrecorder_detail">Gérer les enregistrements stockés sur votre appareil</string>
     <string name="micloud_space_soundrecorder_title">Enregistrements</string>
     <string name="micloud_storage_detail">Détails</string>
-    <string name="micloud_storage_family_quota">Partage familial</string>
+    <string name="micloud_storage_family_quota">Espace partagé</string>
     <string name="micloud_storage_full_tip">Le stockage est plein</string>
     <string name="micloud_storage_normal_tip">%s restant</string>
     <string name="micloud_storage_share_family">Partage familial</string>

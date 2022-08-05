@@ -144,7 +144,8 @@
     <string name="language_settings">Choisir une langue</string>
     <string name="locale_picker_other_locale_title">Autres régions</string>
     <string name="locale_picker_title">Sélectionnez votre région</string>
-    <string name="location_introduction">Les services de localisation fournissent une variété de services basés sur la localisation en fonction de vos informations de localisation.</string>
+    <string name="location_introduction">"Les services de localisation utilisent le positionnement pour fournir des services spécifiques à l'emplacement."</string>
+    <string name="location_introduction_qcom">"Les services de localisation utilisent le positionnement pour fournir des services spécifiques à l'emplacement. Lorsque les services de localisation sont utilisés par votre appareil, le module QCC se connecte au réseau pour accélérer le processus de positionnement."</string>
     <string name="lockscreen_introduction">"Le Carrousel de fonds d'écran vous permet de toujours recevoir de nouvelles images sur votre écran de verrouillage."</string>
     <string name="member_exclusive_medal">Badge de membre</string>
     <string name="membership_rights_tip">Connectez-vous à votre Compte Xiaomi pour obtenir des avantages exclusifs</string>

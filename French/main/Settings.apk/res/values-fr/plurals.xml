@@ -457,24 +457,24 @@ Pour en savoir plus sur ce certificat, contactez votre administrateur."</item>
     <item quantity="one">%d application peut afficher les notifications</item>
   </plurals>
   <plurals name="string_after_int_minute">
-    <item quantit="other">Après %d minutes</item>
-    <item quantit="one">Après %d minute</item>
+    <item quantity="other">Après %d minutes</item>
+    <item quantity="one">Après %d minute</item>
   </plurals>
   <plurals name="string_bits_per_sample">
-    <item quantit="other">%d bits/échantillon</item>
-    <item quantit="one">%d bit/échantillon</item>
+    <item quantity="other">%d bits/échantillon</item>
+    <item quantity="one">%d bit/échantillon</item>
   </plurals>
   <plurals name="string_int_hour">
-    <item quantit="other">%d heures</item>
-    <item quantit="one">%d heure</item>
+    <item quantity="other">%d heures</item>
+    <item quantity="one">%d heure</item>
   </plurals>
   <plurals name="string_int_minute">
-    <item quantit="other">%d minutes</item>
-    <item quantit="one">%d minute</item>
+    <item quantity="other">%d minutes</item>
+    <item quantity="one">%d minute</item>
   </plurals>
   <plurals name="string_int_second">
-    <item quantit="other">%d secondes</item>
-    <item quantit="one">%d seconde</item>
+    <item quantity="other">%d secondes</item>
+    <item quantity="one">%d seconde</item>
   </plurals>
   <plurals name="suggestions_collapsed_summary">
     <item quantity="other">+%1$d suggestions</item>

@@ -61,15 +61,15 @@
         <item quantity="one">Il y a 1 minute</item>
     </plurals>
     <plurals name="power_battery_hour">
-        <item quantit="other">%s h</item>
-        <item quantit="one">%s h</item>
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
     </plurals>
     <plurals name="power_battery_minute">
-        <item quantit="other">%s min</item>
-        <item quantit="one">%s min</item>
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
     </plurals>
     <plurals name="power_main_battery_last_minute_screen_on">
-        <item quantit="other">"%s min de temps d'écran restant"</item>
-        <item quantit="one">"%s min de temps d'écran restant"</item>
+        <item quantity="other">"%s min de temps d'écran restant"</item>
+        <item quantity="one">"%s min de temps d'écran restant"</item>
     </plurals>
 </resources>

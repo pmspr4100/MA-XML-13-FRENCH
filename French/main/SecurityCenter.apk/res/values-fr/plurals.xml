@@ -274,12 +274,12 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">"S'enregistrer dans %d heure"</item>
     </plurals>
     <plurals name="gb_smart_battery_hrs">
-        <item quantit="other">%d heures</item>
-        <item quantit="one">%d heure</item>
+        <item quantity="other">%d heures</item>
+        <item quantity="one">%d heure</item>
     </plurals>
     <plurals name="gb_smart_battery_min">
-        <item quantit="other">%d minutes</item>
-        <item quantit="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
     </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Compris (%ds)</item>
@@ -723,12 +723,12 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="one">%s minute restante</item>
     </plurals>
     <plurals name="power_main_battery_last_minute_screen_on">
-        <item quantit="other">%s minutes de temps d'écran restant</item>
-        <item quantit="one">%s minute de temps d'écran restant</item>
+        <item quantity="other">%s minutes de temps d'écran restant</item>
+        <item quantity="one">%s minute de temps d'écran restant</item>
     </plurals>
     <plurals name="power_main_open_last_minute_screen_on">
-        <item quantit="other">Activer pour ajouter %s minutes de temps d'écran</item>
-        <item quantit="one">Activer pour ajouter %s minute de temps d'écran</item>
+        <item quantity="other">Activer pour ajouter %s minutes de temps d'écran</item>
+        <item quantity="one">Activer pour ajouter %s minute de temps d'écran</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">"Compris (%ds)"</item>

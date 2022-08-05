@@ -458,6 +458,8 @@ Pour désactiver cette fonction, accédez à Paramètres > Sons &amp; vibrations
     <string name="incompatible_dialog_title">Problèmes de compatibilité</string>
     <string name="install_clock">"Vous n'avez pas encore installé Horloge. Télécharger maintenant ?"</string>
     <string name="install_failed">"L'intallation à échoué"</string>
+    <string name="install_gallery_content">"Vous n'avez pas encore installé Galerie. Télécharger maintenant ?"</string>
+    <string name="install_gallery_title">Installer la galerie</string>
     <string name="is_setting_wallpaper_message">"Définition du fond d'écran…"</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
     <string name="item_resource_audio_optional_color_ring">Tonalité de sonnerie</string>

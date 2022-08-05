@@ -118,105 +118,105 @@
         <item Quantity="other">"1. Un bonus équivaut à une pièce. Les bonus sont valables %d jours et seront utilisés avant les pièces pour débloquer des chapitres.
 2. Si vous ne parvenez pas à recharger votre compte ou si le montant de la recharge n'apparaît pas sur votre compte, envoyez-nous un e-mail à wonderwebfiction@gmail.com.
 3. Pour éviter tout problème avec votre solde, assurez-vous d'être connecté. Votre solde sera ajouté à votre compte."</item>
-        <item quantit="one">"1. Un bonus équivaut à une pièce. Les bonus sont valables pour %d jours et seront utilisés avant les pièces pour débloquer des chapitres.
+        <item quantity="one">"1. Un bonus équivaut à une pièce. Les bonus sont valables pour %d jours et seront utilisés avant les pièces pour débloquer des chapitres.
 2. Si vous ne parvenez pas à recharger votre compte ou si le montant de la recharge n'apparaît pas sur votre compte, envoyez-nous un e-mail à wonderwebfiction@gmail.com.
 3. Pour éviter tout problème avec votre solde, assurez-vous d'être connecté. Votre solde sera ajouté à votre compte."</item>
     </plurals>
     <plurals name="general__shared__10_min_reading_task_hint">
-        <item quantit="other">Lisez pendant 10 minutes pour obtenir %d bonus</item>
-        <item quantit="one">Lisez pendant 10 minutes pour obtenir %d bonus</item>
+        <item quantity="other">Lisez pendant 10 minutes pour obtenir %d bonus</item>
+        <item quantity="one">Lisez pendant 10 minutes pour obtenir %d bonus</item>
     </plurals>
     <plurals name="general__shared__60_min_reading_task_hint">
-        <item quantit="other">Lisez pendant 60 minutes pour obtenir %d bonus</item>
-        <item quantit="one">Lisez pendant 60 minutes pour obtenir %d bonus</item>
+        <item quantity="other">Lisez pendant 60 minutes pour obtenir %d bonus</item>
+        <item quantity="one">Lisez pendant 60 minutes pour obtenir %d bonus</item>
     </plurals>
     <plurals name="general__shared__check_in_success_reward">
-        <item quantit="other">Vous avez %d bonus pour votre enregistrement !</item>
-        <item quantit="one">Vous avez %d bonus pour votre enregistrement !</item>
+        <item quantity="other">Vous avez %d bonus pour votre enregistrement !</item>
+        <item quantity="one">Vous avez %d bonus pour votre enregistrement !</item>
     </plurals>
     <plurals name="general__shared__check_in_success_reward_button">
-        <item quantit="other">Regardez une vidéo pour obtenir %d bonus supplémentaires.</item>
-        <item quantit="one">Regardez une vidéo pour obtenir %d bonus supplémentaires.</item>
+        <item quantity="other">Regardez une vidéo pour obtenir %d bonus supplémentaires.</item>
+        <item quantity="one">Regardez une vidéo pour obtenir %d bonus supplémentaires.</item>
     </plurals>
     <plurals name="general__shared__exit_unlock_page_reward_result">
-        <item quantit="other">A reçu %d bonus avec succès</item>
-        <item quantit="one">A reçu %d bonus avec succès</item>
+        <item quantity="other">A reçu %d bonus avec succès</item>
+        <item quantity="one">A reçu %d bonus avec succès</item>
     </plurals>
     <plurals name="general__shared__exit_unlock_page_reward_title">
-        <item quantit="other">Regardez une vidéo pour obtenir %d bonus.</item>
-        <item quantit="one">Regardez une vidéo pour obtenir %d bonus.</item>
+        <item quantity="other">Regardez une vidéo pour obtenir %d bonus.</item>
+        <item quantity="one">Regardez une vidéo pour obtenir %d bonus.</item>
     </plurals>
     <plurals name="general__shared__reading_task_reward">
-        <item quantit="other">+ %d bonus</item>
-        <item quantit="one">+ %d bonus</item>
+        <item quantity="other">+ %d bonus</item>
+        <item quantity="one">+ %d bonus</item>
     </plurals>
     <plurals name="general__shared__reading_task_success_reward">
-        <item quantit="other">Vous avez %d bonus pour avoir terminé une tâche de lecture !</item>
-        <item quantit="one">Vous avez %d bonus pour avoir terminé une tâche de lecture !</item>
+        <item quantity="other">Vous avez %d bonus pour avoir terminé une tâche de lecture !</item>
+        <item quantity="one">Vous avez %d bonus pour avoir terminé une tâche de lecture !</item>
     </plurals>
     <plurals name="general__shared__reading_task_success_reward_button">
-        <item quantit="other">Regardez une vidéo pour obtenir %d bonus supplémentaires.</item>
-        <item quantit="one">Regardez une vidéo pour obtenir %d bonus supplémentaire.</item>
+        <item quantity="other">Regardez une vidéo pour obtenir %d bonus supplémentaires.</item>
+        <item quantity="one">Regardez une vidéo pour obtenir %d bonus supplémentaire.</item>
     </plurals>
     <plurals name="general__shared__regular_success_reward">
-        <item quantit="other">Vous avez %d bonus !</item>
-        <item quantit="one">Vous avez %d bonus !</item>
+        <item quantity="other">Vous avez %d bonus !</item>
+        <item quantity="one">Vous avez %d bonus !</item>
     </plurals>
     <plurals name="general__shared__regular_success_reward_button">
-        <item quantit="other">Regardez une autre vidéo pour obtenir %d bonus supplémentaires.</item>
-        <item quantit="one">Regardez une autre vidéo pour obtenir %d bonus supplémentaire.</item>
+        <item quantity="other">Regardez une autre vidéo pour obtenir %d bonus supplémentaires.</item>
+        <item quantity="one">Regardez une autre vidéo pour obtenir %d bonus supplémentaire.</item>
     </plurals>
     <plurals name="general__shared__reward_result">
-        <item quantit="other">A reçu %d bonus supplémentaires avec succès</item>
-        <item quantit="one">A reçu %d bonus supplémentaire avec succès</item>
+        <item quantity="other">A reçu %d bonus supplémentaires avec succès</item>
+        <item quantity="one">A reçu %d bonus supplémentaire avec succès</item>
     </plurals>
     <plurals name="general__shared__top_up_reward">
-        <item quantit="other">Regardez une vidéo pour obtenir %d bonus supplémentaires.</item>
-        <item quantit="one">Regardez une vidéo pour obtenir %d bonus supplémentaire.</item>
+        <item quantity="other">Regardez une vidéo pour obtenir %d bonus supplémentaires.</item>
+        <item quantity="one">Regardez une vidéo pour obtenir %d bonus supplémentaire.</item>
     </plurals>
     <plurals name="general__shared_read_10_min_hint">
-        <item quantit="other">Lisez pendant 10 minutes pour obtenir %d bonus</item>
-        <item quantit="one">Lisez pendant 10 minutes pour obtenir %d bonus</item>
+        <item quantity="other">Lisez pendant 10 minutes pour obtenir %d bonus</item>
+        <item quantity="one">Lisez pendant 10 minutes pour obtenir %d bonus</item>
     </plurals>
     <plurals name="general__shared_read_10_more_min_hint">
-        <item quantit="other">Lisez pendant 10 minutes de plus pour obtenir %d bonus</item>
-        <item quantit="one">Lisez pendant 10 minutes de plus pour obtenir %d bonus</item>
+        <item quantity="other">Lisez pendant 10 minutes de plus pour obtenir %d bonus</item>
+        <item quantity="one">Lisez pendant 10 minutes de plus pour obtenir %d bonus</item>
     </plurals>
     <plurals name="general__shared_read_120_min_hint">
-        <item quantit="other">Lisez pendant 120 minutes pour obtenir %d bonus</item>
-        <item quantit="one">Lisez pendant 120 minutes pour obtenir %d bonus</item>
+        <item quantity="other">Lisez pendant 120 minutes pour obtenir %d bonus</item>
+        <item quantity="one">Lisez pendant 120 minutes pour obtenir %d bonus</item>
     </plurals>
     <plurals name="general__shared_read_20_more_min_hint">
-        <item quantit="other">Lisez pendant 20 minutes de plus pour obtenir %d bonus</item>
-        <item quantit="one">Lisez pendant 20 minutes de plus pour obtenir %d bonus</item>
+        <item quantity="other">Lisez pendant 20 minutes de plus pour obtenir %d bonus</item>
+        <item quantity="one">Lisez pendant 20 minutes de plus pour obtenir %d bonus</item>
     </plurals>
     <plurals name="general__shared_read_30_min_hint">
-        <item quantit="other">Lisez pendant 30 minutes pour obtenir %d bonus</item>
-        <item quantit="one">Lisez pendant 30 minutes pour obtenir %d bonus</item>
+        <item quantity="other">Lisez pendant 30 minutes pour obtenir %d bonus</item>
+        <item quantity="one">Lisez pendant 30 minutes pour obtenir %d bonus</item>
     </plurals>
     <plurals name="general__shared_read_30_more_min_hint">
-        <item quantit="other">Lisez pendant 30 minutes de plus pour obtenir %d bonus</item>
-        <item quantit="one">Lisez pendant 30 minutes de plus pour obtenir %d bonus</item>
+        <item quantity="other">Lisez pendant 30 minutes de plus pour obtenir %d bonus</item>
+        <item quantity="one">Lisez pendant 30 minutes de plus pour obtenir %d bonus</item>
     </plurals>
     <plurals name="general__shared_read_5_min_hint">
-        <item quantit="other">Lisez pendant 5 minutes pour obtenir %d bonus</item>
-        <item quantit="one">Lisez pendant 5 minutes pour obtenir %d bonus</item>
+        <item quantity="other">Lisez pendant 5 minutes pour obtenir %d bonus</item>
+        <item quantity="one">Lisez pendant 5 minutes pour obtenir %d bonus</item>
     </plurals>
     <plurals name="general__shared_read_5_more_min_hint">
-        <item quantit="other">Lisez pendant 5 minutes de plus pour obtenir %d bonus</item>
-        <item quantit="one">Lisez pendant 5 minutes de plus pour obtenir %d bonus</item>
+        <item quantity="other">Lisez pendant 5 minutes de plus pour obtenir %d bonus</item>
+        <item quantity="one">Lisez pendant 5 minutes de plus pour obtenir %d bonus</item>
     </plurals>
     <plurals name="general__shared_read_60_min_hint">
-        <item quantit="other">Lisez pendant 60 minutes pour obtenir %d bonus</item>
-        <item quantit="one">Lisez pendant 60 minutes pour obtenir %d bonus</item>
+        <item quantity="other">Lisez pendant 60 minutes pour obtenir %d bonus</item>
+        <item quantity="one">Lisez pendant 60 minutes pour obtenir %d bonus</item>
     </plurals>
     <plurals name="general__shared_read_90_min_hint">
-        <item quantit="other">Lisez pendant 90 minutes pour obtenir %d bonus</item>
-        <item quantit="one">Lisez pendant 90 minutes pour obtenir %d bonus</item>
+        <item quantity="other">Lisez pendant 90 minutes pour obtenir %d bonus</item>
+        <item quantity="one">Lisez pendant 90 minutes pour obtenir %d bonus</item>
     </plurals>
     <plurals name="general__shared_reading_length">
-        <item quantit="other">Lire pendant %d minutes</item>
-        <item quantit="one">Lire pendant %d minute</item>
+        <item quantity="other">Lire pendant %d minutes</item>
+        <item quantity="one">Lire pendant %d minute</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Il y a 1 demi-heure</item>
@@ -247,16 +247,16 @@
         <item quantity="one">dans 1 minute</item>
     </plurals>
     <plurals name="revenu_dépenses_bonus">
-        <item quantit="other">%1$s%2$d bonus</item>
-        <item quantit="one">%1$s%2$d bonus</item>
+        <item quantity="other">%1$s%2$d bonus</item>
+        <item quantity="one">%1$s%2$d bonus</item>
     </plurals>
     <plurals name="revenu_dépenses_pièces">
-        <item quantit="other">%1$s%2$d pièces</item>
-        <item quantit="one">%1$s%2$d pièce</item>
+        <item quantity="other">%1$s%2$d pièces</item>
+        <item quantity="one">%1$s%2$d pièce</item>
     </plurals>
     <plurals name="intercept_panel_protection_total">
-        <item quantit="other">Protégé %d fois</item>
-        <item quantit="one">Protégé %d fois</item>
+        <item quantity="other">Protégé %d fois</item>
+        <item quantity="one">Protégé %d fois</item>
     </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">%1$s éléments téléchargés avec succès</item>
@@ -299,47 +299,47 @@
     </plurals>
     <plurals name="personal__attance_activity_check_in_bonus_number">
         <item Quantity="other">+ %d pièces</item>
-        <item quantit="one">+ %d pièce</item>
+        <item quantity="one">+ %d pièce</item>
     </plurals>
     <plurals name="personal__check_in__reading_complete">
-        <item quantit="other">Progrès : %1$d/%2$d min</item>
-        <item quantit="one">Progrès : %1$d/%2$d min</item>
+        <item quantity="other">Progrès : %1$d/%2$d min</item>
+        <item quantity="one">Progrès : %1$d/%2$d min</item>
     </plurals>
     <plurals name="personal__check_in__reading_task">
-        <item quantit="other">Lire pendant %d minutes</item>
-        <item quantit="one">Lire pendant %d minute</item>
+        <item quantity="other">Lire pendant %d minutes</item>
+        <item quantity="one">Lire pendant %d minute</item>
     </plurals>
     <plurals name="personal__check_in_bonus_next_notice">
-        <item quantit="other">Obtenez %d bonus demain</item>
-        <item quantit="one">Obtenez %d bonus demain</item>
+        <item quantity="other">Obtenez %d bonus demain</item>
+        <item quantity="one">Obtenez %d bonus demain</item>
     </plurals>
     <plurals name="personal__check_in_bonus_notice">
-        <item quantit="other">Inscrivez-vous pour obtenir %d bonus</item>
-        <item quantit="one">Inscrivez-vous pour obtenir %d bonus</item>
+        <item quantity="other">Inscrivez-vous pour obtenir %d bonus</item>
+        <item quantity="one">Inscrivez-vous pour obtenir %d bonus</item>
     </plurals>
     <plurals name="personal__check_in_continuous_days">
-        <item quantit="other">Déclaré %d jours d'affilée</item>
-        <item quantit="one">Déclaré %d jour d'affilée</item>
+        <item quantity="other">Déclaré %d jours d'affilée</item>
+        <item quantity="one">Déclaré %d jour d'affilée</item>
     </plurals>
     <plurals name="personal__check_in_details_bonus_item_2">
         <item Quantity="other">"2. Les bonus sont valables %d jours. Ils seront automatiquement supprimés de votre compte après leur expiration."</item>
-        <item quantit="one">"2. Les bonus sont valables pendant %d jour. Ils seront automatiquement supprimés de votre compte après leur expiration."</item>
+        <item quantity="one">"2. Les bonus sont valables pendant %d jour. Ils seront automatiquement supprimés de votre compte après leur expiration."</item>
     </plurals>
     <plurals name="personal__continuous_days_card_tip">
-        <item quantit="other">Jour %d</item>
-        <item quantit="one">Jour %d</item>
+        <item quantity="other">Jour %d</item>
+        <item quantity="one">Jour %d</item>
     </plurals>
     <plurals name="personal__continuous_days_title">
         <item Quantity="other">jours</item>
-        <item quantit="un">jour</item>
+        <item quantity="un">jour</item>
     </plurals>
     <plurals name="personal__welfare_check_in_button_done">
-        <item quantit="other">Obtenez %d bonus demain</item>
-        <item quantit="one">Obtenez %d bonus demain</item>
+        <item quantity="other">Obtenez %d bonus demain</item>
+        <item quantity="one">Obtenez %d bonus demain</item>
     </plurals>
     <plurals name="personal__welfare_details_bonus_item_3">
         <item Quantity="other">"3. Les bonus sont valables %d jours. Ils seront automatiquement supprimés de votre compte après leur expiration."</item>
-        <item quantit="one">"3. Les bonus sont valables pendant %d jour. Ils seront automatiquement supprimés de votre compte après leur expiration."</item>
+        <item quantity="one">"3. Les bonus sont valables pendant %d jour. Ils seront automatiquement supprimés de votre compte après leur expiration."</item>
     </plurals>
     <plurals name="players">
         <item quantity="other">%d joueurs</item>
@@ -350,72 +350,72 @@
         <item quantity="one">%d publicité bloquée</item>
     </plurals>
     <plurals name="privacy_dialog_next_plurals">
-        <item quantit="other">Suivant (%1$d secondes)</item>
-        <item quantit="one">Suivant (%1$d seconde)</item>
+        <item quantity="other">Suivant (%1$d secondes)</item>
+        <item quantity="one">Suivant (%1$d seconde)</item>
     </plurals>
     <plurals name="privacy_dialog_revoke_plurals">
-        <item quantit="other">Retirer (%1$d secondes)</item>
-        <item quantit="one">Retirer (%1$d seconde)</item>
+        <item quantity="other">Retirer (%1$d secondes)</item>
+        <item quantity="one">Retirer (%1$d seconde)</item>
     </plurals>
     <plurals name="reading__chapter_exchange_money_for_coins">
-        <item quantit="other">%3$d pièces pour %1$s%2$1.2f</item>
-        <item quantit="one">%3$d pièce pour %1$s%2$1.2f</item>
+        <item quantity="other">%3$d pièces pour %1$s%2$1.2f</item>
+        <item quantity="one">%3$d pièce pour %1$s%2$1.2f</item>
     </plurals>
     <plurals name="reading__chapter_need_pay_view__balance">
-        <item quantit="other">Solde : %d pièces</item>
-        <item quantit="one">Solde : %d pièces</item>
+        <item quantity="other">Solde : %d pièces</item>
+        <item quantity="one">Solde : %d pièces</item>
     </plurals>
     <plurals name="reading__chapter_need_pay_view__price">
-        <item quantit="other">Prix : %d pièces</item>
-        <item quantit="one">Prix : %d pièce</item>
+        <item quantity="other">Prix : %d pièces</item>
+        <item quantity="one">Prix : %d pièce</item>
     </plurals>
     <plurals name="reading__chapter_need_pay_view__unlock">
-        <item quantit="other">Payer %d pièces</item>
-        <item quantit="one">Payer %d pièce</item>
+        <item quantity="other">Payer %d pièces</item>
+        <item quantity="one">Payer %d pièce</item>
     </plurals>
     <plurals name="reading__chapter_pay_view__bonus">
-        <item quantit="other">%d bonus</item>
-        <item quantit="one">%d bonus</item>
+        <item quantity="other">%d bonus</item>
+        <item quantity="one">%d bonus</item>
     </plurals>
     <plurals name="reading__chapter_pay_view__coins">
-        <item quantit="other">%d pièces</item>
-        <item quantit="one">%d pièce</item>
+        <item quantity="other">%d pièces</item>
+        <item quantity="one">%d pièce</item>
     </plurals>
     <plurals name="reading__chapter_pay_view_read_chapter_price">
-        <item quantit="other">Vous pouvez débloquer ce chapitre pour %d pièces.</item>
-        <item quantit="one">Vous pouvez déverrouiller ce chapitre pour %d pièce.</item>
+        <item quantity="other">Vous pouvez débloquer ce chapitre pour %d pièces.</item>
+        <item quantity="one">Vous pouvez déverrouiller ce chapitre pour %d pièce.</item>
     </plurals>
     <plurals name="reading__chapter_wait_unlock_tips_chances_left_today">
         <item Quantity="other">Vous pouvez attendre %s fois de plus aujourd'hui</item>
-        <item quantit="one">Vous pouvez attendre %s fois de plus aujourd'hui</item>
+        <item quantity="one">Vous pouvez attendre %s fois de plus aujourd'hui</item>
     </plurals>
     <plurals name="reading__reading_retain_10_reward">
-        <item quantit="other">"Vous obtiendrez 10 bonus si vous lisez %d minutes de plus. Continuer à lire ?"</item>
-        <item quantit="one">"Vous obtiendrez 10 bonus si vous lisez pendant %d minute de plus. Continuer à lire ?"</item>
+        <item quantity="other">"Vous obtiendrez 10 bonus si vous lisez %d minutes de plus. Continuer à lire ?"</item>
+        <item quantity="one">"Vous obtiendrez 10 bonus si vous lisez pendant %d minute de plus. Continuer à lire ?"</item>
     </plurals>
     <plurals name="reading__reading_retain_15_reward">
-        <item quantit="other">"Vous obtiendrez 15 bonus si vous lisez %d minutes de plus. Continuer à lire ?"</item>
-        <item quantit="one">"Vous obtiendrez 15 bonus si vous lisez pendant %d minute de plus. Continuer à lire ?"</item>
+        <item quantity="other">"Vous obtiendrez 15 bonus si vous lisez %d minutes de plus. Continuer à lire ?"</item>
+        <item quantity="one">"Vous obtiendrez 15 bonus si vous lisez pendant %d minute de plus. Continuer à lire ?"</item>
     </plurals>
     <plurals name="reading__reading_retain_20_reward">
-        <item quantit="other">"Vous obtiendrez 20 bonus si vous lisez %d minutes de plus. Continuer à lire ?"</item>
-        <item quantit="one">"Vous obtiendrez 20 bonus si vous lisez pendant %d minute de plus. Continuer à lire ?"</item>
+        <item quantity="other">"Vous obtiendrez 20 bonus si vous lisez %d minutes de plus. Continuer à lire ?"</item>
+        <item quantity="one">"Vous obtiendrez 20 bonus si vous lisez pendant %d minute de plus. Continuer à lire ?"</item>
     </plurals>
     <plurals name="reading__reading_retain_5_reward">
-        <item quantit="other">"Vous obtiendrez 5 bonus si vous lisez %d minutes de plus. Continuer à lire ?"</item>
-        <item quantit="one">"Vous obtiendrez 5 bonus si vous lisez pendant %d minute de plus. Continuer à lire ?"</item>
+        <item quantity="other">"Vous obtiendrez 5 bonus si vous lisez %d minutes de plus. Continuer à lire ?"</item>
+        <item quantity="one">"Vous obtiendrez 5 bonus si vous lisez pendant %d minute de plus. Continuer à lire ?"</item>
     </plurals>
     <plurals name="reading__reading_retain_common_time">
-        <item quantit="other">"Vous obtiendrez %d bonus si vous continuez à lire. Continuer ?"</item>
-        <item quantit="one">"Vous obtiendrez %d bonus si vous continuez à lire. Continuer ?"</item>
+        <item quantity="other">"Vous obtiendrez %d bonus si vous continuez à lire. Continuer ?"</item>
+        <item quantity="one">"Vous obtiendrez %d bonus si vous continuez à lire. Continuer ?"</item>
     </plurals>
     <plurals name="reading__shared__toc_new_chapter">
-        <item quantit="other">%d chapitres disponibles à ce jour</item>
-        <item quantit="one">%d  chapitre disponible à ce jour</item>
+        <item quantity="other">%d chapitres disponibles à ce jour</item>
+        <item quantity="one">%d  chapitre disponible à ce jour</item>
     </plurals>
     <plurals name="reading__shared__toc_total_chapter">
-        <item quantit="other">%d chapitres</item>
-        <item quantit="one">%d chapitre</item>
+        <item quantity="other">%d chapitres</item>
+        <item quantity="one">%d chapitre</item>
     </plurals>
     <plurals name="reading__wait_to_unlock_rule">
         <item Quantity="other">"1. Appuyez pour démarrer le chronomètre. Lorsque le temps sera écoulé, ce chapitre sera déverrouillé gratuitement.
@@ -424,12 +424,12 @@
 2. Vous pouvez attendre de lire gratuitement %d fois par jour."</item>
     </plurals>
     <plurals name="scanning_notyfy">
-        <item quantit="other">%d fichiers trouvés…</item>
-        <item quantit="one">Fichier %d trouvé…</item>
+        <item quantity="other">%d fichiers trouvés…</item>
+        <item quantity="one">Fichier %d trouvé…</item>
     </plurals>
     <plurals name="scanresult">
-        <item quantit="other">%d fichiers trouvés</item>
-        <item quantit="one">Fichier %d trouvé</item>
+        <item quantity="other">%d fichiers trouvés</item>
+        <item quantity="one">Fichier %d trouvé</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s requêtes de recherche</item>
@@ -485,47 +485,47 @@
         <item quantity="few">%d personnes ont voté</item>
     </plurals>
     <plurals name="web_intercept_record_behavior_hint_ad">
-        <item quantit="other">%d publicités bloquées</item>
-        <item quantit="one">%d publicité bloquée</item>
+        <item quantity="other">%d publicités bloquées</item>
+        <item quantity="one">%d publicité bloquée</item>
     </plurals>
     <plurals name="web_intercept_record_behavior_hint_allow_times">
-        <item quantit="other">Autorisé %d fois</item>
-        <item quantit="one">Autorisé %d fois</item>
+        <item quantity="other">Autorisé %d fois</item>
+        <item quantity="one">Autorisé %d fois</item>
     </plurals>
     <plurals name="web_intercept_record_behavior_hint_disallow_times">
-        <item quantit="other">Restreint %d fois</item>
-        <item quantit="one">Restreint %d fois</item>
+        <item quantity="other">Restreint %d fois</item>
+        <item quantity="one">Restreint %d fois</item>
     </plurals>
     <plurals name="web_intercept_record_behavior_hint_privacy">
-        <item quantit="other">Arrêté %d fois</item>
-        <item quantit="one">Arrêté %d fois</item>
+        <item quantity="other">Arrêté %d fois</item>
+        <item quantity="one">Arrêté %d fois</item>
     </plurals>
     <plurals name="web_permission_ad_subtitle">
-        <item quantit="other">%s publicités bloquées</item>
-        <item quantit="one">%s publicité bloquée</item>
+        <item quantity="other">%s publicités bloquées</item>
+        <item quantity="one">%s publicité bloquée</item>
     </plurals>
     <plurals name="web_permission_allow_default_subtitle">
-        <item quantit="other">Autorisé %s fois</item>
-        <item quantit="one">Autorisé %s fois</item>
+        <item quantity="other">Autorisé %s fois</item>
+        <item quantity="one">Autorisé %s fois</item>
     </plurals>
     <plurals name="web_permission_deny_default_subtitle">
-        <item quantit="other">Restreint %s fois</item>
-        <item quantit="one">Restreint %s fois</item>
+        <item quantity="other">Restreint %s fois</item>
+        <item quantity="one">Restreint %s fois</item>
     </plurals>
     <plurals name="web_permission_privacy_subtitle">
-        <item quantit="other">Arrêté %s fois</item>
-        <item quantit="one">Arrêté %s fois</item>
+        <item quantity="other">Arrêté %s fois</item>
+        <item quantity="one">Arrêté %s fois</item>
     </plurals>
     <plurals name="web_permission_protect_subtitle_day">
-        <item quantit="other">%s jours</item>
-        <item quantit="one">%s jour</item>
+        <item quantity="other">%s jours</item>
+        <item quantity="one">%s jour</item>
     </plurals>
     <plurals name="web_permission_protect_subtitle_time">
-        <item quantit="other">%s fois</item>
-        <item quantit="one">%s fois</item>
+        <item quantity="other">%s fois</item>
+        <item quantity="one">%s fois</item>
     </plurals>
     <plurals name="welcome_skip_count_down">
-        <item quantit="other">%d secondes</item>
-        <item quantit="one">%d seconde</item>
+        <item quantity="other">%d secondes</item>
+        <item quantity="one">%d seconde</item>
     </plurals>
 </resources>

@@ -661,6 +661,7 @@ des types suivants : lettres, chiffres, symboles spéciaux
     <string name="passport_vcode_notification_title">"La vérification n'est pas terminée"</string>
     <string name="passport_vcode_prompt_long">Entrez le code de vérification</string>
     <string name="passport_vcode_sms_send_prompt">Envoyer le code de vérification au %s</string>
+    <string name="passport_vcode_what_app_send_prompt">Votre code de vérification WhatsApp sera envoyé sur votre téléphone de récupération &lt;font color=#1F93FF>%s&lt;/font></string>
     <string name="passport_verification_failed">Impossible de vérifier le compte</string>
     <string name="passport_verify">Vérifier</string>
     <string name="passport_verifying_activator_phone">Vérification de la sécurité du téléphone…</string>

@@ -29,6 +29,14 @@
         <item quantity="other">Il y a %d min</item>
         <item quantity="one">Il y a 1 min</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Supprimer %d téléchargements ?</item>
+        <item quantity="one">Supprimer %d téléchargement ?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%s téléchargements supprimés avec succès</item>
+        <item quantity="one">%s téléchargement supprimé avec succès</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Il y a 1 demi-heure</item>
     </plurals>

@@ -142,7 +142,7 @@
     </plurals>
     <plurals name="pa_express_main_mul_choice_title">
         <item quantity="other">%d éléments sélectionnés</item>
-        <item quantit="one">%d élément sélectionné</item>
+        <item quantity="one">%d élément sélectionné</item>
     </plurals>
     <plurals name="pa_express_settings_title_2">
         <item quantity="other">"You've added %d phone numbers"</item>
