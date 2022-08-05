@@ -102,6 +102,8 @@
     <string name="cancel_moving_dialog_message">"Arrêter l'importation maintenant ?"</string>
     <string name="cancel_moving_dialog_title">"Arrêter l'importation"</string>
     <string name="cancel_restore">Arrêter</string>
+    <string name="category_contacts">Contacts</string>
+    <string name="category_message_contacts">Messagerie et contacts</string>
     <string name="check_privacy_policy">Voir la politique de confidentialité</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="click_soft_ap_to_link">"Sélectionnez un point d'accès pour vous connecter"</string>
@@ -537,6 +539,8 @@ vous devez d'abord créer une sauvegarde iCloud."</string>
     <string name="permission_read_storage_global">Accéder au stockage</string>
     <string name="permission_read_write_storage">"Pour pouvoir sauvegarder des éléments, autorisez d'abord cette fonction à accéder au stockage."</string>
     <string name="permission_read_write_sys_app">"Pour pouvoir sauvegarder et restaurer les messages, les contacts et l'historique des appels, autorisez d'abord cette fonction à accéder à ces éléments."</string>
+    <string name="permission_read_write_sys_app1">Autoriser cette fonctionnalité à accéder à vos messages et contacts pour pouvoir sauvegarder et restaurer ces éléments.</string>
+    <string name="permission_read_write_sys_app2">Autorisez cette fonctionnalité à accéder à vos contacts pour pouvoir sauvegarder et restaurer ces éléments.</string>
     <string name="permission_related">Autorisations</string>
     <string name="permission_restore_calendar">Pour restaurer les événements du calendrier</string>
     <string name="permission_restore_calendar_desc">"Pour pouvoir restaurer les événements du calendrier, autorisez d'abord cette application à modifier les événements de votre calendrier."</string>

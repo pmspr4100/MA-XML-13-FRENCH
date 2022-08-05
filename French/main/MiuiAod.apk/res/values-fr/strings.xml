@@ -32,7 +32,14 @@
   <string name="accessibility_battery_level_charging">Batterie en charge, %d%%.</string>
   <string name="actionbar_button_up_description">Retour</string>
   <string name="add_custom_image">"Image personnalisée"</string>
-  <string name="add_from_album">Ajouter depuis la galerie</string>
+  <string name="add_from_local">Sélectionner une image</string>
+  <string name="afternoon">Après-midi</string>
+  <string name="align_center_horizontally">Horizontal et centré</string>
+  <string name="align_center_vertically">Empilé et aligné au centre</string>
+  <string name="align_left_horizontally">Horizontal et aligné à gauche</string>
+  <string name="align_left_vertically">Empilé et aligné à gauche</string>
+  <string name="align_right_horizontally">Horizontal et aligné à droite</string>
+  <string name="align_right_vertically">Empilé et aligné à droite</string>
   <string name="align_type">Aligner</string>
   <string name="always_style">Toujours</string>
   <string name="always_style_summary">"Consomme plus d'énergie"</string>

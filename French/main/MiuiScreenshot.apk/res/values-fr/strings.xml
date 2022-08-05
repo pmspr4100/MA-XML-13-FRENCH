@@ -55,6 +55,8 @@
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="default_device_name">Périphérique inconnu</string>
+    <string name="device_list_all">Tous les appareils</string>
+    <string name="device_list_more">Plus</string>
     <string name="device_name_with_ellipsize">%1$s…</string>
     <string name="device_offline">"L'autre appareil est hors ligne. Recommencer."</string>
     <string name="device_status_failed">"Impossible d'envoyer"</string>
@@ -88,10 +90,14 @@
     <string name="friday_shortest">Ven</string>
     <string name="functions_are_being_developed">"Cette fonctionnalité sera bientôt disponible. Restez à l'écoute !"</string>
     <string name="global_main_purpose">"Bienvenue dans l'Éditeur de captures d'écran ! Vous pouvez utiliser cette application pour recadrer et modifier vos captures d'écran. Cette application doit se connecter à Internet pour pouvoir fonctionner normalement."</string>
+    <string name="global_pad">Ma tablette</string>
+    <string name="global_pc">Mon ordinateur portable</string>
+    <string name="global_phone">Mon téléphone</string>
     <string name="help">"Vous ne trouvez pas d'appareils ?"</string>
     <string name="help_content">"Si vous ne trouvez pas l'appareil dont vous avez besoin, demandez à l'autre personne d'activer Mi Share."</string>
     <string name="image_decode_failed">"Impossible de décoder l'image"</string>
     <string name="image_not_found">"Impossible de trouver l'image"</string>
+    <string name="lenovo_phone">Téléphone Lenovo</string>
     <string name="loading_text_format" formatted="false">Suppression des informations privées des photos (%d/%d)…</string>
     <string name="long_screenshot_error">"Une erreur s'est produite. Réessayez."</string>
     <string name="long_screenshot_guide_text">"Appuyez pour faire
@@ -187,6 +193,8 @@ une capture d'écran défilante"</string>
     <string name="partial_screenshot_save_successful">Enregistré avec succès</string>
     <string name="partial_screenshot_share">Partager</string>
     <string name="pc_device_model_name">Ordinateur</string>
+    <string name="pc_redmi_device_model_name">Ordinateur portable Redmi</string>
+    <string name="pc_xiaomi_device_model_name">Ordinateur portable Xiaomi</string>
     <string name="photo_editor_beauty_compare">Original</string>
     <string name="photo_editor_doodle">Griffonnage</string>
     <string name="photo_editor_font_default">Mi Lanting (normal)</string>

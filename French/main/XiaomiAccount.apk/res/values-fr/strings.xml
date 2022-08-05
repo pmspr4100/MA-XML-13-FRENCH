@@ -124,6 +124,14 @@ Vous pouvez vous connecter à votre Compte Xiaomi en utilisant %s maintenant."</
     <string name="close">Fermer</string>
     <string name="cloud_description_closed">Occupé | Synchronisation désactivée</string>
     <string name="cloud_description_normal">Occupé</string>
+    <string name="cloud_member">Adhésion</string>
+    <string name="cloud_member_status_expired">Expiré</string>
+    <string name="cloud_member_status_expired_soon">Expire bientôt</string>
+    <string name="cloud_member_status_non_vip">Mettre à niveau</string>
+    <string name="cloud_member_vipname_free">Gratuit</string>
+    <string name="cloud_member_vipname_mega">Méga</string>
+    <string name="cloud_member_vipname_premium">Premium</string>
+    <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">Xiaomi Cloud</string>
     <string name="cloud_service_status_backup_not_open">Backup is off</string>
     <string name="cloud_service_status_cloud_not_open">Désactivé</string>
