@@ -197,7 +197,7 @@
   <string name="paused_queued_for_wifi">En attente de réseau</string>
   <string name="paused_unknown">En pause</string>
   <string name="paused_waiting_for_network">En attente de réseau</string>
-  <string name="paused_waiting_to_retry">En attente d'un nouvel essai</string>
+  <string name="paused_waiting_to_retry">"En attente d'un nouvel essai"</string>
   <string name="permdesc_accessAllDownloads">"Permet à l'application d'afficher et de modifier tous les téléchargements initiés par n'importe quelle application du système."</string>
   <string name="permdesc_downloadCacheNonPurgeable">"Permet à l'application de télécharger des fichiers dans le cache de téléchargement, qui ne peut pas être supprimé automatiquement lorsque le gestionnaire de téléchargement a besoin de plus d'espace."</string>
   <string name="permdesc_downloadCompletedIntent">"Permet à l'application d'envoyer des notifications sur les téléchargements terminés. Des applications malveillantes peuvent utiliser cela pour confondre les autres applications qui téléchargent des fichiers."</string>
