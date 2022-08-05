@@ -376,12 +376,13 @@ Appuyez sur \"Effacer et convertir\" pour continuer."</string>
     <string name="force_allow_on_external_summary">"Rend possible l'enregistrement de toute application sur un espace de stockage externe, indépendamment des valeurs du fichier manifeste"</string>
     <string name="force_hw_ui">Forcer le rendu GPU</string>
     <string name="force_hw_ui_summary">"Forcer l'utilisation du GPU pour le dessin 2D"</string>
-    <string name="force_msaa">Forcer MSAA 4x</string>
-    <string name="force_msaa_summary">Activer MSAA 4x dans les applications OpenGL ES 2.0</string>
+    <string name="force_msaa">Forcer MSAA 4×</string>
+    <string name="force_msaa_summary">Activer MSAA 4× dans les applications OpenGL ES 2.0</string>
     <string name="force_resizable_activities">Forcer possibilité de redimensionner les activités</string>
     <string name="force_resizable_activities_summary">Permettre de redimensionner toutes les activités pour le mode multifenêtre, indépendamment des valeurs du fichier manifeste</string>
     <string name="force_rtl_layout_all_locales">Forcer de droite à gauche</string>
     <string name="force_rtl_layout_all_locales_summary">Forcer de droite à gauche pour toutes langues</string>
+    <string name="fraud_toast_message">"Vous pouvez gérer le transfert d'appel dans les paramètres"</string>
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
