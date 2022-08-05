@@ -559,6 +559,8 @@
   <string name="permission_phone_state_desc">For stopping recording voice notes during calls</string>
   <string name="permission_read_contact_desc">"Association des notes créées lors d'appels à des contacts"</string>
   <string name="permission_storage_desc">"Pour enregistrer des notes sous forme d'images"</string>
+  <string name="permission_storage_desc_new_v12">"Pour ajouter des images aux notes et enregistrer les notes sous forme d'images"</string>
+  <string name="permission_storage_desc_pad_new_v12">"Pour ajouter des images aux notes et enregistrer les notes sous forme d'images"</string>
   <string name="permission_storage_desc_pad_v12">"Pour ajouter des images aux notes et enregistrer des notes sous forme d'images"</string>
   <string name="permission_storage_desc_v12">"Pour ajouter des images aux notes et enregistrer des notes sous forme d'images"</string>
   <string name="permission_xiaoai_desc"><Data>"Mi IA collectera vos enregistrements vocaux et votre ID d'appareil pour transcrire l'audio et créer des notes vocales. En savoir plus sur Mi IA &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>."</Data></string>
@@ -638,6 +640,9 @@
   <string name="save_to_gallery_failure_message">"Impossible d'enregistrer"</string>
   <string name="save_to_gallery_icon_name">Enregistrer dans Galerie</string>
   <string name="save_to_gallery_success_message">Enregistré avec succès</string>
+  <string name="save_to_local_failure_message">"Impossible d'enregistrer"</string>
+  <string name="save_to_local_icon_name">Enregistrer</string>
+  <string name="save_to_local_success_message">Enregistré avec succès</string>
   <string name="search">Notes</string>
   <string name="search_hint">Rechercher des notes</string>
   <string name="search_keyword_notes">Notes;Mémo</string>
@@ -646,6 +651,7 @@
   <string name="search_path_notes">Applications système/Notes</string>
   <string name="search_setting_description">Rechercher du texte dans vos notes</string>
   <string name="select_account_prompt">Synchroniser les notes</string>
+  <string name="select_up_limit_toast">"Sélectionnez jusqu'à %d éléments"</string>
   <string name="send">Envoyer</string>
   <string name="set_alarm_description">Régler une alarme</string>
   <string name="setting_big_screen_layout_columns">Barre latérale</string>

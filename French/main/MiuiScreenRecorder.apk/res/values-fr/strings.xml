@@ -34,6 +34,8 @@
   <string name="app_notification_channel_record_complete">Notifications à propos des enregistrements terminés</string>
   <string name="app_notification_info">"Enregistreur d'écran fonctionne en arrière-plan"</string>
   <string name="app_notification_record_complete">"Enregistrement d'écran enregistré dans Galerie. Appuyez pour le voir."</string>
+  <string name="app_notification_record_saved">"Enregistrement enregistré avec succès
+Appuyez pour afficher"</string>
   <string name="app_notification_title">"Enregistreur d'écran"</string>
   <string name="auto_stop_title">Vidéo enregistrée avec succès</string>
   <string name="battery_not_allowed_warning">"Impossible d'enregistrer lorsque la batterie est inférieure à %1$s. Assurez-vous que la batterie est chargée au moins à %2$s."</string>

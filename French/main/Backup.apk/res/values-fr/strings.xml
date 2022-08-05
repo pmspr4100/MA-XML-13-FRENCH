@@ -72,6 +72,8 @@
     <string name="backup_hint_pad">Laissez votre appareil allumé</string>
     <string name="backup_is_running">"Sauvegarde de l'appareil"</string>
     <string name="backup_new">Nouveau :</string>
+    <string name="backup_notice_content">"Vos sauvegardes ne seront pas chiffrées, ce qui signifie qu'elles pourraient être consultées ou modifiées par des applications tierces. D'autres risques de sécurité peuvent également survenir. Assurez-vous de stocker les éléments sauvegardés dans un environnement bien protégé."</string>
+    <string name="backup_notice_title">Attention</string>
     <string name="backup_notification_title">\"Sauvegarde\" est actif…</string>
     <string name="backup_progress">Sauvegarde en cours…</string>
     <string name="backup_report">Afficher les détails du message</string>
@@ -306,7 +308,7 @@ vous devez d'abord créer une sauvegarde iCloud."</string>
     <string name="local_main_backup_time">Dernière sauvegarde : %1$s</string>
     <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Chiffrer les fichiers sauvegardés dans votre Compte Xiaomi</string>
-    <string name="local_main_encrypt_backup_title">Chiffrement des sauvegardes</string>
+    <string name="local_main_encrypt_backup_title">Vérifier le compte pour restaurer les éléments</string>
     <string name="local_main_latest_backup_time_loading">Chargement…</string>
     <string name="local_no_backup">Aucune sauvegarde.</string>
     <string name="local_no_backup_data">Aucune sauvegarde ici pour le moment</string>

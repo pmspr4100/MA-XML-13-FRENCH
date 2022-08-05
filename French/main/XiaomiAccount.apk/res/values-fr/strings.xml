@@ -65,6 +65,7 @@
 L'ID de votre compte : %s"</string>
     <string name="account_token_expired_title">"Échec de l'authentification"</string>
     <string name="account_user_avatar">Photo du profil</string>
+    <string name="account_user_avatar_activity_not_found">"Impossible d'ouvrir la galerie"</string>
     <string name="account_user_avatar_from_album">Galerie</string>
     <string name="account_user_avatar_from_camera">Prendre une photo</string>
     <string name="account_user_base_info">Informations de base</string>
