@@ -2233,7 +2233,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="snooze_option_2_hour">2 heures</string>
     <string name="snooze_option_30_min">30 minutes</string>
     <string name="snooze_undo">ANNULER</string>
-    <string name="snoozed_for_time">Répété pendant %1$s</string>
+    <string name="snoozed_for_time">Répétée dans %1$s</string>
     <string name="sos_status_bar_summary">Appuyez pour quitter</string>
     <string name="sos_status_bar_title">S.O.S</string>
     <string name="solar_term_autumn_begins">"Début de l'automne"</string>
