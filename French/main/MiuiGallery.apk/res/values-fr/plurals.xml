@@ -492,6 +492,42 @@
         <item quantity="other">Réception de %2$d archives (%3$s) depuis %1$s…</item>
         <item quantity="one">Réception de %2$d archive (%3$s) depuis %1$s…</item>
     </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantit="other">%d photos téléchargées</item>
+        <item quantit="one">%d photo téléchargée</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantit="other">%1$d pièces</item>
+        <item quantit="one">%1$d pièce</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantit="other">%1$d écrans</item>
+        <item quantit="one">%1$d écran</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantit="other">%1$d écrans partagés</item>
+        <item quantit="one">%1$d écran partagé</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantit="other">%1$d environnements de maison intelligente disponibles</item>
+        <item quantit="one">%1$d environnement de maison intelligente disponible</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item Quantity="other">%d éléments sont trop volumineux pour être synchronisés</item>
+        <item quantit="one">%d élément est trop volumineux pour être synchronisé</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantit="other">Impossible de synchroniser %d éléments. Mettez à niveau votre forfait de stockage.</item>
+        <item quantit="one">Impossible de synchroniser %d élément. Mettez à niveau votre forfait de stockage.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantit="other">Impossible de synchroniser %d éléments. Réessayez.</item>
+        <item quantit="one">Impossible de synchroniser %d élément. Réessayez.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantit="other">"Impossible de synchroniser %d éléments. Le propriétaire de cet album n'a plus d'espace de stockage dans le cloud."</item>
+        <item quantit="one">"Impossible de synchroniser %d élément. Le propriétaire de cet album n'a plus d'espace de stockage dans le cloud."</item>
+    </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d secondes</item>
         <item quantity="one">%1$d seconde</item>
@@ -559,6 +595,18 @@
     <plurals name="talkback_album_item_content">
         <item quantity="other">%1$s, %2$s éléments</item>
         <item quantity="one">%1$s, %2$s élément</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d jours</item>
+        <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d mois</item>
+        <item quantity="one">%d mois</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d années</item>
+        <item quantity="one">%d année</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d éléments sélectionnés seront définitivement supprimés du cloud et de tous les appareils synchronisés. Supprimer quand même ?</item>

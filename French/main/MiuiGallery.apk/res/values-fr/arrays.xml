@@ -58,6 +58,11 @@
         <item>Fête nationale à travers les années</item>
         <item>Noël à travers les années</item>
     </string-array>
+    <string-array name="important_people_title">
+        <item>Vos sujets favoris</item>
+        <item>Les âmes sœurs</item>
+        <item>Les moments brillants de la vie</item>
+    </string-array>
     <string-array name="last_month">
         <item>Janvier</item>
         <item>Février</item>
@@ -71,6 +76,36 @@
         <item>Octobre</item>
         <item>Novembre</item>
         <item>Décembre</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Occupé à grandir</item>
+        <item>De plus en plus mignon</item>
+        <item>Petit explorateur</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Journal de remise en forme</item>
+        <item>De plus en plus fort</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Bon appétit !</item>
+        <item>Une autre bouchée ?</item>
+        <item>Profitez de votre repas !</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Souriez et saluez !</item>
+        <item>Temps de jeu</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Les grands espaces</item>
+        <item>Traces dans la neige</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Imparable</item>
+        <item>Rester en forme</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Un grand jour</item>
+        <item>Au bout du couloir !</item>
     </string-array>
     <string-array name="last_week_baby_title">
         <item>"L'heure de jouer"</item>
@@ -252,6 +287,22 @@
         <item>Bons moments</item>
         <item>"À l'unisson"</item>
     </string-array>
+    <string-array name="people_travel_title">
+        <item>Où la route nous mène</item>
+        <item>Voyages bien partagés</item>
+    </string-array>
+    <string-array name="titre_trimestre_babies">
+        <item>Un printemps joyeux</item>
+        <item>Un été joyeux</item>
+        <item>Un bel automne</item>
+        <item>Un hiver joyeux</item>
+    </string-array>
+    <string-array name="titre_alimentaire_trimestre">
+        <item>Repas de printemps</item>
+        <item>"Friandises d'été"</item>
+        <item>"Fêtes d'automne"</item>
+        <item>"Rangements d'hiver"</item>
+    </string-array>
     <string-array name="recent_group_people">
         <item>Ensemble</item>
         <item>Obligations et cravates</item>
@@ -289,14 +340,31 @@
         <item>"Aller de l'avant"</item>
         <item>"Plein d'énergie"</item>
     </string-array>
+    <string-array name="spring_season_title">
+        <item>Fleurs de printemps</item>
+        <item>"Le printemps est dans l'air"</item>
+        <item>Bonjour le printemps !</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>"Un peu d'été"</item>
+        <item>"Là où l'été ne se termine jamais"</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Heures en or</item>
+        <item>Rayons dorés</item>
+    </string-array>
     <string-array name="three_month_baby_title">
         <item>Ils grandissent si vite</item>
-        <item>"Photos de Kiddo"</item>
+        <item>Photos de Kiddo</item>
     </string-array>
     <string-array name="weekend_title">
         <item>Week-end passé</item>
         <item>Jours à retenir</item>
         <item>Événements quotidiens</item>
         <item>Ordinaire et extraordinaire</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>"Jours d'hiver"</item>
+        <item>"Merveilles d'hiver"</item>
     </string-array>
 </resources>
