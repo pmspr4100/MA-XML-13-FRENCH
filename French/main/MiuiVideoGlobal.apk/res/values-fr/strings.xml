@@ -1426,7 +1426,7 @@ Augmenter la sécurité de votre compte."</string>
     <string name="privacy_revoke_title">Retrait du consentement</string>
     <string name="pro_prize_popup_style_one">Supprimer les publicités pour %s</string>
     <string name="pro_prize_popup_style_two">Débloquez plus de fonctionnalités pour %s</string>
-    <string name="progressbar_title">Recherche de problèmes de sécurité…</string>
+    <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
     <string name="psw_hint">Mot de passe</string>
     <string name="psw_sign_in">Connectez-vous avec un mot de passe</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Tirez vers le haut pour actualiser…</string>

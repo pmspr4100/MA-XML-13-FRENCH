@@ -984,7 +984,7 @@ Envoyez ce code au superviseur."</string>
     <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
     <string name="program">Program</string>
     <string name="program_title">Programs</string>
-    <string name="progressbar_title">Recherche de problèmes de sécurité…</string>
+    <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
     <string name="project_device">Mi Phone</string>
     <string name="project_device_bs">My Black Shark</string>
     <string name="psw_hint">Mot de passe</string>
@@ -1311,7 +1311,7 @@ Envoyez ce code au superviseur."</string>
     <string name="unable_to_play">"Can't play"</string>
     <string name="unknown_album_name">Unknown album</string>
     <string name="unknown_artist_name">Unknown artist</string>
-    <string name="unknown_error_info">Unknown error</string>
+    <string name="unknown_error_info">Erreur inconnue</string>
     <string name="unknown_program_name">Unknown program</string>
     <string name="unread_message_count">%s message unread</string>
     <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de mettre à jour l'e-mail de récupération."</string>

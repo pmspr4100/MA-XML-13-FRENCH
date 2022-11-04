@@ -29,6 +29,10 @@
         <item quantity="other">Il y a %d min</item>
         <item quantity="one">Il y a 1 min</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">"%2$d minutes restantes pour \"%1$s\" aujourd'hui"</item>
+        <item quantity="one">"%2$d minute restante pour \"%1$s\" aujourd'hui"</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Il y a 1 demi-heure</item>
     </plurals>
@@ -64,9 +68,21 @@
         <item quantity="other">"Vous avez utilisé votre appareil pendant %d minutes sans interruption"</item>
         <item quantity="one">"Vous avez utilisé votre appareil pendant %d minute sans interruption"</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Repos pendant %d minutes</item>
+        <item quantity="one">Repos pendant %d minute</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d mins</item>
         <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">Vous utilisez déjà cet appareil depuis %d minutes</item>
+        <item quantity="one">Vous utilisez cet appareil depuis déjà %d minute</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">"Vous pouvez ajouter jusqu'à %d pauses"</item>
+        <item quantity="one">"Vous pouvez ajouter jusqu'à %d pause"</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">"Le temps d'utilisation aujourd'hui est égal à votre moyenne sur %d jours"</item>
@@ -134,6 +150,10 @@
         <item quantity="one">%d minutes est un grand pas vers la conscience et la concentration.</item>
     </plurals>
     <plurals name="usage_state_hour">
+        <item quantity="other">%d heures</item>
+        <item quantity="one">%d heure</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
         <item quantity="other">%d heures</item>
         <item quantity="one">%d heure</item>
     </plurals>

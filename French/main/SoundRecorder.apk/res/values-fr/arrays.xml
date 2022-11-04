@@ -17,9 +17,9 @@
         <item>Faible</item>
     </string-array>
     <string-array name="record_quality_summaries">
-        <item>MP3, ~192kbit/s, ~90Mo/h</item>
-        <item>MP3, ~100kbit/s, ~45Mo/h</item>
-        <item>MP3, ~75kbit/s, ~32Mo/h</item>
+        <item>MP3, ~192 kbit/s, ~83 Mio/h</item>
+        <item>MP3, ~100 kbit/s, ~43 Mio/h</item>
+        <item>MP3, ~75 kbit/s, ~32 Mio/h</item>
     </string-array>
     <string-array name="record_scenes_entries">
         <item>Musique</item>

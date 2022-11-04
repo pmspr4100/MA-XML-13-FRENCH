@@ -604,7 +604,7 @@ Envoyer ce code au superviseur."</string>
 %2$s
 Lisez et acceptez la nouvelle version de %3$s avant de continuer."</string>
     <string name="privacy_policy_update_title">Updated Privacy Policy</string>
-    <string name="progressbar_title">Recherche de problèmes de sécurité…</string>
+    <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
     <string name="protocal_dialog_confirm">Accepter</string>
     <string name="protocal_dialog_title">Attention</string>
     <string name="pull_to_refresh_pull_label">Tirez vers le bas pour rafraîchir</string>

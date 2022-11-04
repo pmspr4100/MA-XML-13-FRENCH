@@ -27,11 +27,12 @@
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="access_denied_info">"Trop d'essais. Attendez une minute ou deux et réessayez."</string>
     <string name="actionbar_button_up_description">Retour</string>
     <string name="add_remark_hint">Entrez votre remarque ici</string>
     <string name="add_remark_tip">Appuyez pour ajouter une remarque</string>
     <string name="afternoon">Après-midi</string>
-    <string name="agree_description">Allow this app to connect to the internet to be able to use all its features.</string>
+    <string name="agree_description">Autorisez cette application à se connecter à Internet pour pouvoir utiliser toutes ses fonctionnalités.</string>
     <string name="alert_message_clear_records">Supprimer le(s) enregistrement(s) sélectionné(s) ?</string>
     <string name="alert_message_delete_local_record">Supprimer cet enregistrement ?</string>
     <string name="alert_message_delete_record">Supprimer les enregistrements de votre appareil effacera également cet enregistrement du Xiaomi Cloud. Supprimer maintenant ?</string>
@@ -76,6 +77,7 @@
     <string name="delete">Supprimer</string>
     <string name="delete_cloud_data_at_same_time">Supprimer également du cloud</string>
     <string name="delete_dialog_message">"Supprimer l'enregistrement ?"</string>
+    <string name="delete_recorder">Supprimer</string>
     <string name="deleting_message">Suppression…</string>
     <string name="details">Détails</string>
     <string name="dialog_content_storage_full">"Enregistrement arrêté parce qu'il n'y a pas assez d'espace de stockage sur la mémoire interne de votre appareil."</string>
@@ -119,7 +121,9 @@
     <string name="error_sdcard_access">"Impossible d'accéder à la carte SD"</string>
     <string name="error_sdcard_unmounted">Insérez une carte SD</string>
     <string name="evening">Après-midi</string>
+    <string name="expand_button_title">Avancé</string>
     <string name="export_to_note">Exporter</string>
+    <string name="fm_record">Radio</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -132,6 +136,7 @@
     <string name="head_set_tip_dialog_msg">"Déconnectez vos écouteurs afin d'enregistrer du son avec des préréglages spécifiques (ex.: Musique, Voix)."</string>
     <string name="head_set_tip_dialog_ok">Compris</string>
     <string name="head_set_tip_dialog_title">Utiliser le microphone interne</string>
+    <string name="icon_content_description">Icône de dialogue</string>
     <string name="invalid_argument">Argument non valide</string>
     <string name="invisible_mode_error_tip">Désactivez le mode navigation privée dans les Paramètres pour pouvoir utiliser le microphone</string>
     <string name="item_view_role_description">Onglet</string>
@@ -144,6 +149,9 @@
     <string name="korea_permission_record_resc">"Pour enregistrer de l'audio"</string>
     <string name="korea_permission_storage">Stockage</string>
     <string name="korea_permission_storage_desc">Pour sauvegarder les enregistrements</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API basé sur SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
     <string name="loading_more">Chargement…</string>
     <string name="loading_order_list">Chargement…</string>
     <string name="loading_order_list_empty">Aucune commande ici.</string>
@@ -160,8 +168,11 @@
     <string name="material_minute_selection">Sélectionner les minutes</string>
     <string name="material_slider_range_end">"Fin d'intervalle,"</string>
     <string name="material_slider_range_start">"Début d'intervalle,"</string>
+    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">"Passer en mode horloge pour la saisie de l'heure."</string>
     <string name="material_timepicker_hour">Heure</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">"Sélectionnez l'heure"</string>
     <string name="material_timepicker_text_input_mode_description">"Passez en mode de saisie de texte pour la saisie de l'heure."</string>
     <string name="menu">Menu</string>
@@ -177,9 +188,9 @@
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
     <string name="miuix_appcompat_cancel_description">Annuler</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Sync with the cloud is off</string>
-    <string name="miuix_appcompat_cloud_state_finished">Synced with the cloud successfully</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Syncing with the cloud…</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Synchronisation avec le cloud est désactivée</string>
+    <string name="miuix_appcompat_cloud_state_finished">Synchronisé avec le cloud avec succès</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Synchronisation avec le cloud…</string>
     <string name="miuix_appcompat_confirm_description">Confirmer</string>
     <string name="miuix_appcompat_delete_description">Supprimer</string>
     <string name="miuix_appcompat_deselect_all">Désélectionner</string>
@@ -240,10 +251,9 @@
     <string name="month_september_shortest">Sept</string>
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
-    <string name="mtrl_badge_numberless_content_description">New notification</string>
-    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
+    <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>
-
     <string name="mtrl_picker_a11y_next_month">Aller au mois suivant</string>
     <string name="mtrl_picker_a11y_prev_month">Aller au mois précédent</string>
     <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
@@ -258,7 +268,6 @@
     <string name="mtrl_picker_out_of_range">"En dehors de l'intervalle : %1$s"</string>
     <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
-
     <string name="mtrl_picker_range_header_title">Sélectionner un intervalle de dates</string>
     <string name="mtrl_picker_range_header_unselected">Date de début - Date de fin</string>
     <string name="mtrl_picker_save">Enregistrer</string>
@@ -269,6 +278,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Appuyez pour passer à la sélection du jour</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
     <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
+    <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
+    <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
     <string name="network_tip_dialog_cancel">Je refuse</string>
     <string name="network_tip_dialog_content">Le magnétophone a besoin de se connecter à internet pour fonctionner normalement. Acceptez-vous ?</string>
     <string name="network_tip_dialog_ok">Accepter</string>
@@ -281,7 +292,7 @@ Comment accorder une autorisation
 Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Suivante</string>
     <string name="night">Soirée</string>
-    <string name="no_content">No items here yet</string>
+    <string name="no_content">Aucun élément ici pour le moment</string>
     <string name="no_file">Vide</string>
     <string name="no_network">Connexion au réseau impossible</string>
     <string name="no_playback_file">Sélectionnez un enregistrement pour afficher les détails</string>
@@ -348,6 +359,7 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="play_speed">Vitesse %1$.1f×</string>
     <string name="playback_delete_records">"Supprimer l'enregistrement"</string>
     <string name="playback_share_records">"Partager l'enregistrement"</string>
+    <string name="pm">PM</string>
     <string name="preference_clear_data">Effacer les données</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
     <string name="preference_enable_earpiece_summary">Utiliser les haut-parleurs pour la lecture</string>
@@ -367,6 +379,7 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="privacy_policy_title">Politique de confidentialité</string>
     <string name="privacy_settings">Vie privée</string>
     <string name="progress">Barre de progression de la lecture</string>
+    <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
     <string name="recognition_button_add_to_queue">Ajouter à la liste</string>
     <string name="recognition_button_cancel">Pas maintenant</string>
     <string name="recognition_button_start">Transcrire</string>
@@ -456,6 +469,7 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="reg_error_server">Une erreur de serveur sest produite. Signalez-le nous, puis réessayez.</string>
     <string name="reg_error_upload_audio">Impossible de ajouter le fichier, essayez à nouveau.</string>
     <string name="reg_error_upload_order">Impossible dajouter, réessayez.</string>
+    <string name="remind_settings_pref_title">Notifications</string>
     <string name="remove_icon_description_content">"Magnéto est une application système. Vous ne pourrez plus gérer les enregistrements après avoir supprimé le raccourci de l'écran d'accueil."</string>
     <string name="remove_icon_description_title">"Supprimer \"Magnéto\" de l'écran d'accueil ?"</string>
     <string name="rename">Renommer</string>
@@ -491,15 +505,15 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="settings_saf_permission">Autorisations de gestion de fichiers</string>
     <string name="share">Partager</string>
     <string name="share_dialog_title">Partager via</string>
-    <string name="shortcut_records">Recordings</string>
-    <string name="shortcut_start_record">Start recording</string>
-    <string name="shortcut_stop_record">Stop recording</string>
+    <string name="shortcut_records">Enregistrements</string>
+    <string name="shortcut_start_record">"Démarrer l'enregistrement"</string>
+    <string name="shortcut_stop_record">"Arrêter l'enregistrement"</string>
     <string name="size_byte">" o"</string>
-    <string name="size_giga_byte">" Go"</string>
-    <string name="size_kilo_byte">" Ko"</string>
-    <string name="size_mega_byte">" Mo"</string>
-    <string name="size_peta_byte">" Po"</string>
-    <string name="size_tera_byte">" To"</string>
+    <string name="size_giga_byte">" Gio"</string>
+    <string name="size_kilo_byte">" Kio"</string>
+    <string name="size_mega_byte">" Mio"</string>
+    <string name="size_peta_byte">" Pio"</string>
+    <string name="size_tera_byte">" Tio"</string>
     <string name="solar_term_autumn_begins">"Début de l'automne"</string>
     <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
     <string name="solar_term_clear_and_bright">Pure lumière</string>
@@ -601,7 +615,6 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="thursday_short">Jeu</string>
     <string name="thursday_shortest">Jeu</string>
     <string name="time_picker_dialog_title">"Régler l'heure"</string>
-    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s peut enregistrer environ %2$s</string>
     <string name="toast_uninstall_fileexplorer">"Gestionnaire de fichiers n'est pas installé"</string>
     <string name="today">"Aujourd'hui"</string>
@@ -614,6 +627,7 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="uninstall_warning_content">"Magnéto est une application système. Vous ne pourrez plus enregistrer ni transcrire des audios et des appels téléphoniques après l'avoir désinstaller."</string>
     <string name="uninstall_warning_title">Désinstaller Magnéto ?</string>
+    <string name="unknown_error_info">Erreur inconnue</string>
     <string name="usage_description">Transcription audio et synchronisation des éléments avec le cloud</string>
     <string name="user_feedback">Avis</string>
     <string name="v7_preference_off">Désactivé</string>

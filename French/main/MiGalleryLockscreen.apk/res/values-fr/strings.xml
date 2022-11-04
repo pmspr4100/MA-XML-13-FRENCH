@@ -545,8 +545,8 @@ Cela peut générer des frais supplémentaires."</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
     <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
     <string name="need_open_gallery">"Activer Fond d'écran"</string>
-    <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
-    <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
+    <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
+    <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
     <string name="new_feature_title">Quoi de neuf</string>
     <string name="nick_name">Surnom</string>
     <string name="night">Soirée</string>
@@ -704,7 +704,7 @@ Cela peut générer des frais supplémentaires."</string>
     <string name="privacy_update_summary3">"Vous ne pourrez pas continuer à utiliser le Diaporama de fonds d'écran à moins que vous n'acceptiez la nouvelle version de sa &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Politique de confidentialité&lt;/font>&lt;/a>. Accepter la politique de confidentialité mise à jour maintenant ?"</string>
     <string name="privacy_update_title1">Politique de confidentialité mise à jour</string>
     <string name="privacy_update_title2">Attention</string>
-    <string name="progressbar_title">Checking for security issues…</string>
+    <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
     <string name="protocal_dialog_cancel">Annuler</string>
     <string name="protocal_dialog_confirm">Accepter</string>
     <string name="protocal_dialog_title">Attention</string>
@@ -1028,7 +1028,7 @@ Cela peut générer des frais supplémentaires."</string>
     <string name="uninstall_introduction_text_title">À propos</string>
     <string name="uninstall_warning_text_desc">"Sans Diaporama de fonds d'écran, vous ne pourrez pas recevoir régulièrement de nouveaux fonds d'écran de verrouillage. Cependant, vous pourrez télécharger et installer à nouveau l'application. Supprimer Diaporama de fonds d'écran ?"</string>
     <string name="uninstall_warning_text_title">"Suppression fond d'écran"</string>
-    <string name="unknown_error_info">Unknown error</string>
+    <string name="unknown_error_info">Erreur inconnue</string>
     <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de mettre à jour l'e-mail de récupération."</string>
     <string name="update_email_address_dialog_title">"Mettre à jour l'e-mail de récupération"</string>
     <string name="update_phone_notice">Modifier les paramètres de sécurité</string>

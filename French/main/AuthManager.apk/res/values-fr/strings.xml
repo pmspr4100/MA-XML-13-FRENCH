@@ -9,8 +9,8 @@
     <string name="HIPS_Action_Reject_This">Restreindre une fois</string>
     <string name="HIPS_Perm_Access_Gallery">Accéder à Galerie</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Autorise cette application à accéder aux éléments de votre Galerie</string>
-    <string name="HIPS_Perm_AudioRecorder">Enregistrement audio</string>
-    <string name="HIPS_Perm_AudioRecorder_Desc">Enregistrer des appels audio et téléphoniques</string>
+    <string name="HIPS_Perm_AudioRecorder">"Enregistrer l'audio"</string>
+    <string name="HIPS_Perm_AudioRecorder_Desc">"Enregistrer l'audio"</string>
     <string name="HIPS_Perm_AutoStart">Exécuter au démarrage</string>
     <string name="HIPS_Perm_AutoStart_Desc">Exécute au démarrage"</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Changer la connectivité Bluetooth</string>
@@ -145,9 +145,6 @@
     <string name="actionbar_button_up_description">Retour</string>
     <string name="afternoon">Après-midi</string>
     <string name="am">AM</string>
-    <string name="animator_property_name_alpha">alpha</string>
-    <string name="animator_property_name_translationX">translationX</string>
-    <string name="animator_property_name_translationY">translationY</string>
     <string name="app_name">Permissions</string>
     <string name="background_location_access_reminder_notification_content">Cette application peut toujours accéder à votre position. Appuyez pour changer.</string>
     <string name="background_location_access_reminder_notification_title">%s utilise votre position</string>
@@ -282,6 +279,7 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
+    <string name="miuix_indexer_collect">Collections</string>
     <string name="never_ask_again">Ne plus demander après avoir restreint</string>
     <string name="night">Soirée</string>
     <string name="no">Non</string>
@@ -291,6 +289,7 @@
     <string name="ok">OK</string>
     <string name="perm_action_allow">Autoriser</string>
     <string name="perm_action_deny">Ne jamais autoriser</string>
+    <string name="perm_educate_post_notification">"Les notifications peuvent être accompagnées de sons et de vibrations lorsqu'elles apparaissent dans la nuance de notification et sur les icônes de l'écran d'accueil. Vous pouvez modifier vos préférences de notification dans les paramètres."</string>
     <string name="perm_manager_suggest_operation">Gérer les autorisations</string>
     <string name="perm_manager_suggest_title">Ajuster les autorisations ?</string>
     <string name="perm_modem_location">Accès à votre localisation</string>
@@ -303,6 +302,7 @@
     <string name="permdesc_location_background">Autoriser %1$s à accéder aux informations de localisation en arrière-plan ?</string>
     <string name="permdesc_microphone">"Autoriser %1$s à utiliser le microphone pour enregistrer de l'audio et passer des appels ?"</string>
     <string name="permdesc_nearby_devices">Autoriser %1$s à découvrir et à se connecter aux appareils à proximité ?</string>
+    <string name="permdesc_post_notification">Autoriser %1$s à envoyer des notifications ?</string>
     <string name="permdesc_process_outgoing_call">Autoriser %1$s à répondre et mettre fin aux appels ?</string>
     <string name="permdesc_read_calendar">Autoriser %1$s à accéder aux événements du calendrier et à les modifier ?</string>
     <string name="permdesc_read_call_log">"Autoriser %1$s à accéder à l'historique des appels ?"</string>
@@ -330,19 +330,6 @@
     <string name="permgroupdesc_sensors">Autoriser %1$s à accéder aux données des capteurs corporels ?</string>
     <string name="permgroupdesc_sms">Autoriser %1$s à lire ou envoyer des SMS ?</string>
     <string name="permgroupdesc_storage">Autoriser %1$s à accéder aux fichiers et aux photos et à les enregistrer sur votre appareil ?</string>
-    <string name="permgrouprequest_storage_isolated">Autoriser %1$s accéder aux photos et aux médias sur votre appareil ?</string>
-    <string name="permission_description_summary_activity_recognition">Les applications disposant de cette autorisation peuvent accéder à votre activité physique, comment marcher, faire du vélo, conduire, compter les pas, etc.</string>
-    <string name="permission_description_summary_calendar">Les applications avec cette permission peuvent accéder à votre calendrier</string>
-    <string name="permission_description_summary_call_log">Les applications disposant de cette permission peuvent lire et écrire dans le journal des appels téléphoniques.</string>
-    <string name="permission_description_summary_camera">Les applications avec cette permission peuvent prendre des photos et enregistrer des vidéos</string>
-    <string name="permission_description_summary_contacts">Les applications avec cette permission peuvent accéder à vos contacts</string>
-    <string name="permission_description_summary_generic">Les applications avec cette permission peuvent %1$s</string>
-    <string name="permission_description_summary_location">"Les applications avec cette permission peuvent accéder à l'emplacement de cet appareil"</string>
-    <string name="permission_description_summary_microphone">"Les applications avec cette permission peuvent enregistrer de l'audio"</string>
-    <string name="permission_description_summary_phone">Les applications disposant de cette permission peuvent émettre et gérer des appels téléphoniques.</string>
-    <string name="permission_description_summary_sensors">Les applications disposant de cette permission peuvent accéder aux données du capteur concernant vos signes vitaux</string>
-    <string name="permission_description_summary_sms">Les applications disposant de cette permission peuvent envoyer et afficher des SMS.</string>
-    <string name="permission_description_summary_storage">Les applications dotées de cette permission peuvent accéder aux photos, aux fichiers multimédias et aux fichiers de votre appareil.</string>
     <string name="permission_group_title_charges_related">Charges</string>
     <string name="permission_group_title_media_related">Multimédia</string>
     <string name="permission_group_title_privacy_related">Confidentialité</string>
