@@ -2887,21 +2887,21 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="feedback_prompt">Let the developer know your feedback. Was this correct?</string>
     <string name="feedback_response">Thanks for your feedback!</string>
     <string name="feedback_silenced">This notification was automatically &lt;b>demoted to Silent&lt;/b> by the system.</string>
-    <string name="fingerprint_again_identified_msg_password">"Your fingerprint is active now.
-Use it to unlock the device, or enter your password."</string>
-    <string name="fingerprint_again_identified_msg_pattern">"Your fingerprint is active now.
-Use it to unlock the device, or draw your pattern."</string>
-    <string name="fingerprint_again_identified_msg_pin">"Your fingerprint is active now.
-Use it to unlock the device, or enter your PIN."</string>
-    <string name="fingerprint_dialog_cant_recognize_fp_use_screenlock">Can’t recognize fingerprint. Use screen lock instead.</string>
-    <string name="fingerprint_dialog_use_fingerprint">Use your fingerprint to continue</string>
-    <string name="fingerprint_dialog_use_fingerprint_instead">Can’t recognize face. Use fingerprint instead.</string>
-    <string name="fingerprint_not_identified_msg_password">"Too many unsuccessful attempts.
-Enter your password to unlock."</string>
-    <string name="fingerprint_not_identified_msg_pattern">"Too many unsuccessful attempts.
-Draw your pattern to unlock."</string>
-    <string name="fingerprint_not_identified_msg_pin">"Too many unsuccessful attempts.
-Enter your PIN to unlock."</string>
+    <string name="fingerprint_again_identified_msg_password">"Votre empreinte digitale est maintenant active.
+Utilisez-la pour déverrouiller l'appareil ou entrez votre mot de passe."</string>
+    <string name="fingerprint_again_identified_msg_pattern">"Votre empreinte digitale est maintenant active.
+Utilisez-la pour déverrouiller l'appareil ou dessinez votre schéma."</string>
+    <string name="fingerprint_again_identified_msg_pin">"Votre empreinte digitale est maintenant active.
+Utilisez-la pour déverrouiller l'appareil ou saisissez votre code PIN."</string>
+    <string name="fingerprint_dialog_cant_recognize_fp_use_screenlock">"Impossible de reconnaître l'empreinte digitale. Utilisez plutôt le verrouillage de l'écran."</string>
+    <string name="fingerprint_dialog_use_fingerprint">Utilisez votre empreinte digitale pour continuer</string>
+    <string name="fingerprint_dialog_use_fingerprint_instead">Impossible de reconnaître le visage. Utilisez plutôt les empreintes digitales.</string>
+    <string name="fingerprint_not_identified_msg_password">"Trop de tentatives infructueuses.
+Entrez votre mot de passe pour déverrouiller."</string>
+    <string name="fingerprint_not_identified_msg_pattern">"Trop de tentatives infructueuses.
+Dessinez votre schéma pour déverrouiller."</string>
+    <string name="fingerprint_not_identified_msg_pin">"Trop de tentatives infructueuses.
+Entrez votre code PIN pour déverrouiller."</string>
     <string name="fmt_time_24hour">"HH 'o''clock'"</string>
     <string name="game_status">Playing</string>
     <string name="guest_reset_guest">Reset guest</string>
