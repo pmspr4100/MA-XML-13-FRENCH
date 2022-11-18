@@ -133,7 +133,8 @@
     <string name="allow_current">Autoriser une fois</string>
     <string name="already_add">"Ajout de %s à votre écran d'accueil"</string>
     <string name="am">AM</string>
-    <string name="app_id">Firebase App ID(Click To Export)</string>
+    <string name="app_cache">Cache</string>
+    <string name="app_id">Firebase App ID(Cliquer pour exporter)</string>
     <string name="app_library_category_entertainment">Divertissement</string>
     <string name="app_library_category_games">Jeux</string>
     <string name="app_library_category_information">Média</string>
@@ -160,6 +161,7 @@
     <string name="app_update_install">Prêt à installer la mise à jour.</string>
     <string name="application">Applications</string>
     <string name="application_name">Navigateur</string>
+    <string name="application_upgrade">Mises à jour</string>
     <string name="aqi_quality_index_break">Gravement dangereux</string>
     <string name="aqi_quality_index_dangerous">Dangereux</string>
     <string name="aqi_quality_index_good">Bon</string>
@@ -360,6 +362,8 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="branch_shortcuts">Raccourcis</string>
     <string name="branch_show_more">Plus</string>
     <string name="branch_terms_condition">Termes et conditions</string>
+    <string name="branch_trending_google_news">Google Actualités</string>
+    <string name="branch_trending_youtube_news">YouTube</string>
     <string name="browser">Mi Browser</string>
     <string name="browserFrameFileErrorLabel">Erreur fichier</string>
     <string name="browserFrameFormResubmitMessage">La page que vous souhaitez voir contient des données qui ont déjà été soumises. Si vous les envoyer à nouveau, les actions précédentes (par ex. les recherches ou les achats) seront répétées.</string>
@@ -468,7 +472,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="collect_diagnosis_log">Collecter les journaux</string>
     <string name="collection_articles">Articles</string>
     <string name="collection_videos">Vidéos</string>
-    <string name="columbus_ad_flag_text">AD</string>
+    <string name="columbus_ad_flag_text">PUB</string>
     <string name="columbus_player_close_desc">Vous perdrez votre récompense</string>
     <string name="columbus_player_close_resume">REPRENDRE LA LECTURE</string>
     <string name="columbus_player_close_title">Fermer la vidéo ?</string>
@@ -587,6 +591,8 @@ Les pages que vous consultez n'apparaîtront pas dans l'historique."</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="data_traffic_prompt_title">Continuer la lecture vidéo maintenant ?</string>
+    <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
+    <string name="date_time_picker_dialog_title">"Définir la date et l'heure"</string>
     <string name="debug_crash">"Activer le débogage en cas d'incident"</string>
     <string name="debug_youtube_file">Déboguer le fichier YouTube</string>
     <string name="debug_youtube_in_release">Déboguer YouTube dans la version</string>
@@ -596,6 +602,7 @@ Les pages que vous consultez n'apparaîtront pas dans l'historique."</string>
     <string name="deeplink_permission_name_hint">Ouvrir %s</string>
     <string name="default_account_name">Invité</string>
     <string name="default_likes">"J'aime"</string>
+    <string name="default_message_body">corps du message</string>
     <string name="default_share">Partager</string>
     <string name="default_title">Impossible de charger la légende. Actualisez la page pour réessayer.</string>
     <string name="delete">Supprimer</string>
@@ -632,11 +639,14 @@ Envoyez ce code au superviseur."</string>
     <string name="discovery__edit_feed_view__remove_this_book">supprimer ce livre et son introduction ?</string>
     <string name="discovery__edit_feed_view__send">version</string>
     <string name="discovery__edit_feed_view__title_hint">titre</string>
+    <string name="display__quick_entry_of_search">Afficher les raccourcis des fonctionnalités dans le panneau des notifications</string>
     <string name="dkcommon__web_pull_refresh_view__pull_down_tip">Déroulez pour actualiser</string>
     <string name="dkcommon__web_pull_refresh_view__refresh_done_tip">Actualisé avec succès</string>
     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Un instant…</string>
     <string name="dkcommon__web_pull_refresh_view__release_tip">Relâchez pour actualiser</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Rejouer</string>
+    <string name="doc_viewer_label">Lecteur (Mi Browser)</string>
+    <string name="doc_viewer_open_out_file_prompt">"Pour ouvrir et afficher un fichier reçu de sources externes, cette application doit d'abord créer une copie du fichier. Continuer ?"</string>
     <string name="document_download_background_btn">Téléchargement en arrière-plan</string>
     <string name="document_download_cancel_btn">Annuler</string>
     <string name="document_download_failed">Impossible de télécharger</string>
@@ -668,7 +678,7 @@ Envoyez ce code au superviseur."</string>
     <string name="download_dialog_content_downloading">Téléchargement…</string>
     <string name="download_dialog_content_open_mi_picks">Ouvrir (%1$ds)</string>
     <string name="download_dialog_content_ordinary_download">Téléchargement classique</string>
-    <string name="download_dialog_content_rcmd_get_apps">GetApps — Mi official app market</string>
+    <string name="download_dialog_content_rcmd_get_apps">GetApps — Marché officiel des applications Mi</string>
     <string name="download_dialog_content_rcmd_text">"Des millions d'applications et de jeux gratuits. Installez sans vous connecter."</string>
     <string name="download_dialog_content_security_download">Téléchargement sécurisé (recommandé)</string>
     <string name="download_dialog_default_path_invalid">"L'emplacement de téléchargement que vous avez s*électionné n'est pas valide. Enregistrement à l'emplacement par défaut…"</string>
@@ -687,7 +697,7 @@ Envoyez ce code au superviseur."</string>
     <string name="download_dialog_title_audio">Audio</string>
     <string name="download_dialog_title_not_available">Téléchargement impossible</string>
     <string name="download_dialog_title_queued_body">"Le fichier n'est pas encore disponible"</string>
-    <string name="download_dialog_title_save_apk">Download app</string>
+    <string name="download_dialog_title_save_apk">"Télécharger l'application"</string>
     <string name="download_dialog_title_video">Vidéo</string>
     <string name="download_error_io">Téléchargement impossible.</string>
     <string name="download_error_network">Téléchargement impossible. La connexion réseau a été interrompue.</string>
@@ -767,7 +777,8 @@ Envoyez ce code au superviseur."</string>
     <string name="empty_history_hint">"L'histoire est vide"</string>
     <string name="empty_snapshot_hint">Vide</string>
     <string name="enable_geolocation_confirm_message">La désactivation des services de localisation affectera les recommandations que vous recevrez.</string>
-    <string name="enable_vpn">Activer le débogage VPN</string>
+    <string name="enable_miui_lite_plus">Activer le débogage MiuiLite+</string>
+    <string name="enable_notification_permission_in_settings">Autoriser les notifications dans les paramètres pour pouvoir utiliser cette fonctionnalité.</string>
     <string name="encrypt_success">Masqué avec succès</string>
     <string name="encrypting">Chiffrement…</string>
     <string name="end_user_license">"Contrat de licence de l'utilisateur final"</string>
@@ -858,7 +869,10 @@ Envoyez ce code au superviseur."</string>
     <string name="featured_this_week">Mis en avant cette semaine</string>
     <string name="feed_content_protection">Protection du contenu</string>
     <string name="feedback">Commentaires</string>
+    <string name="feedback_bad">Non</string>
     <string name="feedback_email">"N'hésitez pas à nous envoyer un message si vous avez des questions sur Wonderfic : wonderwebfiction@gmail.com."</string>
+    <string name="feedback_general">Plus ou moins</string>
+    <string name="feedback_good">Oui</string>
     <string name="feedback_info_app_package_name">"Nom du paquet : "</string>
     <string name="feedback_info_app_version">"Version application : "</string>
     <string name="feedback_info_language">"Langue : "</string>
@@ -867,6 +881,8 @@ Envoyez ce code au superviseur."</string>
     <string name="feedback_info_system">"Système : "</string>
     <string name="feedback_info_system_version">"Version du système : "</string>
     <string name="feedback_send_email_body_extra_info">Ne supprimez pas les informations suivantes. Cela nous aidera à localiser le problème.</string>
+    <string name="feedback_thank_you">Merci pour vos commentaires !</string>
+    <string name="feedback_title">Ce contenu vous intéresse-t-il ?</string>
     <string name="fetch_video">Préparation de la vidéo…</string>
     <string name="fetch_video_fail">"Impossible d'obtenir les données"</string>
     <string name="fetch_video_ssl_bad_clock">"Il semble que la date et l'heure définies sur votre appareil (%s) ne soient pas correctes. Ajustez les paramètres et réessayez."</string>
@@ -894,6 +910,8 @@ Envoyez ce code au superviseur."</string>
     <string name="file_type">Format : %s</string>
     <string name="filename_empty_alert_message">Entrez le nom du fichier</string>
     <string name="filename_illegal_alert_message">Un caractère invalide a été supprimé du nom de fichier</string>
+    <string name="files_stored_in_the_phone">Fichiers stockés sur cet appareil</string>
+    <string name="find_garbage">%d Mio de corbeille trouvé</string>
     <string name="find_new_version">NOUVELLE MISE À JOUR DISPONIBLE</string>
     <string name="find_on_page_cancel">Annuler</string>
     <string name="find_on_page_hint">Rechercher la page</string>
@@ -975,6 +993,9 @@ Envoyez ce code au superviseur."</string>
     <string name="general__end_page_same_authors">Même auteur</string>
     <string name="general__end_page_summary">Résumé : %s</string>
     <string name="general__exempt_30_minute_ad">"Regardez une petite vidéo, sans publicité jusqu'à 30 minutes"</string>
+    <string name="general__fiction_horz_slide_to_see_title_page">Balayer pour commencer à lire</string>
+    <string name="general__fiction_slide_menu">Chapitres</string>
+    <string name="general__fiction_slide_up_to_see_title_page">Balayer vers le haut pour commencer à lire</string>
     <string name="general__make_purchase_hint">Un bonus est égal à une pièce. Les bonus sont valables 15 jours et seront utilisés avant les pièces pour débloquer des chapitres.</string>
     <string name="general__make_purchase_rule_reminder">Avertissement</string>
     <string name="general__make_purchase_total">Montant total : %1$d = %2$s + %3$s</string>
@@ -1146,12 +1167,16 @@ pour ajouter des livres sur le bureau"</string>
     <string name="home_list_item_click">"Cliquez sur l'élément de la liste d'accueil"</string>
     <string name="home_nf">Flux de contenu</string>
     <string name="home_nf_recommend_on">Recommandé pour vous</string>
+    <string name="home_page_simple">Simple</string>
+    <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+    <string name="homepage_default">Par défaut</string>
     <string name="homepage_delete_card_menu">Supprimer</string>
     <string name="homepage_get_location">Localiser</string>
     <string name="homepage_get_location_failed">"Impossible d'obtenir des informations, choisissez une ville"</string>
     <string name="homepage_more_cards">Plus de services</string>
     <string name="homepage_more_sites">Plus de sites web</string>
     <string name="homepage_search_hint">Rechercher</string>
+    <string name="homepage_setting">Paramètres de la page de démarrage</string>
     <string name="homepage_top_card_menu">Top</string>
     <string name="hot_games">Populaire</string>
     <string name="i_know">Arrêter</string>
@@ -1179,6 +1204,7 @@ pour ajouter des livres sur le bureau"</string>
     <string name="input_new_pwd">Entrez un nouveau mot de passe</string>
     <string name="ins_login_tips">Connectez-vous pour télécharger des vidéos depuis Instagram</string>
     <string name="ins_register_btn">"Créer un compte en utilisant l'e-mail ou le numéro de téléphone"</string>
+    <string name="installation_package">APK</string>
     <string name="instance_id">Firebase Instance ID(Cliquer pour exporter)</string>
     <string name="intercept_panel_ads_img_category_text">Annonces bloquées</string>
     <string name="intercept_panel_download_img_category_text">Téléchargements protégés</string>
@@ -1202,6 +1228,8 @@ pour ajouter des livres sur le bureau"</string>
     <string name="intercept_toast_message_camera">Le site web utilise la caméra…</string>
     <string name="intercept_toast_message_mic">"Le site web enregistre de l'audio…"</string>
     <string name="intercept_toast_message_voice">"Le site web lit l'audio…"</string>
+    <string name="interest_advise_subtitle">Nous vous montrerons des actualités sur les sujets qui vous intéressent</string>
+    <string name="interest_advise_title">Quel contenu vous intéresse ?</string>
     <string name="interest_card_button">Continuer</string>
     <string name="interest_card_title">Sélectionnez vos intérêts</string>
     <string name="into_info_flow_guide">"Voir plus d'articles"</string>
@@ -1217,6 +1245,7 @@ pour ajouter des livres sur le bureau"</string>
     <string name="js_dialog_permission_name">Afficher les boîtes de dialogue contextuelles</string>
     <string name="js_disable_confirm_message">La désactivation de JavaScript peut entraîner un affichage incorrect de certains sites web.</string>
     <string name="js_disable_confirm_title">Désactiver JavaScript ?</string>
+    <string name="junk_files_found">Corbeille découverte</string>
     <string name="just_a_second">Un instant…</string>
     <string name="just_now">"À l'instant"</string>
     <string name="keep_intrercept">Arrêter</string>
@@ -1238,6 +1267,8 @@ pour ajouter des livres sur le bureau"</string>
     <string name="loading_tips">Tirez vers le bas pour rafraîchir</string>
     <string name="local_apps">Applications locales</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">Fichiers locaux</string>
+    <string name="local_video_player_label">Lecteur vidéo (Mi Browser)</string>
     <string name="location_permission_name">"Emplacement d'accès"</string>
     <string name="lockpattern_continue_button_text">Suivant</string>
     <string name="lockpattern_need_to_confirm">Confirmer le schéma de déverrouillage</string>
@@ -1270,6 +1301,8 @@ pour ajouter des livres sur le bureau"</string>
     <string name="media_error_video_not_exist">"La vidéo n'existe pas"</string>
     <string name="memory_clear_nothing_result">Rien à effacer dans le cache</string>
     <string name="memory_clear_result">%1$s effacé</string>
+    <string name="memory_management">Gérer le stockage</string>
+    <string name="memory_usage">Mémoire</string>
     <string name="menu_addtodesk">"Ajouter à l'écran d'accueil"</string>
     <string name="menu_exit_nightmode">Quitter</string>
     <string name="menu_hv_swap">Écran V/H</string>
@@ -1281,6 +1314,8 @@ pour ajouter des livres sur le bureau"</string>
     <string name="menu_title_pause_all">Tout suspendre</string>
     <string name="menu_title_resume_all">Tout démarrer</string>
     <string name="messenger_send_button_text">Envoyer</string>
+    <string name="mi_browser_clean_up_garbage">Mi Browser vide la corbeille…</string>
+    <string name="mi_browser_is_scanning">"Mi Browser est en train d'analyser"</string>
     <string name="midi_permission_name">Contrôler les appareils MIDI</string>
     <string name="midnight">Nuit</string>
     <string name="mint_games">Jeux tendance</string>
@@ -1370,9 +1405,11 @@ pour ajouter des livres sur le bureau"</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Plus</string>
+    <string name="more_convenient_features_and_content">Découvrez les nouveaux outils et contenus que le navigateur a à offrir !</string>
     <string name="more_description">Menu</string>
     <string name="more_info">En savoir plus</string>
     <string name="more_option">"Plus d'options"</string>
+    <string name="more_privacy">"Plus d'options de confidentialité"</string>
     <string name="more_recommend">Plus de recommandations</string>
     <string name="morning">Matin</string>
     <string name="most_visited_sites">Le plus visité</string>
@@ -1383,7 +1420,7 @@ pour ajouter des livres sur le bureau"</string>
     <string name="msn_privacy">Déclaration de confidentialité de Microsoft</string>
     <string name="msn_privacy_content">Pour le flux de contenu alimenté par Microsoft News</string>
     <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
-    <string name="must_play">Must-have</string>
+    <string name="must_play">Les indispensables</string>
     <string name="mw_abc_action_bar_home_description">Naviguer vers la maison</string>
     <string name="mw_abc_action_bar_up_description">Naviguer vers le haut</string>
     <string name="mw_abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -1444,7 +1481,7 @@ pour ajouter des livres sur le bureau"</string>
     <string name="mw_common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas pris en charge par votre appareil.</string>
     <string name="mw_common_google_play_services_update_button">Mettre à jour</string>
     <string name="mw_common_google_play_services_update_text">%1$s ne fonctionnera que si vous mettez à jour les services Google Play.</string>
-    <string name="mw_common_google_play_services_update_title">Update Google Play services</string>
+    <string name="mw_common_google_play_services_update_title">Mettre à jour les services Google Play</string>
     <string name="mw_common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play, qui sont actuellement en cours de mise à jour.</string>
     <string name="mw_common_google_play_services_wear_update_text">Nouvelle version des services Google Play requise. La mise à jour se fera sous peu.</string>
     <string name="mw_common_open_on_phone">Ouvrir sur le téléphone</string>
@@ -1641,7 +1678,7 @@ Quitter cette page maintenant ?"</string>
     <string name="nickname">Surnom</string>
     <string name="night">Soirée</string>
     <string name="night_mode">Mode nuit</string>
-    <string name="no">No</string>
+    <string name="no">Non</string>
     <string name="no_account">Non connecté</string>
     <string name="no_apk">Appuyez pour obtenir des applications</string>
     <string name="no_app_open_document">"Aucune application n'a été trouvée pour gérer cette action"</string>
@@ -1653,6 +1690,7 @@ Quitter cette page maintenant ?"</string>
     <string name="no_network">Vérifiez votre connexion réseau et réessayez.</string>
     <string name="no_phone">Aucun numéro de téléphone</string>
     <string name="no_recent_files">Aucun fichier récent</string>
+    <string name="no_scalable_applications">Toutes les applications sont à jour</string>
     <string name="no_space_alert_cancel">Plus tard</string>
     <string name="no_space_alert_clean">"Libérer de l'espace"</string>
     <string name="no_space_alert_text">"Pas assez d'espace de stockage"</string>
@@ -1674,12 +1712,14 @@ Quitter cette page maintenant ?"</string>
     <string name="noti_no_permission_record">Aucun élément ici.</string>
     <string name="noti_web_allow">Autorisé</string>
     <string name="noti_web_push">Notifications du site web</string>
+    <string name="notice_bar_shortcut_entry">Raccourcis de nuance de notification</string>
     <string name="notif_install_successful">Téléchargement complet</string>
     <string name="notification_category_browser">Navigateur</string>
     <string name="notification_category_downloads">Téléchargements</string>
     <string name="notification_category_facebook">Facebook</string>
     <string name="notification_category_group_general">Général</string>
     <string name="notification_category_media">Média</string>
+    <string name="notification_category_stickcard">StickCard</string>
     <string name="notification_download_completed">Téléchargé avec succès</string>
     <string name="notification_download_failed">Impossible de télécharger.</string>
     <string name="notification_wechat_expired_empty">WeChat a déjà supprimé ces clips vidéos.</string>
@@ -1687,13 +1727,14 @@ Quitter cette page maintenant ?"</string>
     <string name="novel_continue_read_popup">Lire</string>
     <string name="novel_tab_popup">Consultez vos derniers livres ici</string>
     <string name="novel_tab_popup_ok">OK</string>
-    <string name="offline_notification_text">"Appuyez pour ouvrir l'annonce"</string>
-    <string name="offline_notification_title">"Afficher l'annonce que vous avez enregistrée lorsque vous étiez hors ligne"</string>
+    <string name="occupy" formatted="false">%d % occupé</string>
+    <string name="offline_notification_text">Appuyez pour ouvrir la publicité</string>
+    <string name="offline_notification_title">Afficher la publicité  que vous avez enregistrée lorsque vous étiez hors ligne</string>
     <string name="offline_opt_in_confirm">OK</string>
     <string name="offline_opt_in_confirmation">Vous recevrez une notification avec le lien lorsque vous serez de nouveau en ligne</string>
     <string name="offline_opt_in_decline">Non merci</string>
     <string name="offline_opt_in_message">"Nous vous enverrons une notification avec un lien vers le site de l'annonceur."</string>
-    <string name="offline_opt_in_title">"Ouvrez l'annonce lorsque vous êtes de nouveau en ligne."</string>
+    <string name="offline_opt_in_title">"Ouvrez la publicité lorsque vous êtes de nouveau en ligne."</string>
     <string name="ok">OK</string>
     <string name="one_prefect_author">Créateur</string>
     <string name="open_app_confirm_message">"Autoriser cette page à ouvrir %s ?"</string>
@@ -1846,6 +1887,12 @@ Quitter cette page maintenant ?"</string>
     <string name="permission_unknown">"Une erreur s'est produite."</string>
     <string name="permission_use">Autorisations</string>
     <string name="permisssion_not_ask_again">"Ne plus demander"</string>
+    <string name="person_menu_cleaner">Nettoyeur</string>
+    <string name="person_menu_cleaner_button">Nettoyer</string>
+    <string name="person_menu_download">Fichiers</string>
+    <string name="person_menu_game_history">Historique des jeux</string>
+    <string name="person_menu_game_recommend">Jeux populaires</string>
+    <string name="person_menu_video">Courtes vidéos</string>
     <string name="personal__about_view__already_latest">est déjà la dernière version</string>
     <string name="personal__about_view__current_view">version actuelle %s</string>
     <string name="personal__about_view__update">cliquez pour mettre à niveau vers la dernière version</string>
@@ -1932,6 +1979,7 @@ Quitter cette page maintenant ?"</string>
     <string name="personal__feedback_refresh_refresh">Actualiser</string>
     <string name="personal__feedback_refresh_success_got_it">Compris</string>
     <string name="personal__feedback_refresh_success_title">Actualisé avec succès</string>
+    <string name="personal__join_activity_title">Wonderfic Writer</string>
     <string name="personal__join_hint_book_delete_btn">Supprimer</string>
     <string name="personal__join_hint_book_description">Description</string>
     <string name="personal__join_hint_book_title">Titre</string>
@@ -2033,6 +2081,7 @@ Quitter cette page maintenant ?"</string>
     <string name="phone_hint">Numéro de téléphone</string>
     <string name="phone_num_use_for">Le numéro de téléphone est utilisé pour :</string>
     <string name="phone_number">Numéro de téléphone</string>
+    <string name="phone_very_clean">Pas de corbeille</string>
     <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
     <string name="pick_file">Choisissez des fichiers</string>
     <string name="ping_test_title">Délai réseau</string>
@@ -2040,6 +2089,7 @@ Quitter cette page maintenant ?"</string>
     <string name="popular_game_video">Vidéo de jeu populaire</string>
     <string name="popup_window_attempt">Autoriser ce site à ouvrir une fenêtre pop-up ?</string>
     <string name="positive_confirm_message">Désactiver quand même</string>
+    <string name="power_saving_settings">Économiseur de batterie</string>
     <string name="pref_accessibility">Accessibilité</string>
     <string name="pref_accessibility_title">Accessibilité</string>
     <string name="pref_adblock_summary">Les pages peuvent se charger plus lentement lorsque cette fonctionnalité est activée</string>
@@ -2054,6 +2104,7 @@ Quitter cette page maintenant ?"</string>
     <string name="pref_clear_adblock_statistics">"Effacer l'historique du bloqueur de publicités"</string>
     <string name="pref_clear_adblock_statistics_dlg">"Effacer l'historique du bloqueur de publicités maintenant ?"</string>
     <string name="pref_clear_all_data_dlg">"Effacer toutes les données sauvegardées ci-dessus ?"</string>
+    <string name="pref_clear_all_data_switch_title">Effacer les données de navigation à la sortie</string>
     <string name="pref_clear_all_data_title">Tout effacer</string>
     <string name="pref_clear_data_title">Effacer les données</string>
     <string name="pref_clear_history_when_exit">"Effacer l'historique à la sortie"</string>
@@ -2263,6 +2314,8 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="pwa_hint_added_success">Ajouté avec succès</string>
     <string name="qr_code_title">QR Code</string>
     <string name="qr_description">Scanner un QR code</string>
+    <string name="quick_access_to_common_functions">Accéder rapidement à vos fonctionnalités préférées</string>
+    <string name="quick_search_and_access_to_functions">"La recherche rapide vous permet d'accéder facilement aux fonctionnalités que vous utilisez le plus."</string>
     <string name="quicklink_bookmark_save">Enregistrer sous</string>
     <string name="quicklink_cannot_save_url">Cette URL ne peut pas être ajoutée.</string>
     <string name="quicklink_folder_text">Meilleures applications</string>
@@ -2300,6 +2353,7 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="reading__auto_pagedown_menu_view__speed">vitesse de rotation automatique des pages : %1$d</string>
     <string name="reading__bookmark_empty_view__hint">"ajouter des signets à l'écran déroulant pendant la lecture"</string>
     <string name="reading__bookmark_empty_view__no_bookmark">temporairement aucun signet</string>
+    <string name="reading__cancel">Annuler</string>
     <string name="reading__chapter_error_view__content_error">Impossible de charger le chapitre. Vérifiez vos paramètres réseau et réessayez.</string>
     <string name="reading__chapter_error_view__drm_error">"Impossible d'obtenir le certificat numérique"</string>
     <string name="reading__chapter_error_view__exception">Impossible de télécharger le chapitre. Vérifiez vos paramètres réseau et réessayez.</string>
@@ -2365,6 +2419,12 @@ modifier"</string>
     <string name="reading__feedback_dialog_input_toast">Entrez les détails du problème avant de soumettre</string>
     <string name="reading__feedback_dialog_title">Signaler un problème</string>
     <string name="reading__feedback_submit_toast_success">Commentaires soumis avec succès</string>
+    <string name="reading__menu_open_with_another_app">Ouvrir avec une autre application</string>
+    <string name="reading__menu_play">Diaporama</string>
+    <string name="reading__menu_rotate_screen">Rotation</string>
+    <string name="reading__menu_search">Rechercher</string>
+    <string name="reading__menu_share">Partager</string>
+    <string name="reading__menu_thumbnail">Vignettes de page</string>
     <string name="reading__navigation_current_book_cover_desc">couverture du livre</string>
     <string name="reading__navigation_view__delete_annotation">"supprimer l'extrait de livre"</string>
     <string name="reading__navigation_view__delete_bookmark">supprimer le signet</string>
@@ -2381,6 +2441,8 @@ modifier"</string>
     <string name="reading__reading_error_report">erreur de rapport de chapitre</string>
     <string name="reading__reading_feedback_dialog_email_error_toast">Entrez une adresse e-mail valide</string>
     <string name="reading__reading_feedback_dialog_email_hint">Entrez votre adresse e-mail</string>
+    <string name="reading__reading_first_page">Ceci est la première page</string>
+    <string name="reading__reading_last_page">Ceci est la dernière page</string>
     <string name="reading__reading_menu_bottom_view__brightness_bar">barre de luminosité</string>
     <string name="reading__reading_menu_bottom_view__progress">progrès</string>
     <string name="reading__reading_menu_bottom_view__progress_bar">barre de progression</string>
@@ -2465,9 +2527,13 @@ vous recommandons d'utiliser le mode de lecture libre"</string>
     <string name="reading__recommend_title">recommandation gratuite de bons livres</string>
     <string name="reading__remove_selected_items">Supprimer les éléments sélectionnés ?</string>
     <string name="reading__repair_cert_view__default_reason">"Le livre n'a pas pu s'ouvrir, veuillez essayer de le réparer après vous être connecté à Internet"</string>
+    <string name="reading__search_cancel">Annuler</string>
+    <string name="reading__search_input_hint">Entrez les mots clés à rechercher</string>
+    <string name="reading__search_result_nothing">Impossible de trouver des résultats</string>
+    <string name="reading__search_searching">Recherche…</string>
     <string name="reading__search_text_view__empty_hint">rechercher le texte intégral</string>
     <string name="reading__search_text_view__nosearch_result">"Désolé, il n'y a pas un tel mot-clé dans le texte
-        Essayez de modifier votre mot-clé ?"</string>
+Essayez de modifier votre mot-clé ?"</string>
     <string name="reading__seek_page_view__next_chapter">chapitre suivant</string>
     <string name="reading__seek_page_view__prev_chapter">chapitre précédent</string>
     <string name="reading__selection_bar_view__copy">Copier</string>
@@ -2551,6 +2617,7 @@ vous recommandons d'utiliser le mode de lecture libre"</string>
     <string name="reading__wait_to_unlock_toast_go_to_chapter">Afficher</string>
     <string name="reading__wait_to_unlock_toast_success">Chapitre déverrouillé !</string>
     <string name="reading__wait_to_unlock_toast_target_chapter">Chapitre %s débloqué gratuitement</string>
+    <string name="reading_fiction_detail_copyright">"-Titulaire des droits d'auteur ：%s"</string>
     <string name="reading_shared_add_to_library">Ajouter à la bibliothèque</string>
     <string name="reading_shared_added_in_library">Ajouté avec succès</string>
     <string name="reading_shared_do_you_like_it_add_lib">"Vous aimez l'histoire ? Ajoutez-le à votre bibliothèque !"</string>
@@ -2617,7 +2684,6 @@ vous recommandons d'utiliser le mode de lecture libre"</string>
     <string name="report_no_network_error">"Il n'y a actuellement aucun réseau auquel se connecter, veuillez confirmer et réessayer !"</string>
     <string name="request_camera_permission_message">"Nous protégerons vos informations personnelles conformément aux lois et réglementations en vigueur. Cette application nécessite les autorisations suivantes pour fonctionner normalement: &lt;br>&lt;br>&lt;b>Utilisation de la caméra (pour définir votre photo de profil)&lt;/b>&lt;br>&lt;br>Si vous n'êtes pas d'accord pour accorder de telles autorisations, vous ne pourrez pas utiliser certaines fonctionnalités de cette application; cependant, sa fonctionnalité de base sera toujours disponible pour vous. Vous pouvez toujours restreindre les autorisations ou révoquer votre autorisation dans les paramètres."</string>
     <string name="request_profile_error">"Impossible d'obtenir les informations de compte"</string>
-    <string name="resAuthority">miuibrowser</string>
     <string name="resend_active_email">Renvoyer</string>
     <string name="resend_email_reach_limit_message">"Vous avez demandé trop d'e-mails de vérification. Assurez-vous que l'e-mail de vérification ne se trouve pas dans le dossier Spam de votre boîte de réception."</string>
     <string name="resend_email_reach_limit_title">"Trop d'essais"</string>
@@ -2688,6 +2754,9 @@ vous recommandons d'utiliser le mode de lecture libre"</string>
     <string name="search_bar_hint_content">Rechercher des applications et du contenu</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Go</string>
+    <string name="search_card_online_rec_app">"Marchés d'applications"</string>
+    <string name="search_card_online_rec_app_install">Installer</string>
+    <string name="search_card_online_rec_app_open">Ouvrir</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">"Je n'ai rien trouvé"</string>
@@ -2758,21 +2827,24 @@ vous recommandons d'utiliser le mode de lecture libre"</string>
     <string name="setting_feed_language">Langue du flux de contenu</string>
     <string name="setting_installed_apps">Applications installées</string>
     <string name="setting_mobile_phone_settings">"Paramètres de l'appareil"</string>
-    <string name="setting_home_page_show_title">Page de démarrage</string>
     <string name="setting_privacy_password">Définir un schéma de déverrouillage</string>
     <string name="setting_searchable_content">Éléments consultables</string>
     <string name="setting_sms_content">Contenu SMS</string>
     <string name="setting_swipe_up">"Balayez vers le haut sur l'écran d'accueil"</string>
     <string name="settings">Paramètres</string>
+    <string name="settings_search_online_apps">App markets</string>
+    <string name="settings_search_online_apps_desc">Content from app markets</string>
     <string name="share_image_text">"Regardez ce que j'ai partagé ! @MIUI"</string>
     <string name="share_page_text">"Regardez ce que j'ai partagé : %1$s @MIUI| %2$s"</string>
     <string name="share_slide_video_text">"Regardez ce que j'ai partagé : %1$s"</string>
     <string name="shear_plate_permission_name">Accéder ou enregistrer des éléments dans le presse-papiers</string>
+    <string name="short_cut_name_novel">Livres gratuits</string>
     <string name="shortcut_function">Raccourcis</string>
     <string name="shortcuts_boost_speed">Accélérer la vitesse</string>
     <string name="shortcuts_cleanup_cache">Nettoyeur</string>
     <string name="shortcuts_cleanup_memory">Vider le cache</string>
     <string name="shortcuts_security_scan">Analyse de sécurité</string>
+    <string name="show_options_label">Afficher les options</string>
     <string name="sign_in">Connexion</string>
     <string name="sign_in_by_others">Autres façons de se connecter</string>
     <string name="sign_in_by_xiaommi">Connectez-vous avec le Compte Xiaomi</string>
@@ -2787,6 +2859,7 @@ vous recommandons d'utiliser le mode de lecture libre"</string>
     <string name="signin_tips_3">- Vous pourrez utiliser vos pièces sur tous vos appareils.</string>
     <string name="signin_with_facebook">Se connecter avec Facebook</string>
     <string name="signin_with_google">Se connecter avec Google</string>
+    <string name="simple_page_toast">"Vous pouvez passer à la valeur par défaut dans Paramètres > Paramètres de la page d'accueil"</string>
     <string name="skip">Suivant</string>
     <string name="skip_current_version">Ignorer cette version</string>
     <string name="sku_all">Tous</string>
@@ -2954,6 +3027,7 @@ Il n'affiche rien."</string>
     <string name="subscribe_success">Abonné avec succès</string>
     <string name="subscription_status_error">"Impossible de s'abonner"</string>
     <string name="subscriptions_title">Gérez votre abonnement</string>
+    <string name="successfully_added">Ajouté avec succès</string>
     <string name="suggest_access_appstore">Mi App Store</string>
     <string name="suggest_access_btn_install">Installer</string>
     <string name="suggest_access_btn_open">Ouvrir</string>
@@ -2961,7 +3035,7 @@ Il n'affiche rien."</string>
     <string name="suggest_access_btn_view">Afficher</string>
     <string name="suggest_access_item_app_size">%.2f Mo</string>
     <string name="suggest_access_item_app_update">Mise à jour : %s</string>
-    <string name="suggest_access_music">Mi Music</string>
+    <string name="suggest_access_music">Mi Musique</string>
     <string name="suggest_item_delete_text">Supprimer</string>
     <string name="suggest_open_app_failed">"Impossible d'ouvrir cette application"</string>
     <string name="summary_channel_layout">Forcer la disposition en quinconce</string>
@@ -3005,6 +3079,8 @@ Il n'affiche rien."</string>
     <string name="tab_videos">Vidéos</string>
     <string name="tab_yellowpage">Liens</string>
     <string name="tabs_description">Onglets</string>
+    <string name="tag_undo">Annuler</string>
+    <string name="tag_undo_title">%s fermé</string>
     <string name="talk_back_voice_search">Recherche vocale</string>
     <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
     <string name="terms_policy">Termes et conditions</string>
@@ -3049,6 +3125,7 @@ Il n'affiche rien."</string>
     <string name="the_united_nations_day">Journée des Nations Unies</string>
     <string name="the_valentines_day">La Saint-Valentin</string>
     <string name="the_water_lantern_festival">"Fête des Lanternes d'Eau"</string>
+    <string name="third_image_viewer_label">"Visionneuse d'images (Mi Browser)"</string>
     <string name="thursday">Jeudi</string>
     <string name="thursday_short">Jeu</string>
     <string name="thursday_shortest">Jeu</string>
@@ -3083,6 +3160,7 @@ Il n'affiche rien."</string>
     <string name="translation_query_error_network">Impossible de traduire. Vérifiez vos paramètres réseau et réessayez.</string>
     <string name="translation_result_empty">Impossible de traduire. Réessayez.</string>
     <string name="translation_to">Traduire en</string>
+    <string name="trash_cleaner_unit">Mio</string>
     <string name="trending_apps_more">Plus</string>
     <string name="tuesday">Mardi</string>
     <string name="tuesday_short">Mar</string>
@@ -3094,6 +3172,7 @@ Il n'affiche rien."</string>
     <string name="undo">Annuler</string>
     <string name="uni_search_setting_summary">"Recherche dans l'application"</string>
     <string name="uni_search_setting_title">Améliore les résultats de recherche</string>
+    <string name="unload_residue">Résidus</string>
     <string name="unsecurity_url_toast">"Ce site n'est pas sécurisé"</string>
     <string name="up_to_loading_tips">Relâcher pour rafraîchir</string>
     <string name="update">Actualiser</string>
@@ -3102,6 +3181,7 @@ Il n'affiche rien."</string>
     <string name="update_no_network_toast">Impossible de se connecter au réseau</string>
     <string name="update_now">ACTUALISER MAINTENANT</string>
     <string name="update_phone_notice">Modifier les paramètres de sécurité</string>
+    <string name="upgrade">Mise à jour</string>
     <string name="upload_error_log">Envoyer le journal</string>
     <string name="upload_usage_statistics">"Activez pour partager les statistiques d'utilisation avec nous lorsque le mode Navigation privée est activé"</string>
     <string name="uploads_disabled">Les téléchargements de fichiers sont limités</string>
@@ -3156,7 +3236,6 @@ Vous pouvez toujours vous désinscrire dans Paramètres > Vie privée et sécuri
     <string name="version_update_file_download_toast">Téléchargement</string>
     <string name="version_update_file_not_found">Impossible de trouver les mises à jour</string>
     <string name="vibrate_permission_name">Utiliser la vibration</string>
-    <string name="video_activity_name">Favoris</string>
     <string name="video_collection_click_view">Les vidéos que vous avez ajoutées aux favoris sont ici</string>
     <string name="video_collection_empty">Pas encore de vidéos ici</string>
     <string name="video_collection_known">Compris</string>
@@ -3171,6 +3250,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_retry_btn">Réessayer</string>
     <string name="video_view_more">Plus</string>
     <string name="view_certificate">Afficher le certificat</string>
+    <string name="view_details">Afficher les détails</string>
     <string name="view_document_downloaded_files">Afficher les fichiers téléchargés dans Téléchargements</string>
     <string name="voice_check_network">Vérifiez vos paramètres réseau et réessayez.</string>
     <string name="voice_connect_network">Impossible de se connecter au réseau</string>
@@ -3291,10 +3371,15 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_title">Paramètres du site web</string>
     <string name="web_permission_setting_page_web_enhance_desc">Désactiver pour arrêter de bloquer les publicités sur ce site web</string>
     <string name="web_permission_setting_page_web_enhance_sub_title">Bloquer les publicités</string>
+    <string name="web_tag_desc">Afficher les vignettes des pages précédemment visitées</string>
+    <string name="web_tag_tips">Appuyez ici pour revisiter une page</string>
+    <string name="web_tag_title">Vignettes des pages web</string>
     <string name="web_video_accelerate">Vitesse</string>
+    <string name="web_video_default_time">%1$s : %2$s</string>
     <string name="web_video_download">Télécharger</string>
     <string name="web_video_download_no_access">Autorisations requises pour télécharger des éléments</string>
     <string name="web_video_enable_long_click_toast">Lecture à %d× vitesse</string>
+    <string name="web_video_float_drag_msg">Faites glisser pour ajuster la taille</string>
     <string name="web_video_list_more">Plus</string>
     <string name="web_video_list_playing">Lecture</string>
     <string name="web_video_list_replay">Rejouer</string>
