@@ -127,10 +127,6 @@
     <string name="click_to_switch_volume_pad">Cliquer ici pour basculer entre la mémoire interne et la carte SD</string>
     <string name="clock_in">Enregistrement…</string>
     <string name="close">Fermer</string>
-    <string name="compress_fail">Compression impossible. Un fichier avec le même nom existe déjà.</string>
-    <string name="compress_fail_unknown">Impossible de compresser. Le stockage est plein ou une erreur inconnue est survenue.</string>
-    <string name="compress_message">Compresser vers...</string>
-    <string name="compress_title">Compresser</string>
     <string name="cloud_copy_to_local_title">Enregistrer sous…</string>
     <string name="cloud_drive_files">Fichiers Mi Drive</string>
     <string name="cloud_drive_not_login_summary">Non identifié</string>

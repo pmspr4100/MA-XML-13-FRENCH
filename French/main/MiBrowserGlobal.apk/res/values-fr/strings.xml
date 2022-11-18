@@ -591,8 +591,6 @@ Les pages que vous consultez n'apparaîtront pas dans l'historique."</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="data_traffic_prompt_title">Continuer la lecture vidéo maintenant ?</string>
-    <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
-    <string name="date_time_picker_dialog_title">"Définir la date et l'heure"</string>
     <string name="debug_crash">"Activer le débogage en cas d'incident"</string>
     <string name="debug_youtube_file">Déboguer le fichier YouTube</string>
     <string name="debug_youtube_in_release">Déboguer YouTube dans la version</string>
