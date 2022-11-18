@@ -34,9 +34,11 @@
     <string name="app_name">Mi Drive</string>
     <string name="auto_save_to_file">Enregistré dans le dossier \"Converti en PDF\"</string>
     <string name="be_sure_to_clear_cache">Vider le cache maintenant ?</string>
+    <string name="btn_recall_text_next_step_timer">Retirer (%ds)</string>
+    <string name="btn_recall_text_ok_timer">Retirer</string>
     <string name="camera">Appareil photo</string>
     <string name="cancel">Annuler</string>
-    <string name="cancel_mi_drive">Annuler les services</string>
+    <string name="cancel_mi_drive">Annuler les services Mi Drive</string>
     <string name="cancel_mi_drive_alert_description">"Effacez tous les éléments de Mi Drive pour pouvoir annuler les services. Suivez ces étapes pour effacer les éléments :&lt;br />1. Sur la page de démarrage de Mi Drive, appuyez et maintenez un élément pour faire le bouton \"Sélectionner tout\" s'affiche. Utilisez ce bouton pour sélectionner jusqu'à 200 fichiers à la fois et les supprimer.&lt;br />2. Une fois que vous avez supprimé tous les éléments, effacez tous les fichiers des éléments récemment supprimés."</string>
     <string name="cancel_mi_drive_alert_reminder_card_summary">"1. Nous vous recommandons de sauvegarder vos éléments avant de les supprimer. Pour ce faire, rendez-vous sur i.mi.com, cliquez sur Mi Drive et téléchargez vos éléments sur un ordinateur.&lt;br />2. Veuillez noter que les éléments effacés de vos éléments récemment supprimés ne peuvent pas être récupérés par la suite."</string>
     <string name="cancel_mi_drive_confirm_button">Annuler les services</string>
@@ -125,7 +127,11 @@
     <string name="dialog_upload_storage_full_title">Envoi impossible</string>
     <string name="doc_all">Tous</string>
     <string name="doc_other">Autre</string>
+    <string name="doc_pdf">PDF</string>
     <string name="doc_picker_title">Sélectionnez des documents</string>
+    <string name="doc_ppt">PPT</string>
+    <string name="doc_word">DOC</string>
+    <string name="doc_xls">XLS</string>
     <string name="document_file_size">Taille de fichier : %s</string>
     <string name="document_preview_cancel_text">Arrêter le chargement</string>
     <string name="document_preview_download_failed">Impossible de charger. Réessayer.</string>
@@ -370,7 +376,9 @@ Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIU
     <string name="play_metered_network_dialog_title">Utilisation des données mobiles</string>
     <string name="pm">PM</string>
     <string name="ppt_to_pdf">Converti en PDF</string>
+    <string name="pre_permission_management">Détails des autorisations</string>
     <string name="pre_privacy_policy">Politique de confidentialité</string>
+    <string name="pre_privacy_recall">Retrait du consentement</string>
     <string name="pre_user_agreement">"Accord d'utilisation"</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
     <string name="preview">Aperçu</string>
@@ -380,9 +388,17 @@ Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIU
     <string name="privacy_recall_confirm_button">Retirer le consentement</string>
     <string name="privacy_recall_confirm_description">"Si vous continuez, vous retirerez votre consentement à la politique de confidentialité de Mi Drive. Nous cesserons de collecter vos informations personnelles, et les informations personnelles déjà collectées et conservées seront supprimées dans le délai spécifié. période conformément aux lois et réglementations applicables, sauf indication contraire."</string>
     <string name="privacy_recall_confirm_reminder_card_summary">"&lt;font color=#F22424>Les éléments suivants seront définitivement supprimés après le retrait du consentement :&lt;/font>&lt;br />1. Tous les éléments sur Mi Drive, y compris, mais sans s'y limiter, les documents, les fichiers privés et les éléments supprimés.&lt;br />2. Autorisations de l'appareil, paramètres et autres contenus mis en cache.&lt;br />3. Historique de chargement et de téléchargement de Mi Drive."</string>
+    <string name="privacy_recall_dialog_msg">"If you continue, you'll withdraw your consent to the Privacy Policy of Mi Drive. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Mi Drive provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Mi Drive services. Withdraw consent now?"</string>
+    <string name="privacy_recall_dialog_title">Withdrawal of consent</string>
     <string name="privacy_recall_success">Consentement retiré avec succès</string>
     <string name="privacy_recall_title">Retrait du consentement</string>
     <string name="privacy_recalling">Retrait du consentement…</string>
+    <string name="privacy_update_dialog_msg">La politique de confidentialité de Mi Drive a été mise à jour :&lt;br/>%1$s&lt;br/>Lisez et acceptez la nouvelle version de la &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> avant de continuer.</string>
+    <string name="privacy_update_dialog_title">Politique de confidentialité mise à jour</string>
+    <string name="privacy_user_notice_dialog_exit_btn_text">Quitter</string>
+    <string name="privacy_user_notice_dialog_msg">"Vous ne pourrez pas continuer à utiliser Mi Drive à moins d'accepter la nouvelle version de sa &lt;a href=%1$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a>. Acceptez la politique de confidentialité mise à jour maintenant ?"</string>
+    <string name="privacy_user_notice_dialog_ok_btn_text">Accepter</string>
+    <string name="privacy_user_notice_dialog_title">Attention</string>
     <string name="private_empty_desc">Ici, vous pouvez stocker des fichiers en privé.</string>
     <string name="private_empty_sub_desc">Essayez de déplacer des fichiers ici ou téléchargez-les directement.</string>
     <string name="private_folder_name">Fichiers privés</string>
@@ -564,7 +580,7 @@ Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIU
     <string name="upload_metered_network_dialog_ok">Envoyer</string>
     <string name="upload_metered_network_dialog_title">Utiliser les données mobiles</string>
     <string name="uploading">Envoi…</string>
-    <string name="user_agreement_title">Mi Drive User Agreement</string>
+    <string name="user_agreement_title">"Contrat d'utilisation Mi Drive"</string>
     <string name="user_protocol_and_privacy_protocol"><Data>"J'ai lu et accepté l'&lt;a href=\"%1$s\"&gt;Accord d'utilisation&lt;/a&gt; et la &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt;."</Data></string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
@@ -575,12 +591,12 @@ Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIU
     <string name="waiting_upload">En attente</string>
     <string name="warning_bar_title_cloud_space_already_full">"L'espace de stockage de Xiaomi Cloud est bientôt plein. Vos photos pourraient ne pas être synchronisées."</string>
     <string name="warning_bar_title_cloud_space_full">"Le cloud est plein. Impossible de synchroniser les photos, l'historique des appels et d'autres éléments."</string>
-    <string name="web_sso_login_fail">You need to sign in again</string>
+    <string name="web_sso_login_fail">Vous devez vous reconnecter</string>
     <string name="web_sso_login_message">Connexion…</string>
     <string name="webview_reload">Réessayer</string>
-    <string name="wednesday">Wednesday</string>
-    <string name="wednesday_short">Wed</string>
-    <string name="wednesday_shortest">Wed</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="wednesday_short">Mer</string>
+    <string name="wednesday_shortest">Mer</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
