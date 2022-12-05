@@ -2975,7 +2975,7 @@ dd/MM"</string>
 If you have questions, contact %2$s."</string>
     <string name="monitoring_title_financed_device">This device is provided by %s</string>
     <string name="mr_dialog_default_group_name">Group</string>
-    <string name="mtrl_badge_numberless_content_description">New notification</string>
+    <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>
     <string name="mtrl_picker_a11y_next_month">Aller au mois suivant</string>
     <string name="mtrl_picker_a11y_prev_month">Aller au mois précédent</string>

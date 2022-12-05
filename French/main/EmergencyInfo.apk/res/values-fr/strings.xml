@@ -438,8 +438,8 @@ N'importe qui peut lire ces informations à partir de votre écran de verrouilla
     <string name="mr_dialog_transferable_header">Lire en groupe</string>
     <string name="mr_system_route_name">Système</string>
     <string name="mr_user_route_category_name">Appareils</string>
-    <string name="mtrl_badge_numberless_content_description">New notification</string>
-    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
+    <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Aller au mois suivant</string>
