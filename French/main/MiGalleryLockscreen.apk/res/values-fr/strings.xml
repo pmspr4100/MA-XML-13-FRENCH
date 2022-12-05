@@ -283,7 +283,6 @@ Envoyez ce code au superviseur."</string>
     <string name="friday_shortest">Ven</string>
     <string name="from_migallerylockscreen">"Depuis Diaporama de fonds d'écran"</string>
     <string name="get_account_no_permission">"Autorisez Diaporama de fonds d'écran à accéder aux comptes de cet appareil avant de vous connecter."</string>
-    <string name="get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
     <string name="get_back_pwd">Réinitialisation du mot de passe</string>
     <string name="get_ph_ticket">Obtenir un code</string>
     <string name="get_phone_bind_exceed_limit">"Vous pouvez associer jusqu'à 3 Comptes Mi à un numéro de téléphone. Impossible d'ajouter de nouveaux comptes."</string>
@@ -305,7 +304,6 @@ Envoyez ce code au superviseur."</string>
     <string name="idbct_opt_low_dev_main_text">Standard</string>
     <string name="idbct_title">Types de réseau</string>
     <string name="input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
-    <string name="later">Ne pas éteindre</string>
     <string name="later">Ne pas désactiver</string>
     <string name="launch_bg_permission_exception">"Autoriser le diaporama de fonds d'écran à afficher des fenêtres contextuelles lors de l'exécution en arrière-plan dans Sécurité"</string>
     <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API basée sur SQLCipher</string>
